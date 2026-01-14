@@ -1,0 +1,29 @@
+I experienced following problems with the courseA. Not only its poor in terms of value-to-money, its also not so worth in terms of value-to-timeB. In videos about 25-30% content is just general/non-technical/not-useful talk.Things like"you need to know this as SSCP professionals..."Repeating the content and just reading out whats on slideC. There is no real link between notes and videos, sometimes they are totally not related and the notes talk about topics out of blue (for eg Windows server concepts after Kerberos Videos)D. The expected times on notes are always 10 mins irrespective of complexity and contents of the notesE. The mid video quiz expects you to enter the 3-4 points answers as it is with case and order to be correctF. Notes for some complex concepts could be better explained with diagrams and flows instead of bullet points.
+Based on the Week 6 Essay section soley, which I found immensely frustating and frankly pointless. I did not pay good money for a course to interpret the answers of other candidates, or second guess the vagueness of the english language as demonstrated by the person setting the questions.  My time is precious.  The language used in the questions was vague and from the 2 essays I marked this was proven correct.  Completely open to interpretation.  The scenario given was itself pointless, becuase one the answer basically implied provde a dump of all controls.  The answer to another can only have been on the basis of some assumption in the question setters mind and you had a 50/50 chance of guessing it rightThe approach is, in my view, a lazy cop-out on the part of Coursera / ISC.  Multi-choice is far better for online course where there is no instructor in the room to ask questons or seek clarity.In addition there is no way to contact anyone in Coursera. Coursera is faceless.
+Out of date. There is a book that they reference that isn't given. Spelling mistakes on quizzes. The moving background behind the instructor is very distracting. There isn't much instruction given for the assignment in week six and it seems that none of the staff/instructors ever respond to questions.
+This course is, in my opinion, not really very good at all.  Mistakes are common, the pop quizzes are very much phoned in, with the format of many questions being copied-and-pasted from the reading material or video transcripts, but restructured to form a question as quickly as possible.  The peer review marking sheet itself had several mistakes, too.   Overall, it seems that the course did not get even a single "editing pass" or any form of QA.Crucially though, I finished it feeling that I had absolutely zero chance of passing the Access Control related portion of the SSCP exam, and that I will need to purchase some books and rely on those heavily to get through the exam - and that really defeats the object of paying extra for a course like this.  We've paid for it now, so I'm really hoping that the next module is an improvement over this one.
+It is extremely inconvenient that I am unable to move between courses at my own pace. I have finished one course and would like to move on in the SSCP program, but I am unable to.
+This course is a good introduction for the 8 domains to get an SSCP certification, but there is a lack of information to be able to successfully complete the exam and they do not give support materials to complement the video or the readings.
+The free text answers during video courses are very complicated to answer. I guess a human is still required to validate the answer. As you said for the peer-review exam, english is not the native language for everybody and sometime students say what he understood without telling word by word what is said or written in course materials
+very nice certificate. wish the hard copy was also available
+Nice course , if someone needs an introduction to the access control area and  the concepts of it. Course is useful, partitioned in theme sections , and acknowledges the fact than participants may be completely unaware of access control area.
+i really gain access while going through this course gave me much skills on what i was really hearing about but not knowing the contain but know i got rib of what is the therm bio-metrics means in real world
+ISC2 itself a premium institute providing cyber security training and certification. In this modul they provide qulaity and advance training. sound and video quality is at best. contents are super awesome.
+The video lectures, readings, and overall course material was very informative and well structured with great examples. I look forward to continuing with the remaining courses towards the SSCP.
+If you wish to gain a very good overview of cyber security access controls, then I would highly recommend this course to you.
+Covers everything the young IT security professional should know - Masterfully compiled and presented.
+Great Introductory content with adequate coverage of the course material and exam question context.
+The videos were a great resource to go along with the book I'm reading with it.
+If you don't have the (ISC)² certification then your not security expert.
+Good Course to learn and implement the guidelines about access controls
+vary good course ..cover each  concepts in detail and deeply manner ..
+Excellent course to begin my studies on security
+Some key concepts to understand access controls
+Awesome instructor. Good quality. Recommend.
+I really learned a lot about this yard
+It is a really good course to take.
+Adam Gordon's Lectures are Awesome
+Very Good and Effective knowledge
+Its so nice and informative.
+vry useful knowledge
+Excellent Work

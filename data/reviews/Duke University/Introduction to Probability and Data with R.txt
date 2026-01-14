@@ -1,0 +1,887 @@
+It's so so bad. Idk if this is old or what. Unfortunately my answer here got deleted I took forever writing. So I will just be frank. God it sucked so badEven my bf who is an economist who uses R regularly had to take a half hour of googling just to set up R for the quiz to be usable. Before he came over I was just having a horrible time full of crying and remembering the trauma of computers eating my homework as a kid. Worst class experience of my life. And you call it a beginner course? With that little guidance? Seriously there is so so little about setting up R. I still feel so angry my time and energy was wasted like that. And I was so excited for this course- I'd been gearing up for weeks and was very very committed to finishing. Steer clear of this course. Btw my friends tell my that R is so old and rarely used anyway so it is dumb to prioritize it over Python or even modeling in ExcelZero stars
+I regret I have not actively participated in the course. The failure is mainly due to my ignorance, however, the course did not really teach "R". The theory of statistics is great but it is not properly linked with "R". I was misled by the title and teaser film. Sorry.
+I'm so frustrated by this course. I feel like I've learned nothing about R. I worked for hours but felt like I was just dropped in the middle and expected to already have an understanding of the language. This was NOT helpful!
+There were key definitions and concepts that were stated wrong in this course.   Please read the student forum for details.
+Before you start this specialization you should check the start date for the final capstone course and make sure that it aligns with the time you anticipate wanting to take it (add a few days for the annoying bottleneck of getting peer reviews back for your assignment in course 4 since you will not be allowed to enroll in course 5 until all of the first four are completed).When I made it to the capstone course there was a full month until the start date so all of the assignments are locked until then. I am far from the only one this happened to. Others on the forum for the course are complaining about two-month waits. This seems like a naked cash grab since the specialization is a monthly subscription. Honestly, it would be better if they did just surprise you with an extra $50 charge to do the capstone because at least you would have the option of paying and getting started on finishing up the specialization.Otherwise, the specialization isn't really maintained any more. For the first three courses it doesn't matter much because it's all pretty easy (my rating for the first three would actually be two stars as stand-alone courses probably). In the third week of the fourth course the instructor is swapped out for a new instructor who is utterly incomprehensible, using terms and ideas that haven't actually been introduced. The accompanying text is similarly incomprehensible. I say this as a math person who has subsequently gone to other resources to learn this specific material. The problem is not that the material just gets harder, but that the quality of instruction drops through the floor. So beware of that.
+Avoid, this is a crash grab. The instructors don't seem to know a whole lot of R, or are unwilling to teach what they know. Making the labs work is a hassle on itself, not to mention the final assignment outrageous demands come out of nowhere and blindside you. The introduction of R to the statistics and probability subjects is shallow at best. To learn the same amount of statistics and R on this course; a good textbook, some videos and a tutorial on R will give you better results on a fraction of the time.The language used on the quizzes and labs is obscure to say the least. You have to navigate through what feels like booby traps in the hopes of figuring out what you're supposed to answer, not to mention the multiple choices are trap them selves. On the quiz feedback it actually said several times, things like: "Although this is partially correct, this other answer is more correct." The quizzes took me back to my dreaded time in university where the teachers were out to fail you. Allegedly the instructor has a PhD and focused on pedagogy, to be honest I didn't feel this pedagogy approach anywhere and more like a padded resume.
+By the textbook it appears to be a very vanilla Stat 101 course, chapter 2 of the textbook did cover some conditional probability and Bayes theory otherwise very similar to stat 101 course I took in 1978. In other words, not exactly 21st century data science. Taught at high school / college freshman level (one of the exercises was writing mean and standard deviation with Greek letters -- pure busywork). The textbook inaccurately described a data set with several different data types as a "data matrix" a word usage that conflicts with both linear algebra and the statistical language R. This course is an obsolete and lame intro to statistics; I would recommend instead either Stanford's Introduction to Statistical Learning or the Coursera's Data Science Specialization.
+Before assigning such a tough project in week 5 using R, the course should have dealt with R more thoroughly along with theory about probability. Week 5 mentions project to be of 2hrs, but it took me 1 week to understand R all by myself and then complete the assignment somehow. I would say, i chose the wrong course. Highly dissapointed. Should have opted some other course to learn R in depth.
+While the videos and quizzes were easy to use, I had extreme difficulty using the DataCamp and could not find any tutorials that would answer my questions. Also, am unable to complete the course because of technical difficulties with RStudio. The course should have more online resources for those with little experience.
+thanks for your effort to make videos, but this is the first time find a class that i can not submit my answer to check if it is correct or not before my account is upgraded. Disappoint to Coursera and Duke.
+The course was not very helpful for me, as practical cases with R were poorly developed and the final data capstone project is badly formulated which makes it extremely difficult to pass.
+Speed is very fast for a basic level student. The data explanation and correlation demonstrated is not clear.
+There's no point in auditing the course since you don't get access to the answers
+There isn't a support to help you with doubts ...
+Very poor technical support!
+Not as advertised.
+Lecture videos were fantastic! Instructor was amazing. I have a big problem with the final project in Week 5. The entire courses was focused on statistics, yet the final project was focused on R. I wish I had prior R knowledge before starting this course, yet on the front page it says it's a beginner specialization. I would recommend learning R and ggplot before this course. It will make the course a lot less frustrating!
+This course will teach you a little bit of statistics and leave you confused with R. The first four weeks are very straightforward. They give R code for everything. However, this is not good because it does not prepare you well for the last project in which you have to do the whole project using R. This is almost like learning how to cook without knowing how to use a knife.
+Everything goes smoothly but the last assignment: it's crazy difficult. Every week is a guided exercise but the last one has very few related to that. 2 stars out of 5 because nonetheless the probability part is interesting and well explained.I didn't finish the course because it was too hard for me to fill the assignment. I paid 44€/month and the second month i decided to give up in order to save money - it would require me at least another month (they say 2h in total..).Don't do it unless you have a prior solid knowledge of R.
+The course instructor is EXCELLENT!  She does a fabulous job of explaining everything thoroughly and uses good examples to do so.  She makes understanding probability and data easy. I rated the course low because of the instruction in R and required use of R.  I wanted to learn R's basic commands but this was almost impossible.  The instruction we received in the course with respect to coding in R was entirely insufficient to be able to complete the extremely long final project (the supposed two-hour project took me 13 hours).  The coding no longer works (R code changed since the videos were made).  Also the final project data set was too large to be used in the workspace provided by Coursera, and crashed my computer every time I tried to use it.  Filtering and selecting did not work to limit the data set either, as both those functions caused R to shut itself down.  I planned to continue on for more of this series because the instructor is so great, but I cannot deal with R so will not be continuing.
+I honestly can't recommend this course.  The coverage of statistics was fine, and the labs were sufficiently clear, but the final project suffers exactly the same critical flaw as so many other online courses: after a limited exposure to a tool, the student is expected to use that tool in a context that is so different that the original classes are all but useless.  In this case, where RStudio worked flawlessly and effortlessly on clean data, the final project doesn't use clean data.If your goal is to learn statistics without a particular software package, look elsewhere.If your goal is to learn R & RStudio, I'd have to suggest a more rigorous, step-by-step approach.
+I reviewed many concept which I am grateful for, but several thing need to get better. First, all over the course I was waiting to hear about p-values more, as was promised first time but got nothing more on the videos. Second, many question were asked on exam about the material in the book that were supposed to be optional. Third, final projects includes a huge data file which my laptop suffered loading in RStudio every time. If the it is meant to evaluate the students knowledge, a much smaller data would be enough as well. by the way, I appreciate your endeavor.
+Content is not bad. However, peer review system for final project is not great. I had to wait for other students to review mine and wait for other students to submit theirs. How long this is takes is largely dependent on how many students are currently taking the course (which was not enough and so I had to wait). This kind of system for marking should not be done for online courses where you cannot guarantee there are enough users always taking it at the same time. Especially when there are paying users that may have to pay an extra month whilst waiting.
+It is a basic level course and I was expecting I will be taught how to use R studio or basic R functions. But instead ,  difficult R exercises were assigned without prior knowledge/teachings of R. I had to struggle a lot in completing the assignments.
+regular course content was fine for a refresher. what I really wanted was the intro to R. the lab, however, was the WORST.  I ended up going to YouTube to figure out half the stuff I needed to do. Why am I paying for that? I was really poorly done.
+Statistics part is fair enough, but R part is absolutely not.Giving the document of R does not mean teach you. You even have to make a difficult R project in the end of the course, but without any tutorial or example to make so.
+The course materials (book & lectures) are clear enough, but the introduction to and support for using R/RStudio is completely lacking.  Unless you already know R/RStudio, steer clear of this course and find another.
+For Beginners, it is very difficult to understand the mechanism of how R works without the video guidance. Though reading is available, but it does not give a good understanding due to the complexities of R.
+Suffered a lot of difficulties with the various material provided as they contain a lot of problems. Data does not load properly for labs, errors in code etc.
+I think that the teaching and tutorials in R should have been included instead of letting the student figure out all the R coding.
+The teachers dont focus on teaching R , but rather on only the basics statistics.
+Mediocre. Not much in the way of help for using R
+Very poor explanation skills
+This is not a course in how to learn R.  It is a basic statistics course.  The statistical content, including the lectures and book, are very good.  The structure of the first four weeks of the course is very good.  I recommend students follow the syllabus (videos, etc.) in the order shown--one week I tried the homework without viewing the videos first and it made it more difficult than if I had seen them.I was very disappointed with the final project, because it required much more R expertise than was explained in the rest of the course.  The "example project" was useful, but not sufficient.  The specific requirements for the final project (e.g., two of the three subjects must involve and analyze three variables vice two), were not clear or easy to find.  An additional week or lectures in the final week covering R tasks such as how to make an HTML document and project expectations would be helpful.
+I took this course primarily for the purposes of learning R and reviewing statistics. While the course content was well organised and succinctly presented in the videos, questions on quizzes and labs could at times be phrased in a confusing manner (even for a native English speaker), and the labs did not prepare one for the finesse with R required for the peer-graded final project. For the final project, I would recommend establishing more specific conditions (e.g., the number of visualisations expected, suggestions as to variables to explore in the dataset, and the points to consider in narrative sections), especially for an entry-level course. As a university professor myself, I have found that it is more pedagogically effective to offer precise guidelines for lower-level courses, and reserve open-ended projects for higher-level courses/seminars.
+I wish they went over how to use R for beginners in the beginning of the course. I feel like the final project was stressful and piecemealed  together from google searches on the web.  I think they should give us a list of all the codes in the beginning of the course that we will use throughout the entire course.
+Very mixed feelings about this course.Generally speaking, the course lectures are informative and well organized. Mentors are reallly of great help, they are doing a great job, honestly: they are very active, they give good insights, they know the subject matter.But in the course lectures, there are occasions where concepts are used which were not formally introduced before their actual use. One example: in the lectures on probability, the first "slide" in the lecture talks about random processes, outcomes of random process,... On the next slide, the notion of probability of an event is introduced, but the very notion of "event" was never introduced. It is introduced in the accompanying book, but if it is the case that the book chapters should be read PRIOR to watching the course videos, that fact should be made clear.Further in the course on probability, some words are used "interchangeably" without the context making it clear why they can be used interchangeably. For instance, on some occasions, the concept of independent events is used, but then, later on, the discussion talks of independent processes. Which is which??? Is there a difference? If so, what is it? When do I need to use independent events as opposed to independent processes?The graded assignments are of varying quality. The most disturbing thing about them is that, on some occasions, concepts are used in the quiz questions (either directly in the questions and answer choices, or indirectly in the "correction" for the quiz after you have submitted it) that were never touched upon in the course.I have had two occasions of concepts not introduced in the course but used in the graded assignments. The first occurrence of a gap between course content and quiz questions was on a quiz question about inference. I failed the question, and understood why I failed based on the course content litterally minutes after failing the question (and one mentor actually rightly corrected me). But the question "correction" (the explanation text you receive after submitting, as justification for what the correct answer is) referred to the concept of "two-sided hypothesis test". Where did THAT come from?? I checked and rechecked the course videos, no mention at all of it. I checked the accompanying book, and the first mention of two-sided hypothesis test is way way way further in the book, in a chapter that is entirely focusing on inference.The second occurrence was in week 4. The course lectures cover two distributions: normal and binomial. The recommended reading in the book also focus on these two distributions (the recommended reading actually skips the section on geometric distribution, if I remember well). But in one of the quiz question, there was one of the possible answers referring to the geometric distribution. If it is the case that we are supposed to know and understand about geometric distributions, then the course content should cover the subject. Or at the very least, the course lecture should mention clearly that learners are advised to read about it in the accompanying book.The guidelines for the project assignment (week 5) are not all that clear as to what is expected from the learners. Sure, there are instructions on where to find the info, what structure should be followed,... There is also a very nice "example" project (designed by one of the mentors), which provides a lot of useful info (how to filter missing values from variables,...). But there is no real hint as to the depth of analysis we are expected to complete. This is definitely a source of confusion, not only for me, but also for a few other learners, from what I gathered in the discussion forums. The result is that the projects you get to review are of very disparate levels. Some end up in calculating one figure per research question, without any attempt at deriving trends or patterns, others do not include any plots at all,... The thing is that the peer review criteria do not really provide a good basis to ensure that learners did indeed assimilate the course contents. Most of the questions in the peer review assignment have a lot more to do with following a canvas and not so much with the course substance itself. For instance, some of the peer review criteria have to do with the narratives for computed statistics and plots. The criteria are: "Is each plot/R outout followed by a narrative", "Does the narrative correctly interpret the plots, or statistics", "Does the narrative address the research question". But when the research question is a question of the type "What it the IQR for income per state", for instance, the narrative can be very short: "IQR per state shows that the state with higher variability of income is...".  So, the narrative meets the 3 evaluation criteria: there is a narrative, it does address the research question, and it does correctly interpret the statistics. But it is not particularly useful. I do understand that Internet-based peer review is challenging, and that you have to settle for "neutral" criteria that are easy to assess by learners. But the peer review grading "grid" as it currently stands is not "that" helpful in assessing whether the course contents has been assimilated.To conclude, when I took the course, my initial plan was to follow the entire specialization. But after having completed the first course of the specialization, I have radically changed my mind, and will look for alternatives "elsewhere" to get the knowledge/skillset that I am after.
+This course to me had some very clear un-explicit limitations, pros and cons:- The lectures are fantastic and have a good sequence for beginners- The course is very holistic in its approach, meaning that it covers theory and application very broadly and gives you a good sense of how different aspects of the field of statistics relate to eachother- The coverage of the R programming language is insufficient for the requirements for using it in the final assignment, I can't stress this enough for beginners. I highly suggest you take a foundational course in R, highlighting syntactical structure of the language, prior to taking this course- The labs are great for learning the primary components of R, but they don't give you real practice coding. There is very little to no explanation of certain functions in R and there are no videos on it. I do not feel at the end of this course I have a very good understanding of the structure of the language of R, I do however feel I was assessed as if I should have.- I felt the quizzes were appropriately rigorous for a beginner such as myself. Most important bottom line is: If you are a true beginner like myself I urge you to first take a course more targeted to R before starting this specialization. Otherwise, like myself, I think you will feel very overwhelmed at the end.
+The course is divided into 5 sections, each of which you have a week to complete (if you want a certificate). The first 4 sections/weeks are well designed and involved a mixture of lectures (most were good), reading assignments in a textbook (free online access), practice problems, and a weekly quiz. Along the way students learn how to use R through a handful of walk-through examples. In general this works. That said, the last two R assignments are a mess. For the 4th week, the instructors put together a demonstration for using R to ask and answer some basic research questions. The document they put together for this demonstration, however, is so full of typos and grammar mistakes, and worse, heaps of nearly incomprehensible sentences and phrasings, that it is almost worthless. It was really painful to get through it. The final R task is to work with a real-world data set, ask a few research questions, and use R to do some basic statistical analysis of the data. Working with a real-world data set is great. That said, I felt as if the instructors were asking students to do far more with R and statistics than we had learned in the class. I saw many similar opinions about this assignment online. And in grading my peers, I noticed that other students didn't know how to complete the project either.
+The course is great in terms of building foundational concept for data analysis and lab assignments were ok. The I think often the  time listed for any class is a little underestimation of time commitment. The course has offered me a lot of new concepts to learn and was good refresher for many other. But the final project was a huge disappointment for me. The students have been given a huge datasets that leaves students struggling to figure out where to start. In order to understand the data, students have to go to various links to see what the data is, how it is collected and definition of each variables. Then there are more than 300 variables and you need to pick few to do something you think is interested. Finally, the project needs a good level of expertise in "R" and course does not teach you that at all. I would suggest that for future courses reduce the number of variables depending on what most students have been using. Draft a quick summary and report about key information of data and share that on course page rather than links to web pages, and finally let students use the software that they may feel interesting. Not everyone is skilled to use R.
+The videos, readings and quizzes are excellent, they are well organized and follow a logical sequence. The level is also suitable for a beginner and pleasant enough to watch after a busy day at work !However Rstudio/r instructions and lab assignments need improvement. The specialization description puts a lot of emphasis on R giving the impression that these skills are also going to be taught from scratch. However there is not enough instruction and feedback. Judging from some assignments I have read it definitely seems like most of the students already have a comfortable working knowledge of R. If you are like me, a complete beginner, you will have to learn a lot from additional sources and your assignment will look like a mess (but you will most likely pass !)
+I didn't get on with this course, I'm afraid. I found that the R explanations were somewhat lacking for what I needed. Some sections I could complete absolutely fine but then it got suddenly much harder to do what was required.  While that's part of learning and language, it wasn't helpful for the stage in my learning experience (during each week's classwork).I'm not an idiot. I was able to complete the full course, including the last stage project but it just didn't teach all that well.  I don't feel much more confident in R.I'd also say that the course relies quite a lot on the open source textbook.  The instructor did write it - fair play - but I'm paying Coursera for the privilege of following something that's free.
+The course lectures were very good and informative.  However, this course does need some work.  First, the text revision references were confusing.  The homework assignments were a confusing as to where they should be performed; on our own or within GitHub.  I have used R before and was using this course as a refresher.  The course series definitely needs a optional introductory course in use of R, R Studio, GitHub, and R Markdown language.  Similar to the JHU Data Science specialization.  Finally, the course project was a bit deep for introductory Probability and Data.  Need to make the course project less demanding or drop the need for a final course project until later courses
+Problems with the course: Despite getting high grades, I felt like I had forgot much of the material by the end. There should be more quizzes, a mid-term, and more peer-reviewed projects. Didn't teach R basics which made it hard to learn the language and complete the final project w/o a lot of research. Content was generally great.Problems with the platform: Video skips randomly, submitting ID was buggy (wouldn't save),  and the chance that you might not get enough peer reviews and have to delay to the next session is nuts. Just require that people submit more reviews!
+Since the reason I took this course was learning R programming, I think this course focuses too much on data theories. From my perspective, it would be better if this course could put more efforts on R programming skills. In addition, when students raise questions on the forum, these questions were seldomly answered by tutors. It is obvious that there were some bugs of coursera platform for a long time, but these bugs were not fixed. However, I learnt how to start R programming by joining this course, which was really helpful to me.
+On the
+whole I thought the theoretical content of the course was good, and that the
+supporting materials were quite helpful. I would strongly caution prospective
+students about the amount of time that is actually required to complete the
+course requirements. Specifically, I found that the amount of time that was, in
+actual practice, required to learn even the basics of R and to then apply this
+to actually doing the final assignment vastly exceeded the time suggested by
+the course instructions.
+The textbook is excellent, though it would be helpful to provide some suggestions for a more rigorous treatment of the material. Lectures are well presented and organized. Assessments (which, unfortunately, are what drive teaching/learning outcomes) are of a lower quality. The course project has potential, but poorly executed as a peer review assignment. I have no confidence that anyone with this credential will have met the course objectives. Don't hire based on this course.
+Slow down. Introduce more R before asking to create projects in R. Only because I know other programming language was I able to finish week 5. Also very strong group of mentors... God bless you mentors! Disconnect between course objectives and programming assignments / labs. Reading book you learn one thing, watching lectures another and then unrelated labs, which then culminate in something totally different during week 5?
+The lectures are relatively good, though not of consistent quality. Some material is explained very welland some in a bit of a disorganized fashion. The assignments require a level of R knowledge which is neither taught directly nor stated as a prerequisite. For those familiar with cleaning and exploring data with R (ggplot2 and dplyr especially are important packages) this is an excellent course.
+It is a fine point to start  for a beginner and you do learn the statistics part of the course in a constructive way, but I believe when it comes to learning R it is lacking. You get to learn coding, but not enough as in to be able to apply it in different sort of research! The teaching provided for R is limited and situational, and this is not because it is the introductory course.
+Overall I learned a lot in this course, although that comes with a caveat. Some of the more difficult content was breezed over, and I found myself searching outside the coursework to get a better explanation (particularly with probability and most of the R tools.) That being said, if this course is useful as a series of benchmarks to guide you with your own research.
+The statistical portion is one of the bests and the professors makes the understanding very easy with numerous examples; however, if you are planning to learn anything about R in this course, then it not for you. The portion dealing with R is highly vaguely explained, which makes it very difficult and frustrating while doing the quizzes; so enroll accordingly.
+The statistics and probability portions were very good, but there was almost no instruction with regards to R programming. The project at the end felt very much like an intermediate project instead of an intro project. I spent far more time Googling/YouTubing the gaps in instruction than I actually did completing the project.
+The course content was very helpful, and provided a great refresher of probability.  However  more guidance is needed for the lab exercises.  Due to firewalls, I could not access some of the required R content.  It would have been nice if the lab exercises reflected the information that was taught in the weekly modules.
+I took this course hoping for a fundamental education in utilizing R for statistical analysis. Unfortunately, this course focuses heavily on statistical methods and very little on explaining the R processes used. Good for introductory stats students, not great for those interested in furthering their knowledge of R.
+I thought the lectures were a very helpful re-introduction to statistics but felt very disconnected from the assignments in rstudio. I felt lost when I got to the final project. I would recommend incorporating rstudio into the lecture so the students can follow along and practice writing r scripts.
+I really liked it!  Some basic R mechanics were undertaught and I'm very lucky that my data scientist brother volunteered an hour of his time to catch me up.  However, I can say that this course genuinely held my interest all the way through with authentic examples and challenging exercises.
+It does introduce students to probability very well. But the R learning was very limited to simply following instructions in a file, with little in the way of explaining R or what R commands do. Very limited bridge between the probability and stats part of the course and the R part.
+I think the first 4 weeks of the cours were quite easy, and the last week, week 5 was quite hard, and did not really match the first four weeks. It would be good if a little more information was given in the first four weeks about EDA's and other parts of the project.
+The course is OK, but in my opinion the price 69€ is higher for the material you learn.
+Lower price probably more people take the course payingAlso is a pitty that people we do not want to pay, we could not have a final assignement.
+The course is very basic, so it is good for an introduction. Quizzes are simple but the final project takes a lot of time. Why should we have to answer three research questions? Two would be sufficient.
+Could be improved by providing better tutorials to use R, provide guidelines to use Rstudio desktop as Rstudio Cloud is quite slow and crashes (it crashed 100s of times on loading brfssdata).
+well thought out and delivered course, but I would have preferred that it dig in more into the topics. Not necessarily more topics, but deeper treatment of the topics that were covered
+Some parts of the course are given too superficially. R is required, but the instruction given is not at the level of the required project even though it is a class for beginners.
+video lectures were good but the final project at the end was too loosely structured, and depended on you to go learn many features of ggplot on your own
+Nice, but missing a lot of features for those who selected Audit Track. Due to missing excercises, the course without quizes is of very limited value.
+Final Lab project demands far more knowledge of R tool that was taught during the course, it will be really difficult for me to comply with it.
+Nice course.But the week 5 project is a little vague. It would be beter if we had a lab assignment instead.
+I found using Datacamp for assignment is confusing. Instruction is not very clear
+Interesting course but I had a lot of difficulty with the final project.
+A good introduction to some basic stats, a mediocre introduction to R
+The final project should have an instructional video.
+stats instruction is good but the R part is weak
+The week 5 is very hard to accomplish.
+Good for a beginner.
+Be sure you want to learn R before you embark on this course. As a beginner, it was a challenge, but after a few rounds of revisiting the content, it all started to make sense. I would recommend you do the exercises on R Studio. I did mine on Datacamp and had to refamiliarise myself with the RStudio platform for the final assignment, which was slightly painful as more things had to be set up (and time may not be on your side by then). You can use the commands learnt in the course for the final assessment but many classmates seemed to go above and beyond. Online resources are truly indispensable and I'm amazed that I can make decent educated guesses as to what certain lines of code do, in order to improve the chart!
+It is an excellent introduction to probability and data. Concepts are explained really well, one of the best courses (not only among MOOCs). I think it would be improved by adding one week to the course dedicated to solely data analysis in R, as a precursor to the final project. There was too big of a gap in terms of R practice (for those new to R) between what was explained during the course and the final project. I would have found it super useful to have one more week in which to discuss how to treat missing data, how to clean data in R (even if just a simple cleaning, like getting rid of the NAs), followed by steps/do's and don'ts when analyzing data, different types of graphs in R appropriate for numerical and ordinal data, that sort of thing. That would have made it almost perfect.
+I would give it 5 stars if it was truly for zero beginners. I myself didn't have much problem understanding the content, but I can imagine that people with no background in statistics would have a very hard time. Some very important concepts are just glossed over. Another problem is that much more attention is given to the mathematics behind the stats, as opposed to how to conduct the tests themselves. I'm finishing the 2nd course two (inferential statistics) and I have the same feeling there. We spend video after video learning the nuts and bolts of the math behind, but at times we are only given the code in R. Sometimes the code is not even given!! The same with ggplots. The real-life applicability of the knowledge here is to make sure you are able to use the software to run the analysis. It's important to understand the logic behind, surely, but no one will, professionally, do the calculations by hand. I left this and will leave the second course (Inferential statistics) with the feeling that I've learnt much more the maths than how to actually use R.One final thought: at times, in stats, the most difficult thing is to decide which test to implement. There are possibilities, but which one? Why? How to I check for Skeweness in R (the number, not the histogram). What is considered too much skewness? What is too large a bias in bootstrapping? These are just examples of precious, directly applicable information that's left out
+I liked:+ The detailed Learning Objectives.+ Good examples in the lectures.+ The quizzes are great for testing and refreshing one's memory.+ Overall the course seems very well-focused on the most important foundational items and hammers them in.I'd appreciate improvement in:+ Providing more clarity on how much R is expected to be learned for the final project, or lowering the level of R skill expected for the final project.+ Providing a more relaxed time estimate on the final project. I spent 10+ hours on it, in addition to ~10 hours learning more R on DataCamp.+ Getting feedback on my work from a professional, not just from fellow students. (I would be willing to pay for that.)
+The lecturer is very nice and teaching well, the basic knowledge is easy to learn. Examples are vivid and easy to understand as well. The biggest problem is the final project. The things we learn can not support the ability to finish the project. One way to improve it is to give more tips or teach more usage of R. Overall I learnt many useful stuffs and I recommend it!
+Good course for statistics but not for R
+This is a really great course, but it is NOT easy!There is a steep learning curve for people who are beginners in R with the project at the end being quite challenging. The stats part of this course starts with a good learning curve and picks up speed quickly as well. The videos available for this course are generally good quality but could be ironed out a bit more in terms of some rough editing. You can see the age of the video material showing up in some of the videos.Overall there is good help available on the discussion forums and using the statistics textbook and practicing with the example questions is highly recommended. The time required as stated for each and every aspect of this course is vastly underestimated, a trained person will be able to finish this in the given time but a beginner can easily double or triple the time needed for the tasks. Weekly time usage for class and all example questions plus digging for problem solutions in the forums is between 7 and 10 hours, the project at the end for an absolute beginner alone is easily another 10 hours hacking in R plus some extra time getting used to the project material.Do NOT attempt this course if you can not dedicate enough time for this course!
+The lectures in this course were fantastic. The professor clearly explained complex topics, and I would gladly take more courses from her. However, I can't help but think that I wouldn't have been able to complete the final project successfully had I not taken previous classes in R. I don't think there was good alignment between the course itself and the final project. Also, the final project involved complex survey design data, but it was not clear if we were suppose to account for this (I assumed not because it seemed out of the scope of the course). I asked this question to the discussion board but never received a response. It was less satisfying to complete an exploratory data analysis knowing that all my numbers were inaccurate because of not taking weights into account. I would suggest a different dataset for the final project.
+I have been looking for this type of course for years that combine a solid statistics background and learning a new piece of technology. Most statistics class are cram classes where the student needs to choke down a formula, regurgitate it for an exam, hope it is correct, quickly for get it and move onto the next. This class is the opposite. Concepts are easy to understand, logically thought out and in bit sized-pieces.Professor Çetinkaya-Rundel is the best statistics instructor I have ever had. She clearly explains concepts, backs them up with applied examples and the textbook is extremely well written. I enjoyed learning R but sometimes the statistics lesson and the R were divorced from each other. The final exam was an excellent concept but it was a little daunting and way above my pay-grade.
+Overall, I would recommend this class. I found that the preparation towards the final project could use some improvement, especially plotting using the 'ggplot2' package. Why not work on this during Week 4 through an assignment that works on this? This would have made it easier to focus on the research questions of the project and less on the graph making mechanics. Also, I found that the project was a little bit too open-ended and could have used some more input from the instructors' side. The material during the four  weeks of the course was really good and thorough but perhaps a little too difficult to follow for people who have absolutely no background in probability theory. Maybe one should audit the course first and then decide whether it would be a good idea to formally enroll.
+I came to this course already armed with some stats skills with the hopes of brushing up on my stats whilst getting to learn to use R. The course is a nice, easy to follow introduction to data and probability. I had no R experience at the start of the course and the weekly assignments helped me build my R skills. However, the R skills taught were not sufficient for me to tackle the final data analysis project. I had to spend a lot of additional time teaching myself R. Before or shortly after starting this course I would suggest others take some time to self-learn (through youtube etc) about data frames, r markdown, dplyr, producing nice looking tables of summary statistics to be shown in r markdown (for the final project), and ggplot2 for nice looking data visuals.
+This was a very comprehensive course. I am currently undertaking a PhD in Medical Studies, and this course gave me a better understanding of the basic theory underlying Probability. This was a useful shoehorn into learning and (importantly) understanding Bayesian statistics.I would have given this course 5 stars, although the end project was disproportionately difficult compared to the rest of the content.  The description lead me to believe that no background in R was necessary, however this did not appear to be the case. I highly suggest having a firm grasp on R and R programming language before looking to complete this course.
+Pretty good course and I definitely came away with a good understanding of the fundamentals of basic statistics. The video lectures move pretty fast and kind of assume that you're getting everything which is not always the case. The student forums help a bit, but responses either from the instructors or other students is unpredictable and inconsistent, so you really can't depend on it when you need clarification or can't understand a concept. I had to go outside of the course several times to really grasp all of the concepts. Fortunately there are plenty of resources on the net that can help though.
+The course is well designed and organized. I felt like I left having a clear understanding of basic statistical concepts and their applications to data, and what kind of questions one can ask of large datasets.The only aspect I'd say that could be improved is to provide more comprehensive R skills that help students better prepare for the final assignment - At least for me, who has never used a programming language before, it was a huge challenge, and I had to look up a lot of additional resources to begin to grasp how to use R to approach the data.
+Offers a good introduction to probability as promised. Great material, you can really tell that the teachers have made an effort making the content presentable.The only thing I did miss however, was a lecture introducing coding in R especially since that is what makes up most of the time in doing the peer-reviewed assignment. Nothing fancy, just a single lecture introducing the logic behind the dplyr and ggplot2 packages would have been ever so helpful and could have been covered in less than 30 minutes. Thanks for a good course!
+The stats info and exercises were helpful for learning stats/probability.  The labs were somewhat helpful, but did NOT prepare you for the project at the end of the course.  Prerequisites say not necessary to know R coding, but I REALLY struggled getting through the assignment in a timely manner and eventually wasn't happy with what I had to submit to make the deadline.  I highly recommend taking a few courses in R in DataCamp or watching videos about R Studio (dplyr and tidyr) before attempting the labs and project.
+This course is a solid introduction to conducting statistical analysis using the software R. The video and reading materials are clear and informative, and ideal for those with little to no familiarity with the theory behind probability and statistics. Outside of the weekly assignments, there is relatively less exposure and direct instruction for operating R, but I was able to make use of guides and forums in the coursera page to teach myself about R commands and codes as I navigated the provided datasets.
+Excellent lectures. Final project requires at least an advanced-beginner knowledge of R, especially of dplyr and ggplot2 packages. Not sure that's clear from the description. I came in having taken a short Intro to R course -- I'd have been overwhelmed by the data analysis project had I not. I relied on numerous YouTube R tutorials to get it done (thank goodness for the generosity of the R community!) and ended up really pushing myself. The instructor is a star. Many thanks if she's reading this!
+Overall, I recommend this course. It has the right balance of instructed work and explorative work (when it comes to the lab work). I would have wanted the probability calculations to have been more closely tied to the R programming in the lessons. That being said, I have no prior experience with R and I come from a humanist academic background, and I found the course material instructive enough to help me learn how to code with R and do basic probability mathematics.
+Great videos and testing structure. Great feedback to all of my questions in the forums too. 7 hours a week seems about right for me, with the recommended reading and watching the videos. However the course got continually harder and harder and by the time I was at the final exam I was really worried. In the end it got a bit difficult and stressful but I do feel it was valuable, and like I said, getting the feedback, even on weekends in the forums, helped a lot.
+The content of this course is not terribly difficult, I thought, but it's a very good introduction into most aspects of Data Science. You learn to familiarize yourself with R quite well and get a lot of independence to create a final project based on a huge data set. One thing I would've liked is a sample completed project, start to finish, to see what was expected- the things that got produced (which you peer review) varied hugely in quality.
+As a non-stats brain, overall really good introduction to stats. The final project for this course seems pretty difficult and is a huge difficulty jump from previous weeks. It requires a good grasp of manipulating data with R and plotting. Regardless I found it very satisfying to complete. The final project is a bit frustrating, as the people peer-reviewing my project didn't put any effort into it. I was hoping to find some critical feedback.
+Great introduction/review of basic stats concepts. I think the course designers assume a knowledge of/familiarity with R beyond what they claim in the Course Description. The weekly labs were somewhat helpful, but could benefit from providing the students with a bit more instruction on the functions of R. The learning curve during the Week 5 project was a little steep for a complete novice like me, but overall I found this course worthwhile.
+I had to drop this course because I had too many other things on my plate, but hope to enroll again another time. I thought the course was well structured, with very good examples, or explanations, of experiment design. Thanks to the instructors for providing free access to external materials. I thoroughly enjoyed what I was learning.  Currently, the only reason I didn't give 5 stars is because of the trouble I kept having with R Studio.
+The course videos are good, but the R programming is not well explained. I've enrolled in other Coursera courses that use R, Python or Octave, and they all provide clear demo videos for beginners to get up to standard with the code. This course doesn't do that so it's not a good intro to R, which is a shame because working in statistics these days is all about using R and similar tools so there should be a stronger emphasis on that.
+Overall, I think the lessons, the lectures and exercises were presented in a very clean and effective way. Unfortunately, the research project was a real leap in terms of cleaning data and working within R. I did not feel that exercises adequately prepared one for the final project. I think this either needs to be scaled back or there needs to be far more discussion and practice with handing R data before the project.
+Presentation of the content, course slides and labs are best from what I've seen on Coursera. The only downside was that to my feeling the final project and the course content are somehow disconnected. The course itself deals with introduction to probability, while final project is EDA. I don't think there was enough materials on EDA in the course, so the final project took more effort and was confusing at first.
+Me gustó mucho el curso y siento que aprendí bastante sobre cómo hacer visualizaciones con R.Sin embargo recomiendo que para el proyecto enseñen un poco mejor cómo transformar el archivo Rmd en HTLM.I really liked the course and I feel like I learned a lot about how to make visualizations with R.
+
+However I recommend that for the project they teach a little better how to transform the Rmd file into HTLM.
+I enjoyed the course very much and found its implementation very clear. The intermediate questions and the quizzes helped to solidify the learning content. Dr. Mine Çetinkaya-Rundel is very sympathetic and it' s easy to follow her explanations. The final assignment, however, was relatively difficult and definitely took more time than was indicated. All in all, I would recommend the course.
+Really good foundation course for those who aren't familiar to statistics and gives out great resources to learn or refresh some material. For the assignments, I like how they give an option of either doing it from the DataCamp website or RStudio. I wish there was somewhat a better way of understanding the R libraries in the assignment, but I just don't know what. Overall, I love it.
+This course enables one to start right from basics and develop strong fundamentals in exploratory data analysis. One thing that could be improved is providing for more "R programming" commands or reference materials which can be used by the learner to gather more variations of the commands used in that section and thereby improve code and formatting of plots/graphs.
+This is a useful statistical course for anyone who seeks to gain a basic understanding of probability. The R coding assignments are especially useful but one could benefit more if they already knew how certain functions works in R. The dplyr package is especially emphasized and I suggests going to Youtube to know the main functions that are used for data wrangling.
+It is a good introductory level course and I appreciate the instructor's hard work. Two suggestions though. It would be more convenient for us, if you could compress all the lecture slides into one or four files. Besides, peer reviewed project was less unsatisfied. I would prefer to receive grades and comments from the lecturer or mentors, even if pay for it.
+Solid and efficient introduction to content, does not do enough teaching in R for the final project - which is *fine* because finding things out for yourself is the best way to learn, but R help online is often so dense that it's not that helpful to a beginner.  More responsive mentors - especially nearer the end of the course - would be really helpful.
+This course is a very good introduction to statistics. The lectures are well paced and engaging. The reading materials augment the lectures nicely by providing more details and workable exercises. There is a new edition of the reference book and the lecture material has not been updated to match the new edition, but the previous editions are available.
+Very good course on Statistics with application in the R programming language ,a  great intro for anyone who want to understand statistical concepts used in research , data science.Although the course require no background in R , I would advise to take an introduction in R programming before hand in order to be able to finish the final project easily .
+In my opinion, the final assignment could have been more effectively and meaningfully answered if students have had prior knowledge in data wrangling/ cleaning in R. I don't think this information was made known throughout the course. Otherwise, this course provided a good overview on the fundamentals of basic statistical visualisation and analysis!
+The course content, resources and teaching were very good but the course is much more demanding than advertised. The course was advertised for Beginners but in truth it is much more for students of Intermediate Skill and Experience. As a working adult I would have preferred more realistic, expected completion timelines for the tasks.
+The course was good but I found the final project to be quite disjoint from the course work. The course included a lot of normal approximation to binomial distribution and calculating probabilities based on binomial draws. The final project seemed very much directed towards looking for correlations in data and mastering ggplot2!
+The content is pretty good especially with the concepts well-explained by Dr. Mine, in my opinion, which is much better than John Hopkins' series. However, the R programming assignment is not designed for beginners and it's quite often to get stuck at the final project.  For this reason, I gave 4 star for this course.
+Good professor, good exercises to review what you've learned.My only complaint - if considered that - is that R was difficult for me to learn and work with, especially when I'll be using SPSS for my own statistical needs moving forward. I'd like for there to be an option within the course to use SPSS instead of R.
+Good introductory course, nicely blending stats and R-coding. The R-coding is a "take the plunge" approach (with a good example to help before the final assignment): this creates first some pain for those who knew nothing about R at the beginning of the course, but this makes for very good practise in the end.
+I learned a lot of this i should have known during earlier statistics courses. The founding knowledge is well laid out and structured. The pace made me feel both fully in control and slightly out of depth at the same time. This made it an interesting course that made me race through it (in a positive way).
+Good overview. My only misunderstanding was about the Markdown document that wasn't functional until I changed the format (bottom right in the source, as R Markdown) and the "knitting" that I still haven't figured out. Otherwise very clear, and lots of great examples to illustrate and fix the knowledge.
+Very good introduction to statistics, even for those already forgot maths.Do not take this course as introduction to R. The course does not explain basics of R (e.g. lists vs vectors, data_frame vs data.frame). I'd suggest anyone to take an introduction to R first or simultaneously with this course.
+This is a nice intro with some good lectures.  My only criticism is that the estimated reading times and the estimated time for the week 5 projects were way off, for me at least.  I suspect that, if you're starting from scratch at stats, they will be way off for you as well.
+I would separate my feedback en two ways. First, I think is a good basics statistics course. but second, I feel is a bit weak in R topics. Its mean, it does not prepare you well for the last project. It could be stongest in R codes, plots, etc. througth the first 4 weeks.
+i learned a lot, teacher explains very very well, but honestly i would not mind if there was a little more help with Rstudio, before this course i had never use the programme and that was a little bit hard for me, i had to see lots of extra videos to learn a little more.
+In general , I think this course is very useful and is well designed, I've learned a lot from it.However, I think it would be better if students are provided with video lesson about Rstudio ,  it will help to understand R programming especially for the beginner.
+Very clear and well presented course. Best course in stats I had in my life. I removed one star as the time suggested for studying and doing the assignment is well over what is suggested in the course. Make sure that you have plenty of time in front of you :o)
+Concise introduction to the field, easy to grasp and hands-on. A bit shallow on the theoretical side (optional material would be nice), you just learn what you need and no more. Practical assignments are well designed and give you a great introduction to R.
+I had some statistics background in my undergraduate training. While my primary focus of taking this course was learning R, I manage to learn some new things too. Through the course, I was able to learn very basic codes and would love to continue to do so.
+The materials and lectures were very good and detailed regarding probabilities and data. I felt the difficulty of the final project (in particular with regards to the R component) was not adequate for a beginners course and it required a lot of research.
+A perfect course for the introduction to the world of Statistics. I will try to improve upon the review with my further studies and try to look at anything that you might have missed but so far it looks like this course covers all the bases.
+The theoretical and practical part is very good, but in the project there are a lot of practical question to confront basically alone, without the needed help. The things were functioning in an unknown way... It was hard - at least to me.
+Great self-paced course along with good reason material. The project assignment needed a lot more than the 2.5 odd hours that were estimated. Give yourself more time for the assignment and practice the RStudio assignments in earnest.
+While the final project was a little unclear in terms of its parameters and there were several small file problems, this was overall a very well constructed course, especially in terms of its content before the final project.
+Solid course! You will have to do work outside of what is provided to learn R if you don't have programming knowledge prior. HOWEVER, the final project is when you will really learn how to use the software - learn by doing!
+Course was great, except for the final project which takes much longer to complete than it says, and requires a lot of outside research on how to use R to be able to finish. Other than that very informative and affordable!
+It takes many more hours to complete the work than the estimates provided. For example the final project took me about nine hours, versus the 2.5 hours listed.Still, a well-rounded course and it has already proven useful.
+The content is very well structured, the explanations are clear and full of useful examples. Some concepts were a bit difficult to grasp and required reviewing outside the material of the course. In general, excellent.
+It should go deeper in teaching R and how the logic on coding works. Moreover, it should teach how to learn and apply new codes, since the final project demands more coding than what was in previous lessons.
+The concepts are taught very clearly and thoroughly, but they leave you hanging out to dry a bit with R.  R is not an easy program and they could do a little more hand holding in this *Introductory* course.
+If you have prior knowledge of R, then this course will help to brush up your statistics.  The pacing of the material is very good. The examples used are relevant and interesting.  Great course in general.
+Good basic course in probability and R! Lectures were really clear and with good examples. I only wish there were more teaching on R coding, as it was a big leap from the R tutorials to the final project.
+Great coverage of basic statistics and R. Lots of room to experiment and fairly responsive forum boards. Main way to improve is to somehow allow for more discussion between classmates as well as mentors.
+The course is excellent. The only drawback it is the peer review assignments. After you finish your assignment you need search for peers to review your and ask at least three people to do this for you.
+The instructions for the final project need to be much clearer.  I had a hard time figuring it out, and all of the projects I peer-edited were done poorly.  Otherwise, I enjoyed the course very much!
+Good but questions lacked clarity in what is expected. i.e. "Work out the Boy to Girl ratio" - in what fashion do we do this, as it appeared to be the same as simply working out the "proportion of b
+A good introductory course to data analysis, statistics and the R programming language. Recommended to people who are new to data analysis and also those who are experienced and could use a refresh.
+They could have touched more R. Otherwise everything is fine. But it is very easy to clear the course. Even the peer reviewed assignment is wrongly reviewed many times whether positive or negative.
+The lectures were very clear and concise and the examples were very relevant. Some of the R instructions left a little something to be desired, but nothing a little time and google couldn't solve.
+The contents of the course about statistics are friendly to the beginners and easy to understand, however, the R learning is a little bit hard to those who have no computer or coding background.
+The course is pretty nice, I learned some new statistics concepts although the knowledge is not so in-depth. The course also needs more tutorials on R. However, the assignments are quite good
+The Statistics course was excellent. The book provided additionally helped a lot. There could have been some instructional videos for R and some samples on how to analyse the visualization.
+The course was great but the final project was a bit difficult/confusing to understand at first. The more detailed example should have been provided before starting the project work
+The course is very good on statistics. However, the R section is not as detailed and clear as the mathematical portion. The questions about R on the forum are not answered quickly.
+Materials covered a substantial aspect of introductory Statistics, providing adequate examples with great coding sessions. Instructor did an awesome job in conveying the concepts.
+The videos of the course should show more R coding. The assignments are too long, they take ages to review. The explanation of the statistical concepts are excellent! Great job!
+Good explanation of some non-intuitive concepts and nice applications at the end of each section with quizzes and assignments which test your understanding quite proficiently.
+Good introductorial course about Statistics and probability. The course would be better if they explained more details about Rstudio and its libraries like dplyr and ggplot2.
+Very well structured and clear - I enjoyed it a lot. Just one point though...the time for finalising the assignments and lessons is way underestimated (at least for my pace)
+All the contens are very good, but I have the feeling that I passed without knowing much about R. It good be better if there were more diverse examples of coding in R.
+This course is a great intro course for beginners, however it lacks depth. More examples and explainations would make this course a lot better than it is at the moment
+The course was greatHowever, I expect to have some kind of more exercise since the amount of workload is not enoughThanks for building this coursePHAN Truong Quoc
+I have learnt about R programming, probability and statistics and EDA through this course. The video lectures are presented nicely and are quite informative.
+The course content on statistics is great But they could've done better in RThe skills in R required for the final project were not covered in this course.
+There could be more clear instructions and completed tasks for R exercises. For beginners it does get too complex too fast without a resource to turn to.
+Hi.I had a wonderful time with this course.Thanks to Instructor Dr Mine Rundel. I am a beginner and new to stats,still i got clarity on base statistics .
+Great course! Really great prof, who does a good job explaining the concepts. I am completely new to R and the course really helped develop my skills.
+I appreciated most of the course. I thought that the final assignment did not fully represent the course as a whole, though otherwise I appreciate it.
+The R practice is really useful,however,you need to pay more effort on final project by learning more knowledge than what was offered by this cours
+Fantastic course. Both the lessons and materials were very educational. Besides it constitutes a very didactic introduction to ggplot2 and dplyr.
+Great introductory course in statistics.   The lectures are not about R per se, but you learn R by applying the statistics that you have learned.
+Very informative, the project might be a bit difficult for R starters like me since the introduction to R in this class is not very systematic.
+Does a good job of covering the basics.  In my case, I'm looking for more of a refresher rather than learning the concepts for the first time.
+This was one of the great course available and the first one I have completed.Thank you mentors for your hard work in making this course.
+statistics are quite adequately illustrated; however, the R skiils teaching is not efficient. i encounter alot of probelems of graphing.
+Very good course. A bit basic for my background, but useful anyway to refresh concepts and look at them from a  different point of view.
+Cheatsheets should be provided for beginners in using the RStudio. In that way, graphs and plots can be easily understand by the user.
+This is a good course for learning basic statistics, and then learning how to use some of those ideas with the R programming language.
+This course was well structured and provided the right information, the lectures give a beginners understanding of statistics and more
+The course material covers the concepts of probability quite well. However, the course should go deeper in R programming techniques.
+The coursework is manageable and well taught but I think there is a disconnect between the first few weeks and the capstone project.
+The data material choose is not good enough, there various of the problem in the process of draw graph, due to the data quality.
+The theoretical part was really very useful, the R sessions could be a bit more descriptive to make the conceptions clearer.
+Most learning is independently  to expolring data, and you will bring you own question Using R to find the correlate answer
+I love the lab of this course. But I hope there can be one lab teaches us where to start with a data set. like the project.
+Love the lecture style and the learning is at the appropriate level for those with an interest but not much prior knowledge
+I think it will be better if you give students more R practical assignment. But overall, very useful and helpful learning!
+A very thorough course, it helped me understand much more about statistics and especially how to read and interpret data.
+the probability part of this project is good but the last assignment  is not as per the course.Its mostly based on R.
+A brief discussion to the questions asked in between the video lecture might be useful for those who got it wrong.
+Very good basic level statistics course. Although I believe the R should be taught more detailed and using video.
+The Course should have more detailed plotting guides and more videos on GGPLOT package for visualisation of data.
+Lessons are simple and easy to understand, which help to provide good fundation in Statistics.  Good for beginner
+Although the final project is quite hard, and I took a long time to complete it, but I did learn a lot from it!
+Theoretical part was very well explained. But there should have been a little more details of R programming.
+I really enjoyed this class, however I felt that some of the topics could have been covered in more depth.
+We used DPLYR package without any requisite introduction, but it was nonetheless very informative, thanks!
+Lectures and material we're really good. Haven't done the practical part, so can't say anything about it.
+Solid foundations learnt, however needed to seek help elsewhere to get a better understanding of using R
+The statistics and probablity part is very good, but something more needed to be done about basics of R.
+Very good introduction to data a pre requisite of R programming would have made this course easier
+interesting course, would be better if it offers more practice when it comes to programming with R
+Wonderful course! I can use these statistical knowledge on data analysis on my upcoming thesis.
+I enjoyed watching the course videos. Really nice practice material to get you going!!! Koodos!
+Excellent course, but I think that the introduction to R is not sufficient to the final work.
+It is a great course to begin your understanding  in R programming and statistical analysis
+Overall i found the R programming really useful and i would love to learn more about it.
+Would like a little more R in the lectures, but overall well put together and engaging
+Very appropriate course for any beginner like me. Thanks to my mentors and Coursera.
+Very involving. The balance between learning probability concepts and R is great.
+should be open to anyone. But is ok, you can still ger knowledge without paying
+Very nice coarse for someone looking for a working knowledge of the subject.
+Solid start. The final project was more R-intensive than the course taught.
+Thorough course with a decent starters' course for people who are new to R.
+Great course!! A good way to brush up Statistics and Probability! Kudos!
+Great course for learning the foundations of probability and statistics
+It was a good course that helped to build basic statistical knowledge
+A smooth introduction to statistics. Interesting and well organized.
+Instructions could be clearer, but the course overall is very good!
+I learned a lot from this course. I look forward to the others!
+I am hoping for some more R specific programming and reference.
+4 star for now. Will give a complete review after completion
+Best course in programming I have taken so far on Coursera.
+Some concepts like p-values could be more elaborated upon.
+It was a great course, with great insights about multiple
+Great high level coverage of basic Statistical concepts
+To easy to sink tons of time into the final coursework.
+Great course to help you get started in statistics.
+Awesome course for beginners and advanced learners
+It's very worth to learn but really difficult.
+Very good introduction course for Statistics
+very interesting and well structured !!
+A good set of questions in the Quiz.
+Generally a pretty good course.
+The Project was very difficult
+It was a well taught course
+Nice intro to stats and R.
+Need more courses about R
+5 for Stats and 3 for R.
+The classes are good.
+great course so far!!
+Comprehensive Course
+Great explanation
+I have a major in mathematics and this is by far one of the best courses I have ever taken on introductory statistics. Instructor explains all the concepts clearly with tons of examples. The labs are very well formed you will never be lost with them. The final project turns out to be fun and informative! Overall, it was a great experience. I recommend it to anyone wanting to get into data science field and/or improve their basic knowledge of statistics and R programming.
+Great course! Explained the concepts so clear and crisp and the exercises with R are great. The project reinforces all the concepts. All in all, a great course for beginners in statistics and R.
+Really good content and the teacher is one of the best in Coursera. This is for many people a difficult subject that is made easy to digest. Looking forward to more courses from the same Teacher
+This course literally taught me a lot, the concepts were beautifully explained but the way it was delivered and overall exercises and the difficulty of problems made it more challenging and enjoying.
+This course had a good balance of easy and challenging content. I like how the reattempt feature of the quizzes doesn't just give you all the same questions again in a different order. But at the same time it doesn't completely change the set of questions. This forces you to go back a really understand the content if you want to maximise your mark. The final project seemed harder than I was expecting, but that resulted in gaining a lot more practice with RStudio, which really helped to learn it well.
+Dr. Mine Çetinkaya-Rundel is an amazing teacher! I have never learnt and enjoyed so much statistics!Syllabus is well constructed and organised, plenty of learning materials (with moderate difficulty). This first course is aimed at beginners (no requirement of prior statistics knowledge). Although I use statistics regularly, I don't really understand them well so I find this course extremely helpful!Thank you so much for putting together this course of the whole specialisation!
+I've not studied at this level for a while so the first couple of weeks were intense. The pace didn't let up but the quality of the presentation material was excellent. I didn't feel quite prepared enough for the project and it took much longer than the estimate to complete but well worth it as an exercise.
+Very clearly explained and the pace is awesome! I really enjoy each deadline and l can already see how it is impacting my day to day work and life. I ook forward to completing the course! Thank you.
+Lectures by Prof Çetinkaya-Rundel:  Excellent content for the time alotted and well-organized.  The URL to the "Distribution Calculator" was consistently erroneous in the slides (=: You can find it here: https://gallery.shinyapps.io/dist_calc/.  The source code for that web calculator is part of a github R-language project and can be found here: https://github.com/ShinyEd/intro-stats/tree/master/dist_calc .  One of these days, I am going to write up an issue on her use of "set.seed(12345)" and see if she takes it seriously!  Her code is not bad for a statistician.  (=:Very simple Math.  Depending on your background, this could be dissapointing or a relief.  Too light for me.A lot of R-language, RStudio, and R-markup.  Expect to dive in.  Note that RStudio is still evolving so you can expect a surprise or two along the way (E.g. crashes, hangs).  The web version of RStudio has its own issues.  I would stick to the desktop version since you have more control of your own desktop.  Windows users can gleefully reboot when RStudio hangs - is it RStudio or Windoze?"Let them eat cake" should not be missed: https://speakerdeck.com/minecr/let-them-eat-cake-first-0a3bbf75-f6f1-42d5-8d2f-ac2ff741611f .Warning to physical science students: This is not in any way a criticism of the course but there are no examples from Astronomy, Chemistry, Geology, or Physics.  Only health and social science stuff.  I would have liked to see course content applied to something like data acquired from a telescope such as TESS or Hubble but that's me.The forum for the last week is clogged with requests to have final projects reviewed, detracting from the intended purpose. I do not agree with having lower division students review each other's work: student maturity level to assess and give feedback is lacking.  But, I knew what I was letting myself in for.Another warning to physical science students: The data for the final project is CDC health survey responses for 2013.  Roughly, 0.5 million rows and 330 columns.  Lots of non-response values in the data.  Not my cup of tea.
+Very impressive course, certainly among the top five I've ever taken online. Course design is basically flawless. The lectures are clear, concise and based on interesting examples. The course also comes with a textbook for which you can pay what you want, even a price of zero. The textbook is also very well written and contains plenty of examples to illustrate concepts that are introduced and lots of practice problems too. This is crucial for developing a good understanding of the material taught in a course like this.I do have one warning about this course, however. The learning curve for the programming aspect of it is very steep. It says no previous knowledge of R is required, but I don't think I would've been able to finish my final project if I hadn't already taken about 15 other courses (mostly on DataCamp) that focused on R programming. At the very least, you should take the free Introduction to R course on DataCamp before you start any of the labs for this course. Ideally, you should also get a DataCamp membership and work through about 60% of the courses on the Data Scientist with R track before even starting this course.I realize that sounds like a lot to ask, and that I am contradicting the course description that was written by the instructors, but this course makes use of a great deal of the knowledge that is taught on that track, especially the dplyr and ggplot2 packages, from the first module. Dplyr in particular is a wonderful R package that does things I've always dreamed of while struggling to do basic things in Excel, but it takes a lot of practice to get the hang of it you will get much more out of this course if you already have some experience with dplyr (and ggplot2) before starting it.
+I've audited several similar courses and found this one to be the best. First of all, Dr. Mine is just so great at explaining things. There is no doubt that she's one of the best in her area, but she's also born to teach and communicate. She combines all kinds of way to make a concept vivid and clear. I've audited couple other courses, and I took relevant courses back in college a while ago, Dr. Mine is the best out of all the professors I've met at explaining things. This is not in this course but next, but just as an example of how clear she is when explaining standard deviation of sample means. She takes time to combine a specific example, visualization, and simulation,  to really make all the points clear. You could try to listen to her on that part in the next course week 1. Second, the R practice in every week is very beneficial and helpful. The cases used in those practices are fun to work with too. The hands-on experience on R and data exploring is valuable. Overall, this is a very helpful course for me to review probability that I took a while ago in college and almost forgot, and for me to learn R and get hands-on practice.
+This course is definitly suitable for learners who don't have any related background. Dr. Mine Cetinkaya-Rundel has an amiable speaking style and always highlighted the key points in teaching videos, which helped me understand other contents in the textbook. Besides, the time and assignment arrangement of this course are also very reasonable. The only thing I could complain about is a system bug of the Amazon AWS and the grading system. My final project file went blank after the system told me the file uploading is sucessfully completed on August 3, and I got three 0 point from three peers since they only saw a blank file, of which I had no idea, and all I could see is "Grading in progress" on the system. Until the final grading day is over, which is August 12, the system finally reminded me of this horrible thing. I came to mentors, disscussion forum as well as the help center, reuploaded my file, desperately tried to find peers who can still spare some time to review my file, and it is finally fixed today. I got my certificate in the end, but the grading process is really frustrating. Hope this bug won't happen to anyone ever ag
+Teaching: I really like the clear and concise teaching style of lecturer and the wide range of simple real-life example used to explain the course content. I’m a social science student, given I’ve studied quantitative research methods before, this course is easy intro to and good refresher of data and probability theory. This course really gives me some confidence to continue to study probability theory, after finishing this specialization.Textbook: The textbook used in this course is a good supplementary material, although it is not necessary to read the textbook. Course videos have already explained everything that we need to know at intro level. The textbook also covers some extra optional topics that are worth reading.Course Structure: The course structure is well organized with clear focus in each week.Assessment: The assessment of quiz in each week is relatively easy. The exploratory data analysis required in peer-reviewed assignment is relatively difficult for beginners. However, the course mentor has drafted an easy-to-follow guide in the discussion section which is really helpful for finishing this assignment.
+Best statistics course I've ever taken. So many Aha! moments I can't count them. I have struggled for years to understand and get the hang of statistics, at uni, with online courses and at work. With this course (and the following courses) I think I have finally gained a DEEPER understanding of some of the basic but very important concepts of statistics. Lots of detailed examples and no overly complicated maths gibberish (although still mathematically sound!).  The R programming bits run in parallel to the statistics lectures and can be followed (necessary for a certificate) or can be ignored (if you only want to grasp the concepts), but are overall very easy to understand and follow. There is only little background to R as a programming language and the different types of data, lists, matrices etc. To me that's a good thing, as it allows you to use R right away (which in turn makes me more motivated to go back and learn more about R). I whole-heartedly recommend this to anyone who wants to understand and use statistics!
+Very well put-together course. I like that the course has in-video quizzes as well as practice exercises to help prepare you for the weekly quizzes. The labs for the course are also very helpful. The textbook that accompanies the course is freely available in pdf format online and the suggested exercises are a great complement to the rest of the course materials.For those unfamiliar with R, the project is a bit of a leap from the rest of the contents in the course. To get around that, I'd suggest to both use the discussion forum (posts by mentor David Hood are particularly helpful) and to take both the R programming course and the Exploratory Data Analysis course from the Johns Hopkins data science sequence. Those 2 should together be doable in 5-6 weeks and at that point you should have sufficient background to where doing the project in this course (and those in follow-up courses in this specialization) should not be a problem.
+I think this is a very good entry level course for those who are interested in entering the realm of statistics. The learning objectives of each week are well defined and the practice and weekly tests are based on those learning objectives. The videos explain very well each objective in a very convenient, easy to comprehend and interesting manner. For students who want more 'after class' material, the course offers a very nice book, which I personally used and helped me a lot during the course. The book also offers practice tasks at the end of each chapter.The course project: Personally I think the course project in the 5th week of the course is interesting in a way that you have actual data to work with and use almost everything you have learned during the course. Overall I think this is a very good course!
+This course was excellent, the teaching material top-notch and with excellent pedagogy. It's amazing that the course authors offer a statistics textbook almost exactly covering the course content for free. The idea to combine R and statistics is right on the money too, thanks to this one can learn 2 skills at the same time, with statistical analysis letting you practice coding in R and R helping you visualise your statistics. The lectures are divided into small, easy to absorb chunks and the teacher does an excellent job explaining the material, giving very good examples and analogies to help the students understand concepts. The exercises and assignments are fun to complete, and the course offers a flexibility in how much time you spend on it per week, e.g. there are non-mandatory exercises to do.
+This is a brilliant course that makes statistics and probability as approachable, engaging and clear as humanely possible.Prof. Mine Cetinkaya-Rundel explains every subject very clearly, and has included some very effective quizzes and lab exercises.I first encountered R markdown files in this course and have used them constantly ever since.My only tiny point of criticism is that the non-graded exercise quizzes are way easier than the real quizzes, and do not really prepare you at all to the more complex questions in the actual quizzes. It's a petty and unimportant kind of criticism in an otherwise wonderful course.If everyone taught stats like Prof. Cetinkaya-Rundel, this important subject would have been a whole lot better understood and utilized globally.
+Professor Cetinkaya-Rundel's explanations are clear and she gives many examples, the quizzes are fair and I think it is an excellent idea to have a lab in R to get students familiar with that tool.I recommend that students read the book chapters and do the practice problems there, it's very helpful. My one criticism is that the amount of R taught in the course is not really enough to do a good job on the capstone project, because the data in the given database is formatted very differently. I think maybe the course staff could reformat the database to make it more user-friendly for beginning R users, but in the meantime you may want to study a little R on the side at, say, DataCamp.
+Very, very useful course. Exactly what I was looking for. You have to do some research beyond what's covered in the labs to really get acquainted with R, but there is so much available online that it wasn't an issue for me. The open-intro textbook is fantastic, and the course lectures help summarize the textbook info in a rich way that adds to the textbook content. The suggested problems, quizzes, labs and final project were all fantastic for reinforcing the content learned and actually putting it in practice (as most of us learn best by doing). All in all, I'm extremely pleased, and I'm moving onto the next course in the Statistics with R progression with much excitement!
+Absolutely amazing! It is clear that the professor, Ms. Mine Çetinkaya-Rundel is passionate about the subject and knows it inside out. The practical example-based approach to learning is appreciated, since a lot of statistics courses don't give learners a realistic setting to think about their knowledge, leaving them with the infamous 'how will this help me in real life?' question. The book, OpenIntro is also very helpful in this regard. The R course has been introduced nicely too. The difficulty curve might take time to get used to, but the packages introduced and the codes used make sense, so it should not take too much time. Wholeheartedly recommended!
+I really liked this course.The course comprises of lectures, which are clear and are rich in examples, and of practical assignments, which you do in R.The practical tasks is where the course shines - everything is explained very clearly, there is a lot of content, and the course works with databases that are huge (thousands of cases and hundreds of variables) and have some of the more common problems (eg. missing data). I have little to no prior programming experience, just for the record.Mind you, this is an introductory course, as the name states, so don't expect to be a master of R or data handling after finishing it, but I feel I learned a lot here.
+Excellent course. Classes were intense and the professor was very didactic.
+It took me around 10 hours a week of dedication, and the Final
+Project of the last week required around 40 hours of work. I am
+very pleased with the final result, but I think it is important to let it
+clear the real time expected of effort here. Unless you are already really
+familiarized with the concepts and with the R platform, the
+course requires a strong commitment. My final verdict: I
+am very grateful to have done a course of this quality from
+where I am. Thank you: professors, mentors, developers and fellow classmates! Every
+minute of my time was worthwhile with you.
+Introduction to Probability and Data (by Duke University) is an excellent course. It's like a beautifully and clearly presented piece of the history of statistics. This course must be taken by all who are interested in the type and dynamics of relationships between various elements of life. At the same time, the duty and responsibility of mental reality (=ideology) is to reflect the actual reality. The dogmas of the traditional statistics revolve around a traditional family model which excludes present day gender diversity. This makes traditional statistics no longer reflective of the actual reality unless it incorporates gender diversity.
+Very rigorous course. No you don't need programming experience to complete, however you will be thanking your self if you spend as much time throughout the week learning R as you do on the content of the course. I was stuck at the week 5 project for a while until I buckled down and spent a few days on Youtube and on Google learning R. So with that said, if you have no prior exposure to programming or Stats, this course is very difficult, however if you stick with it, it is very worth the time spent. My tip is to reset your deadlines as many times as you need to if the content is more difficult than you anticipated.
+I really enjoyed taking this course. The accompanying book builds builds and teaches the concepts very well, and the videos are great resources to help solidify the readings. There is very occasionally some tricky wording in a quiz question, but it is barely an issue. Like many other reviewers, the Week 5 project stopped me in my tracks at it felt very daunting, but I then found further information from instructors/mentors on the forums, which were a great help (I would suggest maybe sharing some of the forum information in the project description, or linking to the forum more clearly for further support).
+The course was well-structured and the instructor clearly illustrated statistical concepts to students who have no prior experience in the field. Although the lab assignment for each week may seem a bit stressful for beginners, the overall learning is highly inspiring and does prove rewarding as students finally get to apply the technical skills to their final project. Also, the guidance for each lab assignment was very helpful. It would be even better if there are example code answers for the lab questions, since some of the questions are a bit more complicated. Overall, this is a worth-taking course.
+Though you may feel at the beginning that the pace is somewhat fast, but you'll learn a lot if you stick to the material and worked on the labs and the hands-on tutorials. Not to mention the project example in week 4, it was incredible I really liked learning through the errors and interpreting what are these errors and why they may arise. In the project I learned a lot, I felt it's not an easy task to start working on a dataset from A-Z with complete freedom to formulate research questions, clear the data and get the appropriate inference! Overall it was a great course that I really enjoyed :)
+I really enjoyed this course - the instruction and materials were high quality and very helpful in clarifying statistical concepts that had seemed unnecessarily confusing to me prior to taking this course. The assignments were very helpful in teaching R, with the final assignment requiring slightly more familiarity in R than the first 4 weeks prepare students for. My advice for students who take this course is that if you have the time in the first 4 weeks, try to learn a bit more than is minimally required in R to be best prepared for the final project. Overall a great course!
+One of the well made MOOCs. There are many courses in Coursera taught by good professors from good universities but are badly designed for an MOOC environment making it a bad experience. This course is really well designed. The contents is modular and lectures are split into easy to grasp chunks. The weekly lab exercises using R using real datasets is a plus. Though not much of R syntax is taught and it is up to us to explore(understandable since the goal of this course is not to teach R). The final project was a bit challenging but fun. The course 'mentors' are helpful.
+Very clear and simple to follow along with.  This allowed me to brush up on and formalize my stats knowledge a bit more, but I have no doubt that it would be good for a complete newbie.  The lectures are succinct and comprehensive and there is a free online textbook for reinforcement as needed.  Moreover, the R labs and project really add a LOT to the course, jumpstarting my knowledge of R, R studio, and how to perform some exploratory data analysis.  For prospective data science folks, I recommend taking this in conjunction with The Data Scientist's Toolbox.
+Great intro course into both stats and R.  I especially like how the videos succinctly explain all the concepts in such short lessons, supplemented by the thorough readings that provide more details and the lessons in R.  The data analysis project, while challenging at first, did a good job of providing an interesting data set and forcing us to come up with the rest.  If I had my hand held all the way through, I wouldn't have learned as much as I did, as I was forced to look throughout the internet for code to perform functions I was anxious to use.
+This is an excellent course to lay down the ground works for further courses within the specialization. You'll get the necessary introduction to statistics along with beginner level knowledge of the statistical tool R package. While certain area of the course, especially week 5 data analysis project, can be challenging. Know that the discussion forum is always there to help you if you are stuck. The quiz and project is never outside the scope of the course materials. Totally would recommend this course for anyone who interested in statistics.
+This course made principles of probability interesting, going beyond the usual examples of coin flips, dice rolls, and card draws. The discussion about the limits of which observed trends can be applied to a greater population of interest was clear and the project gave us an opportunity to put it into practice ourselves. I especially liked the opportunity to ask questions of a large dataset and generate tables of data and graphs to illustrate these tables a bit more clearly. I feel I now have a good foundation upon which to build!
+I highly recommend this instructor and this course!  Excellent teaching, good practical examples that show you why statistics are such a useful technique, very clear lectures, good step-by-step explanations of solving example problems.  The free textbook (written by the instructor) that accompanies the course is likewise excellent.  If you watch the lectures, read the book, do the problem exercises at the end of each section of the book, you will pick up an excellent grounding in statistics.
+I enjoyed the course very much. I appreciated that the course was teaching practical skills that we could immediately apply to solve problems using real data. I was pleasantly surprised that I was able to explore a big dataset from a US survey, formulate my own questions and actually get some answers! Although I found some of the assignments challenging, and I spent on them more time than expected, it was worth it. I guess it helps to know some basics of R programming beforehand.
+Interesting, information-dense and well presented lectures by someone who obviously has a deep understanding of the topics and who is passionate about teaching the subject. Added to that: a great course textbook and useful R tutorials with a focus on commonly used libraries such as dplyr and ggplot. Beginner and intermediate statistics students, as well as teachers interested in the presentation of statistics theory and practice, can't go wrong with this course.
+The lecture were great and it was easy to digest and remember. At first, it was hard trying to familiarise with R and understanding the technical aspects of R programming but I survived the course and was able to complete the assignment. I would say that the most learning came from my own peers through the discussion forums and peer-review assignment. This course has definitely increased my interest in learning R and performing data analysis with R.
+Instructor is excellent. While I bought the recommended book I hardly referred to it. The response from the mentors (especially David Hood) in the discussion forum to every question has been very prompt and precise. Overall the combination of the Instructor, the illustrations in the videos, the practice tests and the online support of the mentors makes it an ideal online course. I was able to finish this despite being in a fairly demanding full time
+The course was very good! The instructor explained the concepts very clearly. She also took effort to differentiate between commonly confused concepts. The final project in R was tough, but through it I really used my own knowledge to approach a question like an actual research project. I also learned to search for R commands that were not taught in the course with the help of the RStudio cheatsheets and online platforms like Stack Exchange.
+Excellent introduction to R and probability. The lectures were very clear and well structured.I particularly enjoyed the final project, and the fact that we were given free reign over the research topics: what questions to ask, and also how to structure the answers. It is an great opportunity to further the knowledge acquired during the lectures and become familiar with R capabilities. The feedback from the other students was very valuable.
+Mine Cetinkeya-Rundel' explains the concepts in a very very clear manner. I actually started with other statistics course on Coursera. But found it going too fast. A lot of ideas were poorly presented. I was quite frustrated with one topic, so I searched online for detail elaboration and found Mine Cetinkeya-Rundel's youtube videos. Her deliberate explanation built my confidence. Hence now I'm at her class and I really enjoy it overall.
+This course is really helpful to have a better understanding of fundamentals of probability and data statistics. The course mainly focuses on basic concepts of probability and how to apply them. The assignment provided was very helpful and challenging. The peer graded project allows me to evaluate my fellow course mates which really boost my confidence as make me feel like an invigilator and provide the basis for my academic career.
+This is a very good course to learn (or review) the foundations of statistics and how R can be a great companion tool to augment a solid understanding of the topic.The instructor speaks clearly and at a fast enough pace that there is no time to pay attention to anything else. I appreciated the lectures, slides and there is a free PDF book which is also well written! I am looking forward to the other courses in this series!
+The course was really beneficial to someone with no R experience. Having taking statistics courses before I was mainly interested in the use of R for computational uses of statistics and analysis. The course provided those means and more. I'd recommend using RStudio on your own computer versus the Data Camp tutorials however as when it comes to the project at the end, you'll be extra comfortable with the use of RStudio.
+It's a great course for who want to learn applied statistics using R.  The main topics are deeply explained. Exercises and other materials, like the OpenIntro book, are challenging. And final project gives you and idea of your new skills levels. The only attention point, for me, was the unbalance between the expected time to do the final project and the real demand. But it was a very, very rich experience for me.
+Everything is clear and well organized. But, the final assignment might be little bit difficult for a beginner. The estimated time for that is 2 hours but I think it would take more than 2 hours for a beginner (A day or a two). It would be great if there are more explanations and guidance for the last assignment. But, anyone would be able to complete if he/she has enough time to spare.
+I really liked this course, it is very well organised and the explanations are good and sufficient. However, this is not a course for someone who haven't work with R before. You need to have at least some basics of R to complete the labs and the final assignment. It was not easy to complete the final assignment but absolutely worth the effort. I learned a lot during this course.
+My name is Jose Antonio from Brazil. I am looking for a new Data Scientist career (https://www.linkedin.com/in/joseantonio11)I did this course to get new knowledge about Statistics in DataScience and better understand the technology and your practical applications. The course was excellent and the classes well taught by teachers.Congratulations to Coursera team and Instructors.
+I've taken several introductory statistics courses and this one is by far the best. Material is covered quickly and clearly, and there are extra explanations for the questions that other courses left me puzzling over. A really well taught course, highly recommended. The only minor drawback of this course is that the sound quality could be better, but that's a minor point.
+A well-thought course on statistics. Some topic were explained too fast on the video, but I was able to catch up on the things that I have missed reading the text book. By the way, the text book is really well written - easy to read, concise and comprehensive. Great course overall. I wish they gave more additional info on R programming basics, but that's the only concern.
+The course was taught in a very illustrative manner with enough repititions over the concepts! A very deep dive from absolute basics to how's and why's. The assignments related to coding can come with some clearer explanations and the project is a little beyond the scope of the coding taught, however it will be an intensive and incredibly helpful venture if completed.
+A nice blend of statistics, applied labs using R, and a final exploratory data analysis project that the course prepares you for very well.  The instructor is informative, easy to understand, and brings enjoyment to the video lectures.  The open textbook is well aligned and easy to read.  The quizzes and labs are challenging.  The mentors are responsive and helpful.
+Very useful, especially in R. I really like the final project since it really gave me the opportunity to explore the dataset on myself. it was a little bit challenging for me since I had to integrate all of knowledge I learned here.   But I have to say it is really useful. The narrator is brilliant too. Each concept and statistic method is  clear and acceptable.
+This course did an excellent job of challenging at an appropriate level. Full disclosure, I have never done any programming in R and have been playing catch-up on that part the whole time but the materials are set up in a very helpful but not too hand-holding way. I particularly enjoyed the final assignment. It really served to drive home the material covered!
+Excellent guidance, videos and a free ebook to guide you through the process. I managed to learn alot and do well on the final project finishing the course with 95% even though I had 0 programming experience. If you are willing to spend the time studying, and reviewing the very helpful material, there is no reason whatsoever you will not be able to do well.
+It has been a very interesting course for me, I have expanded my knowledge of probability and descriptive and inferential statistics, I have learned to use R to perform these calculations, and finally, I learned the incredible possibilities of making professional and useful documents with RMarkdown. Thank you very much to all the teachers of the course!
+If you need a statistics refresher or an introductory class to probability, this course is definitely the best one you will find, don't think it twice, just sign up. Professor Mine Çetinkaya-Rundel is hands down one of the best teachers I've seen, she does a great job at explaining complex concepts without diluting the important theoretical information.
+Great course. Even if I already call myself a Statistics enthusiast, I learned that there were still grey parts in what I have already learned before and it was all clearly stipulated and discussed in this course. On top of that, I have learned R programming from zero base knowledge in programming. I just hope I can complete the whole specialization.
+Excellent! mind-blowing! I am immensely impressed by the way the coursed is designed. Very well balanced introductory course with an wonderful introduction of R (which is very needed for modern day statistical problem with huge data)! So extremely recommended for those who wants to kink start their understanding with statistics (in any field!!)!
+This course gives a nice introduction to fundamental concepts of Probability and Data. It also gives a glimpse on scientific studies. The topics are very well presented and the study material is excellent.I highly recommend this course to anyone who does not have a background on the subject and wishes to have a better understanding of Statistics
+This is a great course, very helpful for people who are interested in statistics and R. I learned a lot from the lecture. Apart from the compact lecture, I also learned a lot from the peer review process, the work I reviewed and feedback I got were very helpful, I was also shocked by the efforts present in the work and feedback. Great community.
+Excellent introduction to Statistics and Probability. The course progresses at a nice pace - not too much too fast. The textbook is a great resource, and it's written in a very easy to digest way, making the concepts clear and approachable. The videos further reinforce the textbook and help clarify the material.This class is highly recommended.
+I doubt there are many professors around the globe who can match Mine Çetinkaya-Rundel's clarity of thought, her structured thinking and most importantly the the way info was packed into this course. Love the Openintro book, I still refer to it in my day to day work. Great going folks from Duke. Will see you in the Inferential Stats Module !
+It took less than 3 days overall for me to finish this course, but I did this just because I wanted to refresh the basics and see if I am missing something. At the end I learnt quite an amount. Prof. Rundel's explanation is clear and concise. I would take all the courses in this specialization just because of the way she explains things.
+The learning curve is steep - the difference between the lab exercises in the first four weeks and the project to be completed in the last week is huge. But I think it teaches a critical component of programming, which is to develop a self-reliant attitude and learn how to seek answers on the web. Great course, looking forward to more.
+The course has been handled really well! I learnt a lot. I took this course to revisit the basics and get them conceptually clarified. And I am completely satisfied with what I have achieved.The R programming part need instructions on how to work with an R Markdown File, I feel, as I myself spent too much time trying to figure it out.
+Great, diversed material presented in a lively fashion. Inspiring and well explained. The supplementary coursebook with exercises gives the opportunity to study the subject deeper. A lot of real-life examples and a convenient way to practice using R. If the Statistics is for you, this will increase your motivation to study it.
+Course covers a lot of material very efficiently. Instruction is concise, and provides a free online textbook for deeper learning on topics in case you don't fully understand them from the lecture. Be aware that the final project is a serious chunk of work, maybe 1/3 to 1/2 of the total time it took me to complete this course!
+Excellent introduction to Statistics, Probability, and Data Visualization! The professor explains it extremely well and supports her instruction with helpful examples. The associated textbook is both free and high quality. The instructor of the course was a co-author of the textbook which ties the course together very nicely.
+One of the best online courses I have come across. No wonder it is so popular among data science enthusiasts. The programming assignments and quizzes were very interesting and challenging. Practice questions were available in plenty and I feel very confident of my R Programming and Statistical Analysis skills now. Thank you!
+All the concepts are very clearly presented and the instructor is really a great teacher!What I liked the most is that special attention is given to the fine distinction between statistical concepts that  students easily confuse, myself included.The mentors are also very helpful and very prompt to respond to any questions.
+I love how concise the lectures are, and also the quizzes provide explanations to questions I've done wrong. That's very helpful indeed. This is my first Coursera course with peer-review assignments - I'm impressed that classmates give useful and encouraging feedbacks. I also learnt a lot from reading other people's work.
+The course is rather easy to understand and covers most fundamental knowledge of probability that we need to know for data analysis purposes. However, the coding exercises are not enough to provide us an extensive technical skills for performing exploratory data analysis. But overall, it's a fun and awesome course! :)
+Wish I had given statistics its due in my undergrads, either way if you were wise (unlike me ;)) or otherwise, this is the course for you if you want to brush up Statistics or want to pursue it from Zero. The Final submission for this course would give you a handsome understanding of both - Statistics as well as R.
+Very informative and helped clear up the basic concepts from Probability, Sampling and the inference. Very lucid and easy to understand instructions. Introduction to R Studio was a little daunting for me, as I am unfamiliar, but hugely satisfying to grasp the basics and what all it can do for Statistical inference.
+This course reflects a new and better way to start approaching probability and data, using modern tools, texts, and approaches. It is a genuinely 21st century approach. The presentations, the labs, and the free textbook, are all in sync together to help people get the concepts and gain real comfort with the tools.
+Lectures were very well-prepared, slides were engaging, and there was a lot of optional but helpful reading material and exercise problems given. Overall a very well delivered introduction.The final project was challenging in that it was open-ended, but it was also an opportunity to practice independent learning.
+A great course for a practical introduction to R and to statistical concepts. Sets a great foundation for more advanced courses as part of this series or others. The tutor explains things really well and the examples bring theory into action clearly.  The R labs really do help to solidify learning.  Recommended.
+This is an excellent course with well articulated methods of teaching, visual presentation with well prepared learning practices. Learning is flexible provided the learners provide time in the course of the week however busy. It is simple to follow and enough support provided at any time online for the learner.
+A brilliant course which has introduced me to the concepts of probability,data and Statistics in general in a lucid and clear manner.The exposure to R Programming through RStudio has certainly helped me and it will be useful as I intend to do research in Economics for which knowledge of R is very much required
+Very well structured if you wish to understand the basics of statistics along with the basic usage of the functions in R. Could cover more basic aspects of using R independently and methods to load data from third-party sources so as to enable independent usage of the software post completion of the course.
+The course is really good, thank you so much for your work. I just would like that there would be available corrections for the bad answers in the quizzes, to know what we did wrong and learn, also I would like to receive an evaluation of someone of the teachers in the final lab, not only of my classmates.
+It was a highly interesting course in which we learnt topics at an easy and understandable pace. The understanding of the project was consolidated further using examples. Lastly, the peer reviewed project had us apply all our understanding on real world data set which is greatly important in the long run.
+The professor is so engaging and explains everything in a very clear and organized way. The project at the end of each week is a real challenge and requires you to understand well what you learned. There are additional finger-exercises in R on datacamp.com in connection with this course, which is great.
+I enjoyed this course! Extract information of a data frame, observe this information with R, the bayes rule and how obtain the quantiles are some skills that I learned in this course. I recommend it amply, and  in my opinion the examples characterized the topics very well and in a form very interesting.
+Great introduction to Probability and Data. The course also explains some fundamentals of Bayesian statistics.Every concepts was explained very effectively and lots of exercises (with and without R) were provided. I would warmly suggest this course to anyone interested in an introduction to Statistics.
+Through this course I finally got to understand R as a whole. It was also possible to begin to understand how language works. The course is quite didactic, but requires some familiarity with basic statistical concepts and data visualization, which I noticed especially from the projects I evaluated.
+Great course!  This has been one of the best courses that I have taken at Coursera.  I really liked the fact that we have a free book for the class and there are optional exercises for practicing what we have learned at the end of each week.  The instructor knows the subject and is very clear.
+Prof Mine Cetinkaya-Rundel's explanation, narration and examples are simply superb! I decided to subscribe for this specialization after trying it for the free 7 day period, and it is totally worth it. I will look for more courses by this team. Thank you all. The course content is very good.
+This course is a great introduction to learning about statistical thinking in R. The emphasis is of course on probability and data (especially distributions and exploratory analysis), but there is also a very nice integration of R code and introductory coding to complement the main material.
+A cornerstone for anyone to dive into the complex world of statistics.  Dr. Mine is not only in perfect command of her material, she also made it fun to learn enough for me to have stuck around until the end of this course. I am confident of tackling a new challenge: inferential statistics!
+It's a great course, I had acquired new abilities like using R language programming for applied statistics, as well as knowledge about probability and statistics in topics like: sampling,  measures of center and spread, data visualization, inference, probability distribution and much more.
+This course was planned very well. It covers topics multiple times but in different forms/approaches, which makes the material easy to learn and obtain. Furthermore, the practical exercises and coding lab were guided enough yet let the learner have independence as well in the solutions.
+excellent course!  Videos were very instructive, book and problems reinforced the course material well.  All in all great.  Had a little problem getting the knit function to work initially, and it appears as some others did since I saw one project submitted that wasn't knit into html.
+Great introduction course on Probability.The final report is unexpectedly challenging when one has to come up with 3 analysis from a dataset with more than 100 variables.So if you choose to finish this course, be prepare to spend a lot more time than other normal ones on Coursera.
+“The course was refreshing, interactive, and interesting. A good mixture of the instructor’s engaging presentations  with enough time to do the quizzes and assignments.”“The course provides useful experiences that will help to improve the overall skills and knowledge in using R.”
+It was really a great course, on an initial basis, you will learn different things a lot. And as a statistics student, I enjoyed the coursework, with an r programming language it was different at first but while getting used to it, it's a nice and easy way to deal with data.
+I enjoyed the RMD labs. I think they provide a great interactive hands on learning experience that video and paper assignments alone can not cover. The material covered in the labs is worthwhile as well, showing how to dissect that table into different cuts for investigation
+Very good introductory course to probability and data. Very hands-on examples and outstanding explanations. I already had several statistics courses before in my life but not in this quality. I can really recommend this course to anyone who to learn more about statistics.
+Having very little statistical knowledge and no R programming experience before starting the course, I have learned so much! The coursework goes at a good pace, the instructors are very clear and explain things well.  I look forward to taking the entire specialization.
+This course is very useful to know how to interpret the data, as the professors introduce R programming. R language is difficult to understand for beginners without prior knowledge, however it is not so difficult if you try your best as each command is well-explained.
+Excellent course. Very engaging. The amount of effort the team has put in is very evident. The quizzes in the lecture make you pause, think and reinforce the concepts. I am currently doing John Hopkins data specialization as well, but this is way better. Thank you!
+Really good introduction to the principles of probability. The lab is really useful as well because it requires you to learn how to use R.  Sometimes the 'simplest' things can be challenging because of how R functions & knowing these intricacies is very useful.
+The Course & Slide Material is nice.The examples used help in getting & applying the theory matter taught in the previous videos.It's great.Only suggested thing is if the instructor could provide a word or handwritten material it would be an icing on the cake.
+Great course! Dr. Mine is a great instructor and the course structure is good. The final project is a bit challenging, especially for those who don't have prior R knowledge like me. However, I think this is the best way to learn a new programming language.
+a bit fast paced for people with no background in statistics, but for those who have the basis, it is great. Mine is a great instructor.what bothered me a bit what the way the R part and the statistics (lectures) par was unrelated and almost independent.
+I couldn't be more happy with this course. Super rich course materials, diverse tasks, hands-on labs, and many more. I really love the textbook, Open Statistics - the best statistics guides I've seen so far. Huge thanks to the professor Çetinkaya-Rundel!
+A great course by Professor Çetinkaya-Rundel whose teaching is very easy to understand. It was really instrumental and interesting to join this course especially when I dealt with those related assignments and ran R in the lab. Strong recommendation!!!
+Excellent course! I learned a lot about probability, and it was clear that a lot of work went into this curriculum. The slides were already perfect for taking notes from, and the examples were great. The instructor spoke very clearly and was awesome.
+Excellent introduction to statistics. An good refresher to whom have already taken such a course long ago. The course content is mostly focused on basic statistics and math, so the R programming is quite challenging if you are a complete newbie to R.
+I have not taken Statistics 101 and Probability Theory 101 since college.  This course was a great refresher course for review!  I highly recommend this course as a refresher/review course to jump into real-world-application courses down the road.
+The course is very organized and informative. explanation is very clear.  the only issue is that the final project requires R skills that are not taught during the course. The labs during the course is extremely primitive compared to that project
+The professor is fantastic and the content is top-notch. A great mix of theory and real-world application. The course is not math-heavy but provides enough additional material for one to delve into those details. I highly recommend this course!
+This is the best R programming course I ever came across on Coursera. It is very interactive and real life application based. The assignments and projects helped me to have a better understanding of technical aspects of both R and statistics.
+This course helped me break into the world of R programming pretty easily. I also really enjoyed the course material. The only thing I thought could use some improvement were the instructions for the final project. They were a bit too vague.
+This course was a good introduction to basic probability, experimental design, and data structure. The labs and final assignments made great use of R Studio and markdown. This course is best suited for someone who is proficient in R already.
+The course was structured and explained in easy to understand fashion. The project submission at the end of the week was a challenge for a beginner like me, but having submitted it and gained a good grade on that is a satisfying experience.
+Useful course! very clear to make points. The instructor is very good at teaching. recommend. One thing I don't like is that for the peer review project, you have wait to long before some one else review your work and get the certificate.
+The course give me a basic understanding of basic statistics and show me how to employ statistical calculation and visualization by using R studio. One of the most exciting things is the project assignment which analyzes real-world data.
+A very nice intro to the topic! The course is problem-oriented and introduces important concepts in relation to questions that will interest the student. It also gradually introduces R and its use for statistics analysis. I recommend it.
+Absolutely wonderful courseWith the basics of Probability and Statistics to it's implementation in R Everything is very simple and the text book is very much in accordance to the course, also the lab exercises are very well planned out
+Interesting and enjoyable. Very clear explanation of concepts in the videos and text. Begin using R in the first week, with exercises that allow you to pick up a few commands fairly easily and start analysing data and creating graphs.
+I've been using coursera for over 4 years and never had I seen a course as good as this. It is pretty concise and integral. It plays between theory and practice and recommends a handful of references. The course is totally worth it.
+A great course to start learning about probability and statistics, as well as basic R programming. The final assignment is quite challenging for an introduction course, so plan ahead to make sure you have enough time to complete it.
+Great explanations - it was good to review all the foundations and learn R in the process.The final assignment was very long to achieve.... more 8 hours than the 2 hours advertised.But I really learned how to use R in the process.
+This course helps students pursuing academics in statistics by laying a strong foundation in the field of statistics and probability.The course has been formulated with excellent examples to explain concepts in an effective way
+Great introduction to probability. It's brief, it contains great tools and strategies on how to evaluate a statistical situation. It shows a nice start on how to use R with RStudio. Great for beginners on R and/or probability.
+This course is very well organized and the presentations are excellent. The material is at the right level of depth.  It is also very effective in an online format. Well done! Okay, on my way to the next course in the series.
+Very good introductory course! The lectures were very interesting, highly due to the instructor's engaging and passionate attitude ! Very smart and helpful quizes too, with a very detailed data analysis project at the end!
+Professor Rundel makes the subject interesting by quoting real time examples in the videos. This course will certainly help beginners in statistics. The entire specialization is a step by step process to master statistics.
+I have learned a lot details which I am confused from other courses in the course. I think that it can take more details in it, such as the inference about the formula of the binomial distribution!Thank you a lot teacher!
+Im really glad I took this course and had the direction of a competent teacher and staff. I made more traction than studying on my own.  Its amazing how flexible R is and I look forward to using it professionally one day.
+The best learning  happened through the peer graded project and reviewing others' work. However, the course focuses more on statistics. If the learner wants a good grounding on R this may not be the best course to take.
+Absolutely a must taken course for social science students. The instructor is very articulate and explains theories， concepts and formula clearly. The exams and assignments are necessary for strengthening your learning.
+The course clearly builds the bases of Statistics from very scratch. The best part is the implementation via R Labs and final project. Highly recommended and looking forward for the next course of the specialization.
+This is great. I have so many notes from only the first Week of classes. The teaching style is very engaging for an introduction class. A little theory, a practical example or two, and then a practice project. Great!
+The course was amazing! Especially for me as a beginner, it was not much difficult to get the hang of things!! Hats off to the amazing teacher and her enthusiasm to teach difficult things easily. Highly recommended!
+Great instructor. Miné explains things really well. I have taken a few statistics courses and I consider myself well conversant with the basics, despite that when she explains the fundamentals I learn something new.
+The course gave a great introduction to statistics and R.  I think it would have been more helpful to have a pre-requisite reading for RStudio before jumping into the projects but the course was overall very good.
+Great course.  Videos were easy to understand and follow.  Assignment instructions were a little vague and left to interpretation.  Great community of learners!  Instructors were extremely responsive to inquiries.
+Very good for people that have no or very basic notion of probability and statistics. Lessons are very clear and easy to follow and I find exciting the possibility to deal with a "real world" data for the project
+Concise and well-made introduction to the basics of statistics with practical examples in R.The peer-review assignment is very interesting and makes you think and apply statistics that you learn from the videos.
+Excellent introduction to statistical concepts using the R programming language. The data science project in Week 5 is particularly useful for building the skills necessary to conduct exploratory data analysis.
+Great course, well taught and steady paced. The weekly assignments and quizzes really help one learn statistics and R programming. It's a good course to get started with R programming and statistics in general.
+Very good and easy to follow introduction to probability. It might seem a bit easy, but the courses get harder once you progress past this one. Peer reviews were no problem, as enough people take this course.
+Very well planned course, with awesome orator and explainer and with a lot of additional materials for better understanding. The only hard thing is the last project. It takes much more time than it's written.
+This course was absolutely amazing. I learned a lot about how metadata is analyzed, how results can be obtained from gigantic chunks of data that can be obtained using just simple commands. Amazing course!!!
+Its a good start to the series. My only complaint is that the quiz and the lab assignments needs to be much harder. Its too easy to pass them. You dont get a feeling that your are being tested thoroughly.
+Very interesting curse, I learnt a lot, but I also invested a lot of time learning R for the final work, but this is a good practical approach if you are interested in the thema. Txs to Duke University !
+I have watched the introduction video to this course and i was glad to learn some basics of probability. I hope it will enhance my data analysis skills and help to realize my career as a data scientist.
+first course in coursera. Its very easy to follow as a beginner and it is amazing to realize so many other students are in the same course. Thank you , coursera and many thanks to the content provider.
+Fantastic learning experience. The hardest part of the course is not about statistics but the use of Rstudio. I have met lots of problem but the process solving them by yourself is definitely priceless
+The tutor makes it really simple. The given examples really helped to understand the concepts and apply it to a wide range of problems. Thank you for this. Wish I could complete the assignments too.
+I loved the course, the explanations were great and the examples too, I thought it would take me a long time to learn how to handle data with Rstudio, but this course accelerated me in the process
+I've loved this course. But i should say that you should improve more probability questions to practice before the tests. It will be very helpful! And also more graph using categorical data!!
+The final project is quite challenging but I have learned so much from this course. The lecture is great and the professor explains each concept well with examples. Really worthy of taking!!!
+This course was quite helpful for someone who like me who doesn't have a strong understanding of statistics. The highlight of the course was learning a new data analysis tool - R and RStudio.
+Great course - great guidance through RStudio coding. Would be great if the instructor could slow down a bit during lectures to make taking notes easier. Otherwise very happy with the course.
+excellent course. lots of material to work off of. I wish there were more tutorials for the R language! I would love to learn more of the capabilities of the program through this online tool.
+A very well prepared course!The videos' length is optimal, the course book is free of charge and easily understandable.If you expect a mathematics lecture, you will be disappointed though.
+Very good introduction  to statistics, for absolute beginners, like me, as to statistics and also to R. If you take it seriously you can learn a lot. Classes and Labs very well organized.
+This is a very accessible intro to statistical analysis, light on math but heavy on intuition, and the R programming labs are a superb way to practice and really learn to apply the tools.
+Really lovely course to begin your journey towards working with 'Statistics'(Using R). Had started this course just to understand the basics. Now I will try to finish the specialization.
+It was very simple to understand, excellent teachers. I really enjoyed it! I use statistics on a daily basis and this consolidates my knowledge. Plus, it helps me enhance my skills at R.
+This one was really a tough course to accomplish. The real-life assignment gives opportunity to apply the concepts on actual data, ensuring both theoretical and practical understanding.
+This was an excellent course, I found it easy to follow and I learned a lot that pertains directly to my career. I look forward to the other courses in the Statistics with R certificate
+Duke university makes the best classes by far. This statistics class has been a better introduction to data science than any of the "introduction to data science" classes i have taken.
+It was a great course. The videos were clear in the content and ideas. I personally struggled coming up with research questions for the project. But it was a great learning experience.
+Best statistical course ever taken!Clear explanation with practical examples and background on the basis of the statistics applied. Highly recommend to anyone interested in statistics!
+This course is good for beginners. For me I'd like to learn more about inference part of the book. Could you please tell me if you have also made videos for that? Thank for your help.
+This is one of the best courses I've taken with Coursera so far.  The lecture videos combine very nicely with the R training.  I look forward to taking the next course in this series.
+One of the better courses for understanding probability and probability distributions in a practical way using R. Thankful to Duke and Cousera for giving me financial aid. Grateful !
+This course is very helpful to people who want to start to learn R. It combines the probability and R exercise to help us to learn. The teachers are also very nice to our questions.
+Great and comprehensive video material. The book and programming exercises provide extra learning opportunities. I'm sure to be using my newly developed statistics skills in my PhD.
+This course was built in a very objective way. All the important concepts, sometimes forgotten in other courses, are provided. The lab exercises are well made and help to master R.
+This course was very helpful in teaching the basics of R and Data Analysis. Also, the labs and the final project give you a taste of how research is carried out in the real world.
+Amazing! What I most liked about this course is that apart from introduction to probability concepts it also gives GREAT introduction to R programming and R studio. Good Course!!!
+I gained basic understanding of analysis using statistic concepts and R language. The professor presents the materials in a clear way and I enjoyed the class very much. Thank you.
+This course helps me a lot to build a basic understanding of statistics knowledge in probability and data. I am looking forward to continue this series of courses in the future!
+The Course provides a brief intro of using Python to clean and analyze data. This course is awesome for beginners who want to embark their journey in the field of Data Science.
+good course but a R project should start from basics for people who are not even aware of the tool.Please also include a little more about ggplot and its associated functions.
+Excellent lecture videos and presentation of materials. I do, however, would like to note that perhaps the course would be enhanced if R language is presented in more detail.
+The course offers very good introduction to statistics. The course facilitator is very good in this field and she's excellent in compressing and conveying the course content.
+Incredible course!!! Definitely one of the best courses on Coursera. Amazing material, professor, lessons and final project. Congratulations for the great job and thank you!
+It was my first online course on coursera. It was nice learning at coursera. The content provided in the course is very well constructed. Instructor videos are very helpful.
+extraordinary lecture with clear explanation and examples. This course is way much better than the Johns Hopkins Data Science certification. I suggest you taking this course
+Great course. I am a begainer, I learned how to start with R. I also acquired knowledge of probability. Course methodology is great, you get to learn and apply the concepts.
+Great introduction to statistics. Dr. Mine Çetinkaya-Rundel is a wonderfully capable instructor, and she is thorough and clear in her explanation of statistical concepts.
+The course absolutely great. However, I hope that almost all the materials be reviewed in the next courses since they flee so easily.Thanks a millionSIncerelyMoein Razavi
+This course was very challenging but I came through successfully. The course was excellently structured and made me understand a lot about probability and data analysis.
+The readings and videos were a great overview of Probability.  The labs and data project worked well at teaching the student how R can be used for this type of analysis.
+Instructor explains the course material very clearly, course materials is comprehensive and homework assignment with DataCamp is the state of art online homework system.
+I am an O Level graduate and the course is perfectly designed for anybody to start learning basic statistics and R. The quizzes and assignments make it more interesting.
+A beatuifully designed course for beginners. This course explains in great detail the basics and various prinicples of statistical analysis required for analyzing data.
+SO helpful for understanding basic stats. Really appreciate that the text is free. The R lessons are a very good intro with excellent examples. A very helpful resource.
+The Introduction to Probability and Data course is a nice step into the world of statistics and a good refresher course for those of us rusty with statistical concepts.
+I really want to thank the responsible for this course. It really helped me a lot to clarify several things that previously were unclear to me, due to bad explainations
+This is a great starting point to master R and use it in data analysis. Not much pre knowledge is needed. The course is instructed in a way that is easy to understand.
+The course was excellent!
+The topics covered in the Introduction to Data Probability with R course were enriching to obtain more practical and theoretical knowledge.
+A highly demanding and challenging course. Perfect course material and instructors. It was extremely enjoyable and amongst the most satisfactory courses on Coursera.
+The course is very well designed and taught greatly.  The madam delivered the lectures in a simple and understanding manner and made the learning very interesting.
+Really good overview of basic probability theory and R. Like the focus on practical applications and real life studies that were done instead of just toy problems.
+Very well put together course with good introduction to R programming and basics of statistics. Lectures are excellent, logical, well-organized and easy to follow
+Great stuff, well organized lectures. From zero experience in using R to having some idea with it only took me a week to complete this course. Highly recommended!
+I thoroughly enjoyed the videos, the special book accompanying the lectures and the R exercises. My particular favs are the book and the R assignments. Great job!
+Most of the content is useful. Some of the probability exercises do not seem necessary for someone going into applied statistics, but they were fun nonetheless.
+The course is VERY helpful, I used all the things I learned from the course in my daily study, I feel more confident and committed to finish the specialization!
+The material and the presentation are very clear and informative. The quizzes are not difficult but not trivial either. The final project is quite interesting.
+This was a great reintroduction to statistics for me, and with the added benefit of learning to use R, or at least a beginning.  I will be continuing for sure.
+One of the best courses I have taken so far on Coursera. Great lecture content and excellent accompanying text (Open Intro to Statistics). Highly recommended.
+Very well structured course and gives a headstart if one wants to go in Data analytics or Data Science. All topics are explained in the easiest way possible.
+i loved the content, excellent classes and teachers. Excellent course to iniciate the use of Rstudio and to improve basic statistics and probability study.
+A little bit hard for someone that have zero knowledge about R and only a few notions about statistics. But is a very interesting challenge, great course!
+The lectures and reading materials are all good, but I do think more detailed instructions on R basics could be helpful, especially for rookies such as I.
+Very enjoyable and useful. The material is very well explained and the final project is challenger and fun.I learn a lot on the peer-review processes too!
+The metodology of the course is great! The videos and exercises in rstudio are extremely helpfull. I'll definitely come back to the full specialization.
+A fabulous course and a great starting point. Whilst I had these concepts already covered in my regular courses at UCL, learning R is a good take-away.
+This is the appropiate course for people who want to begin in the world of data analysis. The methology is great and the explanations are well defined.
+Great introductory course; I recommend taking the time to read the textbook as well as it gives you a much more thorough understanding of the concepts.
+Amazing course for people interested in statistics and R. Great instructor, everything is explained perfectly and simply! Great quizzes and assignment.
+The mixture of well thought out videos, an online book, and rmarkdown lab templates made this a great experience. I plan to complete the entire course.
+The course is well knit and the practice material given helps a lot!! This is an excellent introductory course for anyone who wants to go from basics.
+I very much appreciate the instruction in the course by Dr. Mine Çetinkaya-Rundel. I learned a lot about R, which was my goal for the course. Thanks!
+Fantastic instructor with a great energy.  There are plenty of examples to drive the concepts home and the textbook is fantastic.  Highly recommend.
+Wow, I would totally recommend this course to just about anyone but mainly to those seeking to have a thorough grasp of Probability and Statistics.
+This course is a good starting point for someone to learn probability concepts.I really enjoyed this course along with e-textbook. Thanks Coursera.
+Helpful !! learnt solving problems  with probability perspective .. which is will
+give more confidence while  solving real
+time analytical problems
+Really enjoyed a refresh on statistics, and using relevant packages and examples in R. It wasnt easy but exactly what I wanted/needed to brush up!
+Awesome professor, awesome explanations and awesome project in the last week!! Taught me so many things that I couldn't have learned by myself. :)
+Excellent techniques and methods involved in this scores. Learnt a great deal in R and doing analysis with hand on project was a great experience
+Ad:Lecture is clearly understandable! I can enjoy studying every day!Disad:I want to more explanations about data analysis assignments in week 5.
+Good reminder / introduction to foundational probability and statistics concepts. Accessible, simple introduction to using some R functionality.
+Really good introduction for anyone who doesn't know probability nor R.If you already know the basics of both, maybe this course is not for you.
+I really think this is a great course to learn something about statistics as a beginner. It's quite easy to understand and also very practical.
+Great introductory course. Content is conveyed very nicely, so it's easy to understand. Labs are really fun since it's based on real life data!
+Great course! It fully covered the knowledge and skills needed for a data scientist, with lectures, book reading, homework and R programming.
+Great course, good material and presentation, final assignment requires a bit of extra work but it's worth it for those who want to learn R.
+Great course，a very good way to get familiar with R programming as well as statistics，much better than the course "R Programming " from JHU~
+Wonderful class for statistics and R. This R practices help you step by step, which is less overwhelming than R program from John Hopkins.
+Amazing course, I learned new coding skills in R, also in data analysis in real scenarios and knowledge in statistics and probabilities.
+Good introduction - the pace of work is appropriate for someone working full time, yet wanting to learn more about probability and data.
+Very easy to understand and the topics have been explained very well. Even the additional resources are great for self study. Thank You!
+Great course. Loved the energy of the instructor, the general flow, tutorials and the best part was the Open Stats textbook. Keep it up.
+Fantastic course. Explanations are great and detailed. The quiz questions have the right level of difficulty. Instructor is very good.
+Highly recommend course which provide a firm descriptive stats and probability foundation.The assignment is quite challenging though.
+Probably the best introduction to probability and exploratory data analysis; easy to follow and lots of learning behind this course.
+Great explanation. Understood Bayes' theorem better. Found the probability tree very in-handy! The project was interesting as well.
+Great course. I really enjoyed the lectures, Dr Mine is a great teacher. The assignments especially the labs were also very helpful
+Very good course to get you started with R and the basic statistics concepts. The peer reviewed assignment is very interesting too.
+Both video lecture and books are good, big thanks to teachers who are reply our questions in time. I highly recommend this course!
+the content is straight forward ,short and informative and also the resources were pretty useful for furthering my knowledge 10/10
+Extremely useful and very well structured course. Recommended for all beginners interested in basic statistics and R programming.
+Well laid out and illustrated.  I used this as a review of basic statistic concepts.  Really enjoyed the course! Thanks!Honey H.
+I think the approach to learning with the basic knowledge of statistics and later it's implementation in R is really fruitful.
+Loved the course! Well taught and the labs support the learning process. I would definitely recommend this course to friends.
+The course was a good introduction to statistics. The last week assignment was really helpful to recall all 4 weeks learning.
+Loved this course. The material is presented in a way that makes it easy to understand and the examples are very interesting.
+Basic course of statistics and Programming. Basics got stronger. Course involves practicality of statistics and Probability.
+Thisisrealygreat training. Balance between theory and practice is one of the best in my experience. I strongly recommend it.
+The course is well constructed. They managed to discuss the basics of statistics and probability, and applications using R.
+Great introduction to probability as well as statistics. Usage of R is exercises and projects is intuitive and instructive.
+This course is highly rigorous and requires you to put in hard work and time.  It is a perfect course to build foundations.
+The course walks us through the basics really well. I was never bored even while watching some topics that i already knew!
+Acquired the knowledge about how to use RStudio in real world data analysis rather than looking into theoretical aspects.
+Good statistics 101, also the project is very helpful for me to hone up my R and mathematical thinking skills. Thank you!
+It is a good course. I learned some basic statistics knowledge. But I hope it can teach more about R statistical command.
+This course is well designed by the instructors. The concepts are taught to give a clear understanding about the subject.
+Great course, great learning. Much gratitude to the instructor & her team for putting out such an amazing piece of work.
+It's a great journey to learn this course. I have learned so much from the final project and the peer-reviewing. Thanks.
+It's a very helpful course who are preparing for Data Science. She cover all the topics of statistics. I like the video.
+Statistics is quite difficult and serious topic. Thanks for making this course as descriptive and feasible as possible.
+Lots of good well taught content on statistics in addition to the R tutorials. The book was also an excellent resource.
+I have enjoyed the course, it is an explained way to get initiated in statistics and helped me to start using RStudio.
+Thanks for the excellent course. The whole "Statistics with R" specialization is a perfect introduction in statistics.
+Good real-world materials and insight teaching for understanding basic statistics.I recommend this course to everyone.
+Very good introductory course on using R for basic statistics , data manipulations and plotting. Very much recommended
+The course is organized in a way such that it helps a beginner to get a better understanding of Probability and Stats.
+Used this course of review and it was much better taught than any statistics course I struggled through at university.
+Great Course! Totally worth studying! The instructors come up with interesting visualizations to explain the concepts.
+I've learned a lot and feel like now, I have a good theoretical base on probability, data types and sampling methods.
+Exceptionally brilliant. The course material is beyond amazing, enjoying every bit of the lectures. Highly recommend.
+The Course cover all the basic topics in simplified manner and above all there are discussion on many small details.
+The theoretical aspects were clear and sufficient to prepare us for the R segment of the course. Good for beginners.
+Great course, with great content and a lot of attention to detail. Definitely one of the best MOOCs I've ever taken.
+Very good course with good project and interesting assignments! Thank you for your help with Rstudio and statistics.
+Very good introductory course, worth the time to go through it. Even non-beginners will find something new to learn.
+I liked the structure of course, especially the assignments on data analysis involving peer-to-peer review. Thanks!
+One of the best Course to learn about Probability and Data.  Thanks for this amazing course Mine Çetinkaya-Rundel.
+I especially love the examples offered by professor in the course, very helpful for comprehension and application
+Very well explained with great examples and so simple to understandThank You So much for putting this together !!
+Probably the best statistics course I have ever taken....... Why we even do Stats is now beginning to make sense.
+Very good course. Well explained by the instructor. The exercises are very useful to reinforce learned concepts.
+Great introduction! Loved the pace of the course and how the course relates all concepts to real life scenarios!
+This is nice and comprehencive course.I have learnd a lot about Probability and got a nice practical experience.
+Good class! Suitable for beginners to R. I feel that I have made great achievement after finished all the tests!
+Excellent course! Love the project! It has helped me a lot in applying concepts to practice and understanding R.
+teachers are really nice; the slides are vivid and easy to understand.wish everyone taking the course enjoy it!
+An excellent way of learming applied statistics with R, highly recommended, but not for beginners on R Studio.
+very well conducted. Brings many real example of how to apply the statements. Very weel done. I recommended!!!
+Fantastic intro course. Gives you all the tools you need to succeed. Great for learning statistics and also R.
+Thanks to this course, I was able to develop my knowledge of statistics and get basic skills in R programming.
+A great introduction into Statistics! Especially did this course raise my interest of R as a programming tool.
+I love it, but there should be more discussion on how random sample would have been used on the final project.
+It's a wonderful course, you can learn different things about statitics and software R.I totally recommend it.
+It is quite a great course, very concise. All the concepts are well explained and many examples are provided.
+i enjoyed the faculty and the teaching technique adopted. highly informative, educative and applicable course
+This course was a great introduction to R and a review of basic stats. I can't wait to start the next course.
+very awesome class for statistics, very clear explanation. recommend for any one who want to know statistics.
+Excellent course. Gave me the necessary foundations to understand statistics and to use R as a usefull tool.
+Excellent course for beginners in Statistics. In depth teaching of every basic concept and its applications.
+Very clear and understandable videos, especially love the quizzes to reinforce concepts through each video.
+Correct pace and level, excellent examples and exercises. Really enjoyed this course. Thank you prof. Mine!
+Clear contents, demands work but it´s rewarding. R practices are challenging but fun (once you crack them).
+Excellent pace. Excellent examples. Learned a lot during the course and when reviewing other people's work.
+Great course for beginners in R to learn exploratory data analysis implementation and interpretation in R!
+It was really fun, and I learned a lot! The online lectures are easy to follow and interesting. Thank you!
+Excellent introductory course. Refreshed a few concepts and clarified several key concepts in probability.
+Instructor and textbook  do a very nice job of using the student's intuition to explain probability theory
+Thanks for the course, it was very good and had a valuable information and I got a very useful knowledge.
+Professor is so easy to understand. I wish I had more professors like this during my undergraduate stage!
+Great explanations from the instructor. Tests have right level of difficulty. Recommended for beginners!
+Great intro course. You can complete it in way less time if you fully dedicate your time to the course.
+Very nice and must have introductory statistics course. Thank you Duke University and professor Rundel.
+Very clear explanations, excellent support text. Just audited this class but learned plenty. Thank you.
+Everything good. Theoretic part is very focused on probability. The R part is basic but very didactic.
+Well, that was pretty cool, I started to write in R thanks to this course. Mine is really good teacher
+The course is great but Coursera has something seriously wrong with their system for peer assignments.
+Excellent introductory material. Added bonus is that you are learning R.Loved working on the Project.
+The course helps me to understand the basic knowledge of Probability and R programming. Thanks a lot.
+Very informative. Provides a good understanding about implication of data collection and probability.
+If you are looking for an introduction to basic probability concepts, this is a great place to start.
+Very helpful, and at a good level for someone who lacks a strong background in either the stats or R.
+Great course! Video lectures are neat and well crafted. Assignments and quizzes are challenging too.
+The tutor was very amazing. She really explained concepts with much clarity and attention to detail.
+Great course for the people who want to explore new things and are curious to learn new things.....
+This course contains informative content and is presented in a wonderful way. Thank you very much.
+Excellent!I have tried many many stats courses over the last few decades - this was the best one.
+It's clear and easy to follow. The hands-on are a shortcut for mastering R as well as statistics.
+It was so nicely structured course, and the examples given were great to understand the content.
+The course is really well organized and focuses on practical skills as well as theoretical part.
+The explanations were great! The R exercises were very simple compared to the course's content .
+An excellent introduction to statistics. Recommend to everyone who wants to get into statistics
+I like the simplicity of the course. It encourages the student to explore the subject further.
+very nice introduction into data inspection!This course lead me into the world of data science
+Excellent introduction course for beginners. Clear and well organized lectures and assignment.
+I found the course easy to follow and, for my needs, the level of discussion right on target.
+Course Content is very good. Lectures are neat and precise. Overall this course is very good.
+Excellent course. it provides a solid foundation to build upon for later statistics learning.
+really good course, learned a lot about statistics and the R coding part is really well done.
+the best part is the peer review feature on the final assignment - really get to learn a lot!
+Very fundamental and informative. The lecturer uses a lot of examples to illustrate concepts.
+Very informational, really good speed and content. Nice examples to illustrate the learnings.
+Very good introduction to R Programming, although the R-project felt like baptism with fire!
+Very useful for someone that needs to start updating to R language for statistical analyses
+I found the lecturer put much effort into producing high quality lectures and assignments.
+Have a simple understanding of data analysis, as well as a simple use of R language tools.
+Great and easy to pick up. I love the bite size videos, very easy to digest and re-watch.
+The concepts are clearly presented in a way that makes it simple to understand and apply.
+Well-paced course that really reinforced probability content with R programing language.
+Grreat overview of the basics and the labs provide an excellent platform for learning R.
+This course is very well constructed. The material is comprehensive and easily digested.
+This course is absolutely fantastic. The lectures great and the assignment was excellent
+Super useful and helpful, but we have to pay for grading. Still, 5-star for the course.
+It is a very nice course. Nicely designed. Instructor's way of teaching is very good.
+a very useful course for beginners. Proper instructions are given by the instructors.
+I like this course. The material is presented clearly. The home work is well defined.
+I've taken several statistics, data science, and R courses.  This is one of the best.
+A great course to learn statistics from the basics with cool real example scenarios.
+Perfect way to start with statistics studies, ultra clear, and immediate applicable.
+Loved the final assignment, challenging and really put to test the things we learned
+Very good course for someone that is starting in Statistics and programming with R.
+Very clear explanations and step by step examples and labs, even for beginners in R
+Material is fantastic. Instructor explains this very well and exercises are useful.
+It was a good course where I learned how to use statistical data in R programming.
+An excellent introduction to both probability and the R language. Great didactics.
+The lab sessions in this course is very helpful and informative. Highly recommand!
+Thank you Prof Mine Çetinkaya-Rundel .Course content was awesome.I learned a lot.
+Course is challenging but I was able to pick up a good foundation on probability.
+A good beginning of statistics and R, I like the way the assignment is organized.
+Excellent introdutory course of probability and basic statistics, using r-studio.
+Great intro course, Thanks for the amazing R markdown file, It is very enjoyable.
+An excellent introductory course to probability. With a very good approach to R.
+This course is very useful to freshman without R language and probability basis.
+Excellent course, and thanks for the book! The instructors are really dedicated.
+I broadly recommend this course to reaffirm knowledge on basics of probability.
+Very good course to help beginners to start learning R with statistics knowlege
+Magnificent course. Final project highly strengthens understanding of material.
+Dr. Mine Çetinkaya-Rundel is awesome! Her lectures are very comprehensive!!! :)
+It was a great course and I learned a lot. Thank you very much for the coruse.
+Great Course! Hopefully, we can get more practical with R in the next courses.
+Instructor is great and curriculum was well organized and easy to understand.
+Very good introduction to statistics. The R tutorials need to improve though
+The course was very enlightening, it was well designed and knowledge-packed.
+Very clear and interesting. Every learning point comes with a vivid example.
+Great starting point for anyone interested in statistical analysis using R !
+I learned really a lot. I will continue to take this series later this year
+This was a GREAT review of Stats for Me.. so glad that I found this course.
+Very useful for beginners who want to start increasing skills in statistics
+Amazing course. Learnt a lot in short period of time by taking this course.
+This course combined basic statistic knowledge and practical R skills well.
+Great videos with lots of helpful and down to earth examples. Recommended!
+I got a good grasp of probability which i have always struggled at school.
+Good introduction for beginner. Assignments helps us to learn practically.
+the assignments, especially the practices in R studio, are really helpful!
+The course was worth it! The instructor’s explained the topics very well.
+Great videos with the right amount of exercises and additional resources.
+very well-structured course! the lab is especially good for practicing R!
+Very effective course. I learnt more with this course.Thanks to all Team
+Great course to learn the basic of probability and  data analysis with R
+Perfect Course to teach me toughest subject of my educational life ...!!
+Excellent. Would appreciate more in-depth teaching of R, but it is fine.
+Great lectures. The course project could benefit from greater structure.
+Mime is simply awesome. Hope I can get her to autograph my book someday.
+I've really enjoyed this lecture to understand basic statistics with R.
+A very good course that introduce very well the statistics and R usage.
+Meaningful and useful lectures to have statistical knowledge.Thank you.
+Excellent content - Also greatly helped improve my R programming skills
+good introductory course. looking forward to diving deeper next class.
+Had  a very insightful experience. Learnt R due to this course only !!
+Great Course to learn the basics of R and statistical learning methods
+A very good course, the topic is presented in a very understanding way
+Great course, if you want to know the basics of Statistical Analysis.
+A well thought course organized in a perfect way.Thank you very much!
+Great course, clear explanations and very good exercices to practice.
+This is a very helpful course when it comes to data interpretation ..
+All the course design and teaching techniques are all very excellent.
+Found the course extremely useful, material clear and well presented.
+It is definitely one of the best courses for data science beginners.
+It is an excellent 5 week program, covering the basics of Statistics
+Great course, very organized and everything is easily understandable
+A very clear explanation and detailed instruction! Thanks very much!
+A good introductory course on descriptive statistics and probability
+Amazing course! Gave me a real exposure of data and numbers. Thanks
+Excellent course, it gave me basic concepts and a good aproach to R
+Good instruction, even though the final project is little bit hard.
+Excellent course, very thorough introduction to probability and R.
+The project assignment is challenging, but very good for learning.
+I like the instructor a lot! She makes it very easy to understand.
+Thanks for presenting us such a great course! I've learned a lot!
+Great! Excellent introduction. Well explained, and very complete.
+Can not find a single flaw in teaching, and in assignment design.
+It was very good, but the final project was maybe too difficult.
+Great course. I will use all knowledge I acquire in future work
+An Excellent course by Professor Rundel on Probability and Data
+Appreciated the quality of content and teaching!   Good course!
+I did not pay for it, but greatly enjoyed it. It is a wonderful
+one of the best course on probability i have ever taken, period
+This course was good to set and to start a statistic knowledge
+Learning R and understanding the statistics background is fun.
+Awesome course for anyone who wants to learn R and statistics!
+Excellent course material and learning experience. Thank you.
+thanks ..it was nice course ..very interesting and important.
+this course helped me a lot to gain skills on R programming.
+Excellent course for basics on statistics and R programming.
+Mine is a great instructor. She explains concepts very well.
+very fundamental knowledge of probability and data analysis.
+it helps to get familiar with R and basic knowledgeg on data
+It's a really useful introduction to probability and data!!!
+This is a great course, well constructed and well designed.
+A very interesting course to introduce Probability and data
+A very good introduction to statistics, probability, and R!
+10/10, Mine Çetinkaya-Rundel is really fantastic instructor
+Mine is the greatest statistics teacher I have found so far
+Exceptional introduction to probability and Bayes' Theorem.
+good course ...very useful if you want learn from scratch.
+This module is great! I really appreciate and recommend it
+Amazing experience in learning this course with Coursera.
+It was one of the best course for R which I have attended
+Great course! It is a good introduction for probability .
+Simple delivery with quality reading and video materials.
+This course was magnificent. The instructor is top Class
+Great course to start learning about probability with R.
+Excellent lectures and well-designed practical sessions.
+Easy to understand videos along with great assignments!
+thanks teacher for this amazing course! thanks coursera
+very good course for  basic and fundamental probability
+Thank you Coursera to help me for my great achievement.
+it is indeed a good way to start a data science journey
+Been a joyful ride with learning R , Hope to learn more
+An excellent introduction to data analysis and using R.
+This medium of learning is very flexible and effective
+Great lecture, clear illustration, easy to understand!
+To the point and gives good gist of what statistics is
+Great course, very useful tutorial for getting staRted
+I really learned so much in this course. Its awesome,
+There should have been tutorials for the R exercises!
+contains detailed explanation on probability and data
+Excellent intro-level course for Probability and Data
+detailed explanation and accompanying course material
+Very good introduction to fundamental of statistics!
+Great Course!Easy to understand.Sufficient practice.
+happy to submit learned new way express probability
+Great course to learn R & Exploratory Data Analysis
+Great refresher while I develop my R coding skills.
+Excellent! from any point of view! Thanks Dr Mine!
+It's an introductory course, but it's very useful.
+Well organized course with good labs and lectures.
+Got a simply method of using data, analyzing data.
+Well taught and covers the basics to a good level.
+It is great and really helpful !!! Thanks a lot!!!
+Crisp and clear course on introductory statistics.
+It was more challenging than I initially thought.
+Great start in to data science. Loved the course.
+Very knowledgeable with practical use of R Studio
+Very nice and well explained material. Suggested!
+I liked this course. Very elaborate introduction.
+Great introduction to statistical analysis and R
+Very well informed of the Probability and the R.
+Terrific! The recommended textbook is also good!
+Good for high level understanding of probability
+An awesome introduction to Probability and Data!
+One of the best Intro courses I have ever taken
+A premier understanding about R and statistics.
+It was a good introduction and very informative
+I really loved this course! Thank you very much
+Fantastic introduction to simple data analysis.
+Great Course, though R could be more explored.
+Really clear lessons and interesting examples!
+This was a nice class that worked a good pace.
+Great lesson! it help me a lot in probability.
+I learnt a lot. Fell in love with statistics/
+Very clear and useful testing along the way.
+Seriously it was amazing learning experience
+Best course to understand what is statistics
+Great introductory course towards statistics
+I learned how to use R through this course.
+Excellent!! Absolutely loved this course :)
+A very well-made introduction for newcomers
+very nice lecture and assignment framework!
+A good course to start with the basics of R
+Very clear, objective and effective course.
+Amazing I feel like a statistician already.
+Love this intro to stats. Amazing pedagogy.
+Good course, gives you a solid foundation.
+Excellent course to learn R and statistics
+course was very helpful for the begginers
+Good course with an excellent instructor!
+Nice course. It is friendly for a newbie.
+Best for learning statistics from scratch
+This is a very good introductory course!
+The best stats course I've taken so far.
+Great introdiction to statistics AND R.
+Great introduction to statistics and R
+Very good introduction to these topics
+A very good course! Basic and detailed
+This was a nice and informative course
+Brilliant! Very clear and informative.
+One of the best course in Statistics.
+Mine I great & the course is awesome!
+Very nice course! Easy to understand.
+very informative, learnt a whole lot.
+is very interesting it is good course
+Good content and nice way of teaching
+Fantastic course with great exercises
+Nice content...worth for beginners..
+Very detailed and informative course
+I feel so proud and rearing to go!!!
+Very good one. Learnt a lot from it.
+Useful from practical point of view
+Excellent course. Great instructor!
+I have learned a lot in this site.
+Excellent course, very informative
+Excellent course even for an Intro
+Exellent introduction to the topic
+Really clear, enjoyed this course!
+Clear and enthusiastically taught.
+Very nicely planned, great content
+This course meets my expectation.
+a good start for data career path
+this course is very useful to me!
+Good course! It was interesting.
+Great course. I learned a lot!!!
+Amazing Course! Amazing teacher!
+good starting stat and R course
+Great conceptions and exercises
+so helpful. Thank you so much.
+The best course for statistics
+Excellent class for beginners!
+Nice course, great instructor.
+Great Course! I learned a lot.
+Very practical course to start
+So simple and well explained.
+Excellent course and teacher.
+Very usefull and interesting.
+wonderful and so interesting
+Awesome, I liked the RStudio
+Very pleasant experience all
+Awesome Course for Beginners
+Very good, so helpful to me
+Very high quality lectures.
+The teacher is pretty good
+good learning experience!!
+The teacher is very good.
+It's mcuh worth to learn
+The course is too good.
+This course also uses R
+Comprehensive, thorough
+Very good intro course.
+Very effective course.
+Improves Knowledgeable
+the tutor was awesome1
+A good starting course
+clear instruction ever
+was relly great course
+Super good! Thank you
+useful, really useful
+Really really great!
+Very amazing course.
+Very well organized.
+what a nice course.
+IT WAS SO COOL ASF!
+Amazingly explained
+I like the course!
+Very good lessons
+Simply explained.
+Love this course.
+Need more R class
+GOOD INFOMATION
+Really helpful1
+Super helpful !
+Great teaching
+Loving it!!!!
+IT WAS FUN

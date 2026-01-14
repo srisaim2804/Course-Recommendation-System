@@ -1,0 +1,260 @@
+No support, the info in the quizzes are not covered in the videos, there are prerequisites, calculus being one, that is not covered in the syllabus, questions go for months without being answered.Please remove this course from the site and replace it with one that is supported.
+I thought this was an Intro course?  There was no intro and I was quickly overwhelmed with electrical jargon. There needs to be an intro to this intro.
+Course lists no pre-requisites but assumes a solid understanding of physics.
+why this much time,and pretty tough too..
+In my opinion is necessary have more course material to allow students go deeper. I used a lot of extra resources to pass weekly tests.I found very interesting of all topics but I suggest made more practical example in order to made easy to understand practical aspects
+The course is difficult, instructors are pathetic. They teach A,B,C and in final quiz it's  X,Y,Z. It is very difficult for average student like me to solve. I had no choice but do this course, otherwise I would not have even looked at it.
+I was under the impression that this was an intro to electronics but this is what my coworker took in his 6th year of college not as a beginner.  This is way out of my league, but thank you.
+Not an intro.  It's a review. So if you want to have a beginner  introduction  to this topic, this course is not indicated.
+The professors who taught this course were very clear in describing the fundamentals. However, the forum questions were virtually ignored by the professors. Many posted questions remained unanswered or not enough feedback was provided. To pass the course one must  score 100% on the last quiz as the most difficult question was worth two points and even if all the other questions were answered correctly one would not receive a passing grade. This could have been an Icon course but the lack of support and the fact that solutions to the section questions never had solutions. One must pay in order to get answers to the sections quizzes. I hope they offer more EE courses but their support must step up!
+The course is pretty comprehensive and covers a lot of concepts relating to electronic circuit analysis, giving the tools for basic circuit design. However, the assessments sometimes get really far into the weeds, and sometimes it felt as if I was being tested on my ability to parse out intentionally messy algebraic statements more than my understanding of electronics.
+It was a good course, with appropriate explanations and calculations. However, as a senior student, a lot of the basic knowledge was assumed to be present, which made it quite difficult to understand some of the calculation methods. However, I feel as if it will be sufficient for those who have started university.
+Just i want to say that it is necessary to make a range for acceptable answers in the Quiz as when you get a number for an answer for example 3.02 it is the same approximately to 3.12 but the grader always consider the difference  between answer as a wrong answer.
+I found Dr. Ferri excellent. She is just so good at explaining things. But Dr. Robinson wasn't that clear and I couldn't understand his part much. Overall course was good
+It's a good approach to electronics but it doesn't go trough a complete explanation about how we found the formula needed to solve problems.
+The course is some what difficult ,but if we put our efforts wee can do it easily..
+This course is good for an overview.QUIZ questions were good.
+more insights of the topics were expected!!
+I like this mam teaching
+This course gives a very good start in the field of electronics.
+This training helped me to review some concepts I learned when I was in University. In some way there is some good modules which help you understand how the circuit design process is... however, some other modules got very focused on circuit analysis instead of circuit design.It would be highly appreciated if Georgia Tech launches a Specialization focused on Electronics, per what I see, there is only basic circuits and basic electronics training courses, but no Specialization path.Thanks Dr. Robinson and Dr. Ferri for taking time to answer questions in the forums.
+this is a very good course for beginners and really made us learn a lot but my personal suggestion is that the course`s video lecture part can be improved and it seriously lacks some content which should definitely be improved in future,  and the questions was  really challenging and helpful for us it would have been easily rated with 5 star if that one problem wasn`t  there . but overall it is a nice course and recommendable to all. thanks for this wonderful course
+Overall a great course. Perfect for people who learnt about electroncis some time back and need a refresher. Few points to work on:The first 4 lectures are perfect, I'd change nothingThe diode section is too long in my opinion.The MOSFET and BJT section is a bit un-structured sometimes. Maybe it would be better to have a simpler example but actually derive the equations (not just give the result). But again in general the course is good and and really helpful.
+time spend for this course will yield results,assignments are not easy to solve and once if you can crack these and i hope you should be a master in analyzing the circuit behiaviour, I deeply appreciate the efforts from the instructors and sincere thanks to coursera to narrow the gap between bigger universities(like georgia in this course) in the world srtaight onto your PC/mobile.Now learning is more fun Thanks with regards Vivek Sharma G
+Generally, I believe the courses are very well explained. Sometimes I had difficulty to read Dr. Robinson's hand-writing and mostly I believe the explanation from Dr. Ferri was slightly more clear, but overall very positive. After having completed the course with a successful result, several weeks later still I haven't received my certificate yet, which is perhaps the negative point. Also, the discussion forum isn't that active.
+Good introduction level course. There are space for improvement though: Content-wise, I wish the instructor can give an introduction or summary on different types of transistors, at least compare MOSFET and BJT transistors; Other aspects: the instructor and mentors could answer questions more promptly. There are questions left unanswered for more than two weeks and questions which never got answered on the discussion forum.
+Starting from the Scratch of Diode Information to ending up with Transistor analysis indeed is a great way to either kick off or brush up the concepts in the field of Electronics. This course led me to design fundamentals in Analog Circuits along with good portion of focus on CMOS Design that can be helpful for Digital Design as well. Over and All, It is such a nice course that I will strongly recommend it to my peers.
+This is fast-paced, and skimps on detail in a few places, but then it is an introductory course. It covered the material that I wanted covered, but I would have liked to see a bit more of the design choices being discussed, not just their consequences. nevertheless, I enjoyed this course.
+This is a useful course for all technical students by this i gained both theoritical and practical knowledge and by practising the practical problems and solutions it make it easy to solve the problems and fastness was increased and i learned a good subject from this.
+A well-done course that explains the theory very well. The quizzes are challenging enough although I would've liked for more problem-solving videos. I feel that there weren't enough of those. But overall I did learn a lot about electronics and how they operate.
+Thanks for a very informative course. For an introductory course, it is quite detailed, and as a newcomer to electronics I struggled with some of the material:  I hadn't looked at integral calculus since school days - I am now retired!.
+Good course, personally I got lost once sin got thrown in, that's because I only started taking trig after the class had already started. What I got out of the course was nice, though I wasn't able to finish at no fault to the course.
+It was pretty amazing course! I improved my problem solving skills too. Electronics was my weak subject but enjoyed this throughout. I think, the speaker's volume was low in few video's, kindly work on that. But as whole thank-you!!
+This has been too comprehensive a course on the Introduction to Electronics. Go through the basics of AC circuits handling and transfer functions, which are a bit complex to handle but very useful in audio products.
+Good course for beginners. It give basic concepts. But it has one disadvantage - a lot of arithmetic in quizzes. In my point it should have more theory. Anyway, it has a lot useful information.
+all basic concepts & characteristics of components is learn by this course.The quizzes is little bit hard. but due to  that  my concepts of basic electronic components is strong now
+This course was very interesting and very complete. It is also interesting because we can learn things with our own timing, so that it permit to understand things in a better way.
+A few errors in the lessons, some material was unclear and poorly connected to the worksheets, but overall still very good.I would give a 4.5/5, but 5/5 is reaching too much.
+great effort and detailed explanation of some of the essential electronics fundamentals, would like to see more courses covering the electronics subject in more depth
+The Great course, which gave me the understanding of electronics. Last 2 chapters and harder than the beginning of the course, and the last chapter looks poor
+It was usefull to recal my knowledge of electronics. The course is not deep, but it's that you want from "introducting" course.
+Nicely put and very useful information but too rigorous and precise result expectations for the mathematical calculations.
+The course was great but some quiz were a bit tough. Also not all types of transistor configurations were taught.
+The course was nicely explained till transistors, but as week 6 starts, it starts getting out of mind.
+Nice explanation, i learnt new things from what i know already. Thank you Dr. Ferri and Dr. Robinson
+No replies in the forum from any of the faculty, it's been years since they came online it seems
+Hopefully the introduction to MOSFET and transistors could be more elaborated and more detailed.
+learned a lot of simple formulas..course was well framed and explained.thank you so much
+Very good lecture pace and difficulty level which gradually increases with every week.
+A little bit too simple and hope the lecture could focus much more on the MOSFET part.
+I appreciate respected faculty for sharing their experiences  on basic electronics
+Very good introductory course on electronics. Left me interested in electronics.
+In the last quiz you got savage, asked thing you hadn't explained completely
+I came to know about basics of electronics and i totally enjoyed this course
+This course is very much helpful to recapitulate by B.Tech course.Thank You
+the op-amp part was very good. better than others. I do thank the teachers.
+easy to  understand and clear explanation.i enjoyed this course
+Great refresher, cover important theory fast and concisely.
+it was really helpful made alot of my doubts go away...
+Got some good idea on circuit fundas! really helpful :)
+It is very good learning source to present generation.
+The only complain is that it kind of feel uncompleted
+a good introduction to the subject, and enjoyable.
+the course is good but need to be more depth
+helped in improving my knowledge
+Nice and informative course.
+Thank you.Quite informative
+very good course a lot of
+Very good teacher.
+Well Explained !!
+Best managed
+right
+This was a great refresher course for me! I took ECE 3040 on campus during the summer of 2012 but it was fast paced and couldn't get much into applications... this course did and I'm thankful!
+Thank you professors, you organized a very nice course. It is really a nice starter for people like me from a different background than electronics or electrical engineering.
+This course introduces us to the basics of electronics and is an excellent course. I would recommend EC students to go through this course since it will help them a lot.
+Considering that it is a introductory course of just 7 weeks I consider that it achieved its goal.  Don't expect a deep explanation about the physics of the devices and complicated circuits. If it is you first time learning electronics it will help understand the basic concepts and I recommend it. If you want to remember some basic concepts I recommend it too, but if want to learn more advanced topics like high frequency response of an amplifier, communication circuits, cascode, differential and operational amplifiers this is not a course to you.
+This course is very useful to learn basics of electronics. Assignments and quiz examinations are some tricky , so it increases our analytical skills.
+i have 12 years teaching experience, your teaching style is extraordinary, i am referring many text books, but madam gave excellent  definition of diode simple way.  rabison describe excellent way of Ac and DC analysis of transistor.   never seen before this type of tough questions. but very very tough questions i was practiced .thank you Dr. Ferri and Dr.Robinson
+Great course to learn the basics of electronics. It covers all the basic devices and components used to create electronic circuits with in depth analysis of how they work. By the end you would be able to analyse electronic circuits and be able to obtain the circuit parameters with ease. 10/10 would heavily recommend to anyone planning to enroll.
+Very well explained...lucid yet challenging. I would suggest you introduce a bonus module of explaining the derivation the Small AC signal analysis of MOSFET switches and BJTs, as it was taken for granted and regurgitated directly in the quizzes. The quizzes are challenging, but just the right level of difficulty to test beginners. Great course!
+Electronics is one of the hard to learn subjects using internet. I am studying computer science and I could not find good introduction course for electronics except this. Thank you!
+This is a beautiful course. Be the end of the course you would definitely get confidence with the basics of electronics and once complicated circuits would look so easy to unravel.
+I have learnt lot of new things . Thanks to both Instructors
+This is a great Course for someone who want to start to learn about electronics , So for someone who just wants to brush up the basics. I was looking for a course to brush up the some of my basics in electronics . Forums were helpful, when u are stuck up at a problem and needed some help there was always someone or some forum which discusses about the details. Detailed solution are provided once you have solved the quizes. Dr Ferri and Robinson's teaching is pretty good. Especially the way Dr. Robinson , teaches about the applications and solving the problems after Madam Ferri  teaches about basics and intial overview. I am looking for somemore advanced courses for them.
+Yes,  the journey was fantastic!When I started the course, I thought that, the name  introduction to electronics indicates only introduction, I can just refresh the concepts and complete the course in short  time. But as I  started solving my assignments and quizzes, I realized that the University had made it to the highest  standards. Every quiz  improved my analytical skills and my confidence levels. I  enjoyed being in the discussion forms and connecting with my peers. Thank you Course Era and Georgia Institute of Technology for bringing out such a wonderful  course which covers everything in  Electronics.
+i would like to say that I am really appreciate Georgia Tech to offer me such a chance to have a good review and have a better entry point to reexamine the concepts of electronics devices. I started form DC analysis , AC analysis, and at the end of Nov started to learn 'Introduction to Electronics' , the course material is easy to understand and professors also combine the theory with lab facility and day to day application. and In forum, they are willing to help us solving homework. Thanks Georgia tech, Dr Ferri and Dr Robinson.
+I thought this course was a good way to come back to what I studied in college twenty years ago. Through the 7 modules, it holds your hand through basics of electronics (components, circuits and elementary circuit analysis) to set one on the path of further learning. There are 6 to 7 lecture videos of 10 to 15 minutes each in every module and a liberal offering of mid-video questions, practice questions and end-of-module quizzes. All  thoroughly enjoyable and effective tools of instruction. Thank you for putting this together.
+A very good, but also challenging class. This is the quality and level you could get at a university as well, and frankly, I've had far worse classes taught in university. The teachers explain the matter clearly, and overcome the limitations of remote sessions, which makes practical work difficult, by showing the demo set ups. Without a good foundation in university level calculus this course is probably not for you. For non electronics-engineers that want to expand their horizons, I can definately recommend this course!
+I love this class. It is well organized. Alternating lectures and practice quizzes (some coursera courses only offer 1 exam at the very end of the module)  The lectures are clear . I would recommend it. The final quiz has challenging questions but just enough. And there is a correlation between the final quiz and the practice quizzes/lectures (some coursera courses have exams with little correlation with lectures). The class just miss a lab component.
+Very lucidly explained.This course not only covers theoretical concepts but also designed and aimed to cover practical concepts through the help of demonstration using breadboard .Just have a try I promise you will naturally develop affinity towards electronics.Once again my best wishes to the team who undertake this course to the highest degree of accuracy and dedication.
+This fundamental course on Electronics which is covering all the basic devices like OP-AMP, Diode, MOSFET and BJT is very effective. I thanks the Professors for explaining the concepts so clearly and easily understandable manner. My heartfelt thanks to all the Professors for teaching me this course to achieve my course completion certificate.
+A very nice course which involves the concepts of electronics in a compact way. This course is organized in an efficient manner by both the instructors to cover up the basics of a wide range of topics involved in Electronics engineering. I would be thankful to the instructors for their effort and commitment for building this course.
+This course is very helpful for freshers. With the help of regular assignments just after the completion of each topic makes your grip on that topic. Quizzes are very helpful and are relevant to the modern study pattern. After completing this course you feel confident in electronics and begin  to enjoy learning electronics.
+Good start in the journey of electronics. It is a complicated subject to teach with a lot of units and nomenclatures - Dr Ferri and Dr. Robinson handle the course well. I thank you for creating this course and look forward if you bring in more courses and may be a specialisation in Electronics.Best,Pushkar Sheth
+Really good course with the necessary concepts of electricity and control systems to get started in electronics. I'd suggest to add a little more on semiconductor physics and calculation of the operation point of diodes. Nice and well curated content, clear explanations and good examples. Congratulations.
+Course content and exercise questions are excellent. In my opinion, in case of fractional answers the final solution should be acceptable in a range. For example: The solution value for a question is  3.40955 and in question only upto two decimal places are asked then 3.41 should also be acceptable.
+Very informative course with great example that enhance understanding. I love their quizzes and questions, they prove how much you understand the topic. I recommend that to every starting electronics engineer and student or as a quick revision for the basic topics in electronics!
+This course on, "Introduction to Electronics" is neatly designed, clearly illustrated and formulated well in a manner that it covers all the fundamentals and how to apply it after learning those fundamentals. This is a very good refresher course for Electronics Engineers.
+Excellent course for electronics engineering faculty and  students. Thank you very much for Dr Ferri and Dr Robinsir for their excellent presentation and communication. The practice and quiz problems are interesting and useful for better understanding   of electronic.
+I am very satisfied with the quality of this curse. Very well organized and very good teachers. I was able to learn quickly everything that I needed. Examples are also very good and it helps you to learn even better. I recommend this curse to everyone. It's 10/10.
+Challenging Course but with concepts given at such an EASE anyone can understand it from scratch.Course makes sure you have proficiency in circuit designing and problem solving with quizzes focusing that you have multiple decimal level accuracy in calculations
+I am very pleased to find this course online because as far as i got i learned so much how to solve some examples here which is beneficial for my exam in my university of electrical engineering. Thank you so much, very good content and teachers.
+great course for a beginner in electronics! All-round and easy to master, however, to truly apply it to reality, some practice and the trial for harder question( such as the problem in Common-emitter circuit Q point calculation) is necessary!
+This is the best course for anyone out there who wishes to get his basics clear very effectively and the instructors too have put their heart and soul in explaining each and every concept with utmost diligence. I really loved this course.
+this is one of the best course for electronics students .to learn the core from basics. and the trainer in that course is simply super and also explaining doubts and reacting fast for our doubts is the best thing in this course  .....
+A really very good introductory course for the beginners in
+the field of electronics, I do recommend it. And a BIG thank you to all of you
+who have put a lot of effort and made the course available to us, may God bless
+you all.
+I found this course engrossing and well presented.  It took me many times the suggested number of hours to complete, but that is probably a reflection on myself.  I am very grateful to the presenters for creating it.
+It is pretty good course for someone who wants to learn electronics and has no background of mosfets,diodes,opamps or transistors. It is required to know basic electrical laws such as the voltage and current law.
+This course is more helpful for our academics as well as competitive exams. Anyway thank full all the speakers giving excellent lecturers through out the course.  I sincerely thanks to organizing committee.
+Very exciting and interesting course. Both the duo of Dr Robinson and Prof  Ferri made it possible to understand the fundamentals of Electronics. As a graduate of ECE, this was a perfect refresher for me.
+This course is really excellent and every student can learn their basics perfectly and best platform for competitive exams preparation and I thank all the faculty for this.
+This course is perfect for leaning basics of electronics and i really enjoyed a lot. Both the faculty is very supporting , and i also learned so many practical knowledge.
+This course is very well organized and helped me a lot to know the basics of electronics. Thanks a lot to the instructors. They are enjoying a lot while studying.
+This has been a really great and helpful course for me. Helped me clear my doubt about my previous knowledge and learn quite new circuits and its components.
+This course was awesome, i liked it very much. i will look forward for more classes with you guys! Thank you for your dedication to do a class so amazing.
+Nice course for beginners to electronics. Gives nice explanation about various components and the assignments are helpful in gaining hold of the concept.
+Nothing More Nothing Less ,I Would Say Dr Ferri Is The Best. Dr Robinson Was Also Good But I Find Dr Ferri Was More Explanative , She Is Really Good.
+A very basic course about electronics covers all about linear and non-linear parts. Very nicely designed for covering all electronics concepts.
+Great course indeed.Reason behind taking this course was to clear my concept on Op-Amp.It was in my Academic syllabus in my 2nd Year 1st term.
+I am extremely thankful to you for such a wonderful course. I think there should me some more courses related to electronics. GOD bless you.
+It is a very good course especially if you want to revise your concepts again. Dr. Robinson is truly one of the best teachers in my life.
+Clear and concise. Excellent course, all very clearly explained, will be suitable even for those who do not know much about electronics.
+Good course with theoretical as well as practical knowledge for Electronics and Electrical Engineers to refresh their basics concepts.
+Excellent course, as a student of engineer, I used this plataform to gather information to use it in my class of electronic circuits.
+It is really helpful the explanation is more than great I think it is going to be beneficial for all electric related departments.
+this course is absolute beast. but the person must have some basic knowledge on circuits in order to fully grasp the content.
+overall course is good and i learnt many new concepts  thank you for giving the opportunity to learn such a wonderful course
+A great refresher course for electronics engineers. This course enhances your problem-solving capability and accuracy.
+Today I learn more about electronics some words are not clear for me . Some tym the formula are so tough to remember.
+A great way to revise through the topics for the Electronic Branches & also an opportunity to learn something new.
+It's an amazing course which provides very good understanding of the discussed topics. Thanks to the instructors.
+Excellent course for basics of Circuits and Electronics. Method of teaching is great. Learning material is rich.
+Just got to know amazing knowledge . Professors explained each concept very well and made easy to understand .
+A rich and in depth learning experience. Thanks to the Team and felt much interested in solving Quiz problems.
+It is very amazing course, iam very happy to enroll this course and finally got my electronics information
+I have gained a lot of knowledge regarding electronics....I enjoyed alot .....while learning this course
+Very usefull course. I begin undestand more things in electronics. Thank you, Dr. Ferri and Dr. Robinson
+This Course is very helpful to understand the Basic Concepts of Electronic Devices and its Operation..
+Best lectures in the field of electronics!! it helps me a lot.thank you Dr. Ferri and Dr. Robbinson :)
+Good explanation but some necessary point like how voltage work, because this is an Intro i think ! ..
+It is very good course. This course gives an brief knowledge about electronics. Thank you professors.
+Excellent course and excellence guidance received from instructors. Looking forward for more courses.
+excellent course for people looking to have a quick revision of analog electronics or even beginners
+I Think this course is very helpful to me. Thanks to Georgia Institute Of Technology and Coursera.
+Great Course. Thank you. Would have liked if it allowed us to simulate the circuits ourselves too.
+Very interesting course, especially for non-native speaker. All the lectures described perfect!
+Really an awesome course which improves basics and bring innovative ideas to bring out the best
+very easily  an electronics engineers  can understand the concepts by solving these numericals
+Great course. Taught me a lot of things which i didn't learn by attending a useless college.
+very nice course really learnt a lot, this course will help me greatly with my school work.
+I liked your course. Method of supplying material at a high level. Thanks to the lecturers!
+Excellent course. quite a tough one. as you go further the level of difficulty incresases.
+It is basic but it needs improvement in the areas such as the explanation of band gain and
+She is the best electronics teacher I've seen. I wish she did the whole course by herself.
+It was a very good course.  Concepts were dealt from fundamentals to advanced concepts
+IN BASIC ELECTRONICS I HAVE LEARNED A LOT THROUGH THIS COURSE SPECIALLY MOSFET BASICS.
+Very Thorough and Challenging making us put more effort thereby helping us learn more.
+I benefit a lot. This is just a summary of 2 years undergrad electronics course I did.
+I finally understand the concepts of Electronics. Very good lecturers, my compliments.
+This Course was more challenging and requires a lot of practices to solve numericals.
+It is a lot easier than linear circuits 1. I can understand the lecture video clearly
+It was little bit difficult but it was a wonderful journey! Thanks to both teachers.
+The course was awesome and it was a fun ride.Thanx to both Dr.Ferri and Dr.Robinson.
+Excellent course. Every student interested in electronics should pursue this course.
+the classes by the DR HENRI mam is excellentthank you for the wounderful course mam
+Very useful course. It really helped me understand all the basics for electronics.
+I really got true knowledge. I am really very thankful of coursera.Thanks a lot...
+I am happy to say that my problem solving skills had increased due to this course.
+I really loved that course specially instructors are so helpful.. thanks to them
+I loved this course. Really very amazing course and very talented Instructors
+I liked this course. It made refreshment to my knowledge about electronics.
+I learn much more about electronics from this course than at university :)
+Dr. Ferri is too good as an instructor. The diode part was really awesome.
+i really enjoyed this electronis  course.The way of teaching is very nice.
+Some quiz are so difficult but we were repeat try again. Thanks for All.
+This is course give me alot of information about electronics thanks alot
+This course helped me to understand basic electronics components well
+Super..Eventhough i am doing PG..I learned a lot through this course.
+Thank u Dr.ferric and Dr.Robinson course is so awesome...very useful
+very good course for the learners who want to deal with electronics.
+Conclusion of the basics of electronics with some great evaluations
+Thank you very much.
+Finally I understood the base of electronics.
+perfect refreshment for me to go back to my undergrad topics
+it very good course and I got a good knowledge. Thank You!!
+Thank you, It was such a great experience, I learned a lot.
+very informative and help me understand basic electronics
+Good and Difficult questions and some are out of syllabus
+Completed!I've Learned a lot Thank You!Thank you so much
+Clear and very informative. Highly refined and polished.
+A very beneficial introduction for Electrical Learning.
+Very Easy to Learn, Nice Explanations, More Informative
+GREAT COURSE! EXTERMELY HELPFUL IN MY LEARNING PROCESS
+This Course was very good and its reboot my knowledge.
+Great Course!! It just made my concepts crystal clear.
+Very interesting course. Thanks to all the professors!
+The best INTRO TO ELECTRONICS ONLINE without a doubt!
+The assignments were really very good and insightful.
+very informative course , teaching  is also very good
+Excellent learning ..Hats off to all the instructors
+very good course...to learn deeper in core subject.
+very good course, objective and very well explained
+Good introduction to basic circuits and components!
+Overall great explanation of the material covered.
+Excellent class, as the profs explain with details
+thankyou so much ma'am and sir.very nice  course.
+Best course developed for Electronics explorers.
+Very good experience and really helpful session.
+It was my first online course and its wonderful.
+very clear explanations with real world examples
+I have learned so many things from this course
+very useful for people who loves electronics.
+excellent! I've learn a lot from this course.
+Very Helpful Course. Thanks to all Teachers.
+Was Very nice lectures and practice quizzes
+i learn a lot of things, thank you so much
+Course was good. Quiz is very challenging.
+Topics were very clear and explained well.
+great for people have just basic knowledge
+Very useful and excellent course for me.
+im very much satisfied with this course.
+Awesome for basics in electronics field.
+Gained knowledge regarding electrionics
+very good course to clear your concepts
+It is great course, I learned a lot of
+For beginners its a wonderful course.
+excellent course, highly recommended.
+I find this course highly beneficial.
+Nice Experience to solve assignments
+Very useful and interactive lectures
+Excellent Course!Very professional!
+This is very helpful as a beginner
+good knowledge to digital circuits
+surely its useful for our carrier
+Great Course. In depth Concepts.
+It was very tough but intrested
+The course is very interesting
+Good basic electronics course.
+WELL THIS IS QUITE INTERESTING
+Excellente Introductory course
+Thank you , amazing course <3
+great course and explanations
+interesting course to learn
+Excellent Course. Now What?
+Great Course! I loved it.
+Course designed very well
+very interesting concepts
+clear concise and  loaded
+full knowledge gained
+Awesome Assessments
+Very instructional
+very goood course
+It's good for me.
+Very good cource.
+IT IS VERY USEFUL
+Detailed Course
+thanks mam
+Brilliant!

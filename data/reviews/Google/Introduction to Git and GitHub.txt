@@ -1,0 +1,527 @@
+Week3 Lab intro to github, which is the worst one. When I try to push and typed password for the first checking progress, the terminal will be died. I literally wasted over 100 hours and spoke with 6 cloud specialist. None of them able to help me out, but I figure out the reason myself. I just wasted tons of hours... never recommend this to anyone
+Though topics are simple and clear to understand Instructor made it very complicated.  He made it very confusing and complex to follow topics like forking and rephasing.He also doesn't seem enthusiastic as other course' instructors.
+If you mess up a command there's little to no instructions on how to fix it and have to rely on the forums
+There were not many graphical explanations. It was hard to understand
+You can't get the practical knowledge unless you have linux software.
+It's a good intro to github, but for more experienced users, it's a massive pain to keep having to generate personal tokens due to 2FA & for users who don't like to add new repos to their existing accounts, it does get on your nerves
+The course is pretty good, but you should be able to skip it if you already have experience with Git and GitHub.
+Good for people who have no idea what Git is but not so much for people wanting to improve their understanding because there aren't really any challenges where one would have to actually put an effort.
+Very few graphics used to illustrate concepts. Jus a guy standing at a desk talking to you. There is no help available when you're stuck on the exams or during practice quizzes.
+Labs were not challenging but frustrating to go through
+The course autocompleted my labs section
+You'll learn about git and git hub but I feel it shouldn't take 4 "weeks" to learn the material. A lot of time in the videos is wasted. Google Python animation, reiterating what we've learned, congratulating us for watching... We only need a few minutes of video and the rest would be better as an interactive web experience.
+Instructor is awesome but the grading tool is worst of its kind. The grading tool is total waste of time. Its so slow and frustrating. It's just like spoon feeding, just follow the instruction, type them and get passed. No learning at all from grading tool. It should be named frustrating tool.
+Hello Mr/MrsMy linux system is blocked, because I made a test of Git/Github by connecting to one of your remote machines and I forgot to disconnect. Currently the machine is in emergency mode, how can I fix this situation?
+Instructor has good style of teaching and explaining things but course itself is very uninteresting and I don't know how GitHub is related to beginner level IT technicians. I did not find it useful
+Good overview of Version Control other associated concepts and how to use them in your code development.  VC is an essential part to any software project.
+A very basic one, in my particular case completely skipable one, but i undestand is posibly necesary to another people
+Could have being more interesting and with more content.
+Its a good jounery...
+Great Intro. course to the concept and tool - Git.  Just wish it comes with more practice exercises.
+I would like to see more explanation via diagrams. For the rebase concept, there were NO diagrams. Also, it would be better NOT to stick on to qwik labs. You have to type the code AS IS in the qwik labs, otherwise it wouldn't let you proceed. It's better to let the learners use Git Bash on their local system to experiment.I loved the instructor's way of explanation. It was very engaging. Previous to taking this course, I took the course "Version Control with Git" provided by Atlassian (Bitbucket company). The Atlassian course was boring (his voice was monotonous), BUT they gave diagrams at each and every concept, and gave practical exercises after every single video. Practically speaking, even though the Atlassian course was boring, it was way more practical. The final assignment by Atlassian was excellent to cement our understanding.
+Very nice course of a topic I wasn't too much aware about. Great instructor. For my as new-bee on the topic the beginning Chapter 1 & 2 are the most interesting. Chapter 3 & 4 went to rather deep at high speed. It wasn't possible to type along as there was no github project to fork and go along with. The labs in the end all condensed the material to the essence again. Most google courses on coursera feel like commercials (for the GCP). This one not and I consider this course together with others in the specialization as one of the better courses I have done. Thanks
+I found the course to be challenging in week 3 & 4 . Week 3 dealt with complex workflows of push-pull requests , rebase commands.It would have been helpful if the assignments too had covered such topics.It was left to us to practice those.Also in some videos the instructor should explictly mention which branch he is working on or atleast customize the command line (use zsh) to define the branch name.I was confused sometimes as to which branch he was working on. Otherwise, it is one of the best courses to learn git with lot of resources provided by Google.Thanks.
+The course is an ideal introduction to such extremely interesting technologies. Kenny goes extensively on Git's basic commands and use and sets plenty of examples of the real-life aspect in which the student can understand and get accustomed to Git's framework. Overall, after completing this course, you will have a clear understanding of what a Version Control System (VCS) like Git is like, and how Github complements and adds features. It is a MUST if, in my view, you are in the IT or computer sciences!
+Content is good. Instructor is exceptional.Qwiklabs testing is buggy, lots of issues. Thanks to contributors in the Discussion Forum for insight and help with issues that should have been rectified months ago and are still prevalent. A clear instruction set should be written without all the conversational text. Could be so much better. Come on Google !
+The concepts and theory of version control system are presented in a well structured manner in this course. I have learnt a lot out of this course. On thing this course lakes is practice assignment and graded assessments are also not very intensive. Overall a good course.
+The explanations were clear and very easy to understand. The only problem is that graded assignments are too easy, and don't let go of your hand. They don't let the student have a chance to fail, him or her just has to follow a step by step instruction...
+It was a bit too easy. The vids/labs should have had a lot more real world hands-on examples of longer durations. Ideally we should have been teamed up too (with a bot would be fine) to simulate some of the issues faced in the real world.
+It gives a lot of practical examples and you go practicing at the same pace that the instructor explains, at the end it gets quite complex and you need to re watch the videos several times to understand or search for other resources
+This topic is good to know. I used two computers to follow along all the changes. The quizzes and assessments were not the most helpful. I did think it was cool when my work from one computer showed up perfectly on the other.
+This course helped me understanding git workflow which is super useful for collaborating with other developers and even for creating a small project. The last part was a little tricky but I will tackle it with more practice
+The video lectures are great. But the quiz are too short and straightforward. Maybe some more questions to remind us the details would be better.Also, it would be helpful if the history tree were showed more often.
+The first part of the course was really very good. I felt that the second part of the course was a little fast paced and should have been spread over 3 weeks to also include the concepts in more details.
+Great course and instructor! The peace was slow enough for a good fixation of the concepts. The only thing I missed was more practice in code collaboration on GitHub, like the last Lab of the course.
+The course was a great into to Git and Github. My one negative feedback is that the graded assessments (labs) were far too easy and didn't really cover everything that was discussed.
+Very interesting course. As a suggestion you could tell something about the add-on GitHub Desktop that is really easy to use and sometimes more used than the command prompt...
+Videos where very in-depth, really easy to understand. Qwiki tests seemed a bit un-related to the videos sometimes and only touched on a small amount of the material.
+awesome instructor made concepts very easy to understand .....best for people who don't know anything at all about version controls and git...thank you...
+Content could have been better and less confusing with the help of more visuals explaining how the graph/branches are progressing at each step and command
+The course content is great the instructor is terrific, the labs are well but the support of the labs platform was terrible, delayed, and useless...!
+The instructor was brilliant and the course content is of high quality. Will go back on a regular basis as I'm using Git and GitHub more. Thank you!
+It's awesome and very helpful covers all the topics which is used in the IT industry along with some quick intro with the CI/CD tools
+Instructor is very nice, who was using high level words which is used to unusually, explained concepts of new skills kindly, easily.
+Course is nice. But complicated commands can be illustrated more precisely so the students can get practical knowledge from them.
+The course gives a clear understanding of the git and the github with knowledge on enough resources relating on the subject.
+A good course for one who wants to get introduced to Git and GitHub. Would highly recommend the course for its simplicity.
+It is a good Git and GitHub course, the challenge is with CI and CD, but the course gives a start in the way.
+Great material and presentation.  Some github collaboration stuff was a bit murky but practice will help.
+Good course but assessments were too easy. You could just finish without understanding anything I guess.
+Nice Course. Concepts Explained by instructor and doing ourselves through Qwiklabs was Excellent.
+A wonderful course of a mus to use tool for every programmer either professional or hobbyist.
+I learned a lot about GIT. I can say that it is a useful course for introduction to Git
+This is a good introduction to git, pull requests, and general good practices.
+i like this course, i hope it can help me in my future work . thanks a lot
+it is very good course to learn about git and github. i loved this course.
+It's just a sensational course. Explaining is the best by the instructor.
+There could have few more git commands tutorials like git cherry-pick.
+overall it was nice to learn about the git and github in such a dept.
+Well explained, would be great if rebasing can be explained better.
+plenty of excellent and immersive parts throughout the course.
+Let the graded assignments include everything that was taught
+nice experience to Learn GitHub and Version Control System
+quizzes and assignments should have been more challenging
+Nice One for learning Git. Thanks for this good course.
+Very well organized tutorial and upto the mark content.
+A really nice course, concepts were clearly delivered.
+All Nice...but Please improve last Week i.e Week 4
+Actually this is a good course to learn about git
+Confusing at first but you'll get the hang of it.
+More difficult assesments would have been great.
+nice course but but the projects are spoon-fed
+really helpful for my future goals achievement
+Decent intro to git and how it can be useful.
+It is a one of best course of coursera :)
+Thank you for such an interesting course.
+Good Course. Thanks Google and Coursera.
+qwiklabs assignment needs to be improved
+great course and great instructor :)
+smoothly handled and very intuitive
+Best.The best way teach any course.
+Great course with great instructor.
+It is good course for basics of git
+Nice intro and good practical labs.
+It's definitely not for beginners.
+it was nicely explained
+Thanks for Guiding
+Great content !!
+Very good curse
+Week 1 & Week 2 were awesome! and Labs were fun!!. BUT!!!! Week 3 could have been more descriptive with little more illustrations and animations. I found that alongside speaking, if animations could have been included more, then it would have been really great. In week 3, commands were shown and typed without any animations. it was difficult to apprehend what was commands doing to the state of repositories and remotes. It could have been better if, for REMOTES & LOCAL REPOs, states were illustrated alongside.
+The course was structured really well, with short and to-the-point videos. One single thing to improve would be to include some more exercises, since the ones in the lab were really easy to solve
+Awesome !!! I tried to learn git many times but things always slips over my head but I was fortunate enough to stumble upon this course and voila, I have learned so much in this course. Thanks a lot.
+This course guide the student in an enterprise set up scenario so he can  be able to collaborate on projects. The instructor break down complex Git concepts to enable efficient contribution to large code base. This is an essential skill for IT professional. I learned a lot. Thanks to the instructor, Coursera and Google.
+Excelent course. It gives us a very good overview of VCS using Git as example. I've learned lots of commands and how to interact with github. I hadn't been in touch with theses concepts until this course, so I started from scratch and could achieve good results. I'm very satisfied.
+This should be the first course in Specialisation, would help students like me The complete Novice in IT may gain very high boost towards their career. The best of Best Course I completed.Thank you, for Making + step forward in Right Direction.
+This course is full of priceless information, but at the same time to the point. I reckon I will come back to the videos as I encounter new challenges particularly when collaborating with a team.
+Even though it's an introductory course and everyone must get deeper into those topics, this course is very complete and provides you all the necessary to work with git in a real IT enviroment.
+Amazing course! It teaches you a lot of really important stuff that you'll most definitely use in the I.T. world. Thanks, Google for sharing so much knowledge with us!
+Good course, interesting topics, good instructor. Appreciated that lots of related links prepared for the students to read (eg. CI/CD, best practices, articles etc.).
+Another great course in the professional certificate.I followed along in the videos using a Linux laptop and eventually a freshly opened github account (which you'll use in the later labs).I can't recommend strongly enough following along in an 'active-learning' fashion.  For example, there is one video in which a period is missing from a python command in a script which isn't tested before committing.  I struggled for a few hours on this, making my own amendments to the script and going through the git workflow.  Later on in the videos, the typo is identified!Another great instructor and another great series of videos and exercises.
+A great course delivered by a great instructor! I only audited this course (am just about to start a new job and so don't have so much free time) and so only watched the lectures and completed the quizes, but I now have a good understanding of what Git and GitHub can do. The explanations and demonstrations given by the instructor are very clear and are accompanied with helpful animations, while the in-lecture and end of module quizes help you test your comprehension of the conceps and tools as you go along.
+Excellent course I really learned a lot about git and GitHub during this course. I like most others have used git and Github before but it wasn't so clear. This course gives a person a really great foundation in a well-understood manner. The only drawback is that the labs, they are at times buggy so read over the instructions well and note that github by default not refers to master as " Main". be sure if you have an assignment to change that setting in case the labs are not updated
+This is a great refresher on how git works. I enjoy learning about workflows especially. This course has provided clear instructions on workflows which is, in my opinion, essential to collaborative work. If anything, promulgating these workflows as professional standards will be a major achievement to the path to industrialization, ensuring common practices and a common understanding among everyone involved in the industry. And this is exactly what achieving certification is about.
+VCS is a must-known concept for every developer. This is a well designed and well explained course from google team, that teaches VCS, Git, Github and continues all the way to introduction of CI/CD technologies. Also, the practice labs are well explained, even the bare beginners can get there hands on git and github very quickly and can start collaborating on open source projects. Thanks to google and the good instructor for giving an incredible learning experience.
+This course is really helpful for non-IT/ Computer science students who wish to understand the whole "GitHub" Phenomenon. As an Engineering student majoring in Electronics I had no idea about where to start learning about Git. There were a lot of resources out there but they just added more confusion than solving the problem. I would highly recommend this course to anyone who has heard a lot about GitHub and Git but never understood it. Thanks, Google and Coursera.
+Don't think twice before enrolling in this course!!If you really want to learn Git and GitHub (yes!! they are two different things and I didn't know this before enrolling in this course) I would strongly suggest this course. The course has really good practice labs that make us understand the real hands-on implementation and workflow of Git. By the end of this course, you'll be able to start your next project totally integrated with Git and Github.
+Perfect and solid concepts.As we know that git is too much vast, without practicing them its impossible for one to master. Hence if we do practice along with this high quality course i;ll that will be the best.one suggestion: In the course where the concepts of merging and conflicts were discussed, according to me there need at least one ore example, because you know its not very easy concepts of manually conflicts solving.thank you.
+It is an awesome course offering virtual machines to get practice with the concepts. Beginner-friendly, generally going through the idea of Git and practicing on the basic workflow of virtual collaboration. It was great for someone who is looking for the intro-knowledge of Git, and I would recommend going to the next level of this course if you have known the basic command of Git or looking for more hands-on practices
+The content was great. Some of the lectures on branches, merging and conflict resolution would benefit a lot by additional visual representations (and perhaps some animations) about how the changes will look like. For the most part, these were done just by talking about them and showing git log --graph, but they just popped up and disappear quickly from the screen.
+A very interesting course explaining a very handy tool to use while coding.Every coder can use this tool to work on their projects.The instructor  definitely needs a special appreciation ,he is very informative,engaging and a very good teacher.He taught a lot of difficult topics very easily.I'm very grateful to COURSERA  for providing this course
+The course is nicely arranged and explains the concepts of git (and VCS in general) decently. Most useful commands have been covered and should be enough to get you through most of what is thrown at you. For occasional stonewalls, the best solution is practice and experience. The hands-on Qwiklabs exercises are also great. Good course overall.
+Outstanding course. Recommend each and every IT specialist who wants to know his/her about history of their code and what they have done so far. Quite to be honest, in the past I used the Github but I have no clue about what I am doing. In  this course I learn both fundamentals and some expert-level of using Git and Github. Thank you!
+I have learned so much about git and github from this course. Although, introduced as an introduction course this course covers almost every aspects of git and github which will be enough for many learners out there to include Git and Github as their skills in their resume.Thank you Kenny, and everyone for your support.
+I took some courses and watch some tutorials on Git and GitHub to understand better. However, they only got  me confused the more.  Opposite is the case with this course because it has helped me got the concepts clear. The tutor's method of teaching and communication skill  are really inspiring and motivating.
+My favorite thing about this course is how interactive it is. You can put on practice what you learnt right away and it just makes it easier to understand the concepts and practical uses it has. I recommend reading some of the complementary articles because they're so interesting too
+This course is super useful and easy to follow in understanding git and GitHub. I like teacher's passion and interactive autogradable labs. This course is also helpful in practicing command line. All the workflow is shown in Linux but you can use Mac OS or Git console in Windows.
+Excellent Course! I particularly enjoyed the manner in which the course instructor kept up motivation and explained all concepts with proper hands on examples. The access to the virtual machines ensured that as a student, I could gain hands on expertise with the course content.
+Very awesome course t0 start with version control systems. It has a good structure to keep the learner active. The instructor is very good at teaching. Explanatory animations are also good. I would suggest this course for anyone who likes to start with version control systems.
+I really appreciate the instructor did not read a script while teaching (or at least I did not notice it). Also has a good pace speaking. What all instructors have in common is that they won't get a career as comedians (cause of the bad jokes). It must be an IT related issue.
+This course is practical and interesting. The teacher is easy and fun to follow. The qwikLab tests are simple - but hands on. I enjoyed the course. The last part, code review and pull requests, where a bit too much ... but did not effect my positive opinion of the course.
+not easy to make an entire module on git and github. Well Done.I would have appreciate to get an extra course on Setting up jenkins, exceptionally when CI/CD were mentioned. As I believe these concept are demanding and pretty standard nowadays.thanks for the great work
+I really liked this course. I think that it covers all basics that are needed to freely work with Git and GitHub to maintain projects on your own. There are enough examples, and information was clear and easy to understand. Great way to learn Git in your spare time.
+Excellent course with a great instructor.Totally practical and hands-on assignments. I started with no knowledge of Git and GitHub but now after completion, of course, I am confident. I am happy that I have learned a great skill. Thank you, Google and course team.
+It was an excellent course with many opportunities to test your knowledge via quizes, hands-on exercises and QwikLabs real-time experiences.  I have never thought I would be learning Git and GitHub and I am glad to have done that and have this tool in my pocket.
+Honestly, I have been using github for more than 1.5 years and using it only for pushing to directories and pulling back from the previous if any problems occurs. But after completing this course learned a lot about git & git-hub. Really happy to learned a lot.
+This course was great, with many examples and clear explanations.  I have some experience using git, but the course provided a great review and even helped me understand some concepts better. For a beginner, this would be a good introduction to git and github.
+In this modern world, there exists no alternative to group projects. To make the collaboration between the group members smooth there exits no alternative of VCS. Thanks to the instructor and the whole team who have helped me to make this journey smooth. <3
+Absolutely loved the instructor, he wasn't too serious so the material was easier to digest. All video lessons were thought through and the whole scope of the course was exactly what I needed: all main functions of git & its usage in real case scenarios.
+This Course is Simple and easy to understand the basic concepts of VCS. I really enjoyed all the exercises given. The teacher is great, He explained all the content in the simplest manner. Highly recommended to those who want to learn Git and GitHub.
+It's good course to explore about git and GitHub with industry standard content, I will encourage to anyone who is looking to learn about git and github. Thank you so much Google along with coursera to make this course available via online
+Great course with great instructor. I really enjoyed it. If I have to give one suggestion for the course: it would be to have some difficult assignment at the end especially related to rebase and fork/pull request. Thanks a lot
+It is a very complete course, and what I liked the most was the actual worked that I did workingether in my own proyect or colaborating with someone else's remote repo. Also the instructor enthusiasm at teaching was amazing.
+Great Course for my starting my journey with GIT, it would be more better if the labs include excercise for practicing more concepts of git.But still the instructor provided us with a good understanding of various concepts.
+Very useful course for beginners. We will learn all the important tasks in git and github with ease. Not just git, you will also learn some python concepts, connecting to remote computer via ssh, accessing cloud services.
+This course was really Awesome. It deals with the complete syllabus of git and github. And its worth the time to study git. Its Google man, its pretty cool to learn with Amazing Instructors. Thank you Google and Coursera
+It was an interesting course  and i learned more about the course and gathered more information about the course. And the mentor who taught me was really good . I really enjoyed the way i learned through this course .
+This was a little bit complicated because of the nature of Git. But the last assessment was an eye-opener, I messed around with the repo after I finished the Qwiklab and tested everything I learned there. It was great
+The content covered was spot on what I expected, I learned a lot more about the power and features Git and Github have to offer. Also Kenny totally rocked this course as an instructor. Proud of you sir and well done.
+This course was really filled with a lot of new concepts and technologies. But it was really interesting and having the instructor reassure you that it's normal to not understand everything helped keep me motivated.
+Very informative, straightforward and engaging. Version Control Systems like VCS take a lot of time to understand and get used to. You cannot memorize these commands. Always have the official Git reference in hand.
+The course covers all basics (and some intermediate I think) skills around Git/Github and version control. Explaining the workflow since creating files until upload the changes into a remote repo. I'm very happy.
+Great Introductory course on Git and GitHub.I have taken few courses before but this course made all the concepts very clear. Now I can't think of starting any programming project without Version Control System.
+Wonderful journey. Before this course i cannot able to understand the concept of pull request including collaboration. But now i can do this easily thanks to instructor who have made these videos interesting..
+This course was really helpful in understanding industry prevalent version control.so far keywords such as pull,push & fork seemed dreaded words.Thanks to this course for making things easier to understand.
+Excellent course. An eye-opener indeed. Now I know how to track changes in my projects and collaborate with others. The instructor is very good he gives detailed information on how to accomplish each task
+I have always looked at at Github when searching for code or help on a project, but never understood what it was all about.  I now have a much better understanding and appreciation for Github.
+This course was really helpful for me. I was having experience with git and github but surprisingly I get to know many new things from this course and instructor is simply awesome and excited!
+Loved this course as it helped me solidify my understanding of git and opened ways for me to think of and use git, github on contributing to open source projects and managing my own projects.
+This was one of the best course I have done. Really easy to follow yet very detailed material and examples. Thank you Kenny and Team Google. One of the best courses ever. Highly recommended.
+Excellent Intro to Git and GitHub. Covered everything I want to know to dig deeper. Course enthused me. Labs could have been a bit more challenging but OK considering the student population
+Great course! Well explained and examples are easy to understand. The use of quicklab from google is a great idea to teach with an unique environment for all the students. Congratullations!
+A great course with a great instructor/guide. The online assessment tool is one of the best and easiest to work with and also teaches us how to connect to a google cloud instance passively.
+This  couse is owesome. This is the most complete git and github course i've ever taken. Thanks for google and the instructor for providing such a great course. I found this really handy.
+Very nice course I liked usage of quiklabs. :) Although as the last test do not have grading inside of the quicklab its a bit weird to not know whether you have passed before you submit.
+It's a great experience to learn git and GitHub. there such a nice instructor who helps to understand the basics of git and Github. I think it's helped me lots to my further learnings.
+Very good course with a lot of practical exercises that you would encounter in real life. I can't wait to apply all the knowledge at work and in future projects to make my life easier.
+It's a great opportunity to learn about Git and GitHub, and not only the basics, there are some complex concepts that will get your mind thinking for a while. Thank you and good luck!
+This is an amazingly thorough and well explained course. I was always confused with the idea of version control, especially Git and GitHub, but this course helped tons in that regard.
+The course instructions break complex concepts into bite-size chunks that help digesting and applying them much easier. The instructor was also very encouraging and fun to learn with!
+The course is pretty informative as well as provides interface for you to do practice as well. It is worth doing and  it will surely make you more informative about git and git hub...
+Thank you so much for this wonderful introduction to Git and GitHub. I think everyone can, with a bit of attention, can understand almost all the terms and commands in Git and GitHub.
+I think this course is very easy to comprehend even for non-coders. Git is not restricted to just coding projects, it can be used for any collaborative projects to ease the workflow.
+It has been amazing learning this course. My knowledge about Git and GitHub was absolute zero before this course and now I can easily work with it. Thanks for such an amazing course
+This course is simply amazing! Seriously, best mooc I ever took. Amazing video lectures, nice cheat-sheets, engaging labs. High-level pedagogy. And the instructor is outstanding!
+amazing course. I learnt a lot and it covered a lot of concepts with clarity and relevant examples, followed by practical assessments. I will definitely recommend this course.
+Very helpful to gain the basic knowledge of using Git with GitHub and how we can use it for our projects that continously needs modification and testing and at times rollback
+It was cool to get hands-on experience with some tricky examples and to see a step-by-step of how Git handles conflicts! This is the best Git training that I have seen yet!
+Using  git for my project was always tempting  since I started my CS degree program but also overwhelming, this course gave me all the skills and confidence that I needed.
+This is a well-designed course for beginner and for those who don't have cs as background this course is must for those who want to contribute as a open-source developer
+This is an exception add in to the course, as I have yet to come across such a simple and thorough instruction set to learn Git command line to a basic functional level
+Although already a bit familiar with git, I learned a lot and really enjoyed the instructor motivation and explanations! Qwiklabs were really excellent too. Well done!
+The course was really nice, I enrolled to expand and improve my git knowledge, and it worked. The instructor is also very nice and he knew how to explain very well.
+Thanks Goolge for such a great learning experience. I appreciate the course instructor, who  precisely elaborated every single command of Hit and GitHub. Love it.
+Great class! Enjoyed learning about Git and GitHub and how they are used to keep project logs, restore previous versions of code, bug fixing, and collaboration.
+I really appreciate this experience. QwikLabs are just good. I learned so much more new things about the amazing tool Git and the platform GitHub. Quite good!
+The course was very helpful. It contained a lot of useful information about git and github that I'll be using to improve my projects and managing my projects.
+The Course has good reading material and the the instructor tries to make jokes at the end of some videos which makes the course interesting and fun to watch.
+Thank you! You helped me to understand how Git and GitHub works, the difference between them and how to collaborate with GitHub in a distributed environment.
+This course is well organized and it will help a lot of programmer out there in organizing and having history of their codes. Am really proud of this course.
+This whole concept of git is a lot interesting. Its feels nice to learn git and github, Now I can explore and contribute a lot of great repos that out there.
+I really enjoyed this course. I believe the concepts were clear and well explained. I would like to met the teacher IRL. Thanks Coursera for the opportunity
+Loved the hands on Assessment ! The course content was extremely helpful and of really good quality. Loved this course ! The instructor explains really well
+Great!! I didn't have any pre-course knowledge but after I finished I learned the basics and concept and I want to keep practicing to improve my knowledge.
+I learnt github and git and version control system but the course was amazing but first 2 weeks i found it tough then last 2 weeks it was easy and amazing
+the instructor was very good at in communication and teach hard concepts in easy  manner ,also in time to time he make some jokes also which was very good
+This course is really good. I learned so much from this course. Instructor is also really good and knowledgeable in the field.Looking forward to use this.
+It was an amazing course.The instructor was amazing. His teaching skill is  awesome and the course is really gonna help you for collaborative programming
+The course took away the mystery of version control and helped me feel confident that I could use the git VCS and the github as a collaboration tool.
+It's really awesome course. Explanations are very clear and thanks to instructor to make a session clear.And practice sessions are make very useful.
+Very good. Everything well explained and in an easy-to-understand way. I highly recommend this for everyone wants to learn Git from an entry level.
+the course is very intresting and its the topics are properly scheduled, so that any person irrespective of programming background can learn easlly
+This course helped me immensely.But, the overall course certificate format is not that great.Kindly, provide us with better formatted certificates.
+Amazing course!! I want to specially congratulate the Instructor that taught all the concepts very clearly and had my attention the whole time!!
+Very well taught and explained. The labs can inculcate the harder topics taught in the lectures instead fo the simpler ones for more practice.
+IT is a great course to learn git and git hub. 1 Suggestion to all the learners, Read the suggested reading/articles they give many insights.
+I've been using git and GitHub for quite some time now but I still managed to pick up a lot of best practices in using git from this course.
+Lovely course. I definitely will recommend it to my friends and colleagues. Thanks Coursera and Google for giving this opportunity to learn.
+Excellent course.Contents were solid and the instructor explained them very clearly.Very recommended if you want to start with Git/Github.
+The instructor was so good, and the course content was also well balanced. it lets you know so many things in a very short period of time.
+I'm very pleased to enrol in the course, A very informational and I have explored some new topics and got to know how to use the GitHub!
+The best course and the explanation was too good .You will definitely enjoy doing this course. Learning is Fun! justified with this one
+It is excellent introduction to Git and GitHub, but it looks a little bit incomplete: I expected to see more practice with CI/CD tools.
+Superbly paced course, it gives us a good insight of GIT and real-life scenarios to understand the functionality. Highly recommended !!
+Understood git and GitHub completely this time. This is the best resource for getting started with a Version Control System right now!
+The course material was soo good for a beginner to a grip of git & githubThe teacher was a gem, and it was great following his talk.
+Very well explained the se and the pace is very comfortable. Highly recommend to anyone interested in learning about VCS and Github.
+It was a great experience, and i feel that like can start to contribute to projects and make my owns and shared in the remote repo.
+It is the best course I have ever encountered for learning GIT and Github.Instructor is also very good and always keep us engaged .
+One of the better ones this course.  I have found Git to be a challenge - bio major here and finance MBA - so I need the clarity.
+This course is exactly what I need to push myself and learn how to use Git and Github step-by-step.  Kenny is a great instructor.
+Probably the best course ..No other proved to be so useful as this one .It will really help me a lot in my future IT career....
+An excellent course that introduces all the fundamental topics of Git and version control. Definitely a must try for beginners!
+It's hard to find a course that covers both Git & GitHub.The content is great and well organized too.  It was a great journey!
+The course is practical and very useful. I really like the way the instructor explains and guides you throughout the course.
+All the Instructors from this classes are really great and Kenny was the best. Really looking forward for the next training.
+Hi Googlers, thanks for creating this course. This course covers all the fundamentals and the course is beautifully crafted.
+Learned some new commands in git and now know how to open/close pull requests and track issues. Kenny is a great instructor!
+The course is very good! The contents are well selected, the instructor is very good and clear and the activities are nice.
+A course that every software developer wannabe must take, as Git (and GitHub) are an integral part of the every coding job.
+A great introductory course about the version control and how we can take advance using all posibilities that it offer us.
+Very straight forward course with awesome examples and realtime virtual lab. I recommend this course to other developers.
+Clear, clean and precise course. It provided me exactly what I needed to learn Git. Thoroughly satisfied with the course.
+Good course. I came to know lot of things about git n github. I dam sure this is going to help to use git in better way.
+Thank you for the opportunity! It's been brilliant. I finally learned how and why to rebase and other useful techniques.
+good course and easily recommendable to all beginners and this is really helpful in getting started with git and github
+Very helpful course, before this course I didn't have a clue about Git or Github but this course has taught me so much!
+I find this course very useful in daily life practice! I want to say thanks to the instructor of this course!Thanks bro
+Well I had no prior knowledge on Git and GitHub. And now, it's my new superpower. Thanks a lot for this awesome course.
+This course was very informative! If you want to know how to use Git and GitHub this course will definitely help you.
+Thanks to the course instructor for covering broad amount of information. I'm now really excited to work with git hub
+Really a nice approach to learn Git and GitHub. Good for beginners in programming as well as intermediate programmers
+A very good overview of GIT and it's capabilities. Definitely recommend to people who want to get introduced to git.
+Good instructor Helpul for Managing different versions of projetctsEasy to Understand Good Practice QuizesGood Labs
+You will learn version control, how to use both Git and GitHub from the terminal, and software project management.
+Very nice intro to VCS, Git and GitHub, excellent order to get people step by step into it. Nice experience for me
+Wonderful learning experience. Learnt a lot about Git and GitHub - using the CLI method. Thank you for the course.
+It is one of the best courses, thanks Google and also thank you Coursera, and also thank you Amazing Instructor.
+very good course to understand the importance of git and Github in IT industry and to master the commands of git
+It was a great learning Experience!!The instructor has a great knowledge and knows how to share it effectively.
+Very easy to follow and covered all the basic concepts and situations that i would ever encounter in my career
+Yet another AWESOME course from Google! I hope I'm able to implement these knowledge/experiences in real-life!
+This course was simple, nice and awesome <3  Thanks to the instructor for teaching us properly and friendly :D
+The instructor is awesome and funny! The course covers all major aspects of version control, git and GitHub.
+learn about the Git and GitHub in detail explanation. Good to know about the valuable and required material
+It was a great experience with the version control system.  I have started using it in all of my projects.
+Amazing course. Had been looking forward to learning git vcs for quite some time and this had been amazing
+best material to learn about git and github, i've tried other resource but this... is on another level...
+Its really simple and good for us to understand the course in the git hub library and all other stuff...
+Insightful course about repositories with useful examples to understand the logic behind git and git hub
+Nice, I learned git and will be using it in my upcoming projects to manage my code and keep it updated.
+This module clearly describes the usefulness of Version Control and how to use Git and GitHub for this.
+Could have included more information & practice exercise on Git. Overall it was simple, small and Fun.
+I enjoyed this course a lot. The instructor was great and I have learned a lot from him. Very useful.
+Overall a very good course. Did help me to get an insight of how VCS is used in software development.
+I liked the way the instructor taught the concepts and I was able to grasp the concepts very easily.
+working with Github is super interesting, thanks coursera for providing this course for it students.
+Really well prepared, assignments easy, mooc for every person who wants to dive into programming. :)
+The way of explanation and the syllabus are made to prepare   to real-world scenarios. Recommended!
+Amazing instructor! Finally understood git and github well! Thank you so much for the efforts Sir!
+It was a great course with detailed instructions and walkthroughs and the labs  were very helpfull
+I love this course. It helps me so much in understanding the git process in software development.
+learned many new things about git and GitHub , labs are very helpful for understanding concepts
+It is a very helpful course! Important concepts  about Git and GitHub are explained  in detail!
+Really Good , helped me a ton in managing repos in git and learning some really handy commands.
+I really enjoyed this course. Short, interactive videos! Real life practice! Best format ever!
+If you are searching for materials  to learn Git and GitHub , do go with this course  blindly.
+This Course was Very Good. Each topic was explained so well and with proper hands-on practice.
+Learning about Git and Github is amazing and very useful. Nice course to give the first steps.
+Amaing course, very well teached. Amazing teacher and every clear explanation. Just perfect!
+Very interesting and useful course. The instructor described the material clearly. Thank you
+I learned a lot from this course and will continue to learn these skills as I move forward.
+Fun course, and very informative. Wish there had been more hands on exercises in the tests.
+great course that teach complete and practical about git and working with github as remote.
+The course covers all technical and practical aspects of the git program offline and online
+This course should be a must for first time git learners, makes learning it really simple.
+The most helpful and amazing course ever! Thank You! I've learned so many helpful things!)
+very clear explanation of Git and Github - now I will know how to use it well - thank you
+If anybody wants to learn git , don't go elsewhere this course is best for git and github
+Excellent!I have learned a lot from this course and very useful for my upcoming projects.
+Thanks a lot!This course was clear and included lots of new information for me.Thank you.
+I Enjoyed this great course, the instructor was a great guide in this journey, Thank you!
+This course was amazingIt explained arcane concepts in simple way and was easy to follow.
+Very nice and well said instruction. my problem is my connection keeps on disconnecting.
+Very helpful instructor. Understood a lot of things about Git and workflows with GitHub.
+Great teacher. Like he taught stuff, not just showed us what he did. I *know* stuff now!
+excelent course, absolutely amazing, I've learned a lot and this will help me in my job
+Easy  to understand and short videos ideal to learning all the essential on Git/Github.
+I am very happy with the content and the instructions provided throughout this course.
+This is a great course to learn git, though I do wish the labs were more challenging.
+NEVER LEARNED SO MUCH IN A SINGLE COURSE WITH IN-DEPTH KNOWLEDGE OF VERSION CONTROL!!
+Great course for absolute beginners like me to learn Github and it's functionalities/
+Great course with a very good explanation of topics. Very good learning experience.
+I really gain new skills which are using in industries.Happy to get this new skill.
+This course is very much helpful for those who haven't a cbasicidea of using github
+Very informative course.Complete explanation of purpose and use of Git and GitHub.
+Very nice course for beginning your journey in GIT SVN. Really enjoyed this course
+Best course on Git. Awesome learning experience. The lab exercises are super cool.
+This has been the best class on Git that I have taken yet, and I have taken a few.
+Exactly what i expected form the course and the speaker seems like a cool person
+Thanks! It is a nice introduction for people to get started with git and GitHub.
+Covers a lot of important topics while remaining very precise. Excellent course!
+Very good course to know the first steps with Git and the Github basic workflow
+Very nicely explained concepts and instructor is great in making things easier!
+Very useful. Explanation just great, easy digestible. Thank you. Great course.
+Kenny Sulaimon is an amazing instructor. I've learned a lot. Thanks all team.
+very well explained by our instructor, its amazing to be part of this course
+Well organised Course. Learnt a lot, especially about project collaboration.
+Good explanation on git and explained how to use git and github efficiently.
+I like the information the course gave and the labs reinforced the lectures.
+Very clear, step-by-step instructions. All courses should be like this one.
+This is a great course to learn git for version control and collaborations.
+Awesome experience.Gain more knowledge and experience through this course.
+great insight into an amazing world of GitHub and version control systems.
+detailed and easy to understand course to get started with git and Github
+An awesome course for Git beginner. I really learn much from this course.
+I learnt a lot about VCS in this course. The CI, Kenny did a great job!
+Good introductioin to using Git and Github with several basic examples.
+Exceptional Course!! I look forward to share this knowledge somewhere.
+A great course for rookies to get familiar with git, enjoyed it a lot.
+I learned lots of things from this course and Thank you google and sir
+Great course to learn the basics of VCS. Now it's all about practice!
+This really helps me work with GitHub. The instructor is amazing too.
+It was Great Course to learn version control system (git) and Github.
+Good explanation of difficult topics made it easy to understand them.
+I enjoyed it. It was hard at times. The Instructor, Kenny, was great.
+This course is 2 much good course for Fresher and experience student
+The instructor was quiet good and keeps me getting into this course.
+Excellent Course!!!Really helped me a lot to go through git commands
+It was a good course. Gave a very basic overview of Git and Github.
+Really good instructor, the evaluation material was really helpful!
+It was an amazing journey. Thanks for the course, I learnt a lot :)
+A very useful course for Git and Github introduction and workflows.
+WOW!!! That was an amazing experience. Loved this course very much.
+First time to understand how Git work thanks a lot for this course
+Thank you sir for teaching this course in such a wonderful manner.
+Really enjoyed building a stronger foundation here. Great teacher.
+This is a great course for beginners with great hands on tutorial.
+Well Explained everything and very helpful lab assignments.Thank u
+Great course, great teacher, and really useful skills! Thank you!
+it was really a great experience. best course for  git and github
+Best Intro course for me. Learn lots of things. thanks, Coursera.
+Great course! Very interesting material and practical exercises.
+Very well constructed and delivered - on how VCS can be applied.
+AMAZING COURSE! Clear and in-depth explanations with great labs.
+This is more than an intro, it's more like all you need to know.
+It was amazing and I have learned new things in Git. Thank You.
+It's an interesting course delivered by an enthusiastic tutor.
+Great course for starters at VCS. Amazing on hands experience.
+A very well defined and constructed course with great content.
+very good I learnt a lot about git and github thanks @Google
+awesome! great instructor, steady phase and well structured!
+I like the pace at which the instructor delivers the course.
+please  provide more deep knowledge about github nd it usage
+thanks giving this course it's really love have this course.
+Very useful for those who never dealt with any kind of VCSs
+Nice foundation to Git. Loved the instructor, he was great.
+It was a fun brush up on my GitHub understanding. thank you
+it was a very good introductory course about git I ever had
+Good Things I Learned From this Course About Git Abd GitHub
+Great course and which is presented meticulously. Thank you
+Overall one of my favorite of the Grow with google courses.
+Amazing Course, I have learned a lot. I highly recommend it
+Explained very clearly and the exercises were also a blast
+Great course to learn practice approach to git and github.
+The Explanation and Hands-On Assignments are really great.
+Excellent course and instructor.  I got a lot out of this!
+Again and as expected, wonderful content with great labs..
+A must recommended course for all beginner in programming
+I have obtained the unique experience for Git and GitHub.
+Thanks, Google, thanks Kenny. The course was interesting.
+Excellent introduction. Informative and straightforward.
+Fabulous course for learning the Version Control System.
+Very good course. With good examples and illustrations.
+This is an Amazing course because it offered by google.
+Excellent course for learning version control systems !
+Excellent teacher and interesting course, thanks a lot!
+A good course on must know thing for better development
+great course thank you google for an amazing teaching.
+Great introduction course for version control systems!
+A very nice course on git and github, enjoyed so much.
+nice intro to the world of VSC(Version Control System)
+Awesome course, concepts on Git explained beautifully.
+professional and way to tie all the concepts together
+Nice speaker, clear explanations, I had a lot of fun!
+It helped me alot to get in touch with git and github
+Very nice the LAB !! recommend to basic level person.
+This course covered all the topics of git and github.
+very useful course. the instructor is also very good.
+The lecturer is one of the best ones I've ever seen!
+Awesome intro course about git and github! Loved it!
+Very informative and easy to follow along and learn
+Amazing Course. Got good hands-on practice as well.
+Fantastic Course for Learning about Github and Git.
+No stress, full knowledge, very helpful. Thank you!
+The course content and instructor were really good
+Lot of topics covered. great job by the instructor
+A really great course on git and github.Thank you!
+Very interesting and well explained course, love.
+Great course and thanks again to the instructors.
+The teacher and his explainations were very good.
+Very well done and explained perfectly. Nice job!
+Great course, I got my kick start for using Git
+Excellent instructor and excellent course too!
+Course as well was the instructor was amazing!
+I was able to learn about github step by step!
+My favorite course for github on the internet.
+Really this course is Awesome. This LAB woooh.
+The course is really great to learn about Git
+Awesome Instructor , really he his super cool
+Great course to get going with Git concepts.
+Amazing instructor and well-prepared course.
+It was very intersing to learn this course.
+Easiest cousre till now in the whole series
+very intuitive.This clear conceptual course
+Excellent! And the profesor was amazing!!!!
+I have enjoyed this course and learn a lot
+This is really a nice course thanks a lot.
+well-prepared and well-presented course...
+The course was well written and presented.
+Amazing course,Instruction is very clear.
+It was really fun. Instructor was Awesome
+nice course, with good clear explanations
+Great content and an amazing instructor!
+Very useful and simply understanding...!
+I learned new things and git commands :)
+A great hands-on learning experience !!!
+The course instructor is super awesome!!
+Very excited to use new skills to my use
+The instructor taught in an amazing way.
+You can find a to z about git and github
+We have learnt something new information
+Awesome course for learning basic of git
+I loved it !especially the  graded tool!
+It was amazing, I was really satisfied!
+Thank you, It was really a good course.
+pros:good jokes, git knowledgecons:none
+I thought the Instructor was very good.
+GitHub in detail, really usefull course
+good course improve my knoweldge in git
+Covered Git and GitHub all the details.
+great experience overall learned a lot
+such an amazing mentor!! kudos to you.
+Good teaching style, enjoyed learning.
+The best course we could've asked for.
+Best course of Git i can get.Thank you
+Everything was beautiful. Thanx a lot!
+Very informative course. Learned a lot
+Its really a great experience for me.
+Really good overview of git functions
+Difficulty level should be increased
+Excellent content and the presenter.
+Really clear and structure teaching.
+Amazing Course, it really helpful:-)
+instructor and the contents = 5 star
+great explanation of Git and Github
+Learn a lot, and was easy to follow
+Good introduction to Git and GitHub
+It is a good way to start with Git.
+A well-shaped learning experience.
+This man just killed it absolutely
+This course for wonderful to learn
+Very, very good. Congratulations.
+Very useful and up-to-date course
+Great course. Awesome instructor.
+learned a lot. Like the excercise
+Excellent course, thanks for all
+Fantastic course, learned a lot.
+Excellent way to start with git.
+great. can't wait to learn more!
+Simple, clear and useful!Try it!
+The instructor is just awesome.
+Best Course for git and github.
+Perfect Explanation of all code
+i m having amazing experience .
+Great instructor, he's so cool!
+this course very helpul for me
+amazing course and instructor!
+Good explaination and example!
+thanks so much for this course
+Very well taught.  Enjoyed it.
+Nice Course with hands-on lab
+Its was amazing for beginners
+good course to know about Git
+A great understanding of Git.
+great to learn git and github
+Good experience! Good course!
+i very happy to be with U :)
+Very Helpful Thanks Coursera
+I liked the tutor very much!
+Great Course, Great Teacher.
+Good Course and good mentor!
+easy, elaborate and helpful
+good startup course for git
+A nice one learn about VCS.
+good content and excercises
+Easy but real, very useful
+great instructor and labs!
+Concepts explained nicely.
+Highly Recommended course.
+The instructor was awesome
+Great instructor there...
+Instructor was super cool
+Nice and helpful to learn
+Very logically presented.
+It was an amazing journey
+i learnt lot.. Thank you
+Instructor was very good
+Extremely useful course.
+Instructor is very good.
+Fantastic and practical
+5 stars course.Thanks.
+Instructor was awesome
+great insight in GIT!
+Will delivered course
+Instructor is amzing
+Enjoyed!!! Learning
+thiscoursewassuperb
+Very cool and easy
+Really enjoyed it
+Kenny is the man!
+Such fun learning
+Just Amazing !!!
+Amazing journey.
+It was Awesome!
+it´s usefull
+Git Revised
+ot was fun
+I love it.

@@ -1,0 +1,1217 @@
+very basic. for novices. not worth it to pay money for it
+The explanation on the course itself is easy to understand, although it does not cover much, just simple examples. However, the main problem is when it comes to the assignments, you really struggle (not only me but you can notice it by the number of people mentioning the same thing in the forum chat) - the reason you struggle is because the assignment is given with questions in details but you were not taught in such details. I had to google further info to resolve the questions. My suggestion is: add more info on the course with much more details (equal to the assignments given) or give a simple assignment question. Also, the questions in the assignment are not very clear and well explained, you feel that you have not really watched the video - although when you try to redo all the excels as per on the videos I really do them quickly.
+Data set was US-centric without a ROW data option. I ended up spending more time on figuring out how to format the data rather than focusing on the course, which is s pity for several reasons:I am an experienced xlsx user and was taking this course only to understand what the focus was on for subsequent courses, and I was interested in doing the overall specialization as the syllabus fits my interests very much
+Really disappointing. I was expecting a decent introduction to data analysis using excel is was like a simple version of the excel manual. The whole course took me less than a day to complete and I am not excel competent. In the end I gave up and started working on the Microsoft virtual academy courses. Needs improvement.
+the text files at start of course very unclear. could not proceed, as was unable to find support for help to my questions, which was disappointing
+Poor sound quality. One of the answers for the quizzes could be correct for the people using older than 2019 versions of Excel.
+Simple information such as the workbook for analysis is difficult to download and the teaching staff are not helpful
+Am not satisfied with the question given in the practice quiz . They are not given the explanation part properly
+Instructor didn't explain how the data got on the spreadsheet. He just kind of started the work.
+This class is hard to follow and does not give enough practice to reinforce the skills.
+Won't let me proceed to Week 2 of the course without waiting for a week. Ridiculous.
+NOT GOOD AND IT IS TOO HARD TO UNDERSTAND THE INDIAN ACCENT
+very easy course thankyou
+Very bad explanations.
+The course has a lot of potential, but some questions in the quizz are very ill posed, not clear, and ambiguous. I am surprised that this course has passed the usually high quality barriers of Coursera. The course would benefit greatly from well structured and clearly defined questions in the quizz. Either a little bit more text explaining what the questions is looking for or a short example.
+This is just an Excel basics course. But the word Data Analysis misguides, as if this is at some advanced or at moderate level. Those who have working experience in excel may not find this course interesting or may not get much of new learnings. It teaches about some commonly used features in excel. Thats it! This has nothing to do with data analysis.
+lessons are very draggy. exercises prepare data  very cleanly at hand for you, does not let you simulate real working conditions where you need to know how to prepare data (e.g. what columns i must have etc). does not teach you the thinking bit behind these exercises.
+The course is very slow paced. It should be clearly mentioned that the course is for total beginners. I did not expect that lecturer will spend time on so basic information like adding/deleting/renaming various sheets within one excel file...
+I learnt some new skills but there is a serious disconnect between the teaching materials and the assessments, the assessments are significantly harder and you are not given any opportunity to practice before the assessment!
+The audio quality of the course is extremely poor, can barely hear the professor. Please check assessment of Week 2, I have tried multiple methods and got the same result however it keeps showing as incorrect.
+The lecture delivery is not bad, But the quiz exercises are unnecessarily difficult and sometimes, totally unrelated to the lecture. it makes it difficult for one to move to the next stage.
+It's too simple, and the courses are kind of redundant. Maybe it is proper for those who have never used Excel. For other people, the courses are too easy.
+Pretty basic course with a lot of 'dead time' not really learning anything about Excel. Tutor should consider a few more advanced and useful topics.
+Very basic course, course certificate has no university logo on it. Not worth the money.
+voice of the instructor is not clear. Weekly assignments are not so friendly too.
+Questions asked were in a very difficult manner.
+Money maker for University.  Cheers to Ric
+Good course, but would be good if it was similar to Macquarie's Excel Course, in terms of providing Exercise material to practice with while watching the videos.
+Lectures were great however questions on the quizzes were very poorly written. They should be a lot more specific
+This course is an excellent source to start with basic of excel and charts and diagrams
+Overall, this was good study for learning basic functions in Excel.  However, the tutorials and practice quizzes do not adequately prepare you for the actual graded Quiz at the end of each week that counts toward your final grade.  You will definitely have to be either a quick study, who can pull a lot of inference and practical application out of minimal technical guidance, or know how to Google the steps that were glossed over in the videos or for which no practice question was provided. Also, side note, if you have a Mac, you will be somewhat flustered at times, and you will also need an add-on app for the Histogram portion.
+The concepts in this introductory course are very important and have improved my confidence with Excel. The professor did a good job of explaining why you would use the different functions and techniques. However, it would have been helpful if there were slides available from this course to help with reviewing. I also had a gripe with the consistent appearance of material on quizzes that was not covered in the lectures. I actually had to look up some of the concepts independently, because they were either not in the course or were introduced superficially.
+Good explanations from the professor, however uses older version of excel in videos than I do. Also, importing the .txt files was quite the challenge as I do not use the same number denominator and date format as in the US. After a bit of struggling, I got it to work, but wasted time = not excellent reviews. Did not learn much new, only a few tips.
+Hello!First of all, I have gotten great pleasure while completing this course.There is a lot of useful information about analysis of date.But files for exercises have to be upgraded or added new for mac users. Because of this fact, I had to finish the last quiz in week 4 not by using Excel. I had to use Google Sheets.
+I faced different kinds of difficulties while submitting assignment which was not taught by the tutor,hence I came to know that using utube and forum etc etc. as for example scatter plot from pivot table I came to know that through forum and add how to add insert tab in the ribbon I came to know that from youtube .
+need more practice assignment with equal difficulty level as graded assignment because there are few question which seems to be wrong due to high in difficulty level as teach in video .rest course is good to one who have some knowledge in past.it really increase my knowledge . thank you to all.
+Sir, mainly I wanted to have a practice of chart which I could not get properly.and one thing I want to share that as in the starting of the lecture sheets were shared which was done in the class so it was too much help full for practice but in the later classes, sheets were not shared.
+I thought that some instructions were confusing, or at least I thought I understood them, but didn't ever get the right answer and then felt I was wasting my time. It's always odd to take these classes and not get examples of the 'right' answer or the ideal way to get to an answer.
+Excel version used is different than mine and I really struggled with it. Besides, my Excel is in spanish and the one from the course is in English and instructions or funtions are named different. It was hard, very hard due to the above mentioned.
+The class material was okay, but the instructor repeated himself all the time. I would prefer to not have someone tell me that they are going to do something and then tell me what they are doing while they do it.
+This course cover necessary topics that are required for data analysis. Problem is with graded quizzes because the instructor didn't give feedback on wrong answers or any important answer.
+Presentation is good. Concepts explained in a simple and clear manner. Missing interactivity which is very important to retain the understanding of the concepts explained.
+quiz where tough and questions with solution would have helped to learn. since the goal is to learn i think. and not many shortcuts where used in videos
+In the first week course, the dates are in a different format. Fixing this is next-level excelling and that cannot be the aim for a first week course.
+Sometimes the test questions are very difficult to understand.  Excel file for week 4 exam did not seem to work, I had to copy
+Good knowledge sharing sessions but could have been more informative like usage of "Power Query" & others was most expected.
+The basics have been explained in video but the quiz questions can't be solved without a pre-requisite of MS-Excel.
+Sometimes felt like the "right" answers were wrong, or that I was failing at something they never taught us to do.
+not include VBA which I need most in excel.I plan to cancel after tried it but it charged me 50 $ in the end.
+I extremely basic course, I would suggest a diagnosis or level set to define where new students should start
+The course teaches you what you should have known for colleague, but doesn't get into advanced techniques.
+The level of the course and graded quizzes do not match. Quizzes are more advanced.
+could have been a bit more engaging. the videos are quite boring (sorry!)
+Should be indicated the level of complexity as easy/101. Well explained
+the sound quality has to be increased. the overall course is very good
+Could prove to be a great introductory course for absolute beginners
+Could have included more material and introduced more functions.
+Should include more assignments, case studies and challenges.
+Absolutely beginner. I didn't learned a lot from this course.
+This course is perfect for learners with no excel experience.
+Audio should have been a bit high.  More details required
+I found the exams is so difficult related the explanation
+Nice, but needs update for new excel version
+It was very basic. No additional reading.
+try to add more detail its too basic
+Practical but is missing more detail
+Question is very tricky  :(
+Hard to solve without hint
+The course is arranged extremely well and the Instructor has made sure that every point gets through through several examples.Would definitely recommend the course if you're looking to get a basic/fundamental understanding of making your way around excel.One issue I faced throughout the course was the worksheets to be downloaded, especially for graded assignments, often had errors in the data types. The 'date' field seemed to be messed up almost always, making it difficult to follow what was being taught. Now, this might be due to differences in the versions of Excel being used, but it is an important point nonetheless. Wonderful course!
+An excellent course. Only negative is that it is hard to remember some of the procedures for such a condensed class that has few practice problems. On each of the first three exams, I only scored 90% because I could not figure out one process. And the T.A.'s, although helpful, were not able to explain what I needed to do correctly to be able to successfully solve those problems. It would be helpful after successfully completing the course to be able to request and receive the answers and procedures for select questions on the weekly quizzes.
+Excellent course and I definitely  learned valuable information.  I would like to have more guidance and/or examples regarding when each function would be useful or appropriate and also the limitations of each function (examples of when it could not be used).  Also, I would love additional practice - maybe each week could offer (as an option) many additional exercises for those of us who want to further master the skills of that lesson.
+Clear and concise instruction. You learn basic Excel. After completing the first course, it is an open question whether this course and the rest in the specialization is actually worth the monthly fee. Edit: this is a good introduction to the hard skills in Excel required in further courses, but as a standalone Excel course I think there are better options. Nonetheless, as part of the specialization this is well done.
+I learned some significant skills manipulating data in Excel.  My only criticism is the quizzes do not test learned skills.  They are very discouraging when time after time I cannot achieve the right answer.  The lectures need to demonstrate some of the more nuanced skills that are referenced in the quizzes.  Other than that, I can honestly say this has been the most enriching course in Excel that I have ever taken.
+Good Course on introduction Data Analysis using Excel. I was expecting it to cover Data Analysis tool in MS Excel in depth. If entire Data Analysis tool is covered as a part of this course, it will really become a 5 star course. But other than this whatever else is there in the course is covered really well. A very good course for someone who is relatively new to MS Excel and Data Analysis.
+If you don't know anything about Excel, then trust me, you are at the right course. This course will thoroughly guide you through the very basics of Excel. Some advanced functions and shortcuts are not well explained, but the course is worthy of itself. I am damn sure that the challenging assignment questions will ensure that  you'll never forget the lessons taught by the Professor.
+Very practical and well explained videos. Works as a recap for those who want to freshen up their skills but also for someone who hasn't used the various functionalities of excel much. An enhancement opportunity would be to explain the correct answers in quizzes and tests - sometimes you just don't get what you did wrong or why an answer is wrong/right?
+The course is good and it is very helpful for upcoming life. The way of course run in also imperative but I have problem on quiz, to understanding the question, they did not justify meaning of the question, I mean what does question want from us, that's why I am not able to do all question on every quiz.but I did not feel any problem on course.
+QUIZZES ARE REALLY SIMPLE AND NOT REFLECTIVE ENOUGH ON THE LESSONS. HOWEVER, THE WEEKLY EXAMS ARE GREAT PRACTICE AND MORE CHALLENGING. THE VIDEO LECTURES ARE GREAT AND HIGHLY VALUED TO VIDEO TRANSCRIPTS ALONG WITH ACCESS TO ALL OF THE DATA FILES TO FOLLOW ALONG WITH THE VIDEOS. THANKS. OVERALL, IT IS A GREAT BEGINNERS CLASS.
+It was very nice to get my skills expanded. I would be very helpful, if the professor included handouts with functions, definitions, and instruction (e.g. on how to create a histogram). This way it would help to review something later without the need to open the videos again and searching for the content one is looking for.
+This was an interesting introduction to excel data analysis. The course was very well explained. However, for the graph course section,  options are different using newer version of excel and I would have liked to see a section on standard error bars as it is a very important part of research and development data analysis.
+I like the style of Instructor. Language is very simple and understandable. Instructor never throw or  make jargon of  words. though it is a very basic (introductory) course I had enjoy learning, brush off my old knowledge of Excel.  It would we more meaningful if added more details about Excel.
+This course cover a lot of ground on Excel in a short span of time but doesn't skip on information. The practice exercises cement your knowledge and the weekly quizzes really hit it home.I would give 4 stars because I hoped to do a final project which included simulated a real world project.
+If you do not have any background in any Excel this course is not for you. Take Excel course for beginners first. Some questions are really tricky and lack some detailed information. I hope they could do something about those. But overall, I have learned a lot. Thank you and more power.
+Great Course. There are some problems on the tests that went into much deeper application than the lectures did. While it did provide some learning, I found that having to look it up, and then try to apply it to the test, didn't teach me as well as following along with the lectures.
+Very good course for beginners.  Lessons are clear and time use is flawless.The only setback is, the course is a little bit outdated.  They use Excel 2013 I think .   Videos quality could be higher cause 720p in a wide monitor (mine isn't even that big, just  23.8'')  looks blurry.
+Course is very interactive and new items are always learned.  Pivot tables section was the best.  Areas of improvement: 1) Update course with Excel 2016 SW (menu difference and defaults) 2, Exam questions are sometimes poorly written, and makes one wonder what is being asked.
+The course is very informative. During the video, the professor makes it so easy. I understand it perfectly. However, when it comes to the exercises, it becomes challenging. I wish that for us who had passed the course, a full copy of the files/explanations were given to us.
+Solid intro excel course. I competed in < 1 week, w/prior excel skills/knowledge (It would of taken longer if I didn't have excel experience/skills). Pivot tables and charts are very relevant for business analytics, so I think the skills learned can be applied immediately.
+I found out I already knew alot of the beginning material in this course. So I just used this course for learning Vlookup, Hlookup, and pivot tables. The histogram section was a nice refresher if you have taken a statistical class before. Very helpful and great examples.
+Video quality could be better. Disappointing to not have real-time opportunities to get help/ask questions. Having only forums and no office hours or chat is pretty frustrating since it means having to potentially pause learning for days until there is a response.
+The length of the course is very overestimated: for every quiz they have counted 30 minutes but there are only two (extremely easy) questions (like: "What if I write =1+2?"). Four stars because it is probably helpful for those who have never used Excel.
+The course is pretty good and equips to develop excellent skill set. The course is fun to learn and gets you involved completely. However, I request to give solution to the quiz which will help us to know appropriate solution to the requested problem.
+This course gives an overall insight into how to look at the data and get the required information and result from the so money numbers utilizing Microsoft Excel. a good starter for data analysis career and the first step in excelling the Excel.
+It was a valuable session for me. The videos were easy to understand and practice. The quiz at the end was also equally helpful in learning as it was based on practical problems rather than theory based.Thank you overall I enjoyed this lesson
+The Course overall was well arranged and well constructed. Helped me a lot. Only complaint I have is that the lesson on "Pivot Table" was quite hasty. You should one extra lesson on practicing "Pivot Table" problems and related resources.
+I loved the course overall. Each and every aspect of the course are explained clearly and quiz after every lesson is a good idea. But questions in week3 cumulative quiz are not easily understandable else everything went great. Thank you!
+Very useful overall, some improvement can be made in the way certain quiz questions are stated and in developing more specific FAQs for excel compatibility issues that users might face. All in all a very good experience.
+The only thing I didn't like was the practice quizzes which were too many and too interruptive of the natural course flow in my opinion. Everything else makes for a very nice course to get started with data analysis.
+The course is a great reviewer for those of us who stopped creating business reports. The sample files and demonstration need to be updated to show the new look of Microsoft 365 and how to change chart features.
+Would appreciate if the question is answered incorrectly the explanation is given as some questions are not easily understood. Would like to see more analytical tools used, example power query, power BI etc.
+Thank you Coursera provide me platform to learn how excel will use to solve business problem and how to use of excel tool for data analysis. Instructor was provide us valuable information through video.
+The course is good . It gives emmense knowldege about how to analyse a data using powerful convinient and fast excel tools. Though its a basic course but good for those whose excel is not that strong.
+Questions was not clear. Week 2 formula can explain more. The quiz totally made us confused. Not much help either. The histogram can also explain a little more. Mostly quite smooth. Thanks teacher!
+Good course to learn advance functions of Excel but some questions in the final quizzes were not completely understandable, its the only thing that annoys me. Apart from this I enjoyed this course.
+This course Gave me a outline understanding of Stock and sales indeed which Helped me Crack Retail Interview as a store Head .manually working on Spread sheet and Analysing out Come was amazing ...
+This is very useful session, Hostogram is very new to me, it is clearly explained in the session. I have applied some functions in my day to day actual practice. Thanks for the wonderful session
+Learning materials are super easy to learn, explained step by step and detailed with patience by Mr.Sharad Borle. However, quizzes were little complicated. Thank you for your time and help.
+The course is helpful for beginners. I appreciated the professor, he was clear and simpatethic. Perhaps a more in depth dive in some functions and/or tool would be appreciated.Thanks
+Quizzes at the end of every session were quite helpful. Also, the examples during lectures helped a lot in understanding the topic well. Overall, it was a great learning experience.
+It was very clear and helpful, but also very basic. I would recommend if you are just trying to learn the basics, but I would not recommend if you are already pretty knowledgeable.
+It is a good course. The only thing that I will add is the option of clicking f(x) for finding the formulas rather than spelled out the formula; but that is my personal preference.
+This course was extremely helpful especially if you need to learn the basics of excel. It would have been helpful to see the answers to the questions that I could not figure out.
+Course is Good. But The Practice Questions are very confusing. Cant Understanding, from which tab we should apply the question. I Request you to make the Questions more clearly.
+The course was well taught, but too basic for me, and so for that reason I gave one less star. For somebody who has never used excel, this course would be a good introduction.
+Very good course which provided a good starting base for using excel for non-experienced users. I enjoyed it and would recommend it to my friends with similar knowledge level
+Firstly Thank You for this Amazing Course. The Course is very Excellent as well as Easy to Understood.All points on Excel are clear and is very useful in point of education.
+Great intro. Need more homework/assignments to solidify knowledge. Quizzes and tests are relatively easy. That said, the testing builds on previous weeks which is FANTASTIC!
+A very good course that teaches essentials on the basics of Excel. However, I only can put 4 stars because some parts lack in-depth explanations of when and how to use it.
+Liked the length of the videos (which are less than 10 minutes) which allows you to finish one topic at a stretch. The questions were relatively challenging for this user.
+An excellent introductory course on MS EXCEL and it's data analysis capabilities. Practice questions could have been greater in number and a little more difficult though.
+Everything is very good about this course, but the assignments are very hard, you need a lot of deep work and the examples and sample quiz are so basic type of thing
+Great course, very helpful - though a few issues around the techincal wording and interpretation of questions being asked in tests, and more support for Mac users
+One question regarding scatter plot exercise I think answer is wrong. Additionally, correct explanations should have been given with solutions for the exercise.
+I highly recommend this course it goes in depth with introducing concepts to analyze data using excel. on work of advice, READ QUESTIONS CAREFULLY, and THINKKK.
+please add some additional material that can be referred for more detailed information and there should be some material for the contents covered in the videos
+I would say very thorough overall. I would question the speed at which it is taught, but perhaps that's not what you guys are focused on (faster). Good job!
+a clear intro to some basic-moderate user level functions in Excel. Good for those who have yet to use functions and graphing capabilities of the software.
+The course is well planned, designed & communicated. However, I was looking for a higher level of difficulty in problem solving and more excel techniques.
+This course instruction is very clear and easy to follow (even if you're using a different version of Excel) and covers the core concepts for using Excel.
+Very good course for someone who is not an experienced Excel user. For those who work with Excel every day, this course does not offer any new knowledge.
+Great course for anyone who uses excels in their profession. I encourage everyone to take the course as it is applicable anywhere, anytime and any work.
+In the assessment part if few more details of the question or the hint would have mentioned then it would have been much more suitable in the Quizzes .
+Some Questions were very difficult to understand. I struggled there if that could be addressed then the course would be perfect! Thank You Mr Sharad
+I thoroughly enjoyed the course , a very good introduction to data analysis using excel , got to explore a lot of datasets and analysis techniques.
+Informative and clear. Perhaps it will be nice if there are documents with teaching notes which I can keep alongside with my own handwritten notes!
+The course is very well explained by the teacher, but it is too introductory to deserve the name "course 1". It could be week 1 of a bigger course.
+Really helpful for those who want to learn how to use excel as a professional. This will really teach you many simple but effective use of excel.
+A good course for consolidating essential Excel skills, may be a little basic for some but a good introduction and lead in to the specialisation.
+This is very helpful course for one beginner. I have learned a lot from this course.but the sound quality is not so good. But overall its good.
+This part of the course helps one re-visit the basics of excel. It is extremely helpful and keeps one upto date with the workings of the same.
+Its an excellent course to update your knowledge of statistics through excel. Prof Sharad has used simple yet effective ways to teach. Thanks
+Could use harder examples in problems and I feel if you pass quizzes maybe you should see what you did wrong on the questions you got wrong.
+The course was fairly easy to follow.  Enjoyed it.  Still a bit shaky with pivot tables but I expect to understand as I keep using it more.
+Course is great, it is an overview of useful commands, formulas and so on.  I gave it 4 stars because quiz questions sometimes are unclear
+this course is so much helpful for me and know more about excel function more and add a new skill by doing this course through coursera.
+This course helped me to understand how Excel can be used to visualize data. It is helpful. Thank you for creating such useful course.
+This course is even ideal for people who have worked in Excel before since it revisits some of the important everyday Excel functions.
+Very helpful to learn excel especially for beginners.Usage of key board shortcuts can be added to make this course much more fruitful.
+Pretty good. I recomend, specially for those who does not know well the capabilities, the functions and the advantages of using Excel.
+Very useful and ehlpful and quizzes not so easy as they seam. I recommend a lot this course if your are interested in learning Excel.
+its a very useful and effective course in this digital era ... i feel privillaged to get the opportunity of learning . thankyou
+A very good and exhaustive course on Microsoft  Excel, data analysis and visualization using excel. A good learning experience.
+When I got to the charts section, the software used in the video was a little out of date. Otherwise, this video is fantastic!
+Great introduction course into Excel. I took it as my first step into business, and it covered many basic topics in my work.
+Explanations of why answers are wrong would be helpful. Otherwise this was a good course and really useful for a beginner.
+Quiz's are easy to understand, but Graded quiz's are very difficult to attend because need more clarity on questions
+BASICS OF EXCEL SKILLS AND ANALYZING THE DATA ACCORDING TO THE BUSINESS NEEDS THANK YOU MANISH RUPANI +91-7974098903
+Some questions were so hard with no real teacher to ask but I figured them all out.   Was a channeling experience.
+A great refresher if you've not used Excel for a while and easy to understand if you've never used Excel before.
+The course is about very basic excel use. Explanation of each and every formula is very good and so simplified.
+Overall good course, I could have used some additional work on charting and Pivot Tables.  Very helpful though.
+great Intro course to Excel. Wish they provided example sheets used In the lessons to practice along side with
+I believe that the explanation could be more thorough as in some topics as I had to look for external source.
+Covers all the basics with good quality examples. The way of teaching is also very simple and easy to follow.
+Very clear, good course but if you audit, you won't be able to get the answers to the end of week quizzes.
+Quiz doesn't help much. Some of them are very confusing. I think the quiz can be designed/written better.
+This course explains the basic for data manipulation and very useful tools to clean data and organize it.
+Could be much more better if some advanced excel options and other data analysis methods are introduced.
+The professor was quite meticulous with teaching.  The weekly quizzes were challenging and satisfactory.
+I enjoyed the course, learned a few useful items. Looking forward to next courses in the specialization.
+It was a good review. The examples were brilliant and will immediately help you execute the learnings
+Great course!I learn a lot of basic excel, and the course content is easy to follow and understand~!
+It's useful, but the content is for only entry to intermediate level. I feel it's too simple for me.
+Easy for a novice and very useful, but It would be better if there are more materials for each week.
+This course explain well the basic concept of data analysis using excel.I really enjoy the course.
+The course was very useful & also the teaching style of the professor was very easy to understand.
+Really good course overall. Some of the practice problems needed a bit more detail in the set-up.
+A great place to start if you are new to Excel, a little basic for those with good Excel skills.
+One of the best online course available for data analysis using Excel as main tool for analysis.
+All the excel formulae if added and introduced to would also have been very helpful. Thank you.
+It is a nice , to the point course. It would be better if there are some more diverse examples.
+For a complete beginner, it's a very clear and straightforward course, yet still challenging.
+Great course with tests that verify your conceptual understanding and implementation skills.
+The volume in the videos were too low. But the course was great. Very easily understandable.
+Useful, helping the entry level excel user to be more familiar with excel function and tips.
+The Practice exercises are very well made, they thoroughly test the concept understanding.
+Professor Sharold is an amazing teacher I am lucky to be his student. May Allah bless him.
+A very good course, but I'd say its too basic and could be explained a bit more precisely.
+the course was very helpful and enabled me to understand basic concepts of data analysing
+Helped to become more familiar and comfortable with the more difficult concepts of excel.
+I think  this is a wonderful introduction to using excel to manipulate data of any kind.
+The course was very much helpful. It started with basics and then took to complex part.
+It is really and introduction to Excel. Good exercises to practice and remember things
+A great course to learn the excel tools. Really enjoyed doing it. Fun and Informative
+materials are really well put and explained. easy to follow and complete the course.
+Absolutely a good course for a beginner. Nice videos and fair quizzes been provided.
+a very good primer on using basic excel functions to learn how to analyze data sets.
+As a beginner, I found this course extremely helpful in developing my excel skills.
+Very well organized.Structured wayMany topics covered.Nice set of questions in quiz
+Great course. Only drawback is that it is for PC and I took the course using a Mac.
+I really enjoyed course, bust the histogram d=should g=have been explained better.
+Overall good learning yet it would be fun if there were more examples to play with
+The instructor is very good ,it's good way to start your analysis with this course
+A course help me a lot in Excel. I can apply what I have learned in my daily work.
+Good pace and quiz. Date formatting for those outside the US is a little annoying
+It would be better if more information and more challenging exercises were there.
+Good, but need more advanced excel material. Great as introduction or beginners.
+It is a great course. It allows you to learn fast from basic to advanced Excel.
+Not life changing but it told me what I needed to know with a minimum of faff.
+very good course and teaching for beginners as well intermediate level larner
+A good to have course to get started with Excel for basic level data analysis
+Would be better if there are assignments that require longer time to finish.
+Very informative and innovative course. Rally useful for my career and job .
+Generally,thiswasverygood--butseriouslylackinginlaterweeksindiscussionofMac.
+It was a nice course and i learned the basics of data analysis through excel
+Everything the instructor did, he did well. I just wish there would be more.
+It gives you all the basics you need to do small data analysis in a company
+Please add more manipulations within basic data analysis using excel course
+Very good introductory course. Wished there were more practice questions.
+It's a very educative introductory lesson and I'm glad I took the course
+A good refresh and some new learnings - easy to follow and to understand
+Well organized introduction to Excel analysis. Well suited to beginners.
+Excellent course to learn about data analysis for beginners. Thank you.
+good instructor, but need more in depth info about analysis using excel
+Good course, mainly the pivot tables and advanced tables were of value
+I thought I knew better.good instructor and an important refinement.
+a great course with the principal functions to use in the real life
+Very helpful, even if you use Excel daily you can learn specific to
+A nice course for begginers in excel which includes business data.
+very good for basic intro but the quizzes were a little too easy.
+Very good lectures, graded assignments are challenging however.
+It would have been better to do more practical quizzes on Excel
+i like the fact that there are practices to enhance my learning
+Video lectures could have been more vivid related to the exams.
+nice and easy course to brush up your introductory excel skills
+Course was fantastic!Needs more assignment problem ststements.
+Excellent Course! Very clear videos and good practice quizzes!
+Would have gotten 5 Stars but the course was not in Excel 2016
+A good refresher course for advanced level of Excel learning.
+some final questions in tests were not clearly understandable
+Quite basic course, useful first tips for those new to Excel.
+I learned a lot! It would be more helpful with more practice.
+Great course for someone who wants to get the gist of excel.
+A great course with a very good explanation of all concepts.
+Great course if you want to use Excel in practical contexts.
+very good course if you want a start in data analysis field
+this is very helpful course for skill development in Excel
+Instructors was very clear and had good subject knowledge.
+Easy to understand, no requirements for taking the course.
+Get to know a lot of new things and in a very simple way.
+It was good learning with sufficient hands on assignments
+well-prepared course and explained in details. Thank you.
+The lectures are good and clear but the quiz is confusing
+i have submitted my id verification please review it asap
+A good and very informative course provided by Coursera.
+latest office excel has different coding, like NestedIF.
+The final quiz nivel must be accord to the lessons nivel
+Nice course to learn advanced tricks of Business studies
+Great introductory lessons. Very useful and applicable.
+more excel function should be learned in the first week
+Very useful, a bit out-dated, but a very good course.
+Very challenging,put me through alot of brainstorming
+The course was good. Helped me to learn excel basics.
+Good Basic introduction to pivot tables and charts
+but you need some improvement in week 2 lectures
+nice course....good for learning basic excel....
+I learned a lot of new things to work on excel.
+Assignment is better and perfect as per Course.
+The sessions are crisp and easy to understand!
+Good but some test questions were not specific
+Very helpful and designed in a seamless manner
+It was beneficial course thanks a lot .....
+quiz always false answer, is very confusing
+some question i was not able to understand
+Hands on course and therefor very helpful.
+It is difficult to understand the wording
+I felt excellent while doing this course.
+Thank you for improving my excel skills.
+Nice course but can be improved a little
+Very explicitly explained with handon ex
+A very good introductory course to Excel
+Good Module need more Qweries to Solve.
+Extremely engaging and practical course
+It is verymuch useful for Busines data
+Quite a good course on excel basics.
+Nice presentation with very details.
+Exceptional and inspiring mentoring.
+A little too easy even for beginners
+Very easy and to the point content .
+Its very good course for beginners.
+Very helpful and excellent teaching
+Very informative and easy to follow
+Nice for clarity of basic concepts.
+nice course with a good instructor.
+Very nice course, very informative
+this course is fun yet challenging
+It should have more advance option
+Great, but it needs more exercises
+Very good and interactive course
+It was an useful course. Thanks
+Nice and well-organised course.
+UNDERSTANDABLE AND COMPETITIVE.
+Well Organized. Easy to learn.
+Very good..easy to understand
+Good to learn basic of excel!
+wonderful, easy to understand
+Hands on, just what I wanted
+Great course for a novice!
+Great introductory content
+Good course. Basic level.
+nice but not from basics
+Easy and understandable.
+Good approach-useful!!!
+An interactive classes
+not bad for the basics
+Very easy and good one
+Easy to follow lesson
+good study experience
+So much informative.
+Need more features
+Sufficiently basic
+Don't give up
+First of all Question 2 on the Week 3 quiz is horseshit & while the instructors have not gotten back to me on that run-on paragraph of nonsense at least one other student seems to agree with me. I also threatened to call it out in my course review if it wasn't rewritten for clarity & I am an extremely petty person. Other than that this is an absolutely fantastic course for people with limited Excel experience like myself. The lectures are all good length and skills are build upon each other in a nice logical way. The quizzes (sans week 3 question 2 & a few other questions that could be rewritten for better clarity) are well designed & actually help with developing the skills instead of just asking you to regurgitate facts from the lectures.Not currently enrolled in the full specialization, but would consider coming back to it when I have more time.
+Excellent Course.  I have been using Excel for years and still learned some very useful skills here.  Most notable for me was the use of Pivot Charts and Tables, and the use of Excel Data Analysis tools to create histogram charts(which, up until now I did manually).  The section on VLOOKUP and HLOOKUP was also very useful.  The section on IF statements is well laid out in case you have not worked
+Brief Course with very efficiently organized course material. The way of teaching was very good in simple way.A great course in MS Excel for beginners to have an in-depth knowledge with confidence.
+A very well taught, comprehensive course on Excel, VLookups, Pivot Tables, Pivot Charts, etc, etc. I really enjoyed this course, and feel like I learnt a lot from taking it. The lectures were interesting, and the quizzes and course material was just right, not anywhere near overwhelming or difficult to understand.So from me to you, a big thank you !!!
+Overall the course content and the way it is explained with right examples is making one to follow and understand the tools available in excel. It would be nice, if the course gives the option to choose the Excel version one has, so that it will be easy to quickly find the options being discussed
+A good course for anyone looking for an introduction to using Excel for analysis. There is some help with navigation, but to be successful in this class it would be very helpful for a person to already be fairly familiar with the Excel ribbon and basic Excel navigation.
+The course is very helpful to enter into Data Analysis starting Excel. I learned many new things to analyse data using excel and I am confident now to handle more data after this course. Whom so ever want to learn data analysis using excel must go for this course.
+Everything was explained in detail, even the smallest bits we don't pay attention to. Beautifully designed course, I would recommend it to anyone looking to get started with excel and data analytics.
+good course gives a basic foundation for data analytics ! Excellent for beginners who have no idea how to use excel for want to  learn systematically excel files given at every lecture are very useful.
+Excellent class, well-written and presented with real-world examples that are challenging but not impossible to complete if you follow the small quizzes and stay on top of the deadlines. Great job!
+This is amazing to see that i have completed the course with so much logical and analytical questions been answered. It is really valued a lot the course and lots of useful information to learn.
+If you need a very basic introduction to Excel this would be a perfect course. Anyone who has little to no familiarity with pivot tables, lookup functions, and basic mathematics calculations would definitely benefit from the course. The instructor is very thorough. I consider myself an advanced user and found a few of the end-lesson testing questions to have a good level of challenge to them considering the lessons at hand. I would definitely recommend this course to anyone needing to learn Excel for data manipulation.
+A very methodical and careful explanation of each stage involved in using MS Excel for basic data analysis in a business context. It is necessary that candidates look on the discussion forum, check the web, review the materials, and think carefully about the tasks in the weekly quizzes to pass. The support from the instructors was excellent: prompt and helpful. I am looking forward to taking the next stage. Thank you, Dr Sharad Borle and his team.
+I would give 5 out of 5 without any hesitation. It is a wonderful course covering right from the basics to a moderate level, presenting the approaches to analyse the data. Good that Dr.Borle had presented tricky assignments for the course, that really helped us to use our brains and dig into the analysis. Much appreciated course. Thank you Dr.Borle and Coursera. Look forward to many more interesting courses on Data Analysis and Analytics.
+The professor and the team has done a great job here!Excel sheets always looked and sounded like French and Greek to me until I took up this particular course, thanks to the efforts to the professor and his team!I will definitely recommend this course to my friends who are looking into taking their first steps towards Excel.Thanks for one such great, simple yet comprehensible course.
+Excellent!!! Thanks a lot to all behind this course ( specially the course instructor Mr. Sharad Borle for his clear and to the point presentation) . Examples, Videos, Sub-Titles, Quiz and other contents really help the learner to be more adroit and practical. I would like to complete advanced courses and other upcoming courses if possible. You guys deserve high rating, Kudos (y)
+I use Excel constantly at work, but I have frequently gotten information from it the hard way.  This course helped me increase my knowledge in some Excel functions that I knew about, but wasn't getting the most out of, such as Pivot Tables.  I have already applied what I learned in this course at work and THAT is about the best that you can hope for from a class.
+This course helped reinforce some of the excel data analysis I learned during my MBA statistics class. The most useful content for me was vlookup and pivot tables. I realize the importance of applying the learning immediately in order to master the skills learned in this course. I look forward to taking the next course in the series!
+Very good introduction to approach data analysis with Excel. The author of this MOOC gives an efficient method of using Excel sorting and processing functionalities, using files-scenarios close to real situations.
+On the other hand, I would have liked the quality of the videos to be better and sharper.
+Thank you for this course.
+I would definitely recommend this course for anyone who wants to learn advanced excel functions.  The module is easy to understand and the videos are so helpful.  Also you'll have a good teacher so it adds to the fun part of studying.  It is definitely a must for people who would want to expand their existing knowledge of excel.
+For someone who is very unfamiliar with Excel and Data Analysis, this course really help me to understand the concept of each functions which are useful for data analysis. The explanation and curriculum is packed and clear, so for someone who's full time worker, it does help them to learn new things effectively and efficiently.
+I took this as part of the specialization, so this review applies to the whole 5-course specialization. In this specific course, I learned some useful Excel problem-solving tips and functions here. It didn't go into too much detail on formatting and some other functions, since I think its intended to set you up for statistics specifically, but it was an excellent class nonetheless. The files and PowerPoint slides were well-done; for example, unlike some other Excel courses I've taken on Coursera, the PowerPoint slides are explanatory and clear, the text is big enough to be able to take screenshots of for note-taking purposes, and the quiz and test questions are clearly worded. Sharad also is a very good lecturer- engaging and doesn't rush through things; rather, he reminds you of things throughout the course, rather than just mentioning them once and then never explaining it again and assuming you remember it.
+A good intro to people who are looking to learn excel and data analysis in general. The mini practice quizes are really nice to directly apply what you have learned in the video lessons. The weekly quizzes are of normal difficulty and everyone should be able to complete it by going over the video lessons. Other than that, this course is not that demanding and should fit nicely into your work/college schedules. Looking forward to more courses in the specialization.
+I have been using Excel since my High School days, and hence am not new to the software. When I joined college, my usage grew, and along with it, my knowledge about the features of this software. However, I had just begun to scratch the surface of the capabilities of Excel, and this course taught me so much about the data analytics tools of Excel.
+This course was helpful indeed. I got more knowledge on pivot tables, learnt how interactive pivot charts are and how to use them. Learnt how to group data, the right use of graphs and charts for proper visualization and lots more. Practiced severally for my grades and completed a mini project. I am always happy when I unlearn, learn and relearn.
+The whole online course was a wonderful experience. Its easy and can become more perfect with the assignments. I thank Sharad Borle sir for explaining the course in an easy and perfect way. The assignments were helpful as they were an assurance that you got perfect with a topic. Cant wait to use it in my work! :)
+Very good preliminary course. Covers fundamental topics in a clear and concise manner. Video lectures are easily understandable, and each lecture is followed by a practice quiz. The quizzes for each week are also well constructed and test the student's practical knowledge. Overall, very good introductory course.
+This course has opened the door a crack to the powerful, and up to now mysterious, analytical tools available in Excel. I used the current version of Excel for MAC and had no difficulty translating the PC course material to my software.  I need to practice using these tools, but the fundamentals are there.
+EVERYTHING WAS KNOWLEDGEABLE, BUT THERE WAS SOME LATENCY IN BETWEEN VIDEOS AS SPEAKER WAS SOMEWHERE ELSE AND VIDEO WAS ON SOME ANOTHER POINT. MOREOVER IN SUCH COURSES OF EXCEL IT SHOULD BE CLEARLY EXPLAINED ABOUT WHICH EXCEL THE LECTURE AS MANY OF THE FUNCTIONS ARE DIFFERENT IN XLS,10,13,16.MANY THANKS
+Introduction to Data Analysis Using Excel is a fun fast paced course that will teach you practical knowledge in a short amount of time. All exercises were useful and to the point. I have no doubt, I'll be using what I learned in no time at all. Many thanks to Professor Sharad Borle, Rice and Coursera!
+this is perfect course designed for excel beginners or intermediate learners. This gives idea of techniques for boosting ones productivity and complete data work in minimized time frame.instructors explains all tactics in lucid and simplified way to make learning process a fun and interactive.
+Wonderful course...They have excellent teaching methodology.You cannot solve quizes without giving complete concentration on it which really gives you practicle insight to this course.It was my first course on coursera and I have made my mind to start another as early as possible.
+THE best course I have pursued in a long time in terms of making hard to understand concepts easily comprehensible through a hands on approach and crisp, lucid lectures. Strongly recommended for students and managers  desirous of a firm foundation in Excel and Statistics.
+I thought this course was straightforward and I felt that watching the professor go through the steps of performing different functions and creating different charts was a wonderful way to watch and learn. I felt the quizzes really tested my ability to apply the knowledge
+Fantastic content. Learning to streamline and visualize data is useful for everybody. The additional knowledge on importing and managing data has given me an insight into the power of excel. I highly recommend this course to anybody, even fresh graduates/students.
+Very well laid out course, concise, yet very informative.  I consider myself high intermediate at Excel and use it a lot on the job, but I still learned plenty and shored up some gaps in my knowledge.  I highly recommend this for nearly all levels of proficiency.
+Introduction to Data Analysis Using Excel was my second online course through Coursera. It really helped me in clarifying my doubts and increase my learning in data analysis. My favorite and most challenging  topic of the course was VLOOKUP and Pivot Table.
+Videos were particularly well crafted and made with obvious care. Lecturer spoke slowly, understandably to specific examples. Downloadable link to the exact excel sheet the professor is using is provided. Learned a few shortcuts I didn't know existed.
+Am happy to have completed this course because it has really helped me in achieving my goals and learning new skills in modifying my data to the extend of producing the expected results as a data analyst you have brilliant instructors..Thank you.
+Good course for the basics, learned a lot about pivot tables and I am excited to apply it to my projects.Some comments on the quizzes;1) Week 1 Graded Quiz there was a question on the unit price of the last row, which I got wrong. I am pretty sure the answer is correct. Would love feedback on this.2) Week 2 Graded Quiz there was a question on the quantity of orders made in one quarter but shipped in the next. I found some orders made in Q4 but received in Q1, so this might not make much sense. Also I got this wrong, and I think that it should be right (add up three numbers from the pivot table). Would also love feedback on this.Thank you Dr. Borle and team for the great course!
+Very good course. Very good instructor! I learnt so much stuff in only a short time. The talking speed of the instructor was very good for me. Some people wrote that the instructor´s english is sometimes hard to understand since he is not native english speaker, but for me (I am german) his english was very easy to understand. I had no difficulties to understand him at all. It was even easier for me to understand him than my other (native english speaking) instructors in my other coursera courses. What I liked a lot was that he repeated important learning steps several times. This helped me to keep things in mind and recall them faster.
+The course is really great. In that, the contents are well organized and are explained quite well. Every video lecture is well thought out beforehand and the video lecture lengths are as small as possible while making sure to get the topic across with optimum effort on both the instructor's as well as the students' side. The only issue I had was the lack of audio volume in every lecture. I think only  I might have had this issue. The instructor wasn't audible unless I turned off noisy appliances in my room and put on headphones on a 100% volume. I hope this gets fixed.
+This course was very useful for me to understand how we can visualise , analyse and showcase business data so that some meaningful assumptions and inferences can be derived out for decision making. The course instructions also were simple to understand and infact i had taken up another course from another popular app based learning platform but was constantly comparing the teaching style of this course and the other course. I found this team style by the instructor from Rice , very easy and very methodical and thought that this course was superior.
+Excellent course. One thing that really stands out about this course is the organization and great instruction. Also the tests really make you have to think. It is not like the majority of online courses I have taken where you have a bunch of multiple choice answers and you can essentially just make guesses until you arrive at the correct answer. In this course you truly have to understand the material to arrive at the correct answers. This is definitely one of  the best courses I have taken so far.
+This is the first time I have taken any online course using excel although I have some experience in using excel and data analysis. It is a great honor for me that I have learnt many news things that I never knew before. I appreciate the efforts taken by BISP Pakistan for enhancing skills by providing such plate form. I will extend my gratitude to the RICE University faculty for providing such an amazing teaching methods and making us understand all the contents concisely and practically.
+A very easy to understand and simple step by step process in making anyone understand the importance and use of excel in playing a huge role in business. Not only does the excel teach you to interpret data but you can also analyse the data to see any trends and improve them. I would say it made me understand the important role excel plays in running a business and how people need to understand the practical applicability of excel in day to day business life. Great job done, thank you!!
+Very informational and well-paced course. Really enjoyed watching the videos, practicing on the downloadable worksheets and challenging the quizzes. The lecturer, Mr Sharad, is wonderful in his explanations. I'm interested to enroll in his other courses as I find his lessons easy to follow. One thing I had difficulty with though was understanding some of the quiz questions as they were worded ambiguously. Hope that can be improved on. Thank you!
+Overall pleased with the content of this course. Most of the content was something you might already be familiar with, I was. You will be introduced to the Data Analysis Toolkit in Excel. And anyway, to complete the entire specialisation is the goal. Prof Borle's delivery was on point (would suggest you watch on 2x). The only complain is that the audio is supressed. You wont be able to hear distinctly without headphones or external speakers.
+My college offered Excel, but it was stopped midway. But this course helped to pick up from where I stopped and go even further than what would have been taught at my college.The videos were well done, and easily understandable, Though the questions were sometimes tricky. This is my first online course I have ever completed, and I'm really satisfied with the course.If you want to learn excel, this is the right course for you.
+This course is great! While i primarily came to learn VLookup & Pivot Tables, i learnt much more incl. scatter plots and histograms. Also the professor's step by step instructions is simply awesome. The exercises and tests were great too - some questions really challenge you! This is great course for someone who know basic excel and wants to take his/ her skills a notch higher. Thank you Rice University & Coursera.
+It was a nice experience to going through the course. Though I usually use many formulas taught in this course but it helped me to get alternate method to apply the same. Moreover, in Pivot I got to know may other stuffs which I was not aware of. Overall, this course will definitely help me to carry out my excel task in a better way, specially in my job where I need to do a lot of analysis.
+I love this course and the instructor. Great speaking voice, very clear and pleasant to listen to (very important).I went through all the study examples and although some things were a bit above my head, I learned a lot. I was able to complete all the homework and now I'm determined to learn Excel and will take the course over again.Thank you. Coursera
+This course provided some basic insights on Microsoft Excel including the pivot table, pivot chart, histogram etc. One who's completely new to Excel can enroll in this course and learn a lot. The quiz questions were very much up to the mark and one really needs to understand each lesson clearly to answer those questions. Overall, it was a nice course!
+The course is a good intro to basic data analysis. Power Pivot is touched on and basic but essential charting methods are also explained (I had not used these for some time so it was a welcome refresher). Overall it was an enjoyable experience and if you are a intermediate level user of Excel you should be able to complete the course rather quickly.
+Excellent course for student wants to learn how to use data available and interpret them into useful information. At the same time, you learn how to use some of MS Excel functionality and features. The presenter of the course had given a simple and clear explanation of the concept and principles of the statistical tools for data analysis.
+I loved this course very very much. Very informative, and the instructor is amazing. He explained everything so crisp and in a easy to understand way. Many congratulations for the amazing course to the entire team and the Rice University. Please do come up with more courses like that, and if possible, free of cost. All the best.
+This is an excellent course; however, it is challenging. I haven't used Excel or worked in finance for many years.  I found the need to go back and review the videos and transcripts many times. In addition, Professor Sharad Borle is excellent -- he makes it look so easy. I now have a much greater appreciate for data analysis.
+AS for me , its pretty helpful for learning the excel basic knowledge, learner can download the material from sources and take the quiz. I'm not consecutive to study this course , sometime  it will cost me  a little bit time to review the previously content. If you wanna deeply study or get the certificate ,you need to paid.
+I really enjoyed this course. The pace was very good, videos were clear and informative and tests helped me to memorise the lessons better. This course is a very good starting point for beginners when it comes to Excel and provided materials helped in constant working "side-by-side" with the professor. Thank you very much!
+It was an amazing journey of learning & wisdom throughout this course. Course lecture videos were very crispy. Yes, but you must have basic proficiency in MS Excel before opting this course, if you have it, this course is fun for you. Mentor Sharad Borle was an great instructor for this course. Thanks #RICE UNIVERSITY.
+This course is very helpful for every student. if I talk about my self so I learned so many things which I never learned before. Sharad you are one of the great instructors of Excel. I will recommend this course to my friend. Course Content was good and Exam and Quiz were tough but very helpful. Thanks - Sharad Borle
+Cource is dedicated to those who are not familiar with Excel and provides a good overview on most commonly used Excel features for data analysis. Good audio and video quality, nice examples of data, a little bit tricky assessments and systemic explanation of the teacher  results in my satisfation about this cource.
+I like the course, but apparently I am lacking the correct Version of Excel. My German 2010 version does not import all data correctly. There is no conversion of dates and amounts. I used also Libre Office, but in vain. Currently I don´t have the funds to upgrade. So I withdraw from the course.Thanks
+Very Good Course,The Course is very well organised and will help you in Practically learning and applying everything taught in the lectures.Lectures are interesting , I have completed this course within 4 days and now i have a good command in  implementing Excel in various Assignments and tasks
+I \t is an excellent course by Sharad Sir.He is an dynamaic person.I got more than my expectation through this course.Before the course I was not comfortable with excel but due to his dynamic content now I atleast know how to deal with excel.All credit goes to Sharad Sir and Rice University.
+This is the excellent course for getting the initial level understanding of Data Analysis. Many of my knowledge areas have been revised and refreshed. Also many things i have learnt new in this course. Really recommend it to all those who want to grab initial understanding of Data Analysis.
+It was a beautiful experience here. Coursera helped me financially by giving this course for free. I kept in mind the terms and conditions. Sharad Borle is an amazing teacher, the way he teaches is just so good that everything is easy and understandable. Thankyou again for this opportunity.
+This is an excellent course, and thak you for the extra time to finish it, for me a little longer because I have to traslate into my language and there are some  things tha I did not handle, from English to Excel, The way the teacher explained y very goodThank you so much, Mr Borle
+Awesome and easy course! A must for the beginners or for a quick revision. I completed this 4 weeks course in 4 days..  I know 4 days are alot more of a time but i hardly studies for 3 hours per day.. Great course.. looking forward for other courses as well in this specialization.
+Thank you, Dr. Sharad Borle!  Very helpful class!  A lot of useful information in the lectures, and the quizzes are very helpful to test your knowledge.  I have use Mac for this class, and I sometimes struggled to figure out some things, so I recommend to use Windows if you can.
+it is really a good course for beginners to learn data analysis using excel. The course content is very well selected and organized. The instructor's grip over the subject is really good. The end of the Week assignments are also well designed to further practice what you learn.
+Great course. I highly recommend following along with the videos and doing the same on your excel sheet. TO THE MAKERS: I would suggest making the excel files used in the example videos available so I could practice alongside the video. OVERALL GOOD COURSE AND VERY HELPFUL.
+The content of the course is good. The instructor ensured that the session is not only about grasping theories rather getting into practical by actually getting hands-on experience. I find it worth completing this course and will carry forward my learning to explore more.
+This course was truly challenging for me as someone who has very limited knowledge of excel.  I took several of the quizzes/final test over and over again until I got it right and fully understood what I was doing.  This Data Analysis Introduction was definitely helpful!
+Indeed a very educational and interactive course. I have gotten a lot of learning out of this course and the organisation of the video lessons are phenomenal. However, it is very difficult to complete some of the assignments on a MacBook- however it is not impossible.
+The course was very interesting. i was able to replay the videos and understand the concepts better based on the use of the examples the lecturer applied to each concept. for the most part the quizzes were based exactly on the concepts brought out in the lectures
+A very useful course, I found lots of new and important staff to learn and can implement them all within my day-to-day tasks. I am expecting a huge difference after participation of this course into my statistical skills, thanks for the organizers of this course.
+The course offers an astonishing chance to
+develop myself in the area of data analysis! Actually, I can learn anything i
+want from the world's greatest minds. This is a brand new way of learning new
+things. Inspired by the way of learning in foreign university!!
+This Course is very important one and is essential for everyone who is willing to do Data analysis in Excel. It really met my expectations. Many thanks goes to Rice University,  Coursera & Somaliland's Ministry of Employment Social Affairs & Family.
+Great course that teaches you a lot of the basics in Excel. The instructor is very knowledgeable about the subject matter and explains the material in a clear way. I am now using much of the stuff that I learned in this course during my daily work.
+Really well put together course and i love how much information is packed in small videos.The best thing about the course is the assignments can be really tricky even if they seem simple and it challenges you to think.Highly recommend this course.
+It was a well crafted course, Videos & Study material was to the point. Course contents will be helpful in handling large database in very efficient manner. Instructors mastery over the subject  & teaching skills are really appreciable. Thanks !!!
+Many factors made me narrow down to this course.1 Time Constraint2 Layman Friendly3 Problem Sets4 Easy to UnderstandEventhough I had some experience in Excel data analysis, I learnt some extra content which I think will definitely help my career.
+This course is so interesting and encouraging for those interested in starting a career in Data Analysis. The instructors, videos, tutorials, assessments and group discussion forums are exceptional. I will recommend this course any day, any time
+I loved the course. It was explained in a very simplified and interesting manner. It kept me engaged and cleared my concepts. The Practice quizzes and questions were really helpful in determining my concepts and understanding of the concepts.
+One of the best courses on Data Analysis. Thank you Rice University and Sharad Borle Sir for providing such a valuable course and for great explanations. The Weekly quiz are very well designed to test your understanding of the video lessons.
+This course guides you step-by-step from the basics, so it is for everyone who wants to learn Excel without minimum skills. Moreover, the video and quizzes help to review the materials. Overall, the course is amazing and timely managed.
+This course was a good basic introduction to some useful tools in Excel. The most useful tool I learned was the VLOOKUP function and pivot tables. Will definitely be employable for any career requiring simple to complex data analysis.
+Superb learning experience.If there is an advanced course to this would definitely love to do it .Very good faculty support staff and very enthusiastic fellow students whose guidance and thought process gives a different perspective.
+Solid introduction to Excel. If you are brand new to Excel, you will likely need to practice a bit and/or refer to other resources for additional skills. Even though I've been using Excel for years, I still learned some new things.
+Good for beginners, although a bit complicated to get around all the language barriers in Excel and without using the ToolPak which doesn't seem to work for my Excel. I'd recommend having google nearby throughout the course. Good
+The course is really a good course. The instructor too is good at instructing.I enjoyed learning the course and I am sure that with what I have learned I would advanced in my career and personal development. Thank you Coursera.
+Very useful but not necessarily a course for beginners. Understanding the concepts isn't tough because they are explained very well but the exercises can be challenging for people who don't have a functional knowledge of excel.
+"I've never completed a course like this before and I cannot express how great the instructor was and the overall content of the material. I would Analysis Data . I will be looking into taking more of these course. Thank you!"
+The course content is very good, the questions at the end of each week are also very testing, which gives the learner confidence to test his/her own learning. The instructor's way of teaching will be clear to a layman as well.
+The only thing I would like to add is to keep in mind that students may be using a Mac. Professor Sharad explained how to get the Data Analysis Icon from an HP, not a Mac. The class was informative and I enjoyed it.Thank you!
+Exceptional course. Course load is a little less if you're familiar with Excel before, otherwise learning while doing is really easy. The assignments are very practical and interesting. Looking forward for the specialization.
+A perfectly framed course,has perfect synchronization with the topic and graded quiz.The best part of thr course was ofcourse Sharad SIr and also graded quiz,it was really smart and required evaluative thinking.Thank you!!!!
+Excellent course to learn the basics of Excel and how to use it for day to day problems of data analysis.In short  it is a complete package for learning excel to beginners as well as for those who know a little about excel.
+Although the course content is really basic but it is really essential as a foundation to go for the advanced courses in Business Statistics using Excel. Very nice examples are being used to explain the utilities of excel.
+This course is one of the best that I've taken so far. I've always had a hard time navigating and using Excel due to its complexity. The course gave me (some) the necessary skills that I needed for my studies as a student.
+I wish I had received a training like this when I first started working as an analyst 7 years ago. Although I was familiar with the concepts discussed, it was still useful to have them laid out in such a structured manner.
+I really like the pacing of this course and of each video segment. The pace made it easy to follow along with the professor. I also appreciate that he doesn't use many shortcuts, and the few he uses, are used consistently
+Excellent Course ! The instructors were awesome and explained even the hardest of topics with ease and in easy to understand language. Five stars and kudos to the whole team who took part in the creation of this course.
+I was think the course is more complicated. When I have experience in Excel, I didn't have difficult for completed the course in few hours. But I think the others courses of the specialization can be more useful for me.
+I underrated Excel all this while but finishing this course has washed away that misconception. So many of my day to day tasks have become super easy now. Glad that I could also help my Uncle because of learning Excel.
+One of the best Coursera courses I have ever taken. You really learn to master some tools from the foundations to the advanced topics. Excellent non-trivial quizzes at the end of each week help you improve your skills
+the assignments were challenging and good. The assignments is very helpful in learning it helped me to go back to some videos and refresh my memory about some complex concepts. Overall a very good and helpful course.
+Complete approach of basic skills and tools. Capable educator. Suitable for users who already grasp basic functions of excel and fundamental notions of mathematics and analytical thinking.Thank you for the course!
+Perfect course! I really enjoyed the lectures. Some quizzes were very challenging, but rewatch the video -  I followed along with him on excel and just listened while I followed his instructions the second time.
+Really a good course for beginners .this course covers major functions in excel.the course delivery and presentation is also really good. Got an overall idea about presentation and analysis of data using excel.
+Dear sir,I audited this course but I must tell you that this course had helped me a lot to learn about excel.Thank you to teacher and of course to coursera for providing such a high level course to us.Cheers!
+It is easy to follow. The videos are short enough to keep you engaged and focused. I knew the basics so it was very easy for me. I would recommend this course as a good starting point for complete beginners.
+The course was exceptionally good and it gives a bird's eye view of the different important and basic concepts in excel. Would recommend this course to anyone who love data analytics and want to pursue it.
+Very satisfied with the instructor, but just one suggestion to the coursera team, please explain the graded quiz questions more properly, so that it can be easily understood by mediocre people like myself.
+This course is amazing. It's for beginners as well. It teaches you the basic of data analysis using Excel. While you will enjoy taking this course, I encourage you to take the whole specialization as well.
+An awesome course that gives you valuable knowledge in data analysis using excel, it makes you explore some unique features on Microsoft excel i.e you get to exploit some of the potentials of the software
+First of all, thank you for such a wonderful course. The subject matter was explained in a perfect manner. Also the user interface on coursera is very good. In totality it was a great learning experience.
+Instructor did an amazing job in making this course easy to follow, understand and retain. The excel spreadsheets needed for each lesson were provided and downloadable. Will look for more of his courses
+It was a great experience through this course.The course contents and the materials are very good to learn the basic of Excel. And the discussion forum is also very helpful for doing well in the course.
+The training provided by Dr. Sharad is easy to follow and learn. Bravo and Thank you.The level of difficulty from the quiz and the final task is just right and it is making us to think creatively.
+Dr. Borle's excellent grasp on Excel makes it really worthwhile. I needed to learn some basic functions which would help me in my data analysis using excel sheet & this course helped me do that.
+Absolutely loved the course. Plenty of practice assignments to keep one engrossed and also get hands on experience. The quality of quizzes was also good, it did test all the concepts taught.
+Great start....I have used basic Excel skills in the past but this class allow me to start using special V functions, pivot tables and charts, and histograms which I have never used. Awesome
+i was not able to pay amount still this good platform has given me opportunity to complete the courses, i am very much grateful to coursera and this is the best platform available till date
+It is a great course! The instructor was easy to understand and concise in his explanations. It is a good introductory course, even for someone like me who barely has experience with Excel.
+this is best start for data analysis course .the course is well aligned from basics to advanced methods.clear explanation with best examples made this course more beautiful and productive.
+I was never so much comfortable with either excel or analysis or statistics. I am feeling so much confident and hence continuing with course 2 of this specilization. Thank you Prof. Borle.
+This course is beneficial to every student,mangers or worker of any firm. It can enhance their knowledge toward excel. By completing this course they will able to operate the excel easily.
+It would be nice to be able to go back and review past lessons after not being able to log in for a week or two.  I was only able to work on this course in between my other duties at work.
+Thoroughly enjoyed this course. It is not very hard but is very useful in terms of learning the Excel functions that help analyse data. I really like the teaching style of the instructor.
+A good introduction. Starts off very basic. But it's also a good recap on some essentials that can be easily forgotten. The data analysis with histograms part at the end was very useful.
+Excellent course for a beginner. One can learn from scratch and cover all the important topics with ease. Everything is explained so well. My only suggestion is to include Macros as well
+Good course provides a basic basis for data analysis! Excellent for beginners who have no idea how to use excel to systematically learn excellent files from each lecture is very helpful.
+The instructor explains things clearly, the examples are great and the little quiz at the end of each week are great to practice what you have learned. The course has a great structure.
+Excellent  way to learn Basic EXCEL from this COURSE. Teaching methods are easy to understand and the practice quiz after every lesson will make you to prepare for the FINAL WEEK QUIZ.
+Good course, it provides the basis for the rest of the specialization. It is basic, and it may be boring if you already know Excel, but it is necessary as part of the specialization.
+The steps are easy to follow and the course pace is just right. However, the sentences are sometimes hard to understand because of the accent and I have to look at the scripts often.
+The course gives a good understanding of basics of Excel. Using various important elements of Excel it successfully shows how data analysis can be performed using this powerful tool.
+Extremely good refresher if you know your way around excel and a great start otherwise. Excellent delivery, clear, concise with enough challenge in the end of week tests. Excellent.
+Exceptionally easy to follow along, and consequentially easy to remember. Thank you for talking slowly enough for me to understand what you are doing as you do it. Highly recommend.
+This course gave me a very basic understanding about excel.It started with basic level and went to advanced level gradually.The course will help me to do data analysis much better.
+This course will give you a great foundation in Excel if you have no previous experience. I now feel confident enough in my abilities to try higher level courses involving Excel.
+There are many courses on excel on Coursera but this course is compact and teaches directly to the point and there is no time waste by harping over too basic unnecessary things.
+This course opens your eyes to the potential which Excel offers! A highly recommended introductory course to "see" the big data picture. Many thanks to the Rice University team!
+I'm using excel for a while but it's good this course  refresh you knowledge to ensure you will successfully succeed and accomplish the whole specialization. Thumbs up Coursera.
+Excellent introduction to Excel. I could revise my knowledge and I learned some new formulas. Videos are very helpful and explanation is clear. I strognly recommend this course!
+This course opened my eyes to the working of Excel as it concerns data analysis. I am glad I took this course and a big thank you to Dr Borle for making the course interesting.
+Extremely beautiful course. I was pleased to get learned from the professor. The teaching was efficient. Detailed learning within a short period with excellent teaching method.
+A great course! Would recommend this course to anyone who is willing to explore the field of Datascience or data analytics. All the topics in this course are covered very well.
+Course runs smoothly and slowly..clearly understandable..Practice assignments are also nicely framed to check if we have grasped the skills. Highly recommended for beginners.
+An excellent introduction to Excel. In most workplaces having a basic grasp of Pivot Tables, V-Lookups, and IF commands is essential. This course will provide those skills.
+Tutor can explain the lessons thoroughly to understand easily. So, I got high grades in all tutorials and got a high understanding of excel and data analysis. Thanks a lot.
+A very basic introductory course, however, arranged in a way that presents course content in a informative and interesting manner. Looking forward to the next few courses.
+I really learnt a lot in this course, I was a newbie with excel spreadsheets, now I feel comfortable handling data files and extracting valuable information from raw data.
+I have learnt a  lot from this course. I thought I am already good at excel but this course helps me become more competent in using excel for business and other purposes.
+the course is very helpful even if it took me sometime. the course needs to be performed in order to answer the quizzes and to be able to understand the topic discussed.
+It is a well structured, practical & informative course who wants to understand the most important tool in any office. Great learning with interesting quizzes and tests.
+A great course overall specially for those who haven't had much experience with MS Excel before. It was very insightful. A special thanks to the instructor Sharad Borle.
+This course us really helpful in learniong various excel analysis tools. I would recommend it to people who wanted to learn data analysis using excel.Happy Learning !!!
+Very useful and easy to understand. Although I wish some of the content were more challenging, the quiz did a good job for soliciting good understanding of the material
+The step by step process that this course takes has helped me to completely understand what it offers. Also the evaluations has helped me to gain further understanding.
+Great pace, all very useful materials. Only thing is I wish the instructor gave the excel data files that he uses to demonstrate with so that students can follow along.
+Very informative and helpful course. Every single session is starting from very basics so it will be very helpful for all students who wants to learn from the scratch.
+very good course for me and it starts from very beginning of excel skill and finally i learnt lots of sorting and graphic skill. i think it's good for my future work.
+I just finished this lesson, and it's a really good resource for beginners even for every body start to work for a company. It can give you a fundamental about Excel.
+It's a practice course. I totally recommend it because in the classes the teacher use exercises and the evaluations are based on a Spreadsheet with data to analysis.
+Course has been designed in a very sequential manner. However, adding a bit more complexity to the graded and practice quizzes will make it more challenging and fun.
+Well, This course was very good. The instructor was clear at his point. Content was ultimate for every beginner. I got more that what I was expecting. Thank you sir!
+Simple and nice course for normal excel users to enhance their skills, explore the different options available in tool and how this Excel can help in data analysis.
+This course is very helpful in understanding the basic excel interface. The quizzes of this course covers all part of the lectures and have a practical skill check.
+Excellent introduction to Excel for beginners!  The instructor explains everything very clearly and I was able to master so many new skills because of this course.
+Very useful with lots of practical cases for learning.Both knowledge and skills mentioned in the course could assist to uplift productivity and efficiency at work.
+Interesting course with relevant real life examples for practice and quiz. Some questions were tricky but it helps to gain more knowledge in this subject. Thanks!
+A great and comprehensive course for all those looking to explore the basics of MS Excel ranging from Excel formulas, Lookup, Pivot table, and Data visualization.
+Thank you to all those who designed this course..Rice University and Coursera. Special mention also goes to course lecturer Mr.Sharad Bole!..You were very good.
+this course is really good, everything was in right pace and speed, and it practically illustrates each and every concept using excel which makes things clear.
+Very informative and provides ample knowledge required for basic data analysis. High recommend to those who have some spare time to improve their Excel skills.
+Fantastic Professor!!! Thank you, Sir. Very handy advices have immediately helped me. And this after my 20+ years of practical work with Excel )) JUST AMAZING
+Great online learning experience having a lot of insights of using excel and gained the knowledge on excel that will help me excel in my career in the future.
+I truly enjoyed the whole course. It is perfect for brushing analysis and presentation skills before moving on to advanced level. Thank you for this platform!
+Excellent course to learn excel for the beginners. Prof explains the concept in a lucid and effective way. It's a sure course to all who want to learn excel.
+Instructor was good, he explained all the concepts in depth. I loved the course and the way it was demonstrated and also included lots of hands on activity.
+I am so happy because got this great opportunity to improving my skills and gain more knowledges. Thank you RICE University for this honorable certification
+Very useful course. Videos are short but full of knowledge and Assignments will smoothly insert the knowledge gained from the videos.Overall a great course.
+Course well planned and easily understandable, tutors really teach to your understanding. Course structured properly and interspersed with test and practise
+Great course - instructor is very straight to the point. Can increase playback speed if some concepts are review. Assessments are reasonable in difficulty.
+Course was structured very well and the lectures and instructions were clear. Quizzes and practice questions were thought out and added value to the class.
+Thank you so much for creating this course. Very much recommended for someone who has just started to lean Excel. Really appreciate your time and efforts.
+This course is an excellent example of learning by doing. All the theory is explained in practical tasks. No boring lectures! Highly recommend the course.
+One of the best online course I have ever taken yet. That nice and descent explanation , practice quizzes really helped me to pass all the graded quizzes.
+An excellent course! This is absolutely helpful doing our research. Plus, it is engaging, easy to understand, and can be applied to real life situations.
+Great refresher course on Excel.  In addition, I learned a number of new things about charting and Histograms.   The shortcuts were appreciated as well.
+Wonderful course.It started from scratch and helped me reach an intermediate level.After finishing this course we learn more advanced concepts of excel.
+a great course! very suitable for those who have been using Excel to only a superficial extent and wish to deepen the knowledge of functions and charts.
+This course is really easy to comprehend. I managed to finish the entire course within two to three days even though I had no prior experience in Excel.
+Course is very meaningful and through, I was able to apply pivot, charting into current work. The certificate has also made my CV clearer and better.
+I would like thank you for the session.i just wanted to jot you a note of thanks to say how much i enjoyed your session on Data Analysis Using Excel.
+this four week course helped me in getting some quick navigational tips for excel and also certain advanced tools such as pivot charts and histograms
+Good explanation , Easy to understand and apply , thanks to the faculty , thanks to forum ultimately helped in clarifying doubts and achieve better.
+Prof Sharad makes things look simple. It was the best excel course I ever had! Great practical examples and short videos which facilitate concentrat
+It is an excellent course for the beginners. A highly recommended course. The instructor is amazing. The pace of the course is nice and manageable.
+I really liked this course. The materials and explanations were really helpful. I learned all the necessary stuff in excel for business! Great one!
+I've gained a lot of new and insightful skills of using excel throughout of this course and I'm satisfied to complete all the lessons and practice!
+i liked this course very much it is very effective for the buisness, but question what ever asked in the quiz and spreadsheet are a bit difficult .
+An eye-opening introduction. Looking forward to more exciting sections and challenging times ahead.Grateful to be part of this learning programme.
+I learned a lot in this course, but still hopefully to review the answer of the test. Maybe can provide the answer and solution after few attempts
+Very useful! Delivered in a highly understandable manner. Definitely recommend to everyone who would be involved in a bit deeper work with excel.
+Really enhanced my excel knowledge and liked the way of explanation with example by Tutor sir Sh Sharad Borle . Thanks and RegardsRajkumar Thakur
+easy to follow course with clear instructions and practical examples to be applied in the weekly test, mini and larger quizzes to ensure learning
+Amazing course! covered everything and the best thing is every concept and function is explained upto advanced level but lecture is kept concise
+Awesome course. the concepts were explained very well. Would have been great with some more practice sets before taking up the final assessment.
+prof is very down to earth, speaks clearly and explains very well.  the examples are terrific. material is very important for anyone in industry
+The course was very awesome. It thought us many tools of excel. Got to know some interesting things line how to convert text file to .xls file.
+The course is quite useful in learning the advanced options of excel which helps in analysis of data. The trainer is very clear and meticulous.
+Its an amazing course at the beginner level, each and everything related to excel is defined and taught very clearly and in an amazing manner.
+This Course is amazing. It starts at a grass-root level and each and every part of the discussed syllabus is touched upon. Very satisfactory.
+Course was very useful and it not only teaches basic excel functions but also encourages you to experiment with data leading to self learning
+A must for anyone going to study data analysis for business management.  The instructor has a very good delivery. Overall a good experience.
+It is a very interesting course to start using EXCEL. In my opinion the worst thing is the last exam which is not explained really good...
+Great course to know all about the basic foundation of data analysis using Excel.Great assignments.liked it alot.Thanks for this course.
+Excellent course to take! I needed a fundamental crash course on using excel for data visualizations, and I got my return on investment!
+One of best online courses in Cousera overall and particularly in Excel. Great course structure, content, quizzes and great instructor.
+It is a very useful and creative way of teaching. Assignment problems covered all concepts.  I am very happy after learning this skill.
+Great Course.  The videos were excellant.  I learned a lot.  The only negative is that you have to pay money to take the weekly tests.
+Enjoyed the course.  It was just the right amount of material and practice.  Straightforward quizes. Time to finish was as described.
+I like that this course is brief and concise, not dragging at all. It's short but very educational. Looking forward to more lectures.
+It's an amazing course for people who are looking to get an insight of data analysis using Excel. A good introductory course overall.
+This course is really great and informative for any one who is willing to gain new skills and very attractive the way of conducting.
+It is the best course about Excel on any online learning platform,.Thanks to Sir.Sharad Borle for teaching us in such a good manner.
+My reverence to Prof S. Borle. He summarizes and explains concepts in a lucid manner. The quizzes and tests gave excellent practice.
+The course help me to review and clarify basic concepts about  Excel and its used in business applications. I strongly recommend it.
+A structured and easy to understand course. A must for beginners who wish to start learning about various excel functions and tools.
+The course is very helpful for getting a strong understanding of basics in excel for further learning of its analytic applications.
+Good Course for beginners to learn lot of things about Excel. I must recommend this course to those who really want to learn Excel.
+Great course to understand basics of excel, we use these in day today life but are not polished. This course will polish the skills
+It's a good and useful course, but I need more examp;e and explanation about vlookup function  and nested if function. thanks a lot
+Fun class.  I learned a lot more than I expected and a lot of the information covered is very relevant to running a small business.
+Every course is good but it depends on instructor how he/she is teaching. Instructor explained everything in a very beautiful way.
+The professor is very thorough and the videos easy to follow. The quizzes test your ability on the info very well. Thanks Sharad!
+I think the lessons are well explained and easy to follow. It really adds my knowledge regarding how to work my way around excel.
+It is a good course for a starting boat in ocean of excel, instructor was good and explaining ability of instructor was awesome.
+Excel has an infinite number of learning paths this one is fragmented to empower you and keep you on of the data analysis route.
+The course is really helpful as it equips one to use basic and advanced functions of excel and explain concepts in clear details
+Amazing course. Learnt a lot of new features about excel. would like to do the advance course too.Thank you sir,Regards,Vaibhav
+Very helpful course to review the basics of Excel. The presentations were clearly laid-out and made the concepts easy to learn.
+The Instructor has constructed this course in a very systematic manner, which makes it easy to understand all the new concepts.
+Well structured course taught by an extremely good professor. Great projects and quizes that make you learn with each question
+Was a great course for learning and for review. It was relevant and concise.  I would recommend it if you choose to do either.
+Excellent introductory course for the specialization, lessons with the necessary information and exams with fair challenges.
+It was a great experience, to refresh knowledge, and learn new techniques to interpret and understand summary databases!!!!!
+This course allowed me to review basic excel knowledge as well taught me a lot of things that I used during my tasks at job.
+I have used excel for over 10 years now and I wish I would have had this as an introduction to excel when I first started.
+This course is designed for the beginners and the narration of the content is so clear that makes the course a lot easier.
+It's Really a Good course for Beginners and the way of teaching of the professor is really nice with proper demonstration.
+Good,I have learned a lot in this course. The teacher and the assistants are good and helpful, they answer every question
+Excellent course, the Excel version was a bit old but it's easy to determine how it works with the latest Excel version.
+It was a wonderful course. I have enjoyed and I think I have learnt a plethora of things from this course. Thanks a lot.
+An excellent teaching and presentation by the Tutor. Kudos to the team for making such a wonderful interactive sessions!
+I have had a great experience with this course, the lectures were very easy to follow and the task were very affordable.
+It's very detailed yet very intuitive course covering from the basics. Hoping for being the same way for course two now.
+I so much love the exercises and assignments in this course. They are real life practical ones. Thank you Sharad Borle.
+Mr. Sharad Borle was really wonderful and amazing as he cleared most of my excel learning in a very crisp and easy way.
+Great class!  I learned a lot.  I felt it is adequate for a beginner.  I can immediately apply what I learn to my work.
+Thank you for easily understandable lesson. It was really helpful!! Even the professor's voice is a bit addictive haha.
+It is very easy to understand the content of this course. I really recommend it because I learned a lot of new things.
+The course is really worthy in current scenario of using s much Excel spreadsheet in our daily working of office work.
+Very good introductory course to Data Analysis Using Excel with helpful Pivot Tables, Graphing and Histograms Sections
+Very concise beginner course in Excel. This is not a course for those who have intermediate (or above) level of Excel.
+Excellent method of the teaching, and its very crisp. The instructions very straight, very clear, easy to understand!
+Nice course, Instructor explains clearly, it is easy to follow his teaching. Thank you very much for useful lectures.
+NEATLY EXPLAINED. THE MOST IMPORTANT PART IS THE QUIZ WERE VERY WELL PLANNED, THEY WERE REALLY ENCOURAGING. THANK YOU
+The course was easy, but the skills you learn are very useful. It should only take you about 6-6.5 hours to complete.
+The course materials are designed logically and very easy to follow. Thank you very much for this valuable experience
+An excellent course to learn data manipulation and visualization using Excel software, without having to code at all
+Modules are Very Simple and easy to Understand. The instructor Mr.Borle is very good in explaining the details with
+The professor is highly qualified. He explains the material in clear and easy way. I enjoyed this course very much.
+the course for the beginners is good.Its is easy to understand and learn.Lectures , videos and assignment are best.
+Amazing class, gives you real examples to work with to practice your skills, and explains lots of useful functions.
+It is very useful for basic excel learners. I am very thankful to coursera and Rice university for this opportunity
+This course helps in gaining basic knowledge in excel and familiarises with quick and common functions with excel.
+The course is both engaging and challenging. I would recommend it to every beginner using Excel for Data analysis.
+Excellent course which enables me with the basic
+foundation for data analytics and it's implementation in worklife
+Great review of how to use Excel to calculate basic arithmetic values, create charts, and some statistical values.
+Fantastic Course. Every topic is explained very clearly . I have gained a lot of information in this short course.
+Simple and Easy to Understand. A well designed course covering all essentials for starting Data Analysis in Excel!
+it was interesting for me as i got to learn so many important factors of excel which i could apply in my future .
+It was an awesome experience leaning this new skill MS Excel and have upgraded myself with a new important skill.
+useful!I learned pivot table, some basic excel formula, etc. The test is a bit difficult, but it's good practice.
+The course is well organised and helped me to develop more edges to Data Analysis and Microsoft Excel. Thank you.
+Gives a very basic foundation for data analytics. Course content is taken systematically. Excellent for beginners
+I really satisfied overall from this course. The  professor's teaching style is very easy understanding.Thank you
+Maybe the my favorite course I've taken with Coursera.  Immediately applicable to functions I perform in my job.
+Examples given are clear, instructors also explain and guide sufficiently. Overall tests are challenging enough.
+This course is easy to follow for everyone. Excellent job for Mr Sharad Borle in introducing this online course.
+What a learning! Thank you professor for the wonderful learning experience. I shall be thankful to you for ever!
+Every thing is very informative. I hope these learning will help me a lot. Thanks sir for the wonderful efforts.
+Very helpful course. It will teach you so much about excel which you can use in the workplace. Glad I took it !
+It was a comprehensive course. There was a lot to learn including dealing with a lot of data and its analysis.
+Thank you to RICE University for holding this course. Very helped me in finding knowledge for a career change.
+Engaging lessons and relevant to work life scenarios. Professor Borle's explanations are concise and precise.
+It is a very good excel introductory course. Pace of the course is really and professor has taught perfectly.
+It was a good course for learning basic Excel operation and begin a journey toward data analysis using excel.
+A very good course to know about data analysis using excel.Nice examples given to understand various concepts
+Great course outline. The exercises are super helpful ! would recommend to friends to learn from this course!
+It provides a clear and basic introduction to Excel. The tools and techniques are quite useful for daily use.
+insightful lectures. The instructor did a great job at teaching this course and was very clear at all points.
+After the course, key basic concepts I failed to grasp in my previous studies became very easy to understand
+Easy to follow instructions and forums will help you with your questions. You will learn useful skills in ex
+I would say this course contain great contents with good exercises to shape you properly for analysis skill.
+Excellent Course. quality content and really make people get familiar with data analysis with excel easily!!
+Definitely love this course, and I do learn a lot of knowledge about Excel from Professor Borle. Thank you.
+Excellent professor and good course for start learning Excel!!! Basics on formulas, pivot table and charts.
+With excellent explaining and demonstrating of excel skill from the prof. Sharad! Thanks for the teaching~
+Hi! Very interest and detail training. With these steps we can run some different tests and practice more.
+Great interactive course thats easy to understand for beginners. The title of the course fits the content.
+Instructor did a great job covering variety of basic excel skill, they were easy to follow and understand.
+It was an amazing experience .Most helpful to master the basics of excel.Easy way for data manipulation.
+Greatly explained, needs a lot of practice to get good at this. 10/10 for the faculties teaching styles.
+Excel is essential in professional environment . Professor is brilliant and classes are worth your time.
+THIS COURSE WAS REALLY GOOD AND HAD A LOT OF BRAIN STORMING. THANKS A LOT FOR CLEARING MOST OF CONCEPTS.
+The course is essential in setting a foundation in using excel. All course material was succinct and eas
+Great, I learned basis skills of data analysis using excel. And next I would learn more advanced courses
+Great course. Finally I know all the things I needed to know while i was doing project at my university.
+Great learning experience. The instructor was very detailed in his approach. Thank you Rice University.
+Very well designed course. Delivery was very good. Course content was explained properly and logically.
+The course structure is set keeping in mind that even Beginners can do the course without any problem.
+AMAZING COURSE! ONE OF THE BEST ON COURSERA FOR SURE! A MUST FOR GETTING TO KNOW THE BASICS OF EXCEL.
+Great course to learned with most of the important basic data analysis knowledge using Excel. Thanks.
+The instructor explained this course in a lucid manner which helped me to learn the course with ease.
+Excellent class, brief introduction to using excel to data learning, hope to learn more in the future
+really it is a very knowledgeable and interesting course. I like much the quizzes and test quetions.
+This course was very practical and easy to understand to be able to start using Excel appropriately.
+My first ever online course. It was engaging, informative and interactive. Really well put together.
+Clear instructions and descriptive examples. Best course for a beginner. Thank you, Professor Borle!
+Very informative and easy to understand. All information on the quizzes were covered in the lessons.
+This course greatly helped me to gain basic excel knowledge. Straightforward and easy to understand.
+Great course. Detailed instructor videos, good quizzes to test knowledge and materials were helpful.
+It was a great learning experience and very exhaustive course that covered data analysis completely
+This Course was so helpful and gained a lot of knowledge that I will be able to apply in my future.
+Very detailed explanations. Short videos help retain attention. Quizzes are good. Really loved it!!
+This is the best course for beginners. I learned many things about excel which  helps me in future.
+Excellent course with brief and simple videos which teach you the basics of data analysis in Excel.
+I've been working in Excel for many years, and learned new, powerful tools in this course.  Thanks!
+Very thorough instruction with helpful examples! Enjoyed this course, thank you to the instructor.
+Nicely organized for an introductory course. Moving on to learning the more advanced Excel skills.
+Very good course for data analysis and very helping for efficient report  by easily analyzing data
+so much helpful to gain knowledge about the aspects of MS Excel. It will surely make you EXCELLED!
+Excellent course in terms of content and applicability. Highly recommended for everyone out there!
+Very easy to navigate and the lectures are bite-sized, making it easier to maintain concentration.
+Well taught and clearly presented. The exam materials challenge you to think.  Extremely relevant.
+Awesome course for beginners. Explanation with examples are really good and easily understandable.
+this course helps me in understand various application of excel which may help to build my career
+This class was great. I have a much better understanding of V Lookups and pivot charts. Thank yo!
+THIS IS A VERY WONDERFUL COURSE AND I BELIEVE IT WILL BE VERY HELPFUL TO ME IN THE NEARBY FUTURE.
+Even though I had questions during the course, I loved skills I have learned. Strongly recommend
+PROFESSOR SHARAD  is a gem be it teaching, or way of teaching. Pleasure learning from him.Thanks
+Informative. Good and real life example. Teaching style is perfect. I really enjoy this course!
+This gave a basic foundation of excel spreadsheet for data analysis, was awesome to start with.
+Very well explained and the exercises help a lot to understand the content. Will advise others.
+It was vert nice and informative...Good for anyone in statistics and data analysis using excel.
+I am honored to complete this course and will be looming forward into completing more courses.
+Very pleased with this course. I've taken a similar one and this one was better in my opinion.
+It is very helpful course, it give me a lot of fundamental knowledge in Excel to analyze data.
+It is easy to follow and very useful. I have discovered many tools to improve my use of excel.
+Very basic but good information, good intro course. I'll continue on with the specialization.
+A nice enough short course! But didn't include more advanced topics like data validation etc.
+As an experienced user of Excel, I found the course challenging, and exceptionally well-made!
+very detailed and clear intro and examples in the course on the very essential tools in Excel
+Great Course!! Quiz questions needs to be discussed or solved by the support staff if needed.
+Enjoyed it! The course instructor is very good and he made everything so easy to understand.
+Amazing course that enabled me to see the power of Excel and what it can do. Really amazing!
+I recommend Coursera and this course for anyone who use Excel and data analyses in business.
+The course gave an overview of  Data Analysis in excel. I was very  satisfied by the course
+Thank you so much for this course. It gave me great knowledge about excel and data analysis
+Good course, gives the basics about data analysis using Excel. The course is fairly simple.
+for someone who is starting with excel I find it very dynamic, the lessons are well written
+I was able to learn different tools in Excel that wil lhelp me improve my analytics skills.
+It's a great course . I have learned a lot. Thanks to all who are related with this course.
+This is an excellent course and I thank the Rice University for making it available online.
+The program was designed diligently and methodically. Wonderful course for excel beginners!
+This is a really good course to learn excel and an easy way to start learning stats as well
+I am very happy with the effort I have made and the benefit I have gained from this session
+It brought me up to speed on Excel and making sure that I could understand the information.
+It helped me a lot to learn for my further studies and i had a good experience. Thank you!
+Great course, well explained.  May be have more practice exercises, but great nonetheless.
+Perfectly suited for beginner or those looking for thorough review of basic data analysis.
+Interesting course to brush up already acquired knowledge in Excel and add up more skills.
+Recommended course for someone who need a brief view on Microsoft Excel and data analysis
+This course is one of the finest and well organized courses that i have conducted so far.
+Excellent explanations int he videos show exactly what is necessary to learn.  Thank you!
+Good course for learning to use a wide variety of tools in Excel. Perfect for beginners!
+This is very using and informative one and easy to go with the procedures.good teaching.
+Good introduction into ways to use Excel for data analytics. Focuses on important stuff.
+Excellent class.  Instruction was clear and concise. I learned a lot and was challenged.
+Loved it. All the information I needed to get started in a wonderfully presented format.
+If you are interested in data analysis and want a good start this is the course for you
+Excellent course with the basic tools that everybody who works in business have to know
+This course is really helpful for those who want the basic knowledge of Data Analytics.
+Very helpful, enlightening and interesting! Thank you so much for offering this course!
+This course helped me to understand excel as its a part of tomorrows corporate world .
+Its a very good course and the concepts and knowledge give in this course is precious.
+As a beginner it was a wonderful journey to learn this course which enhance my skills.
+Excellent course.. Thank you. I used this immediately and it immensely helped at work.
+The lessons are very explicit being new to Data Analysis. Thanks for the opportunity!
+Very great course and easy to understand. It has made my professional work very easy.
+Excellent course. Recommend everyone who is willing to learn Excel. Lecturer is best.
+Good course, worthwhile. Problems are realistic and length of videos is also perfect.
+A great introductory course about Microsoft Excel and course teacher is really great.
+Its good for beginner & very much information to build reports in professional levels
+The awesome Excel functions enthralled me and I got to learn something very powerful.
+Great course, the explanations covered everything, very well put together. Thank you!
+Great course, helped me achieve some of the tasks I had to do for my day to day work
+Very good course, to get into the world of Excel and practice your level of English.
+It was a sensational course, I learned too much and it made me know more about excel
+THE COURSE IS REALLY GOOD AND USEFUL. I HAVE LEARNT VARIOUS NEW TECHNIQUES IN EXCEL.
+AMAZING COURSE, I ONLY HAVE ONE ISSUE..WHERE ARE THE EXERCISES  TO PRACTICE ON THEM?
+It was difficult for a beginner at Excel but the knowledge gained was well worth it.
+A very interesting introductory course, structured well, can be give around 5 hours.
+Really helpful course on how to use the most common functions and features in excel.
+Nice course. I really learned a lot. I am now confident on my excel skills. Thanks.
+It was an excellent course. I enjoyed very much to learn data analysis using excel.
+This course is really good and instructor is also very best in his way of teaching.
+This is an exceller course for learners seeking to learn professional excel skills.
+It was great and insightful. Thanks, coursera for providing me such an opportunity.
+By learning data analysis using explore one can easily learn the basics of MS-Excel
+Thanks a lot! This course helps me much, and I will go on with this specialization!
+It was a great course and I have learned to use tools that I had never used before.
+The course was informative and can be easily followed and understood by beginners.
+Good overview of Excel usage - the course teaches what I would expect it to teach.
+Great course, very interesting and useful and the videos were very well explained.
+The explanation from the teacher was clear enough. The videos' quality were great.
+Wonderful! a mix of complex concepts in a very easy way explained!  Great course!!
+This course is very beneficial if anyone is beginning their life in Data analysis.
+This was a very helpful course and I've learnt alot of excel i never knew existed
+Thanks to The Coursera that I've able to learn Using Excel in Business analytics.
+Topics are very concise and well-explained. I strongly recommend it for beginners
+Really very informative and highly recommended to learn basic skills about excel.
+Excellent Course. But need to be more details literature on Histogram. Thank you.
+Enjoyed using this course to create graphs, pivot tables/charts, histograms, etc.
+Easy to understand and examples that you can apply in your business transactions.
+Presented well, real examples and hands on quizzes.  Really enjoyed this course.
+Very helpful for teaching basic excel skills with applications in data analytics
+clear explaination with short and straight to the point video for easy lerning.
+It's an amazing course for anyone beginning a journey into Excel data analysis.
+Very neat and nicely explained. Look forward to more advanced courses on Excel.
+Great course to hone and expand on Excel skills important for business analysis
+Good course. I completed the course while on free trial for the specialization.
+Very Good course to get better understanding on LOOKUP, IF functions and Charts
+Very interesting and engaging course. readily applicable to current data excel
+Excellent CourseAssignment were a great tool to improve and practice my skills
+Simple but useful course! Some tricky problems can be solved more efficiently.
+A fantastic course to get you brushed up and open your eyes on excel as a tool
+Great course for beginners or those looking to brush up on their Excel skills.
+Thank you for the great, prompt support through forums thrughout this course.
+Every week has something useful, even if you have used excel a lot previously
+Learned things very easily. Trainer completed the tasks with simple examples.
+Learned a lot week 4 was the hardest. Thank you for the opportunity to learn!
+Great assignments and tests. Prepares you thoroughly. Thank you Dr. Sharad B.
+The best excel course I have seen on Coursera so far!  Great for any analyst.
+That very good course for me..
+I improvement my excel knowledge very well...
+It is really one of the best courses I have taken. I am so grateful for you!
+Usefull course to understand basic functions and data analysis using Excell.
+The quiz is challenging while the videos are interesting and simple to learn
+Learned lots of new things that I took for granted. Awesome tutor and course
+This was an excellent course to take. This is a good refresher and training.
+this course was fantastic. I learned a lot and everything was very well done
+Great review on basic Excel tools and also goes into Pivot Tables and charts
+A very good course; well structured and laid out and I learned a lot from it
+I think this is a very helpful course to guide me in improving Excel skills.
+Awesome content with lot of workout to get hands dirty. Thank you Coursera.
+Great course delivery and straight to the point. Easy to follow. Thank you!
+Nice Course but felt little longer videos with more depth could been better
+It's a great course for anyone who plan to learn about Excel in Data field!
+Very useful if you just have a little idea about excel must do this course.
+It was interesting and hopefully useful experience - I am grateful for it.
+It was very informative and I gain a lot of practice and knowledge from it
+Excellent Course with 100% practical based learning. Learned a lot. Thanks
+Very helpful! almost completely basic function for data analysis by excel.
+Good course for learning and practicing vlookup, pivot tables, and charts.
+It was a very well explained course, amazing learning experience. Thankyou
+Sharad Borle explained Excel with precision and ease - highly recommended!
+Loved the course, it is very much interactive and informative. Keep it up!
+Nice introduction to Excel for data analysis. Covers all the fundamentals.
+This was such an excellent course! Thank you for making this available :)
+Great examples and description of what we can use the different tools for
+Great introduction to analyzing data with Excel, pivot charts and graphs.
+Very helpful and an easiest way to learn the data analysis through Excel
+I improved my knowledge very much from this course. Thank you very much.
+Great course to me! It offers me some fundamental features on the excel.
+Learned so much!  excellent.  Challenging tests and interesting lectures
+The course is so friendly, easy to achieve, good excercises, thank you!
+This course covers data analysis and visualising capabilities of Excel.
+It was a great course, and I loved how it helped me learn more about ex
+Right pace, easily explained, great teaching. Very good for Beginners.
+Excellent explanation.  The apprehension i have for excel is gone now.
+wow! Just completed this amazing course. Hats off to Sharad Borle sir.
+Great course with professional professor. I love it. Thank you so much
+Good to review basic excel and one issues I did not use before. thanks
+Loved it! The pace is perfect and the instructions are easy to follow.
+It was amazing, the content is very clear and useful, I learnt a lot.
+Excellent crash course of the most important Excel business functions
+I`m very content with this course. It is grate for beginners like me.
+Very good :) Completed within a week. Pace is very good. Recommended.
+Quiz material is really good. It gives good practise on excel skills
+A well planned course to give the taste of excel based data analysis
+It was really helpful and i have learn a lot about excel. Thank you.
+illustrated examples were very useful in understanding the concepts.
+Great Course, It helps to refresh and get new knowledge about Excel.
+A very helpful refresher for the basic but necessary skills of Excel
+It was a great learning experience and I hope to learn further more.
+Definitely a must course for those who wants to start learning Excel
+Excellent for beginnersGave me a lot of confidence after completion
+Very Helpful course for beginners. The questions are well designed.
+IT IS A VERY GOOD COURSE IF YOU REQUIRE TO USE BASIC EXCEL FEATURES
+It an very good and informative course with fantastic explaination.
+Very well structured course. Lots of exercises to improve yourself.
+Nice course to refresh Excel knowledge in case you have experience.
+The only thing which I didn't like is the low volume in the videos.
+Much better than I anticipated. Videos are short, but very concise.
+The instruction is very clear, and the quiz is challenging enough!
+Nice teaching, easy, and understandable. Thank you for the efforts
+A very good introduction, or a good review of more complex topics.
+Nice Teaching Method And Notes are very helpful. thanks Professor.
+Right to the point. Structured and related. No unwanted surprises.
+one of the best course and professor i have come across. Thank you
+Very focused and easy to follow class! Would recommend to everyone
+Very clearly explained with sufficient examples. Very good course.
+very good for learning excel in step by step procedure. Thank you.
+The course was really helpful. Feeling confident to use Excel now.
+Thank you for your course, now I can use Excel more proficiently.
+All lessons were well explained with very helpful example sheets.
+Wonderful course to begin your journey for data analysis! Thanks!
+very good course with precise descriptions of all excel functions
+Very informative course and will help one to enhance Excel skills
+Excellent, I would forget everything and pass this course again!
+This is a great initiation course for data analysis using Excel.
+Thank you for providing me the opportunity to learn this course.
+Nice platform to study love to go ahead with this in future also
+It was an enriching experience with a great professor. Thank you
+Great course if you're looking to understand the basic of Excel!
+Great intro to excel. Now I am ready to take it to anther level.
+It's very helpful to find the confidence about Excel. Thank you!
+Couldn't figure out the right answers of few questions. I doubt
+This course was really an insightful one. Happy to finish it <3
+Good Course, informative and could learn new functions in excel
+Fantastic teaching by Prof.Sharad Borle. Thank you so much sir.
+Very good examples! Captivating videos. Short and to the point.
+Nice and no nonsense instruction on Data Analysis using Excel.
+very interactive but data not matching in someplace accurately
+Really Awesome course. Enjoyed  a lot while learning basics...
+East to follow and help me find something amazing about Excel.
+Great course! Did not know Excel can do so many cool things...
+Very Well explained the I really enjoyed the course.Thank You
+A very (practical usage) learning , in the best way possible!
+Really Excellent learning and very much practicle information
+It is helpful for beginners to learn excel and data analysis.
+very helpful, clear, concise and examples to keep you engaged
+Excellent course. Well structured, with informative lectures.
+it is very helpfull for learning many things about course...
+The logo of the university on the certificate is not visible
+The course content was good and the lectures were followable
+a wonderful course with great examples and practice problems
+Really had an amazing experience going throught the material
+This course provides me very good experience about MS-Excel.
+Really enjoyed the class and the information was very clear.
+Very good course, everything explained, not questions to add
+great work by professor he taught basics of excel very well
+It's FANTASTIC!!!Dr. Borle's teaching policy is so awesome.
+a very instructive training with a very pedagogical trainer
+the quizzes at the end of each week were really challenging
+This course is good you can learn many new things in excel.
+Great learning experience and much relevant course contents
+very useful , helpful,interactive and easy to learn program
+Course is helpful in performing excel task in a better way.
+Thank you, I have improve my skills by this amazing course.
+Practical, very well organized with progressive difficulty.
+Excellent!  I finally have clarity for VLOOKUPS! Thank you!
+Well spoken and articulate videos. Great beginner's course.
+after doing this course its  easy for me  to work in excel.
+Great Course with learning material adequately simplified .
+The professor's explanations are pretty clear and helpful.
+BEST COURSE ON INTRO TO DATA ANALYSIS USING EXCEL. PERIOD!
+great courses to start  a  career related to data analysis
+This course really helped me to analyze and Visualize data
+very useful course for business. very well explained too!!
+Amazing course!Excellent lectures with easy comprehension!
+This course can further be extended to some advance level.
+I've learned a lot from this course. Totally recommended.
+This is perfectly designed for data analysis learners !!!
+Excellent introduction to Excel as a analytical software.
+This Course is easy to understand as it starts from zero.
+introduces to basics of excel in a lucid way. very useful
+Great introductory class. Professor is clear and concise.
+Good course for learning the basic on data visualization.
+Excellent course for basic and medium expertise in excel.
+Really helpful for those who are starting to learn Excel
+very interesting and useful courses I really recommended
+This course is great and I love the tutor, thank you Sir
+Very concise and informative course. Highly recommended!
+gained a lot of techniques to simplify business process.
+The course has exceeded my expectations, I recommend it.
+Easy to follow and not a very long or complicated course
+A very detail and structure explanation by the lecturer.
+the course is absolutly a 'must' for gaining new skills.
+Thanks coursera and rice univrsity for this learning!!!
+Very nice course espicially the quizes after each video
+Helpful to understand doing basic statistics with Excel
+Excellent Teaching with examples by Sharad Sir !!!!!!!!
+it is really good. i learned a lot of practical skills.
+Very easy and basic course but very useful and hands-on
+Great course. Easy to understand lectures, nice quizes.
+Really good course for basics in excel. Thank you, sir
+Very smart and perfectly organized. Highly recommended
+very quiz based, making it easy to master the concepts
+Very easy to grasp and understand, great for beginners
+This course is very useful for data analysis in excel.
+Great Course and Facilitator with practical worksheets
+Very informative and just what I wanted to learn about
+easy to understand, straight forward teaching method.
+Nice course, I learnt many new things in this course.
+Easy To understand. First step to Excel Data Analysis
+Very clear instruction provided throughout the course
+It was easy and to the point . I overall enjoyed it.
+Pivot table and Histograms were good tools to learn!
+A must learn for everyone who works with computers..
+An excellent introduction of industry standard Excel
+Learned a lot about Excel just in one month! Amazing
+Extremely useful tools learnt with clarity and ease!
+Great material and very opt exam questions ! Thanks.
+This is one of finest course in excel i  came across
+Excellent Teacher. Explained in very effective way!
+Good course, looking forward to start the next one.
+Great introduction to business analysis using Excel
+The course was smooth, interactive and very helpful
+Great course for Beginners and mid level. Thank you
+Great very easy to follow and good videos and sound
+Very nice introduction to vlookup and pivot tables.
+EXCELENT COURSE! QUICK DIVE INTO EXCELS MOST VALUA
+It was very fun to learn and was very informative!
+Good instruction on some key business excel skills
+Brilliant content. Concepts were explained very we
+REALLY NICE COURSE..QUIZZES ARE VERY WELL DESIGNED
+good to way to learn wherever I work b excel using
+It is realy raly good course.I learn lot in Excel.
+Best Course, Easy to understand and grasp concept.
+excellent course. Learn a lot useful to my career
+Easy to understand and a bit challenging as well!
+I really enjoyed these course!! Thanks for Excel!
+It is great course. Absolutely beginner friendly.
+VERY GOOD ONE...WE CAN GET BASIC IDEA ABOUT EXCEL
+an excellent and lucid explanation for beginners.
+It was fun. Easy and fast to learn. Thanks a lot!
+explain very clearly and give me big help, thanks
+Thorough and at the same time easy to understand.
+Thank you.. Great introduction to Data Analysis!
+Great presentation, and very useful information.
+Thank you for great lectures and presentations.
+The course was very good and got to learn a lot
+Helped me gain some practical insights on excel
+Awesome course with all basic covered in excel.
+course content was good and easy understanding.
+Well presented with nice examples and exercises
+Super easy and fun way to learn basics of excel
+Great Course.Helps to understand all the basics
+Very helpful informational course for beginners
+Very good basic Excel for data analysis course.
+Really improve my excel skills as professional.
+Excellent course !!! very dynamic and useful !!
+Wonderful course. Great teaching. Learnt a lot.
+Great and essential for every business manager.
+A great intro on how to use Excel effectively.
+This is one of the best excel course till date
+Nice course, very engaging and rich in content
+Great Course to master essential Excel skills.
+Great course to understand the basics of Excel
+Great course! Every concept is well explained.
+Excellent course. Thoroughly enjoyed the work.
+All thanks to my great mentor BhaWna From NCR
+Is a good introductory course. Easy to follow
+Thanks!! I learn many things, so interesting.
+Good one required some efforts to complete it
+Clear tutorial but need more advance material
+very helpful specially in the data gathering.
+Wonderful teaching but very   short lectures.
+Excellent teaching and excellent assignments.
+Very good and structured course for beginners
+Nice course, well prepared and easy to grasp.
+Very simple to understand the basic functions
+Very useful, well balanced course. Thank you.
+Well explained, good examples, easy to learn.
+a great course. it made online learning easy.
+Methodical, understantable, well structured.
+Easy to understand, well-paced, informative.
+Excellent first step to understanding excel!
+Clear and Concise. Really enjoy this course!
+Very Helpful and Interesting, well explained
+Good content for an introductory session :)
+Great to know using spreadsheet to analysis
+The course was very interesting and helpful
+Great Professor and well tailored syylabus.
+Excellent course for working professionals
+Awesome Course with very good assignments!
+GOOD ONENEED TO ADD FURTHER SHORT CUT KEYS
+Excellent course! Thanks to the instructor
+Good examples and hands on practice tests.
+Thank you! I learnt a lot of new concepts.
+Very interesting and challenging as well.
+The teacher guides you through in detail.
+Excellent content and very well explained
+Very useful and helpful. Well Explained .
+Great way to start your analytics career.
+Extraordinary course. Simple and powerful
+Explained concepts in an excellent manner
+So much helpful ... Thank you COURSERA !!
+its an excellent course. Enjoyed doing it
+Excellent course! The lecturer is great!
+Very helpful course. I highly recommend.
+feeling very happy to learn from you sir
+love this course!big achievement for me!
+Very interactive and qualitative videos.
+Very nice course. It helped me a lot for
+Presentation and narration was excellent
+Good course but the one by PwC is better
+it is very informative and easy to learn
+Nothing can be better than this.........
+A great beginning towards learning Excel
+Such a great course I ever have! Thanks.
+Good informational & well planned course
+Good Course.It improved my Excel skills
+Easy to follow, fun examples and exams!
+good for learning and gaining knowledge
+A wonderful course covering the basics!
+Excellent! I learned new ways in excel
+Great Course to learn and use of tools
+Great Course with great practise tests
+Enjoyed it. Clear and straightforward!
+Thanks  A lot it is very useful course
+Great course for advanced excel topics
+Simple but efficient, and informative.
+Great Course! Concise and well taught.
+Audited this course- very helpful, eas
+Really learnt a lot of useful skills.
+Very Good Course and challenging one.
+generally good and clear instructions
+Great Starter ! Very Much Appreciated
+Just wonderful and best or beginners.
+Goog course.I found everythIng useful
+Thanks for enhancing our knowledge..
+Very Nice Explaination. and contents
+Excellent way to start data analysis
+Good Introduction to Excel Features.
+Thank you very much for your course!
+Absolutely useful. Highly recommend!
+excellent course! detailed teaching!
+The best base for armature learner.
+Very useful and informative session
+A short course,but very insightful.
+Very easy to understand and follow.
+It was really useful and organized.
+Great Learning Experience.Thanks!!!
+Thank you very much for the course
+very good assignments and problems
+Course Graded Assignments are good
+Very Useful for data Analysis !!!!
+Very informative! I learned a lot.
+Loved every section of the course!
+Nice Course to get Hands Dirty !!!
+Outstanding! Really learned a lot.
+very easy to understand and follow
+Well explained and easy to follow.
+Extremely Helpful and Challenging.
+Very Good and informative course!!
+it was a great knowledge for me !
+chart explanations is very good .
+The weekly test was really tough.
+Awesome!Must try it once at time!
+It was very furitful for me thnks
+Useful for data analysis. Thanks.
+The assignments were pretty good!
+Thanks for this course.I love you
+Well structured and comprehensive
+It was nice to be a part of this.
+This course is very explanatory.
+Easy to understand. Very helpful
+Such a great course. I loved it.
+Best course to learn basic excel
+Informative - the pace is great.
+Great course which taught me qui
+Enjoyed the teacher and approach
+Excellent course and teacher!!!!
+Great introductory Excel course.
+Amazing experience.learned alot,
+The course was very structured.
+very useful, simple explanation
+Very helpful course for beginer
+It is a practical course & will
+Short, simple and comprehensive
+Brilliant course for beginners.
+Nice course just what I needed.
+Great class, helped with basics
+Very good course and instructor
+Good course.  Good instructor.
+Excellent. Easy to understant.
+Useful course, easy to follow.
+Very informative, very useful!
+Very good and precise course !
+Amazing course to start with!!
+The materials were quite good!
+its really good for our career
+Easy to understand and follow.
+Good for Data Analyst Beginner
+Vey good course for begginers.
+Very good course for everyone.
+exactly what I need, thank you
+Very glad i took this course.
+This course is jumped-packed.
+Informative and easy to learn
+Each Tool Very Well explained
+Very useful and easy to learn
+EXCELLENT TEACHING TECHNIQUES
+Very clear bite sized lessons
+good course to set foundation
+itwas very useful courseaver
+Good to learn all the basics
+Easy to understand and apply
+Very well taught. Thank you!
+Fine Course with basic excel
+Useful for business analysis
+it is a really good course.
+this is really great course
+Good explanation of topics.
+Very good course!Thank you!
+It was very good. Thank you
+Awesome course I enjoyed it
+Great Course to start with.
+Very helpful and very good
+very educative and concise
+Very Good for all learners
+good and productive course
+Satisfied with the course!
+Learned a few new excel tr
+nice well explained course
+liked the way of teaching
+Very interactive lectures
+Great course for beginner
+Nice and effective course
+lectures are very helpful
+Very helpful with teacher
+taught very efficiently.
+Hands on with great info
+Good course! very useful
+very useful for analysis
+Really helped me a lot.
+Very useful, thank you.
+very helpful and useful
+Overall helpful course
+brilliantly explained.
+Great Excel Refresher!
+very good description.
+Thanks for the chance
+very much informative
+Step by step learning
+Simple and Complete.
+I am fully satisfied
+wonderful experiance
+It's a Great course!
+Highly Enlightening!
+its a great course
+Good experience 👍
+Very Satisfactory
+Very Nice Course!
+Refresher course.
+Wow feeling Good
+Very Educational
+Very key for peo
+Helpful Learning
+nicely arranged
+Well organised!
+SHORT AND CLEAR
+AWESOME COURSE!
+Very Nice....!
+Thank you Prof
+good content.
+Very useful &
+extraordinary
+LEnjoyed it
+So useful!

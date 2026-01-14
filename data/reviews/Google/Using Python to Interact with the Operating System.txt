@@ -1,0 +1,409 @@
+May be the worst instructor in the google
+I would have given this course a higher rating if it were not for the terrible labs being offered by Qwiklabs using an arhaic test editor. This is no fault of the instructor who presented the material vocally ok but was a bit too trigger happy in not displaying the demo code on the screen long enough for us to see it. Had to keep rewinding to see the codeIn the last module(Week 7) we are supposed to write a program from scratch. This involves substantial programming effort since it uses nested dictionaries. The program needs as input a textfile containing logs and named syslog.log  It would have helped us tremendously if this file was made available either in the code window or with the option of downloading. Everything else could be copied from the instructions and pasted into our local editor but this one important file is not available.Add to this typos in the instructions and a lousy editor and you have a nightmare of a time doing this last important labGet your act together, Qwiklabs and Google
+The content the module intends to teach is great. The execution of the module is a dumpster fire especially when arriving at the final lab and final assessment (Beware Python veterans). Those are the points where the module goes from holding your hand too much to forcing you to guess what results the "Progress Checks" are looking for. You are expected to turn their guided pseudo code to functional scripts and even when you achieve the desired result, the content of your script can prevent you from progressing; then it becomes guess work to give it what it wants due to lack of direction from the instructor and lack of feedback from Qwiklabs. Some of the videos were okay but overall, I can't believe Google is okay with putting there name anywhere near this infuriating module. So happy I got it over with.
+I don't recommend this course. As for novices in Python programming, it has a lot of almost not discussed in lectures things. As for other, it is simply time wasting. Seeing some samples, you realize that not all of them are samples of good code. I am not eager of PEP8, but some things about comparisons with True/False are very reasonable.In labs is using Python3.5 but not declared in the very begging of the course Python3.7. Maybe this is not so important, but some things from re (discussed in the course, by the way)  from Python3.7 is unsupported in Python3.5. Also, labs with only dully typing text from one window to another are time wasting. There are some technical issues in labs with home directory accessing. There are no typed scripts from lecture provided. ...
+Not pleased with the challenge of using my own machine, and having to be kept to the arbitrary 1.5 hours of the Qwiklabs.  Some of us need more time to work through stuff and to try different approaches.  That "nano" IDE is horrendous - I can't figure out how to copy and paste, and moving that damned cursor is crazy.  We need the option of working all this stuff out on our own machine, and then copying it into the Qwiklabs.
+topics are rushed when it is supposed to be slowed and topics are slowed or spent much time when it could be rushed. demos are not show for enough time. have to pause videos in order to watch what commands are typed in terminal to make sense what is taught. tutor may have immense knowledge of the subject but is very bad at explaining stuff
+Most labs were just copy and paste exercises. Final project didn't have enough feedback from Qwiklabs to troubleshoot -- there was one checkpoint that basically said "Something is wrong". Finishing required copy/pasting data into a .csv file that is used nowhere else in the rest of the project.
+Due to some reason,I was not able to complete the course in given time period so I reset my deadline but all my assignment got locked. Also I review the article related to this but it didn't help. So please unlock all the assignment :(
+Lab fails already in the first wk which many candidates got the same issue as it is a setting problem of the lab. so disappointed with "Google" branded training, again, I will quit this course
+Lacking a lot of knowledge in fundamental language explanations and presentation required to pass exams. Only some seemed to be present.
+complete wast of money and time  laps session are not running properly  no support  Coursera should issue me a refund
+Very basic. and not related to Python..Lots of content not related to Practical  Python usage nor OS level setup..
+There is no help, the Tests are not at all related to the courses thought. Can't continue!
+Focused solely on Linux. The Lab grading system is terrible. Otherwise a great course :)
+The potential of the course material is great. it certainly expose the student to a range of topics. The potential of the course is reduced significantly however by the labs. They have poor specifications and leave the student to 'discover' how to complete labs. In the early labs it's just a cut and paste to make things work, but in the later labs its the lack of objective specifications that makes them difficult ....not the material covered. The capstone lab in particular is a reasonable challenge in itself, but made incredibly more challenging (read, it requires multiple attempts just to find out what is required in the answer) because of the lack of specification. Do I think it's a worthwhile course? Yes, because it makes you think through a learning path. Do I think it's a good course? Not so much since the learning objectives are very much left to the student to discover almost by accident.
+the labs are sometimes frustrating because it does not give you feedback on what you are doing wrong. it just says you did not pass. it may take hours before you figure that small thing.
+Disappointed as this did not meet my expectations as a Google Company backed course.  This would have been great as a free course by a first time teacher.  But for a course backed by a great company this did not meet what I expected.  It was sloppy really.  First the instructor made a series of political statements unrelated to learning Python.  Second the instructor would not stop making really childish puns.  Both of these things were unnecessary and not what I expected from a professional course.  Worse the labs were really terrible and I felt that they were not proof read by folks at Google.  Another frustration is the videos are almost 100% showing the instructor talking.  They only flash the code very briefly on the screen meaning you will be pausing and rewinding the videos consistently just to see the sample code long enough to read it.  In the end the course met the syllabus but not up to the Google name and not worth the price I paid compared to other free learning out there.
+Final project is too hard for things learned in the course and the platform uses different python version from what we learned.
+This course was super slow paced until the last two chapters. The final project is way too hard compared to the other projects.
+I felt this course jumped around to too many topics and was not focused enough.
+Not for beginners too complicated too costly
+The final assignment is way too hard because there's not enough time to do the three exercises and write the actual code for the graded part. In addition there's only 5 points so it's basically pass or fail. Also the dictionary sorting code they provide you will not work unless you're copying to a new dictionary (which they don't explain to you). Oh and you have to encase the sorted statement in a dict() function for that, which they don't tell you. I ended up not using the operator module at all and just doing the sort when outputting to csv. Oh and if you write the code for the exercise perfectly and are not getting any points it's because you have to do the creation and conversion of the user_emails.csv in exercise 2 so you can't skip that.
+The course is pretty good overall. The week 6 lab has a misleading "expected output" jpg for oldFiles.txt in it. This causes the first half "checkpoint" to fail. The issue is that the jpg shows that oldFiles.txt should only have filenames in it when in fact the "grader" expects each file to also have a fully qualified path with it. The lab write-up also doesn't say oldFiles.txt should have the filenames with the fully qualified path in it. I would give this course five stars if the errant week6 lab documentation gets fixed and if the students are explicitly told that each step in the labs needs to be explicitly execute in the VM environment being provided. I made the mistake of reading some of the lab exercises for content and not actually executing them in shell --- and I think the grader checks for that even if you get the correct final outputs for your script.
+There are errors in links and descriptions of the tasks (formatting is wrong, names of files are different though according to the content it is the same file, etc). Inconsistency in tasks - first tasks are completely done for the student, one only need to copy-paste and final one is all of the sudden 'do-it-yourself' task. Though for me it was not a problem, but beginners will struggle a lot with this errors.
+The first few weeks of the course was well paced but in the second last week, the introduction to bash was very rushed and I feel like the tutorials of bash could have been elaborated on more.
+This course is helpful with regards to regex and why you want them in your tool best.  The bash scripting section seems unnecessary and is never visited again and I wish that part on testing was turned into its own certificate in the series of courses.  The qwiklabs are kind of pointless as they pretty much hold your hand all the way through except for the final one which doesn't work unless everything is exactly how the qwiklabs server wants it to be.   That being said, I do think the courses stick to the title of the course of Python Interacting with Operating System.  Just would have liked the quizzes more to be interactive and less testing vocabulary.
+I would like to say sorry to the tutor of this course. Although this course is very useful and have abundant of knowledge. I think he did not find the right way to teach. He should give more time to explain the scripts on his screen. And more important, he should spend more time on preparing those quizzes. You can quickly pass the quiz by copy and paste the provided code. I really do not think it is a good way. However, Qwiklabs has online agents all the time which is really useful.
+This was an overall good course, however, I just didn't like in weeks 6 and 7 that the instructions starting getting very vague and ambiguous. Which in turn causes people to get stuck on the labs over minor details. Take this course but definitely make sure you do a little research and extra practice before diving in the labs. The material was very useful just the labs can be worded in a cleared manner to avoid confusion and common pitfalls. to avoid giving over lab quota
+The python crash course was perfect, so my evaluation might not be as fair to this one after the bar was raised so much. The examples were very helpful, the first 5 lab sessions didn't contain any intellectual work apart from setting the directory. Only the last two lab sessions involved some work, which was challenging and rewarding. I suggest to improve the evaluation procedure for the actual scripts written by the users.
+The Course was well Taught, But the End assignments were tricky to some extent. Enjoyed the teaching way of Instructor.Although the course doesn't give in-depth and crystal clear understanding,If you are ready for some basic knowledge on them -this would be a perfect one. Make Sure do not forget to make some Notes about topics.
+I felt like the teacher was talking to fast for a lot of the course. I also missed having the readings after videos from the first course so that I could focus on learning rather than trying to jot down notes. During this course, I was constantly stopping the video so I could type my notes.
+Information isn't presented efficiently and it relies heavily on you doing your own research. For example they don't teach you regex but provide outside resources for you to learn it yourself. The videos only cover the basics. Some of the quizzes are bugged and/or obtuse.
+Loved the host and the content. The first few labs tell you the answers too much and the last few don't tell you what to do enough. The outside research I had to do made me a much better python programmer though!
+I really liked the content but the assignments were not great, we could not write our own version of code, if our code didn't look exactly the same then in didn't pass the test/evaluation in qwiklabs.
+course content is good however in the last week things got much complex with that the interface of assessment is not good.It shows  not passed despite getting full result
+Very bumpy learning road compared with my experience with Google IT Support Course. This course is not designed as good as the Google IT Support Course.
+the teaching was good but it the assignments and some topics were hard and tooks a lot pf brain to sink in
+Instructor was great but Qwiklabs was very frustrating to deal with.
+the labs should have been written by our own and not given the steps
+i dont have facility to installation of the environment
+Many issues. Some where frustrating.
+Jupyter or CoLab could have worked
+need some advance concepts
+Scattered a bit
+This course touches upon a lot of topics. It covers them in breadth rather than depth. I experienced a huge transition coming from the previous course, Crash Course on Python, in terms of difficulty. It covers so many topics that at times, I felt confused about understanding the interconnection between them.Regular Expressions was explained best, wherein elaborate explanations were provided. The week on Automating Testing Using Python felt a bit rushed. A major downside of this course is the Qwiklabs platform, which is also its major upside (we don't need to install any software locally to navigate through the course). However, there are discrepancies in the lab instructions and how the grader evaluates your submission on Qwiklabs. In week 7, I wasted 2 days on Qwiklabs with multiple interactions with the Qwiklabs Customer Support.Overall, I would recommend this course.
+Overall course was pretty good. A lot of learning came out of it. But a lot of wandering around and hours spent on the different forums and documentation trying to solve the problems in the course. Some of the instructions were often unclear as to what was expected for that problem's solution. The labs specially.Time was spent developing solutions for the problems presented in the course outside the labs but when that code was executed on the linux labs, it gave problems while. For e.g. some of the modules had to be installed manually while some had to be replaced in the code since the syntax would not run on the old python version available on the qwiklabs machines.
+Had a lot of things to learn in the module.  wish labs and tests used out brains a bit more. it was mostly reading and cut and paste.  Only learnt that you could cut and paste in Putty at the end when I got frustrated typing in things manually. (googled putty copy and paste).there also alot of short cut code and tricks used that we havent learnt before. these werent explained very well and I still dont understand some of it, others took a me a bit of research.
+Week 2 of this course is pretty bad. The difficulty increases dramatically for topics that could be explained better. This was the first week where I learned more from the forums than I did from the course material. Then the Practice Quiz for Reading & Writing CSV Files seems to always return an error of 'Something went wrong! Contact Coursera Support about this question!" which results in a failure for the quiz. It appears that this has been an issue for a while but has not been resolved and contacting Coursera Support isn't very straightforward.I was honestly enjoying this program until week 2 of this course. Please do better.
+It's been wonderful journey learning interacting with OS using Python. I learned many new concepts like Bash scripting, How Python helps in providing the modules to test the scripts, Regular Expressions to process the text. Everyday I am adding a new tool into my IT skills bag.The most appreciable part of the course is assignments and grading tests, which allowed me to explore different ways to solve a problem.Sometimes, I felt like the explanation is bit fast. As it is an online course and I have the option to repeat playing the videos, it didn't bother me much.Nevertheless, it's been a wonderful journey.Thanks and Regards.
+On last lab server isn't updated yet. The error is kind of frustrating.Overall you need to move labs to your PC to have more time.Taught me alot about using regex pattern recognition, although I still recommend books and external source as a suppliment. There will be frustrations like regex only takes in string, I figured a long time why a tuple won't work etc.It took me about 12 hours to finish the last lab.https://stackoverflow.com/questions/52404656/sre-sre-match-object-is-not-subscriptable
+The transition out of Qwiklabs felt clunky. Likewise, up until the final qwiklabs tests, it was mostly copy and paste. Finally, the qwuiklabs "check my progess" button, could have provided a bit better error messages. An example would be "Missing files checked" or "Error in Files Checked". Just something where I don't have to blindy go back through all the steps and my code to find the error, rather than spending my time figuring out how to correct it.
+This is a great initiative. But in terms of how to set up online learning to make it frustration free for users you have ways to go. The road to here was bumpy because you did not adhere to the most basic rules of transitioning from repeating to autonomous usage of acquired skills. Please do a better job in setting up these courses because what you are doing is so important and will help a lot of people if  done right
+Firstly, this course has given me an intermidiate knowledge on using python to interact with the operating system. Nevertheless, this course is Linux-oriented (so be ready to spend some time trying these concepts on your own Windows/MacOS machine). Plus, final assignments in Qwiklabs were a little bit tricky...   Anyway, I'm happy for taking this course and eager to continue my journey  in the IT world:)
+This course was really nice, and definitely cleared some of the major key concepts of automation. It was very exciting to solve the questions given here and instructor was also very clear and and the concepts were clear too. Now, they could have added a few more topics for which they shared cheat-sheet for and also qwiklabs sometimes gets really laggy. Other than that, this course is awesom
+I learnt a lot of concepts through this course right from operating system concepts to bash scripting. It was challenging, but fun overall. The first couple of weeks were tough and I had to review the videos several times. The only thing I didn't like was that the cheat sheet as the end of the topics were of no use and could have been better. Other than that, great course!
+Wow this would a super excited course for beginners who would like to learn some keen topics like regular expressions , bash scripting and some other cool stuff like this and the course is quite knowledgeable and goes on a low base so it is easy to understand . Thanks for keeping up with such awesome courses .
+Last lab required a lot of typing to do the initial bash and python commands. You also had to type a 20 member list of names and emails. The Putty terminal won't allow you to cut and paste, so you have to do this work each time, then type and debug a 60 line piece of code. Long, ambiguous, lots of typing.
+The only issue I had with this course was the final. I was put in a lab that was running Python 3.5 instead of what is being taught throughout the course, python 3.7. This wouldn't have been a big deal had it been explicitly stated but it made accessing my regex groups impossible by using the 3.7 syntax.
+Great material, clearly presented.  Ran into some dumb problems with the labs, like the autograder wouldn't accept whitespace in the code but the Chat agents tried hard to help. They even followed up and emailed me that the autograder would be fixed to look at output instead of script code. Nice!
+The course material is valuable. Some of the quizzes and graded labs have flaws that need to be corrected. The tech support people thru chat at Qwiklabs are excellent. They are very responsive and fix problems with labs quickly. They are the go to people from problems with graded assignments.
+I have learnt what the course indented to, but the assessment was smooth. I had problems with two assessment's and wasted way too much time on it.  The worst part about that was that the problem was with the mode of assessment and not the code itself. So please change it!
+Informative and smoothly-presented course!  The subject matter can be a little dry and dense, but it keeps moving along and covers a wide base of important information.  The Qwiklabs, however, need to be cleaned up a bit as they have a few errors and can be cumbersome.
+Much of the early part of the course seemed to be very simply following instructions without  knowing whether we were necessarily understanding much, but the final two modules really tested what we've learned and gave a real sense of accomplishment once it all worked!
+i would like to say thank you for providing this opportunity to learn things in a convenient and pleasant way. There are tons of information to digest. With hands-on practice through lab and quiz, the journey becomes very awarding and encourage.
+Course is covering many interesting subjects. I am happy to finished this course, even if to pass the final test I had to fight against the Python version of the real test (3.5.3) and the one I use to practice (it was a little newer).
+Too quirky and bash seemed like a bit of a distraction when taking a Python course.  The final was a bit quirky and the description wasn't really well-defined. But overall I learned a bunch of stuff, so ... OK.
+I do like the challenging topics of this course. Though it will take some time for me to really master it until it becomes 2nd nature, however; this was overall a good course. I would certainly recommend it.
+there were many problems in the final project submission. it didnt read that i have opened the webpage html in the other chrome window... over all it is a good course. intermediate level
+Good. definitely would have helped to have an Ubuntu terminal or virtual machine (I am still new to IT and learning the language, if you will) Challenging in a good way for a beginner.
+The course if fairly complete.  At the end, it is expected for the user to look at other code samples and the last lab is very strict with the logic used to solve the last assignment.
+One star less because with the mess in the final project. I mean, why would you write: "name a generated file as you wish", and do not grade if it is not called as you expect?
+The course is pretty good, but the qwiklab assignments need some work, (and updating since they  don't have the latest python version, and that caused several issues for me)
+Bash is terribly boring. The quiklabs for this module went from too easy to too difficult way too quick. The teacher was great and I liked his teaching style. Good course.
+Very good at its content, since it walks you slowly through important tools. However, fails at some graded activities with bad correction checkers or lacking information.
+Too difficult for beginners in my opinion. Cool stuff though. Labs between sessions 1-5 were easy, but lab number 6 and especially the final project were too difficult.
+It was fun and insightful course, thank you coursera and google. I think this course is not for only for people in IT, anyone can benefit so much in this course.
+The course was good and the labs mostly worked. I did not feel prepared for the final project when it came! The discussion forums were very helpful!
+Pretty useful course. The assignments was not consistent. The final assignment was tough. Old python version, buggy examples... like real world.....
+It would be better to add more practical tasks to the course. Also, review code examples due to sometimes they are not optimal and difficult to read
+Everything was new to me. I learned a lot about Unix command from this course.  And get to know how to interact with the OS for the first time ever.
+Very helpful in an overview of Python and its potential applications.  It will help me accelerate my learning rate in python-related courses.
+the first graded exercises should have been more challenging(maybe do a few easy ones, but let me think for myself a little bit)
+Some lessons seems a little too long, maybe it's the material or maybe it's the instructor, but they seem too long at times.
+I found it just challenging enough to keep my trying, although I wasn't as interested in the testing section of the course
+Material was fine but didn't like Qwiklab's PuTTY. I use VScode for python on my personal PC. So, PuTTY is just ugly.
+Verify difficult course but I got through it.  Learned alot of good things that I could apply in my day to day job.
+There were a lot of concepts covered and was kind of overwhelming. Still a lot to learn along the way.
+It felt too rushed and difficult to comprehend in most parts...but still made it through somehow :)
+user of variable{1] and variable.groups()[0] in variable=re.search(r'pattern',line) not explained
+Super fun course! The only thing I was dissatisfied with was the subtitles being mistranscribed.
+some of my computer can do some work because I use windowsThat is too bad for me to learn :(
+This course was great to get the fundamentals of interacting with the operating system.
+Very practical skills for utilizing your operating system and logs to automate things.
+I did not have the linux part. I would rather use Windows for future courses.
+wow...hopefully all the infos i got in this course able to helps my job hehe
+Great Intro Python course with automation and focus on daily IT tasks.
+It was full of knowledge and interesting things to learn. Thanks sir.
+There was an issue with the Qwiklabs on Week 6. Please change that.
+Great course learned a lot. Caused me to stretch my knowledge.
+Great Journey for me, Learnt many things in the course
+This course was really helpful for me. thank you alot.
+That wass cool very practical, I am going for more !!
+an entertaining course, even with fiddly aspects
+Some parts can be elaborated more detailed.
+week 6 and 7 tasks are way too tough!!
+Bash scripting was a bit tough task !
+The final test is a little bit hard.
+A bit tricky but very interesting
+There are a few bugs in there....
+Thankyou for having this course!
+Awesome introduction to Python
+It was fun and interesting.
+it was an awesome
+It was intense.
+In starting five weeks , all answers were directly provided and week 6 and 7 were very tough. So i suggest to equalize the toughness level in all weeks ,ie, no direct spoon feed nor abrupt toughness
+I struggled a little but enjoyed it a lot. Learned a lot of new things and also some of the courses are quite confusing and challenging to learn.But good knowledge to learn.I'm really appreciated from Google for providing this course and really appreciated the course instructor "Roger" he is very cool guy,  and after all i want to thank Course era organization which gives the chance for learners who want to gain success.
+This course covers most of general concepts of automation, testing, regular expressions, and much more. Personally I will use these skills everyday because I deal with log files and this course helped me to actually work with them efficiently. Thanks Google
+This course I particularly enjoyed more. It was very relevant and hand on. I know with Google's authority now how to make the computer do my bidding. Thank you all for this course.
+Coursera is one of the best online learning platform. From this course I studied lot about Python programming and how to use it for OS level operations. Thank you, Coursera
+Roger and fellow teacher, thank you so much for putting this course. Appreciate the knowledge on REGEX and Testing
+This is the second course in the Python Automation sequence, and I highly recommend it as a stand-alone introduction to using regex, python and bash scripting for log analysis and other automation jobs. The course feels like it was built with a clear list of skills it wanted students to come away with. Thank you! This structure was evident in how each module, lecture, and exercise was integrated into a learning whole, IMO. I never felt like I had been shipped out to tackle gotcha problems I was at a loss to know how to even start, as is my still-strong memory of introductory Course #1. Here in Course #2 each module's purpose made sense, and the assignments reinforced the student learning objectives. Often the assignments were very thoughtfully constructed so that you had to show mastery of not only the main concepts but the next-level deep of learning too.  I spent 2-3 weeks at the end on the final 7th week problem of parsing a log file. It was a real-world example I absolutely wanted to be able to implement later on my own. This final problem was an opportunity for me to pause in the course and self-assess what areas I really didn't know well enough, even as a beginner. So, I spent time reviewing basic things like data structures, regex, and object oriented programming fundamentals. Even then, I benefited from the student Forum discussions around this final problem, and really appreciate some of the clearly talented folks who share tips for making it over speed-bumps. I'm glad I took this pause to go deeper on basics, and may integrate this into my learning schedule for future courses. There is just so much to learn, and it pays to tolerate the confusion of forging ahead as well as being sure to circle back and reinforce fundamentals when you are ready to look again at a basic topic. The instructor was great: knowledgable, encouraging that you could do the work assigned, and again, comfortable steering the ship with purpose. A real education leader.
+There is a lot of useful information in this module and not only did I apply what I learned in Python from this module and the previous one, but I also learned some basics of Linux commands.  Although I've been in the I.T. industry for years now, I haven't done programming in recent years.   So I got sweaty palms when I was doing the final project.  I did not sleep the night until I got it done. 🤣It went well that I followed Roger's advice to do it first outside of the lab because I get to explore my plan of action and think it through. 🏆 Lastly, I don't mind the in-between jokes at all. 😁
+Great Course - I especially enjoyed the final assignment. At times I needed to google search some concepts as a reminder, and the test environment was a slightly different version of python to my own machine, but after a few minutes of google searching managed to fix this. I guess this is good practice for the real word when not everything is spoon fed and goes to plan straight away. I disagree that the expected output of the final assignment was unclear. It was well spelt out in the instructions, even showing you a screenshot of the desired output.
+It was a great experience. All the material was new to me, i enjoy specially the linux commands: feel like had have superpowers! And i hae much to learn about unitest, bash scripting and read/write files, etc. But this was a perfect start to do that. Thanks Coursera Team!An advice; there's an issue with Practice Quiz "Reading and Write csv files" on the week 2. A lot of student had has de same problem with the first question: it get an error, and the team support never could solve, so it will great if they can pay attention to this things.
+Please improve the Quicklabs ..I was stuck for days..In the last quicklab assignment when i executed my code it show error i was like what because the same code was working my PC..then i researched a lot then i got to know that this is happening because u guys are using python 3.5 in quicklabs and the code i wrote was only working on python 3.6 and above .....literally somehow i came with some new solution so that it could work on python 3.5 and bang it worked...overall the instructor was amazing...Send love from me...
+Things that you get to learn while taking this course: CSV files manipulation, REGEXs (regular expressions), script testing, Linux commands and BASH programming. All of these are very interesting and, hopefully, very helpful in every Python developer toolkit (I have reservations with the Linux and BASH, but those are good for your "General IT Knowledge").PS: If you did not take the course, be very careful with the QwikLabs. You must access them at most 5 times! (nobody mentioned this when I took it)
+The instructor was very very good in explaining every single detail. The puns were good too.I learnt whole lot of things like about command line tools , python scripting , tests , test automation ,bash scripting and much about the basics of linux ( which was cherry on the top ).Thank you so much Roger and the Google team for putting up this course and more like these ,so we students can learn and add the skills in our arsenal and in our resume for the various IT related jobs.Thank You,Yash Agarwal.
+This was an excellent experience for me to learn from a very knowledgeable and intelligent instructor from Google. I have learnt a lot of new things in this course. I am very thankful to the instructor especially, and also to the team whose hard work made it possible to bring the course to us. The last two assignments(labs) were little hard, I enjoyed those if you are a beginner in Python then brush up a little to perform well in this pace.
+This course was very educational and helped me really understand some python fundamentals as well as interactions with the OS! The final lab was a challenging lab. This lab really helped me understand the different ways lists, tuples and dictionaries can be manipulated. Glad to rise up to the challenge although nano really is a pain especially when scripts written in atom runs well but then copy paste into nano comes with issues.
+This is truly a wonderful course, which will help you to improve your skills in the field of Automation. It teaches you to write scripts in both Python and Bash. It introduces you to various new modules in Python and the basics of scripting in the Bash, which was very useful for performing relatively smaller tasks. Python can be used when the automation of the tasks gets a bit complex.
+The course gives a great start in tools like Python, Bash, Unix commands, Regular Expressions, ... With the qwiklab assignments one can test the learning practically. Lovely teachers, easy to listen to.The course takes some time, when you practise and really try to do your own mini projects in parallel. But isn't that the whole idea? To learn new skills and not just finish the course.
+Wise teaching method. The cloud is interesting. The assignments challenge you to work hard and the important key concepts are covered during the course. Good instructor. Thank you. I learned to use a wider IT toolbox with different data structure in an assignment so it gave me a better insight for how to plan my approach for a more complex task and organize my research & planning.
+Loved the course.  The instruction was good and just enough to create real world situations of needing to review documentation during some exercises.  The cheat sheets were some times not cheat sheets, but links to documentation; however, some of the links were to great sites when they were not to the official python docs.  I really appreciated this course.  I'm better.
+Really enjoyed the course, Thanks Roger Martinez for the pleasant, straightforward explanations and creators for well packed content, rather say a brisk course at all, no nonsense - total value for the time spend.  The course added a new set of tool in my skill toolbox, that can be used with prior consideration for many IT based problems in future.  Thanks to coursera.
+This course teaches how to use Python to automate system administration and real world tasks. It illustrates how to apply   programming  to automate tasks that would been otherwise hard or impossible to complete. This is a power tool to have in our toolset of IT specialists. Thanks to the instructor, to Google and Coursera for this unique opportunity.
+It is an excellent start to shell, Linux and Bash scripting. I have learned tons of practical real-world concepts in this course. As an instructor, Randy Martinez has taken learners through challenging concepts and I commend him for that. You will need to have a solid background in python, though. For me, it was an unforgettable learning experience.
+The course started off with basic Python functions and commands used on a Linux terminal and slowly developed into teaching about file handling and functioning of system calls, signals, and more commands. Highly recommended for individuals with basic knowledge of Python and Linux terminal who want to dive deeper into the field of file manipulation.
+Amazing course ! I have now understood very important lesson on my python journey I will definitely recommend who want to practice and improve python skill . This course is designed as per the industry standards.  Looking forward for learning .A Big Thanks to the Reliance who letting me attend this course and the entire Google Team No sweat
+This is a remarkably well-written course that builds seamlessly on the "Crash Course in Python" predecessor in the certificate.  I have a Linux laptop and coded all the examples and labs locally.  The final two labs are very challenging and demand intermediate-level skills.  I'm very impressed with the Coursera / Google combo.
+The quality of this course is legit brilliant. I'll recommend it to everyone out there. A great add-on to an already existing IT degree and a great experience for a first-timer too. From explanations to examples to tests to real-world problems, this course is like no other! I feel there's value here for everyone. Much love!
+Great course. It will guide you from the very basics on, the last lab is great since you will need to put a huge amount of the knowlege you have gathered through out the course in practice. The regex part is great and you might get something from there even if you are experienced in IT but haven't used regex that much.
+Fun stuff to lean. Some topics such as regex and bash are something that I always wanted to learn but unable to find a structured learning material. This course is a great attempt in combining multiple IT skills in a structured and fun way. Good job Google team. Thanks for making this course possible and available.
+Although the videos are very easy to understand, without practice and self.study you may get general understanding of how python works with OSs, but who wants to progress and code like a pro needs a lot of exercises and practice and study. Thank you GOOGLE for the course and looking forward to the next courses.
+Its a really cool Course with a good instructor. I really felt like I learned a lot of new stuff. Examples are Regex or Bash. Don't get me wrong I used Regex or Bash before but never really understood it (Only in like copy/paste scripts). So for me, this course made a big difference :) Thanks
+Really interesting course. After the crash course in Python, this got exponentially more detailed and trickier. Final assignment was a killer! Had to spend 3 days thinking of various permutations/combinations to get the code to work. Huge learning - EVERY LITTLE DETAIL is important!
+This is a very useful and knowledgeable course. I'm satisfied with my progress for quite a new IT programming skills in Linux OS and Bash scripting language. Thank Roger Martinez for clear explanations for each module and the interesting scenario for tasks included for assessment.
+Pretty useful, the only thing that I didn't like that much was the extremely guided Qwiklabs, but it was pretty nice at the end. The course was not so easy to digest but the content is complicated so this was expected, after a couple of examples everything was clear as water.
+Great and useful course. Topics covered are quite relevant in the IT world ( regex, file handling, scripting both in python and bash, automated testing. All the quizzes and labs are also very useful to see how the concepts really works and to put the knowledge into practice.
+Thanks to the instructor for make the course interesting. I have learned a lot of amazing automation stuff along with how to use regular expression and log files. As someone who as worked on python , this course guides us to do stuffs/automation that can be of great help.
+It was a great course for me as I have a decades of windows background, where you can point and click a visually represented object. Now I started to scratch the surface of programmatical interaction with the OS, which is my main goal of enrolling in this program.
+This is another great course.I learnt how to manage files through python, regex expression, Testing code with automation, Bash Programming and Linux basic commands. Overall It is a great course and suitable for beginner who has a little knowledge of python.
+Getting experience on files, logs, csv module writer and Dictwriter, Regex, Batch Scripts, shell commands, using parameters on python..etc.. It was a tailor-cut course and address almost everything that I need in this spesifik area. I can only say; Thanks!
+Excellent course. It was a kind of demanding one for me because I do not have ant background in IT. However, I learned a lot and I found it very useful and necessary.  Labs at the end of each week were encouraging and difficult sometimes. Thanks, Google!!
+It was really fun because I learnt a lot of concepts of python and the ton of uses it has, plus some in depth knowledge of regex and bash script. In rest, the instructor was really nice and knew how to explain a lot better than any of my school teacher.
+The best part about this course is graded assessment which is like solving real world problem.The course is designed by lots of planning so that what we learn can be implemented in the graded assessment. I can't wait to apply these skills in my carrer.
+this course is super useful, starting from learning the Python programming, testing, programming in the Linux environment, learning Regular Expression, Bash (shell) scripting. it would be great to have these tools in your IT Specialist toolbox.
+The most useful course that I ever find it. It provides really good understanding of core concepts which you can use in your work as well as automate some process and saving time to other work. You can hands-on with linux environment as well.
+It's a well organised course, easy to follow even when it gets to complex subjects. The videos are paced nicely and the instructor is engaging. Would recommend this course to anyone interested in IT automation, of any age and background.
+It's a great.. I have learnt a lot of power of python and bash command.. It's seems someone gave me this superpower to control mind(obviously computer's mind not a real person's mind), I have a great experience throughout this course...
+Now I know with python... I could use to interact with any operating system without the need to know their terminal commands.This is definitely going to make my life easier with the all-new automation tools provided in this course
+It would be helpful if qwiklab task description would be more specific. I find it difficult to understand that if I should follow the cmd and code verbatim or follow some portion for understanding and other for the actual task.
+I had some problems with the QikiLabs as my script was working, but the program itself wasn't recognizing it as correct right away. Overall though a great experience. Thank you to the instructor for making it a fun experience.
+A great course. I am absolutely happy selecting this course. I've learned a lot out of this.  In the final project it was awesome to look back at what I did and I now feel that I can do a lot with python. Thank you, Google.
+QwikLabs uses an older version of Python, and thus interacting with QwikLabs was often tricky, as the version of Python used in QwikLabs was not specified, making it incompatible with code written before starting the lab.
+I have learned a lot about python and how to interact os using python. Believe me this course is really a good use of time.And last but not least the final project is awesome you can't escape without using your brain:)
+This course was excellent to put the things clear. Sometimes we forgot that the basic concepts are the most important ones to solve issues, this course really sets all concepts clear, specially in regex, very cool.
+Even though I had already some Python, Bash and RegEx knowledge, this course has helped me understand when to use the right tool for the job. The QwikLab assignment were also quite challenging, but always feasible.
+Must have course, if you need to learn playing with logs, finding what is required in it in as easy steps as possible. besides also teaches to use bash, cool tricks, grep , MOST IMPORT: Regex(Regular expressions)
+This is an amazing course!During the process of this course, I know how to work with regular expression in any programming language. I can process both TEXT and CSV file with ease.More to tell about this course.
+Wow! This course was really good and very well presented. It was very challenging in the end. My head hurts a little after finally figuring out how to get the final project done, but I made it - and so can YOU!
+Very good course! And it would be much better with the lab tasks without training only copy+paste skills =) There were two really good labs, I digged into python much more deeper and I like that! Thank a lot!
+This course was fun. Thanks to Roger and Google aswell who helped me a lot in learning about operating system, bash codes, file control,m error handling etc. It was Fun <3 and I am going to miss Rogers (T_T)
+Excellent Course! I have been a Python programmer overall several years and this course has sharpened my abilities to solve complex problems using Python. 
+Thanks to google and many thanks to the Instructor!
+This course is an amazing experience to me.Lectures and labs  are so organised.Final project is littledifficult but I enjoyed a lot to solve the problem .Learned a lot of new concepts throughout the course.
+For me this course was great and so full of info (Py Scripts, Bash Scripts, OS interactions, Regex ...) really game-changing tools to add to my kit, and hope I'll have stories to tell just as roger did :)
+This course deserved 4/5 due to some annoying typos in practice quizzes and some unclear stuff in the labs, but I'm a sucker for puns and the lecturers surely delivered lots of them in a smooth fashion :)
+I learned a lot from the course. Contents and teaching are great.  Assessments are challenging so you will learn a lot from them because you need to do the practice of your own before taking it.
+Definitely a course you need to take. Not easy but that's the point, depending on your knowledge you might start slow on the first lessons but at the end you'll be amaze on how natural you code.
+It is a wonderful course, I've learned a lot within the classes, and I am ready to use this knowledge to develop my own projects. It a little bit extensive, but to accomplish it is rewarding.
+the final project is fun, especially it's not guiding us to use selected data structure which allows us to make more mistakes in the process (and thus learn more when you spot the issue)
+I liked it. Good enjoyable content that was challenging. I was able to follow along by using the Linux subsystem on my Windows computer. I definitely learned a lot of new concepts!
+Great course. Good idea to include bash and basic linux commands. Learned a lot about regex and working with files as well as with data structures. Very hard the final assignment.
+This section is great! Learn a lot of knowledge about Linux and Python. The final project was difficult but I like it. I can apply it for my daily life. Thank you very much!
+Another excellent course in the Google IT certification with Python. Really remarkable how great this program is. I am speaking highly of it to everyone I know of interest.
+I think this the course that can help you upgrade your knowledge in python and how shells work. Overall a great experience as it includes the hands-on practical work.
+Some frustrating setbacks, but I guess they're preparing you for the job? Overall good content, and feeling much more confident after finishing the final assignment.
+Code, Reg Exp , Bash scripting, Advising to use Linux,good Instructor, hand on learn by doing things ( should there be more in the quizzes thou). I TOTALLY RECOMMEND
+This is an excellent course I leant a lot in just a few hours. Now I can comfortably use Python on both Windows and Linux. I was fun leaning bash scripting as well.
+This was a marvelous course, well designed and most importantly using real world examples that will get your attention throughout the whole course. Recommended!!
+Amazing course. Eventhough its a beginner course, assignments are amazing enough to test you on every aspect of the course. A must do for anyone starting out.
+This course some of the much-needed tools and techniques that should be in the toolbox of everyone who is in the field of writing and developing software.
+I believe that this course definitely contributes to a person being able to offer value to any size IT organization or their own personal computing needs.
+great course with lots of detailed knowledge, just enough to set you on the path from where you can think of different strategies to attack your problem.
+Super informative and the course provides a guideline to tackle an issue. It really pushes me to learn more than I expected. Thanks a lot for the course
+Amazing course! Definitely acquired a LOT of skills. I'm thankful to the course instructor, Google and Coursera for providing me with this opportunity.
+Good content and project. Some Exams were "too" assisted almost providing direct answer to the problem. Only the final project was really challenging.
+This was the greatest course ever done by me. Please, would you make a course on your new programming language "Flutter" too, thats a request. THANKS
+The course was great and I am extremlypleased with the way of explaining things of the tutor.He is the best tutor I have ever seen in online courses.
+An amazing, well thought and perfectly planned course. Awesome tools, nice videos and real challenges. The best course I`ve done so far in coursera.
+This was a very helpful course in underastanding how python can be used in automation. Very information course with challenging exercises every week
+It takes a lengthy amount of time to get used to the subjects, but super satisfied when the projects (Very close to real-life scenarios) are solved.
+256/5000
+It was a great course, my congratulations and thanks to the instructor. The course has a lot of information but it was easy to understand.
+Very useful course if one is interested in making a successful IT career. Had fun but also learned lot of important things necessary for automation
+this was a really great course learning hard and new concepts but at the same time not feeling overwhelmed was the best thing about this course
+Loved this course specially because of the fact that the last two projects got me to a real challenge to struggle, research and solve the issue
+I am glad I took this course. Both of the instructors so far keep the course entertaining and keeps me engaged. I like their "funny" jokes. :-)
+Many new concepts to grasp, but very interesting. It's great to be able to practise directly on the linux instance.The last quicklab was fun!
+Okay ,,,I'll not say that this is easy . But if u complete this ...U get a whole new level of sheldon copper feeling . Just hang in there :)
+It's a great course. I've learnt a lot of things I didn't know. For sure, I will be applying them in my career as an IT personnel.Thank you.
+The instruction is so great. Would recommend this course to anyone with the will to learn and who already have a basic knowledge in Python
+Good and it is not very easy to complete u have to watch few videos twice and remember stuff otherwise you can't complete the assignment.
+I really enjoyed the course. It was a very enthusiastic course for me , I really liked the teaching style of the instructor in google .
+The instructor portrays even the complex of topics quite exquisitely! A really good course to refine your programming skills in Python.
+Amazing Course, Roger is a fantastic instructor, I really enjoyed it a lot and I see a lot of opportunities ahead to use my new skills
+Very useful course to learn about commands for linux operating system, regular expressions,bash, file handling etc. Loved it so much.
+This was a great course, the content was absolutely right on. Thank you for making this course. I recommend this course to everyone.
+A great way to mix unix bash concepts with python, I could see the potential, now I just have to keep using it and exploring it.
+I learned a lot even though I have been coding in python for a while. Lots of hidden gems and Roger is an excellent instructor.
+Excellent course, exceeded my expectations, provides many tools to explore but a lot of practice is needed to assimilate them
+It was great. Teaches you tons of new things and makes you look at some other thing that you might know from different angle.
+This course was very informative and helpful. Thanks to the instructor, Google and Coursera for providing this course 🙂🙂
+It was a kind of hard time for me, but the new situation or problem are enjoyable things.Challenge is my favorite hobby.
+This course was really tough. I'm really excited for everything that I've learnt so far I'm looking for the nex course
+Very good course. I will recommend everybody of my friends to take this up. It enhances your knowledge exponentially.
+Very useful course and very well explained. A zero beginner and an old expert both can learn a lot from this course!
+It really pushed me to my limits overall such an interesting course for how to interact with your operating system
+This course goes deep with real life examples. I will recommend it for anyone trying to learn IT tasks automation.
+This course was very useful and I gained knowledge of how to interact with the operating system using Python.
+Some parts are a bit difficult, but it was fun to learn those harder concepts. I had fun doing this course.
+I like Roger very much. I want to thank him and I am looking forward to his other courses. Thank you, Roger
+Good course to grasp real world implementation of Python and get a good hands-on with Python programming.
+It's very challenging, thanks support to help me go through this lab. I tried 5 times and finally passed!
+One of the best courses in Coursera. Loved the course till the end. Thank you for building my skills. 😍
+Course moves fast and introduces a lot of topics and it has an interesting final project. Well worth it.
+Learned a lot specially covering Bash scripting and linux commands which i am not used to.Thanks Google
+Got a little tough in the end but definitely a good course on how to work coding in the command line.
+This course was perfect, the assignments were challenging but fun at the same time. Thank you Google!
+What an amazing course. The best was to learn regexp and testing. But everything was really usefull!
+If i knew about google programs, i wouldn't have wasted my time in universities. Amazing course
+It was a wonderful experience, i never thought that i would complete final project, but i did
+Excellent course to apply real solutions using Python in Operating System!!! Recommended !!!!
+Forced me to dig into some concepts from the first course. Added new material too. Well done.
+The last two weeks (module 6 and final test) were really interesting and I got to learn a lot
+It has been really useful course. Lots of contents that will be used in real life situations.
+Excellent course on python. Very good challenges on OS topics and log processing.Thank you!
+Excellent course! It was just hard enough to learn new things by practice! Just love it!
+This was the good course for beginner and as well intermediate developer to work on OS.
+I have learn a lot about the bash and regex. It was quite challenging but it was good.
+despite the very bad puns, I found this course very useful, and enjoyably challenging
+Impressive course, the instructor really knows how to teach complex topics to rookies
+I like the instructor, he's funny, smart and patience. The course is worth to enroll.
+Awesome teaching style. I really appreciate how he presented every topic so smoothly!
+Tough course, but I feel better equipped to tackle real-world problems in the future.
+Excellent CourseI've learned a lot of cool stuff in the IT worldhappy that I take it
+Reallygoodcourseilearnedalotfromthis course even though i had experience with python
+Loved the mix of repetition and new content. Bash refresher was long overdue for me!
+This makes me feel great to know the interaction with operating system using python.
+This course was great and I learn a lot that I can apply directly to my current job.
+Loved it!  This course kept me on my toes and made me think a lot. It was good fun.
+Very helpful especially if you would like to gain skills on system administration.
+I am in Love with this course specially this one Hope to see this Professor soon
+it's such a amazing course i learned some advanced concepts.Thank you Google :)
+i had so fun to complete this course.i had currently feeling like real Sysadmin
+It paved my way to learning automation and use it in my day to day work life.
+This course had everything I wanted to learn. Thank You Coursera and Google.
+Awesome Course.Thanks Roger, Google and Coursera for such an Amazing Course.
+Fantastic! Well structured, easy to follow with lot's of interesting topics.
+It open a new world to me, thanks to this team and google itsleflt for that
+This was a very good course , would highly recommend it to python learners
+Amazing course wait for me Google!I am going to get a job in your company
+Excellent! I learned a lot of things. A long but very educational journey
+Demanding course.  Use of reference material online is very beneficial.
+Very useful course and fun exercises, would revisit from times to times
+Very Good experience with the learning and achieving the certificate!!!
+The instructor from Google was fantastic! Loved the course thoroughly!
+one of the best course i have done up till now, learn many new things.
+I enjoyed the bash scripts and regex expressions. Valuable experience~
+Tough Final Project but rewarding to get a solution to finally work.
+Very good course that teaches a lot of important need-to-know stuff!
+While difficult it was informative and provided realistic examples.
+I learned something new and helpfull and this was very fun as well.
+It is a very useful course if your are python freak or Linux freak.
+It was a very good course, complicated but you can get through it!
+Very well organized, useful and practical. Awesome job, well done.
+I learned a lot through lab, quiz, practicesI like the class too!
+Automating isn't simple but this course proved it is interesting!
+This course is really amazing, I loved it. Thanks to instructor
+learned some awesome new skills to add to my python repertoire!
+Super fun course.Great projects and enthusiasm in this course.
+wonderful opportunity to study about operating System concepts
+Great course! A lot of valuable information and practice task!
+It was very hard overall. Roger, the instructor was great too.
+Very good course, learn a lot.The labs are pretty hard.Thanks
+very challenge course. nice lbas and nice learning path. thx!
+The last project is pretty good. challenging and interesting!
+Python+Bash is a superpower! If you want it, look no further
+Very Good course to learn Linux operating system with Python
+Great course! Lots of material covered in a meaningful way.
+Thanks for the course and learned lot of  New Python Stuff.
+Great instructor. Really enjoyed this course. Thanks guys.
+really helpful course,clearly explained, gained knowledge
+It's very interesting and useful course I had so much fun
+It was difficult and exciting! Thank you for this course
+Great course! Really good excersices and good to follow!
+Great Course. Great delivery. Great learning experience
+Very very enjoyed it and gathered a ton of knowledge.
+It was an amazing experience to complete this course.
+Really is a rich course materials. thank you Googlers
+Nothing lesser than perfect, google does it again <3
+It's a very good course and I learned a lot from it
+great material, pace, and examples. also, exercises
+Well structured and the regex part was really fun.
+Good hands on experience. Need to keep practising.
+Basic Course for interacting with operating system
+Excellent content with great examples. Thank you.
+Great Course. Learnt a lot about Linux and bash
+What an excellent course , really enjoyed it !!
+it was hard but thank you for all the knowledge
+This is  a very useful  and  fantastic course.
+Very challenging course, it worth every minute
+Very good course. Tons of useful information.
+Fabulous! Many thanks for this opportunity))
+Pretty challenging exercise on final project
+Must for all Python learners and developers.
+Pretty interesting course! really liked it!
+An excellent challenge for a python newbie.
+Good but should be more beginner-friendly.
+i learnt much things.. Thank you very much
+It was a very good course, I learned A LOT
+It was a really really good experience!!!
+Great to view how to interact with Linux.
+Thanks so much, 10/10 for the instructor.
+Amazing content!!! Really learned a lot.
+Really Wonderful course!! & I mean it :)
+For a beginner its the best place to go.
+great course. I learned python some more
+Fantastic Course, enjoyed learning it :)
+Incredible Course 10/10 would recommend.
+Great Experience thanks Sir and Coursera
+Very nice course with  good information
+Great, but i think it's too complicated
+Definitely tougher than the last course
+Learned a lot, the instructor was great
+Nice one with good scope to learn stuff
+great to boost python and bash scripts
+Very Very Hard but definitely worth it
+Amazing instructor and amazing course!
+Great experience to learn new things.
+Thank you and I want to achieve more.
+This was a really informative course.
+Strongly recommend for all beginners
+Great course for python enthusiasts!
+Great course! Strongly recommended.
+Learned a lot about Linux and bash!
+Thank you Google Thank you Coursera
+Awesome instructor. Loved the puns.
+Fun and useful.  Thanks, great job.
+you will learn a lot...good course.
+Very challenging.Very Educational.
+Top course with great progression.
+This course will teach you Python!
+Awesome Content and great learning
+really good topics and challenges
+This course gave me enlightment.
+Learned a lot of good stuff :'))
+It was an excellent course...!!!
+Nice Course offered by Coursera
+Easy to follow and very useful!
+Very challenging and rewarding!
+Great course.  I learned a lot.
+Challenging course, very good.
+this course is really awsome..
+Really good course, loved it!
+Great Course!.. Learned alot.
+great course, I learned a lot
+Thank you! It was great time"
+Awesome course! Learned a lot
+Very usefull and thanks again
+Challenging but interesting.
+very very interesting course
+So much to learn about OS!!!
+Awesome i Learned so much!!
+Great course, I enjoyed lot
+Awesome Hands on experience
+This is a Wonderful course
+Super course. Very useful.
+great learning from google
+Good Experience Acquired!
+challenging but rewarding
+Learned a lot of things.
+Good Hands On experience
+It was really amazing .
+Learnt alot! Thank you
+Thanks for the course~
+best course of python
+It's really helpful.
+it was difficult ...
+tough but fun course
+pretty challenging!
+Good Stuff to learn
+very boring course
+Great instructor.
+Thank you, Roger!
+So far, Awesome!
+A very good one
+It's AWESOME
+A tuf one.

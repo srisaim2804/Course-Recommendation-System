@@ -1,0 +1,52 @@
+Useful for those interesting in learning more about data analytics using Excel! Might be a little content heavy towards week 6 but it was interesting nonetheless with plenty of hands-on assignments.
+Lectures were very engaging and informative.  Integrated many elements of analysis and thinking that were helpful to learning statistical and and accounting concepts.  It would have been helpful to have access to the same data sets as were used by the instructor to follow along with some of the exercises.I highly recommend this course to anyone wanting to unlock more value from data about their organization or anyone wanting to learn or refresh on statistics and data modeling.
+The course teaches a lot of useful data analytics and visualization techniques which will prove to be useful in the future. The only complaint I have is that for the peer review 2, the data provided to us is in csv format. As such, please beware and save your work in xlsx format otherwise, all your progress will be loss if you are currently working on their csv file provided and forgotten to save as xlsx file.
+Big thanks to Ron and the production team, they did a good job making clear videos, that are easy to follow and break up the topics into well-paced chunks. Covers a nice foundation for data analytics principles, terms, and excel and tableau software. Only thing is it is a bit lengthy, don't try to rush this course.
+useful as an intro course to analytics and data visualization. The nature of the content itself is a bit dry but i think the lecturer did not bad and was clear and concise in delivery.
+Excellent course, well structured, taught by a subject matter expert, suitable for individuals with executive background as well as  middle-level and junior learners.  Highly recommended.
+I absolutely love the way Professor Guymon carries out his online module. Most of the videos have given me interesting insights into accounting analytics which I am confident of utilizing it in the future. I would also like to comment on how the video has captured my attention through the sceneries, interesting features of the school as well as interviewing people in the accounting data analytics field. Thank you for this fantastic online experience.
+This course had exceeded my expectations! It really knows what the focus of the course should be. There are many things to learn in data analytics and the professor of the course did a touch and go on those advanced concepts and kept focusing on how to present the data which was done so with superb clarity was so apt. I will definitely rewatch the videos and apply what i have learnts!
+I think that the course is interesting and the pace is comfortable to learners. I just wish that that can be more practice and pdf/word docs of lecture notes to make the content more organised. Kepp up the good work!
+one of most insightful data analytics courses from the finance perspective, very good intro coursera for both business professional and IT professionals
+The lectures are very well structured and the flow of each lectures flows great
+
+reference support and reading material is very satisfying
+Presentation support such as drawings, slides, cartoons is very interesting
+
+the way the lecturer teaches is very passionate and very interesting
+the speed of the lecturer is suitable to my ability to listen and comprehend
+the voice and pronunciation are clear and easy to understand
+
+the material taught is very useful, interesting and up to date
+Really love the courses! I've been in accounting field since college to work, but never been informed (well) with data. This course provides sufficient materials to understand about data analytic and visualization with accounting/finance data. Some of the materials are pretty difficult to understand, especially that I have bad skill in statistic, but the instructor is very great at explaining details. Thank you!
+Thank you, Professor Ronald Guymon! Introduction to Accounting Data Analytics and Visualization is an immersive experience. The combination of discrete data and excel can result in visually appealing presentations such as Scatter Plots, Box and Whisker Diagram, and Pivot Tables. The implementation of the Regression Line (best-fit line) helps to derive values of R Square, Significance F and P. Kudos to you!
+I’ve been working in audit since I finished my degree (about 4+ years now) and this course expanded my view on what potential path I can take that will allow me to learn and hone new interests without having to leave behind acquired technical skills from my job. This is a great program and I highly recommend this!
+I really like how there were demonstrations on using Excel & Tableau, where the data sets are included in each module for us to practise the skills ourselves. The lessons are also extremely engaging & useful. I enjoyed this course thoroughly & am now better skilled in using Excel!
+Very informative course. Skills learnt in this course are definitely applicable to the future.Course content is not very heavy and relatively interesting. Learn more about data analytics and how to use Excel better, which is the key takeaway for this course.
+Prof was very clear and everything is explained in fairly simple terms, in an easy to understand way. Piqued my interest in the topic and would love to explore in my free time in the future. Thank you Prof Guymon!
+It teaches us the basics of data analytics and it is very progressive. There are assignments to help us understand and practice the methods being taught. This allows us to have first-hand experiences.
+Excellent content!  Instructor was amazing...interesting and comprehensive.  Assignments were excellent as well, though peer-review was impossible because no one kept up with me in the course.
+Very insightful session on how to get the best picture out of huge data. I certainly like the homework as it gave me time to practice on certain items. I highly recommend to those who take
+The lecturer is very concise and goes through concepts in depth by showing examples that build on top of previous knowledge and used dataset that was previously introduced.
+For a beginner at excel, this course really teaches you a lot about data visualisation and organising data in excel and other similar applications.
+Excellent course.  I loved it from the beginning to the end.  Enjoyed throughly the two assignments.  Professor teaching skill is increadible
+Love the enthusiasm of the professor Ronald Guymon and the module helps me with learning more about the use of Excel and its VBA functions
+Being the first online module I've ever taken to date, the content and videos far surpassed my expectations. Looking forward to more!
+This is a really helpful course! I have learned not only about using Excel for accounting, but also the many functions of Excel.
+I really enjoyed the course and the lecture was very interactive, clear & precise  in such a way i felt i was in a classroom.
+The two lab sessions were useful and the speaker was well present himself and his points making it easy to understand him.
+The course enables its learners to get a hands-on experience using tools to accounting data analytics and visualisation.
+Excellent and interesting videos, not too long but not too short. Lengthy enough to be very informational and helpful.
+This course is so useful. The instructor is awesome! 
+I am very happy to have attended this cours. Thanks!
+Enriching course that really helps brings new comers into the world of data analytics and visualization
+It provides a lot of hands on example that really help with the explanation of the concepts taught
+Great overview of data analytics. Teaches you basic tools that can be useful for basic analysis.
+Interesting course for students willing to learn more about analytics for accounting
+A course with an excellent overview of data analytics suitable for beginners.
+Fantastic course with many infomative videos which is really helpful.
+The course outline is clear and the contents are useful.
+Is something new and interesting for me. Thank you
+Great course, very informative and detailed.
+Very educational and eye-opening.
+useful and good interpretations

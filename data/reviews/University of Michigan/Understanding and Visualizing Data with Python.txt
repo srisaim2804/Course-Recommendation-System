@@ -1,0 +1,268 @@
+The course contents are good to an introduction or refreshing in 
+statistics but the assigments are not really well prepared, and contains
+ many unrepaired errors. This drops down the level an educational 
+potential of this course (and the entire specialization) and converts it
+ in a poor educational resource and a  waste of time, in my opinion
+The statistics material is extremely superficial and naive to anyone with high school level of statistics. On the other hand, the Python lessons are extremely difficult, going directly to complex tasks with no explanation of the intermediate skills required to understand what is being taught. This is the case even if the course description says only a basic level of Python knowledge would suffice to follow the course. I don't see how this course could be useful to anyone.
+My final course certificate not received, even after completing all 3 courses.
+Too boring.
+This course still has spelling mistakes in its quizzes, which in a programming focused course are big, and the instructors don't seem interested in fixing them. The result is you have to guess through their mistakes if code is suppose to not work in a quiz because of the error or the error is not supposed to be there in the first place and the code is valid.
+this course is well below my expectations. there are none real life examples or detailed visualizations, except a few simple plots.  There is no step by step coding lectures. There are some youtube videos which are much better than this. Dont waste your time if your goal is to learn python, other than getting some certification.
+Overall a poorly designed course. If you know a little bit of stats and are hoping to expand your Python skill set, then don't even bother wasting your time with this class. The programming instruction is extremely weak. This is basically an intro level college stats course but the instruction is completely lecture based and quite poor (much of the instruction is left to TAs). The quizzes and programming exercises are not challenging. This course gets two starts from me because the practice programming exercises are actually great, but no answers are provided so it is hard to check your understanding of these problems.
+Basic statistics explanations are good, especially for those uninitiated. Examples that require intuitive understanding of plots are nice, albeit slightly confusing.A lot of material concerning Python is not covered in the course, however. No possibility to download source files and work with them in your own environment. Ambiguous instructions that relate to statistical concepts that are still unknown and lots of materials that require 3rd party explanations. This extends the learning time 4-5 fold. Extremely long weeks with lots of technical and incomplete materials. Breaking things into smaller chunks would have made a world of difference.
+Very poor. Had a hard time keeping my attention. Very lecture heavy. In fact, astoundingly lecture heavy. This course should have gone between the jupyter notebooks and the video content to keep the viewer engaged. Why not leverage python and jupyter to teach concepts as the student follows along instead of just lecturing for hours? Keep the students engaged through hands-on work instead of just talking at them for hours. The structure is simply antiquated for the modern student.
+Lectures are great but there's little practice material and the quizzes are terrible.  The quizzes are actually super easy but they don't cover much material from the course and sometimes introduce concepts and terms that were nowhere in the course materials. If you want a good intro to stats without any actual testing, the lectures get pretty in-depth and the explanations are excellent! But if you're looking for lots of practice with stats in Python, you won't get much here.
+In overall the course is good. However, there are some issues that could be improved, as for example:- Using the NHANES database is come cases is not the most effective as you can spend some times trying to indetify or search for the variable they are asking for. Better instructions or the use of a simpler database could be an alternative.- Some videos could be improved. There are compilation errors in the Python demostrative videos, in some other cases previoulsy not-explained functions are used (while similar functions already known by the alumn are available) or Python 2 functions are proposed (the course should be oriented to Python 3).- I found that both parts of the course (stats and programming) are not always perfectly coordinated.Despite these issues, the course is good and I will go to the next course with them.
+Overall good but still have rooms to improve. I knew so little about statistics and Python. The concept is quite difficult but relatively new unlike other typical statistics courses offer. Practice assignments are very good but difficult. More guidance of Python libraries usage would help. Passing assignments were too easy. Strong foundations of using Python especially in libraries such as matplot, numpy, panda, seaborn would really help to better understand the concepts with a graphical presentation in Python. I would recommend this course for those who are familiar with those Python libraries already. For me, I need to learn more about those and would revisit the content here again to better grasp full understanding.
+The topics that were seen in the course started in a very basic and understandable way but they evolved to much more advanced and difficult topics without a good explanation.Sometimes I felt no connection between theory and practice with Python. The large number of teachers does not allow continuity in learning and creates gaps.
+This course started well, but unfortunately, I think they should add more extra example and focus on the topics more in-depth, I can say in each quiz I spend around 3 hours to find related topics in the internet and learn them to answer to the questions and I think it should be cover by the course itself.
+It's great course to understand the basic concepts of statistics like uni-variate and bi-variate data.But,the assignment which they give week 3 and week 4 is not that much to implement the concepts practically. Overall ,it is a good course.
+Good stats course. Needs more Python. Much of the Python is just watching or clicking run. Would appreciated more opportunity to walk through the coding with hints and hidden solutions to gain some proficiency.
+There is incorrect course title for this course as in reality it’s Statistics AND partial illustration of it using Python. There is no consіstent exposition on Python libraries and frameworks.
+I think the order of lab components should be rearranged. Introduction of core python mechanics should come before the module in which each code is implemented.
+Lectures are boring and very long it should be more practical ,but yes I've gain certain statistical insights.
+Python in week 2 is largely unexplained, also course could have dived deeper into statistics
+Good content and syllabus, though the later videos could be easier to follow.
+I think it was more theoretical and more practice is required.
+Well taught, it will be hard for beginners with python.
+Too many texts in the lectures
+A little easy, and lacks focus
+Could be more refined.
+phyton part is shit
+This can be a quite helpful course for beginners. I really liked the course because it thoroughly introduced me into Seaborn (visualization library) which I was unaware of. Also, some of the practical exercises truly help you develop your pandas skills. I really enjoyed week 1-3, which truly challenged me and introduced me to new concepts with a good balance between practical and theoretical. However, week 4 felt a bit off. The contents could've been split into two weeks. The practical tasks are minimal compared to readings and videos. And the final quiz covers like 15% of all that was taught in the week. Concepts like CDF were never taught but employed at the end when talking about the empirical rule.
+This course is definitely a beginner level course in both python and stats, but it is very well done, and there is plenty of content.
+More hands on assignments would be desirable.
+Great course but python programming part is bit confusing, can be done on IDLE instead.
+There are two main fields of study in this course which forms the foundation for the specialization: statistical theory, and programming with python data analysis packages. I learned so much about statistics and visualization that would have taken months to learn in university, I gained a lot of experience and knowledge from this course. I have a decent background in Jupyter notebook from university yet I still learned many new things and got an excellent chance to practice programming in the python packages.  The course offered excellent optional practices and gave us several extremely insightful and educational analysis reports done in JN that were related to the module of the week for us to download.I recommend you have a datacamp subscription to have access to some extra notes regarding programming in the packages particularly Pandas to get the most out of this course by attempting all the optional programming practices.
+I loved several things, first that gives you an overview, useful, clear and fun of several basic statistical concepts such as measures of central tendency, different forms of graphic representation, and one of the most important at least for me (already that neither in school nor I would have ever thought about) the types of sampling that exist, because in school there is usually something called simple random sampling and we develop statistical techniques for it, almost completely ignoring the other types of sampling that are really common in real life and that when we face them we don't panic, I know that this is an easy level and I appreciate that in some way, but I would have expected a more difficult course that would have made the concepts really stay in me because I would be thinking about them continuously and how to apply them to the tasks that are presented week by week
+I think the content here is great and gives you a good overview for understanding and visualizing data without getting into the mathematics. Week 4 is absolutely great in terms of how the information is conveyed by Mr. West who is an excellent teacher in my opinion. I do think, however, that the quizzes and notebook assignments could be a little bit more challenging and I would have loved to have answers to the "more practice" notebooks. I think it would have been great for those notebooks to have been part of the assignments, adding to the difficulty of the course.
+Good introduction to basic statistical methods with an emphasis on working with surveys, and a good introduction to basic statistical techniques with core Python, numpy, matplotlib, seaborn and statsmodels. Instructors and presentations are excellent, very clear.  I would give it five stars if it were more interactive, i.e. with more in-video quizzes, and practice quizzes between videos.  Also, I wish I had take this course before I did the Applied Data Science with Python specialization, also on Coursera, but, alas, it wasn't available then.
+The course could be improved with more quizzes to apply what lectures cover. A lot of useful information is presented, but there was not enough opportunity for us to apply it. Also, the course should present more examples of statistical concepts. At times, it felt as if I was just listening to an audiobook. Statistics can be better understood by applying concepts and visualizing. Week 4, in particular, felt very rushed. There was a lot of "this will be addressed later", which diminished the relevance.
+It is a fairly good course for statistics introduction. However, the explanation on how to apply with python libraries is not well-organized. Learners must have a well understanding of numpy, pandas, Matplotlib and Seaborn on their own in advance, because the TAs just read through the code without explaining why in details. The statistics concepts lecturer is very good, but the TA didn't describe python libraries or modules selection  and application concept.
+Best course for Statistic to understand from Datascience POV. If you're a software developer or from computer science, then this course is good to go into to understand the statistics for DataScience. Deducting one start for :- 1. Week 4 was too much lectures and less assignment. Felt rushed. 2. The pythonic technical tutorial was not explained much technically and hence i had to spent a lot of time on different course to learn them.
+I am so happy to learn about data visualization through python. This course gives you a good amount of insight on how to visualize data through python and helps you understand the graphs and statistics behind it. I am very thankful to the team who have made up this course as it has been very helpful to me and other students like me to be much more confident with our knowledge in Python and Statistics.
+This is a tactfully curated course for getting your legs wet in statistics with python, I personally was not completely comfortable with the statistical explanation and had to refer to multiple sources but hey a splendid job in other crucial things such as working around a code!! 10/10 recommend!! I wish to connect with the tutors via Linkedin
+Having no prior knowledge of stastics and it's terminology, i felt more number of practice question should have been given to understand the concepts in a better manner. The assignments with python could have more number of questions and bit  more complex as well. One should refer extra material to understand the concepts well.
+At times I felt as though the content could have been delivered on a longer timeline. Some of the Python was very dense if you aren't already skilled with Numpy and Pandas. Coming from Python Basics, they took more time to explain programming concepts. Overall I enjoyed the content and the instructors. Thank you!
+Has a lot of theory, so any non statistics student can go along with it. Statistical theories are explained very well with a lot of references and cool website, articles and link. If anyone wants to get the most out of this course he/she has to spend time learning to code by himself.
+It was ok. To be honest, I expected somehow more from this course, but I cant say that something was bad. I would like to have more practice in python, because the exercises are made more for watching or just repeating, not really for  practising and applying new skills.
+This is a good course for people who do not have a strong background in programming. The videos and lectures are extremely well planned, . However, there is not much practice you can do, the assignments are super easy and they do not cover much of what is taught.
+A fun and easy course for someone who wants to start knowing what it is about to analyse and visualize data, but it did not provide enough in detail, to the extent I would like to learn, about the visualization packages of python (i.e. matlibplot and seaborn).
+Great starting point for getting into statistics. Covers some good fundamental areas which other courses may skip over. Designed well for the online delivery. Assessment sections were a little varied e.g. some were great, others felt far too easy or limited.
+Video lectures and suplemental material were put together very well.  I enjoued the class and learned a few new things in the process.  If I had to make a sugestion it would be to include more practice opportunites however there were enough to be effective.
+the overall structure of the course is good and right to the point but I gave only four stars as the statistical concepts are confusing without understanding the jargon, in my personal opinion, I feel a video explaining the jargon would be very helpful.
+The teachers are all enthusiastic and very professional. Videos are great!  But I cannot give a five-star since the assignments do not seem very effective, and there are some old codes that are only applicable to python 2 (rather than python 3).
+The classes and content are great. It has fixation exercises, which helps a lot. I would suggest as an improvement to put more examples in unit 4, because there were times when the concept was not very clear, especially complex samples
+This course is a good begin for statistic learning, especially sampling and visualization ideas. The content is quite long, there are so many lectures as well as reading material.It is better if the summary reading is provided.
+Very thorough introductory course to data understanding with a clear presentation of probability and non-probability sampling, probability of selection, and sampling distribution. Wish I had this course when I was in college!
+Can have more adavanced excercisesm and scope of data visualizations can be improved(since those are not that advanced) but for a begineer this is a great course, the links in the courses are great to extend the knowledge.
+Very helpful course for newcomer in data science studies. Great in clearing fundamentals for descriptive statistics, use of python to get these insights,plotting. Overall provide good learning curve.
+Excellent high level introduction, would have like the assessment to be more challenging. The additional materials are just amazing for most of them. The notebooks to practice are also excellent.
+Really enjoyed this course. Looking forward to the next part of the specialization. I thought the quality of the lectures was excellent and made the topic interesting and digestible
+The course was slightly harder and longer than I had expected, but the statistics concepts were well explained. However, the coding was not as hands-on as I would have liked.
+To pursue your dream career in Data Science statistics is a must. And this course is one of the fun and easy to understand statistical courses I have found on Coursera.
+Great course with a great deal of meaningful content.   Coursera failure on the Jupyter notebooks made wk 3 a bit more challenging, but overall its worth your while.
+It is very complete course, you need to have a good background of Statistics, for the week for there is a lot of text but not enough practice or hand on projects!
+This course is really a general overview. The focus seems to be laying a foundation which I hope we build  on in a more technical way in upcoming stats courses.
+I would have preferred lesser time in Week 4 on Sampling.  Those lessons could have been moved to the next course as they don't strictly relate to Python.
+Pretty good introduction for using Python for statistics. Some of the lectures were a little dry, and the test material could have been more challenging.
+Generally useful, not entirely sure what the peer review assignment was, and could have done with more python assignments to help with consolidation
+The high-level theory was well explained. It would've been awesome if there would be more hands-on labs, and if the theory would go more in depth.
+The assignments could be made more interactive,like assigning us problems on which would have to visualize the in jupyter by us to get the answer.
+Python exercises can be more interactive and the examples for sampling could be explained by taking a small data set for getting a realistic idea
+some of the materials in this course was not very clear but I think there will be more explanation in the upcoming courses in this specialization
+Nice course, there are very good explanations, but I thought there was going to be some mathematical background, I think it is important too.
+It is really good course for professional data scientist as mostly explains how to visualize data and graph and make an conclusion out of it.
+Great class for beginners. Would have loved to learn the material in smaller python notebook snippets throughout. Instruction was excellent!
+It's a good course to learn the statistics fundamentals with some python pratices with Pandas, Numpy, Matplotlib and Seaborn
+Very high level introduction to pandas and visualization. It is a good resource for finding different pandas functions.
+Great guidance and lesson videos! :) Easy to follow and I love the fact that I learnt something new here - Numpy!
+The course is really good.The explanations are in detail but the assignments should be tougher.
+Coursework is great and so are the teachers , concepts are taught in a easy to understand way.
+More examples could have been used to explain concepts in the 4th week of the course. Thanks
+Excellent course.  Wish I had had more feedback, or someway to interact with an instructor.
+Light-hearted but fairly rigorous. Material is well explained and examples are compelling.
+It's a wonderful course. Each and every part is well designed and very well explained. i
+Very helpful in understanding sampling stats...using python is like a cherry on top :)
+This course is designed in the best manner you can ever approach to the data science.
+Just a tad slow for my pace, but the understanding and course material are on point.
+Very good course if you are a beginner at learning python and data visualization
+This course is awesome. If week 4 have more practice, would be excelent!
+Helped me understand some basic concepts of statistics, and insightful.
+Great Introduction Course to statistics concepts and python!
+Assessments too easy. Course material was good though.
+Very good starter course for statistics using python.
+Pretty good to learn, have greatly enjoyed it!
+Pretty interesting and well paced course.
+Helpful introduction to the topic
+half of week 4 is almost a trash
+Worth Learning
+I must say that this is a must take course for ones who are aspiring a career in Data Science. All the concepts were laid out so beautifully and it was explained very clearly with visualisations of each real-life-examples. I enrolled in this specialisation before starting my Machine Learning so that I have all the necessary  fundamentals of Statistics. Brady Sir & Brendra Ma'am are simply phenomenal, the way they explain the concepts are incredible. The concepts gets etched in one's memory. The most exciting part of the course is Brenda Ma'am performing a cartwheel !! For all the ones who are enrolled, don't forget to watch it out.
+Never have I come across a course half as interactive as this and it was a much needed confidence booster for a beginner like me. I look forward to completing the specialization : )
+Excellent introductory course to statistics. Great use of NHANES dataset to demonstrate techniques on real dataset. I would appreciate a more demanding project at the course end.
+I strongly recommend this course to those who want to begin python programming applied to statistics. It launches a very sound foundation for statistical inference theory.
+I strongly recommend this course to those who want to begin python programming applied to statistics. It launches a very sound foundation for statistical inference theory
+I love the U of M courses! I get so much out of them. Thank you again for helping me to advance my knowledge of Python and deepen my understanding of statistics.
+This is the foundation course every aspiring data scientist needs
+Excellent course materials, especially the videos, with content that is thoughtfully composed and carefully edited.  Very good python training, great instructors, and overall great learning experience.
+Great course to learn the basics! The supplementary material in Jupyter notebooks is extremely valuable. Really appreciate the PhD students who took the time to explain even the simplest of codes :)
+From my point of view, this course was very fundamental for learning statistics with python . I have learnt a lot about different statistical model with how to describe by visualizing them. I have also studied uni-variate , multi-variate data analysis and introduced to a practical NHANES model which was implemented on python code to get different visualization of data analysis. Finally also learnt about using  sampling distribution , sampling variance and probability and non-probability sample.  This course will definitely boost up confidence for statistical analysis with python.
+The content is very comprehensive, provides an introduction about all the useful things necessary to do statistical data analysis with Python. However, some of the quiz questions are ambiguous and its not clear to me why the chosen answer was the correct one. I submitted feedback on one of these quizzes but I didn't receive any response. Other than that, I felt the instructors did a great job of explaining the fundamental concepts in statistics and the basic tools in Python, and I am glad at having taken this course.
+This course introduces basic but crucial statistical concepts that any data analyst should be aware of, and offers detailed explanations of the steps that one should follow when desinging an observational survey. I have had several courses online and on campus, but none have done such a great job at explaining study design as this one. Note, however, that knowledge of basic Python programming is a must-have before attending this course, and I would also recommending getting one or two tutorials on numpy and pandas.
+Very good course for people that don't have any knowledge of statistics, like me. The material is detailed, the concepts are explained clearly in the lectures and the instructors make it easy to follow.I don't understand why people complain about the programming assignments being difficult. Normally they cover things that are shown in the lectures. When that is not the case, links to the relevant documentation pages are presented. If anything the assignments are too easy and there should be more.
+They cover basics like normal distribution, z-scores, and plotting data with scatterplots/histograms. In week 4, they give a fairly detailed overview of distribution sampling, and hammer home that you need to be cognizant of bias in your data. To me the most useful aspect of the course were links to third-party articles and web-sites that I would not have discovered otherwise (such as the app from Brown where you can play with different distributions).
+Excellent course to learn different statistical ways of understanding and visualizing datasets. Also, it was taught how to gather data. What I like about this course is, besides explaining every topic clearly, the instructors have commented on when to use that and when not to and drawbacks of that concept. The instructors were great at explaining things. I am very thankful to the instructors, team and the University of Michigan.
+If you are searching for a course who could either teach you all about the world of statistics - ranging from statistical analysis with awsome examples and explanation with demosntrations of statistical methods - and at the same time force you trough programming, this is the right course. I'm very grateful by the efforts of course's team in undertaken such work! I'm now more prepared to advance in my carrer, thanks to it!
+An interesting teaching style, full of life. Also, the quality and quantity of content is extremely well. Peer Reviewed "Data Memorandum" for a company is an excellent touch to the course. I would recommend this course just for that it self. Otherwise also, this course can be recommended to any beginner who wants to try Data Science from the Maths angle.All the best.
+You need to have atleast a couple months of coding experience to do this course. Stats concets are explained nicely. I liked their approach of teaching new concepts. They made their own data sets to teach us and give us a good hands on experience with manipulating and crunching data. This course would be a good start for your journey towards data science/analytics.
+A very nice manner of teaching where lecturers used a variety of real-world examples which made hard things easier to understand.  I have learned basics of python language including data types and syntax, core features of pandas, seaborn and numpy libraries. Recalled for myself statistical principles and approaches.  Besides all of this, there are a lot of fun :)
+Excellent course. Although I do believe it should have more hands-on experience so that we, as students, can improve their python abilities and can feel more comfortable when using python for statistic analysis. In addition, I believe tests were too easy so it could definitely use a bit more difficulty. Yet, the course materials and the lectures were great!
+I love the depth and breadth of the content. It provides in-depth knowledge of statistics and wide range of context information and supplementary reference learning materials. I also appreciate that each lesson is accompanied by hands-on activities using Jupyter notebook which definitely has helped me gain a deeper and clearer understanding of the content.
+The course gave a very good understanding to type of data (quantitative, categorical) , histogram, correlations, standard terms used in statistics, how sample plan needs to be created . The peer review exercise was very nice. I enjoyed doing it. The exercises in python looked basic. Overall a very good course and I enjoyed learning through this.
+Very nice experience to join this course, which help me to understand and visualize the data using python. I recommend this course to everyone and too friends, as all the instructors clarify all the concepts so nicely. I Thanks to everyone involved in this course to gave me opportunity. Thanks to Coursera for giving such platform.
+This first course in the specialization was very helpful and outstanding in the way it created the concepts of statistical programming and data visualization along with statistics theory. All instructors were very helpful and my special thanks to Brady T. West and Brenda Gunderson who were splendid in their teaching methodology.
+I really love this course! This has been my best learning experience since I use Coursera! I really appreciate Brian to answer our questions in the forum, even though some of my question is really silly, but he is also very patient. The content of this course is very nice, I learn a lot. Thanks for the efforts of every staff!
+The course content is GOLD! Seriously, several of the things that were taught in this course are already known to me but after taking this course, it gives me the real insight and physical significance of those things. After this course I understand how to actually use those things practically! A must do course 🤩😮🤩🤩
+A very gentle introduction to data visualisation with great effort from teachers and students to make the course refreshing.The course will not be very mathematical or coding heavy.Most of the quizzes are fairly simple and motivate the student to gain more insight by opting for further courses in the specialization.
+This course gives a solid understanding of core statistical principles, sampling, approach to making inferences, plus some experience with data manipulation using Pandas and  data visualization using Matplotlib and Seaborn libraries, as well as some experience with the Numpy library (all in Python)
+The course is really good, videos and materials presented are good, there are lots of recommendations for additional readings and web tools, it is also interesting the change of presenter, it helps to keep attention. But I think it is not for somebody who has never heard of Statistics before.
+Excellent course to better grasp fundamental parts of statistics within the data analysis space and how to create some basic visualizations. The course is not Python heavy, although some experience working with Pandas, Numpy and understanding of basic loops and list comprehensions will help.
+This course is excellent and very well thought out. It covers the fundamentals of sampling methods and data analysis as well as their practical applications with Python. I would recommend it to anyone willing to learn statistics (but you should already have some basic Python knowledge).
+I feel 100% more confident in my job now.  We just started using Python for analysis and I am probably now ahead of many of my coworkers in a super short amount of time.  The class got me over the hump in the learning curve so I can progress much faster than trying to learn on my own.
+Sometimes, the lines in Jupyter notebooks are kinda hard to understand. Yet, there are a lot of materials out there online for us to explore; for this, I also learn how to solve programming problems by myself. In general, I like the courses and the instructors a lot.
+Great course. The materials are thoughtfully put together and paced well, and I achieved my learning objectives: a second pass through undergraduate level basic statistics and a basic idea of how to use python to do math an evaluate statistical and other data.
+This course provided a valuable introduction to data handling and visualizing with python. I very much valued the mix of videos, readings, and Jupiter notebook work, as well as all the pointers to additional resources for deeper dives. And the cartwheels!
+A well paced stats refresher which covered the core material well and skillfully introduced current research.  The fourth week was a solid introduction to sampling methodologies and inference.  Looking forward to the next course in the sequence.
+I particularly liked the light introduction of new concepts like methods behind confidence intervals and hypothesis tests. These were then well emphasized via numerous Jupyter Notebooks of varying levels of difficulty. Highly recommendable.
+Great explanation of statistics! Pretty much exactly what I was looking for, does a great job of explaining sampling theory, and the emphasis is placed more heavily on understanding the nature/theory of statistics than the Python aspect.
+Terrific balance of information and incorporation of Python. I have programmed 40 years BUT am not in any way a programmer... this is my first ever use of Python. It was the perfect level... tough but I could  hang enough to get it.
+I really enjoyed taking this course. All the teachers did a great job in explaining the information in clear and understandable ways. The layout of the course was also organized which made the whole process easy. I would recommend.
+That is an amazing course for someone, who has at least a little bit of experience with Python under the belt! Definitely recommend it to anyone, who would like to refresh statistical knowledge, learn how to apply it in real life.
+This is a great course to start with if you are a beginner to statistics and if you know a little bit of Python. The course material is very good, concepts have been explained very well and the assignments are interesting.
+Thanks for everyone involved in preparing the course content. Gained a lot of insights from this course. Really opened my eyes on the  basics of statistics. Will definitely complete all the courses of this specialization!
+Very informative course for beginners and this course motivates the learner to dive into statistics & python code ! jupyter notebooks are very useful which are provided in this courseThank you for University of Michigan
+I felt pretty good by taking this course. It delves into details of statistics with good hands on python programming. Acts as good foundation course and Will be helpful further gaining knowledge on in depth courses.
+A great course. They example the necessary concepts with the right depth and understanding. Also, love the assignment in python, aids in using them as a template while doing a similar analysis on another dataset.
+This is an excellent initial course for using python in statistical data processing and analysis of big sets of data, I appreciate the most the lectures on probability and non-probability sampling. Big Thanks.
+Very clearly explained each and every topic. Though understanding all the concepts at first is not possible if you got through the videos twice or thrice than you definitely get the concepts
+The course is very well structured. Teaching and links to related articles help us understand the concepts better. Jupyter notebook based python learning is very comfortable and easy to use.
+This course is very good for the people who are not from programming background as everything related to the concepts is very well explained (with programming support) throughout the course
+The course itself was good. I think I learnt the specific concepts well. However, I would have to go through the general sense of python to actually implement what I learnt here
+Thanks to this course I have been able to elevate my understanding of research methodology and incorporate a more critical assessment of scientific studies into my daily work.
+Great course if you want to get a good grasp of intro to statistics. What this course offers is a great content on how to use proper statistical modelling for research.
+Very good course instructors !  Excellent balance of basics of statistics and python programming oriented towards data analysis. Thoroughly enjoyed the course material.
+Great course to learn about the basic tools which will be helpful in data visualization and this course also gives an insight explanation of where the data comes from.
+The course is very good & it gives a confidence to people like me who are new to Python .It would be great If you can explain the hypothesis section in more detail .
+Really helpful to build a foundation for the basic Python and improve the understanding on basic but key concepts on statistics and visualizing techniques. Awesome!
+It's a very nice course, which narrows complicated statistics concepts to understandable size, additionally, each concept is explained through hands-on exercises!
+its more benificial  for me becasuse visulization of the data is very important understand in analysis part that i have gained very easy from you thankyou so much
+The course is comprehensive and good for beginners. Highly recommend if you are starting out as a data scientist or even if you are a beginner python programmer.
+excellent course. if want to know what is data data and want to visualize data then you should do this course. Excellent course material, videos, quiz and more.
+Very informative course! helps you increase your depth of knowledge in Statistics. Would highly recommend to any aspiring Data Analysts and Data Scientists.
+It is a very explanatory course with instructors trained in the subject. The class materials are varied, which allows new technical skills to be developed.
+It's a very good course to learn statistics for data analysis and data science. The instructors were great and the information they gave was just precious.
+Great course to review basic statistical concepts. The added component of python was a practical way to learn python and apply it to real situations.
+The course provides basic knowledge and concepts of statistics in Python, which is very useful for someone who aims at the data science career.
+Great course! Tons of useful materials, allocation of topics and workload corresponds to the course level and time indicated to complete them.
+Very great Statistics course with hands on python experience. No matter how much you already knew, it was a great course to start with.
+This is an excellent course for a basic understanding of data and data visualization. It also was a good introduction to using Python.
+Beneficial course I thank Coursera for providing such a useful approach with an innovative method of evaluation and problem-solving.
+I recommend this course to all the data science enthusiast and request to understand precisely the intricate details of this course.
+Now feeling a bit more confident about statistics. My anxiety in statistics is fading away. Thanks a ton for this amazing course.
+Explained and discussed every concept of statistics and applied python codes in statistics concepts very well.Thank you UofM
+The examples of Python are well-designed and helpful to make me understand the key points of basical statistical techniques.
+It was an excellent course, the explanations were very clear and the examples given really helped to ilustrate the concepts.
+This is a must. If you want to be a data scientist then this course is like a stepping stone. Trust me its totally worth it
+The course is excellent-prepared. I mean about every part of it: videos. assignments, links to a real-world problems, etc.
+This course give you experience working with real data in Python. Statistical concepts are explained from scratch too.
+I increased my skills about statistics and Python. Thank you very much for amazing lacturers video and good materials.
+Got pretty neat intro towards the Statistical approach towards the Data. it will a good prerequisite for data Science
+Great course and the best instructors! Love how they put forth the concepts and examples! Thank You for this course!
+Amazing Course and Instructors. Learned many things about statistics from this course. Instructors were really good.
+Very good course, I'm so happy with all of I learned about visualization and I will continue with the specialization
+Very good course to get started with Visualizing data with Python. Also, a very good starting point on Statistics.
+I enjoyed the course. It was new material and helped me on my path to a Certificate in Data Analysis with Python.
+Easy material to understand, and simple enough to actually apply the concepts in Python.  Good beginner course.
+Excellent course for beginners from any subject related to engineering or science and who want to do research.
+Excellent course.at the end of course I have applied this ideas in my research.thanks to michegean university
+Its a Great course, very well explained. Even if you don't have programming knowledge you can learn and grow.
+This course is GREAT!!! I highly recommend it, lecturers and professors are soooo good.Nice course, loved it.
+Excellently presented as an introduction to statistics with Python. Looking forward to more coursework.
+It's really concise and comprehensive. One of the best courses to get started with data visualization.
+Nice course with multiple challenging opportunities for practicing the learned concepts with code.
+An excellent introductory course. It handles a good way of approaching statistical programming.
+Very nice course and very informative. The topics are well arranged and easily understandable.
+Really enjoyed the different (yet all wonderful) teaching styles of the large instructor team!
+The course is very good as it has basic univariate and multivariate visualization techniques.
+I like this course  a lot. Very good lectures and really good assignments. Helped me a lot.
+This is a fantastic course. The basics of statistics were a real joy to learn with python.
+Very nice intro to stats with python, good tutorial and code examples for stats beginners
+An excellent introductory course that offers great tools in using python for statistics.
+Nice course, makes easier to understand statistic with practice directly using python
+Provides deep and systematic insight to the tits and bits of statistics using python.
+The course gives a strong foundation on sampling theory, distribution and inferences
+It is quite an intensive course and would remain my reference after I complete it.
+This is a very good course to start learning statistical analysis through python.
+Excelent course. Really well explained, in a clear, didactic and entertaining way
+This course is it,  it was beyond my expectations and I'm happy I took the course
+Good Course to take, to get to know basic application of python to do statistics
+It is a great way to start learning statistics and visualizations using python!
+Wonderful introduction to Basic Statistics. Loved the python notebooks as well.
+Very good course which covers both statistical concepts and python application.
+All the content of course is good,but in week-4 it is somewhat clumsy topic.
+It is a very robust course with a lot of details!! Thank you all professors!
+Best with the content and lecturing.Have got more knowledge on many aspects.
+This is a great course! The instructor lectured very easily understandable.
+Very good course. More info about practice, but lack of formuls and theory.
+Excellent course to hit the ground running with data science using Python.
+Excellent course. Gives you basic understanding on visualization in Python
+I loved it, it´s very useful if you want learn python focused in database
+A good introduction to visualizing data using the Python seaborn library
+Very practical and consistent with data we need to work in real events.
+I loved this course! Thank you for sharing all your knowledge with us!
+Great course. Really gives you a different perspective on the subject
+This course is best for someone who wants to gain statistics insight.
+Very good course to kick start career in data science and statistics.
+This course will be the one to recommend to a lot of people like me.
+Great course, but I'd prefer fewer videos and more slides/exercises.
+This class helps me recall the basics of statistics and programming
+Great course to explore univariate and bivariate data with Python.
+Great! Learn some fundamental statistics knowledge with python.
+I love this course, the simplicity and explanation is excellent
+Very Good course for understanding visualisation and sampling.
+Great Course to learn Statistics and Python. Great Teachers.
+It was a great experience with some outstanding content.
+The best course to start with statistics for a beginner.
+This is the best course in this website in entry level
+It was great setup for statistical analysis in python.
+I liked it and I learned a lot. Thank you very much.
+A really good introduction to statistics with python
+Thank you so much for this course. I loved it! :)
+Good course,learnt  a lot about visualizing data
+More statistics than Python but very good course
+This course is exactly what I was looking for!
+Just love learning with great course material
+Great course for introductory level students.
+Very Good basic statistics course with python
+Love the content and structure of the course.
+Very good. Well prepared learning material.
+Extremely informative and student friendly
+very interesting and well deisgned course
+The course was great and very insgihtful
+This course is good for basic knowledge
+very useful for me to start with Python
+Beginner level of plotting and sampling
+The best course Ive ever had so far
+Thanks! excellent course and stuff
+It was an excellent course. Thanks
+A good introduction on Statistics.
+very complete, easy to understand
+Great course and well explained
+Technically sound and precise.
+Very good intro to the topic
+Overall Awesome explanation!
+A good course to begin with
+good introduction to data
+Exceptional teaching.
+good for new beginers
+Great approach.

@@ -1,0 +1,584 @@
+The title of the course is wrong - it should be: how to endlessly configure Jira. Jira looks to me like an epic issue now :-) ... and a waste. Preventing waste is the major item in lean environments. This Jira is from my point of view is an over engineered piece of software, and contradicts the principles of agile (keep it simple). So this course all in all is misleading. I am happy that I didn't spend 45 Dollars to get a certificate - what for? That I was able to configure a software? No way! wtf ...
+Very basic course, most of the stuff you can learn with a quick google search. The videos itself are very low pace and focus mainly on how to use Jira on a very basic level. I had to listen to the videos to 1,5x speed for it to be at a normal listening level.
+DIDNOT GET COMPLETE KNOLWDGE ON JIRA
+Very monotonous, not interesting!
+Probably very interesting when you don't know how to use JIRA... it does not provide so many tips on how it can be used to do better agile than with a paper and a pen, or with another tool (perhaps because JIRA is not so much better than other tools?).
+Well, it is not bad start for being Agile and learn about Scrum  and Kanban methods. I thank a lot all the team who worked on this course. I learned many many new things for me. Despite the lots of information that were new for me the course from my point of view could have been structured a little bit better. Instead of using Slides, it would be much better to record a video. I have an impression that this course provides a cold information regarding the program, but it does not motivates you to continue to learn it. The lecturer speaks dully, with no enthusiasm. The best practice that I recommend would be to do everything along the slides, otherwise you will be lost during the video. I really liked the lab part, as you use hands-on skills. To grade this course I give 2 stars, as there was really given an effort and spent time to create all materials, they are structured ok, not good. And spirit of the course is not there. Still I amv very very thankful for all you have done! I learned quite a lot and fell more or less comfortable with the Jira program now! Thank you! Nikoloz
+Mostly a "How to use Jira" course. Not so much Agile project management.
+The instructor is too fast in explaining the concepts.
+I feel like this was one part Agile Scrum history/overview and two parts JIRA software walkthrough. I would have liked to see the hands on labs be more interactive instead of just a step by step guide. I also would have preferred the lions share of the content to be focused around a deep-dive on Agile rather than the software-specific material. I've been using JIRA for a few years now, so this was pretty much review for me. I still picked up a few useful tidbits here and there, however. The biggest take-aways for me: Search Keywords (AND, OR, NOT), Advanced Searching Functions (for filters) and the "Asking Why? Five Times" convention to help determine root problems in Agile.
+The visuals were helpful in understanding how to use Atlassian Jira, and the instructor knows the program well. However, it was very dry and hard to follow. Without a real-life project, it makes it difficult to imagine how the agile approach will work. The practices were helpful in getting more comfortable using Jira, but again it is not at all the same as doing something more authentic. I really liked the history of lean principles and agile on the whole. That was the most interesting part.
+Good quick start course which gives an decent overview of Atlassian Jira
+Verbal presentation dry. Visual presentation decent. Labs boring.
+The content of the course is a global walkthrough of the huge Jira software, but lacks basics on Agile methodology, and would gain greatly from using software live using instead of just slides.The course is pretty good nonetheless.
+An intro to Agile and an overview of Jira.Great course to better understand and use the Jira product.Exercises are a bit shallow, hello world level, with no background story.
+This is useful tutorial and gives us useful information.
+Great content, boring stiff way of delivering it.
+As an Agile Product Owner who has used JIRA for a number of years, I found the course content clear and concise. It was well-rounded with its content and approach. Although I do think the content on administration rights, creating and modifying group rights, in week 4, was not necessary for this type of beginners level course. Possibly take that out and add additional content on things like creating and modifying dashboards or the concept components in JIRA. But overall, I would recommend it to anyone who is a novice on Agile and JIRA
+A overview introduction to Atlassian Jira and how to configure it for Agile projects. I was looking for more information about best practice for using Jira and Confluence for documenting user stories and epic, which I didn't find here. There were some useful tips, but the quizzes were trivially easy.May be most useful for Project Coordinators/ Administrators. Course presenter responds quickly to questions and comments, but presentation could do with more "live" demonstrations of the product rather than static slides.
+It is a good course but I would recommend to illustrate permissions and roles with more diagrams in order to clearly present what is possible according to the level of hierarchy Application, Jira, projects...We easily get lost during the explanation by switching between the different levels without a global view to refer to.
+I didn't find this course particularly engaging.  You could not see the presenter throughout the course, which made me as the learner feel much more disconnected from the teacher.  That being said, the course material will be useful for my day-to-day work and I can see myself using the course as a reference.
+A little too basic with the Agile methodology and not up to date with current UX in Jira, so that made it a bit confusing. Was happy to learn of some features I didn't know about, and next gen projects are great!
+Too much detail provided for how to navigate Jira. It becomes really boring but may serve a certain audience. The rest of the course was really helpful.
+what could have done better is, explain the concepts and a video presentation on how the concepts are applied, would have made it more engaging.
+First 2 chapters were OK. Course should consider non-SW development as well like ITO, Cloud services.
+This course gave me a good view of how to manage Agile projects on Jira.
+Awesome course for beginners ....
+Please update your course's videos, the Jira version which you show there looks different than the current one, it creates many confusion while doing the tasks. I think there should be a "for engineers" version of this course. I've wasted so much time on reading a big block of text with instruction for a tasks, which could be formulated in max 2 sentences. I've often got completely distracted while doing this course, because the amount of useless text got me so bored. Like... come on... "Clink on a back button to go back to the board page. Verify if you're on board page" ...... you can just simply write "go back to the board page" or better! "go to the board view" . The amount of time I've sweared on these lab task pdfs... *heavy sigh*. Also, for people who are experienced with programming the terminology for some page components is different and very confusing, and I was often left wondering what do you mean by this or that. Also, please consider implementing real life software examples in lab-tasks, not just "add item 1". Until now I'm very confused what is the difference between Epic and Sprint and what part of software project to consider as a Story and what as a Task. Real life examples would make it much clear and enable faster learning.
+This course is mostly a walkthrough of Atlassian Jira software. You are able to learn about Agile and Scrum work methods through an exploration of how JIRA software works. The lectures are quite monotonous and lack energy, but the hands-on assignments of working in JIRA do provide a dynamic that is absent in other courses. I recommend this as a primer for Atlassian JIRA software but not as an introduction to Agile project management.
+Until the end of module 2 its is very interesting, then only talks about sponsor, Atlassian web services=Jira and website management. Also the documentation not fits 100% with real time updates of Jira website services it is from year 2007 copyrigthed.It helps to learn Scrum Jira webpage services and a little approach to scrum master management.
+This is a very boring class. It is basically to learn the features of the software but I was expecting more on how to build projects with it.There are a lot of functionalities and all...it is good but I think the course could be done by building a complete project rather than just clicking on different functionalities.
+Covers the essentials but is not presented in the most interesting possible way unfortunately, and you should be aware that the version of Jira provided differs from the version used for demonstrations quite drastically. However I do feel I learned what I set out to and I would recommend it as a swift introduction
+The course is good, in the sense it gives a good overview of Agile methods and also a good product demo of JIRA. The quality of videos is average and the presentation style is monotonous. Which made doing the course very difficult.The tool itself is reputable and very good.
+The course has some useful info if you're a beginner. However, it is a little boring and dragged out. Not very interactive. So I recommend to up the speed while listening.
+Great information, but the instructor spoke in a slow monotone. Once I sped up the videos, I have a much easier time with the course.
+Abit dry and difficult to follow. Better to have a face and live movements of Jira demonstration.
+A basic course that covers the fundamentals of both Jira and Agile Methodologies.
+it is too much about the Jira software but less of agile management experience
+Expected some more with the Visual Charts such as Burndowns
+It is good but it is not clear practical concept.
+not really interactive and quite sleepy
+Interesting course that feels like a very general tuto to get started with Jira
+Good overview of the tool.  It goes deep enough to give you a good understanding of the potential of the tool.  Presentation slides could be improved.
+A little outdated, but a fantastic tool. Methodology is grate. Very satisfied.
+Really enjoyed learning the course. I'm completely new to all things Agile and Atlassian so it was good to dig a bit deeper and figure out how I might be able to utilise it in my day to day as a non-technical person. Things got quite deep with the permissions and versions etc, but it's good to know the end to end for if and when you utilise Jira in a meaningful way. I loved the stuff around Kanban, Toyota's Production System and Lean / Agile. Personal preference would have been to spend more time here, but the course is Agile WITH Jira so perhaps not viable given how much functionality there in on the Atlassian platform. Thanks Steve - enjoyed learning more on this topic.
+Nice introduction into Jira, very helpful. The voice/intonation of the trainer is a bit dull, robotic, I would prefer a more lively explanation/intonation. I like the introduction into Scrum and Kanban, always a nice catch-up for those who are not familiar with these agile frameworks. The course itself gave me a nice introduction into Jira. Ok, it's what you would expect from such a course, sometimes it's a bit boring to learn which menu item contains which feature. I'm planning to use this tool in our team within a few months. Actually, that was my main reason to apply for this course... ;-)
+I am not giving full amount of starts since because I had the impression that as the course progressed, some issues/functionallities were less and less detailed, on the "it was already mentioned before" principle. This is understandable of course, but you need to remember that quickly acquired knowledge must be refreshed and repeated, otherwise it will not be systematized.However, a pleasant dose of knowledge divided into relevant fragments. Perhaps laboratories could be more practical, extended with screenshots and more cases and possibilities.Anyway, great work !
+NOTE: on the last quiz slide of the video "configuring issues" there is a typo. The first possible answer is missing a word. it reads "the custom field will a required field"  I assumed it ment the custom field will BE a required field. Other wise the course was great!! I loved the self paced format, I would like to take the course again in a few months. I feel like there were concepts mentioned that I didn't follow. But I can now get started!! was there an email address for the professor?? I could have used that a few times. (I used google instead) .
+I´m really liked it. The videos are simple and easy to understand, also the exercises. The way of learning by doing it with Free trial Jira Software is very useful. It´s perfect for staters. Something to improve could be that some topics are not easy to understand like Jira Administrations (adding users, groups...), when this happens you feel a little lonely because you can´t ask right away to advance, instead have to wait the teachers or workmates responses to continue.In the end, it´s perfect for staters, i have learned a lot. Thanks!
+The Course was very well structured and explained. I was expecting a bit more theory explanation  vs. software features but I guess this was the  final aim of the course.Unfortunately the  free version of the Jira software I have used did not seem to have all the features explained in the exercise lab papers but I manage to understand through the videos.The possibility to download the PDF presentations contained in the videos would have been a great and appreciated option - easy to go through for revision than the text downloads.
+I expected to learn how to use Jira in real world situations, but instead I learned the basics about how the software works.  I would recommend this course  to beginners who are trying to learn what Jira is. If you already know a bit about it, do not expect much.We  certainly would have learned more if there were real world  projects in the lab to give us an idea of what is like to work with Jira on a daily basis.Other than that, it will be a big plus in your CV  if you are applying for jobs that ask for "knowledge  on Jira".
+It was generally good, but the problem was it was somehow boring for me ! all the slides was really rough and not fun at all. but the very good point was that it gives you a free account with full access to all features so that you can try it and make sure that you can experience it yourself so that you've totally learned it.and it was a good idea that the last exercise was an overall review of the whole course with some highlighted points to remember.Thank you Coursera !
+Great course overall. Practical and hands-on with just enough background on Agile/Lean/Kanban to put the use of Jira into context. Only reason I did not give this 5 stars is that some of the videos use old versions of the boards that don't keep up with some of the recent changes. Just creates a disconnect when you're trying to reference where certain functionality is based on the videos, but the current layout is different.
+I have worked with Jira before, but did not understand some things, options and settings. I thought it is really complicated system.This course helps to understand project management terminology, Jira ideology and principles, to see Jira as a whole system, understand its structure.Great thanks for authors.Unfortunately, some labs are outdated regarding the latest version of Jira.
+Clear explanations. My favorite aspect was the labs -- the "readings" are "labs" that you do after watching videos to practice what you've just learned. The Instructions are really clear, but test your knowledge/memory just enough that It doesn't tell you exactly how to do It. I found that most aspects took less time than the estimates (sometimes half the time, or less).
+It is a very basic course on how to use Jira but is very helpful. One or two subjects could be difficult to understand when you don't have an engineering/develop profile. For me as (designer), Jira is no so much friendly, but when you start to understand how to use it, is very useful. That is why this course help me so much.
+Helped in improve my knowledge on how the industries work on any project and how the Agile SDLC helped in the process to get the work done. There are many sub-sections which requries practical knowledge than just theoritical. But, its a good start for people who are about to work in industries where these are used.Thank you
+This course was really helpful and provided the overview I was looking for. The narration was slow and often monotone so really hard to listen to, but the instructor clearly knows what he's talking about. The labs were great and the little sub-quizzes were a good reminder to index the information as it was presented.
+The course provided a good overview of Agile methodologies and Jira, and there were plenty of exercises to get familiar with the software.  The course's only drawback was the instructor's uninteresting lectures.  Each lesson was read with no enthusiasm, and the script was dry (but informative).
+Great course, especially at the beginning when it's not all about Jira and focus on the agile methodologies. Too bad their is not much explication on the best practices in regards of fonctionnal specifications, technical specifications, epic stories, stories, tasks, etc...
+Solid Information about Agile and how Jira is used during a project. Could do less on the permissions side since it is beginner course. Make sure you sign up for Jira via the link provided in the first lab. I mistakenly signed up for the 10 day trial initially.
+Great course at the beginning when it went over the origin of Agile and the differences between Kanban/Scrum. I was absolutely ingrained in the course when he was going over that material.After that it mostly turned into "how to use Jira" - it was informative.
+I think some more theory into the use of the different issue types and also versions would have been helpful. I found myself looking outside of the course content to get more an idea on their purpose. Apart from that, a really nice intro into Jira.
+Very good discovery course, especially because it gives access to a Jira space and therefore a practical approach. Maybe we could reduce the part on agility in favor of the study of some addon such as Big Picture or Time sheet Report for example.
+The course besides giving a good overview of Jira provides plenty of opportunity for hands on exercises. The course creates the necessity for the Learner to go online and find out more about Jira on the Jira site and from the Jira community.
+Course does give a good overview of both agile and Jira. Having free access to a Jira cloud account was very useful for getting hands on. Downside, the presenters voice was very monotone and managed to make most of the content very dry.
+It had been a while since I'd used Jira, and I had never had any formal training in using it. This course plugged the gap well allowing me to refamiliarise myself with the core features of Jira as well as informing me on best practice.
+I think this is an excellent guide for people who are new to Agile and Jira a very comprehensive review of Agile concepts before deep diving to Jira made this course highly helpful for me to perform well as Junior Agile Team Lead.
+The course is great for beginners which did not have any experience with Jira. Some parts should be more interesting (JQL, filters..) . I suggest more interactive tasks, such as case studies not simple read-click instructions.
+Excellent course.  My hesitation in a solid 5 stars is in regards to permissions.  This section seemed a little confusing and another lab would have been helpful, but I practiced on my own.  Overall - very helpful course!
+Useful and interesting course. I would like to see practical examples in the labs, implementing a simple 'imaginary' software product. This would give the reader a better understanding of how to utilise Jira in practice.
+I know that this is a course that is focused on Agile specifically with JIRA, but I think it would be a nice pace if the Agile project management lessons were part of all the weeks modules, instead of just the beginning.
+Good breakdown of Jira functionality. Also a good call-out of how to access more information and support. I didn't learn anything new about Agile ways of working, but that may be because I already have experience.  .  .
+Clear and concise, good to follow and gives a good hands-on overview. I am just getting started to really use JIRA for our project administration and I feel much more comfortable now having gone through these basics.
+Good course mainly for who does not know JIRA. Not my case as I have been working with it for some years now. My objective was just to refresh my memory on some things and of course to learn a couple of new ones.
+Good structure of and relevant content of Agile in general and how-to in Jira.+ Clear and understandable English. Also possible to read what is spoken.+ hands-on exercises in Jira.+ Possibility to save handouts
+very good course for begineers and the detailed lab assignments are very helpful to get a good real time experience of jira . thanks to coursera for providing software to work during the cpurse .
+It's really well done, I've promoted it in some agile groups. The last week seem to have too much content restricted to match the single week time, I would suggest to split it in two week course.
+the certificate should include the final score and duration.good course, with fundamentals explained in four weeks. liked the flow, missed maybe one group or practice excercise.
+Pretty good, it would be better if there can be an example generic project that can be executed along with the lectures, like a wedding plan or a construction project etc
+I would like to have an update to the features thar are available to every type of project. In specific I have some problems to add fixVersion field to an Scrum Project.
+Many Screen shot and Video Material is not synced with current Altassian setup .Please sync the content with latest practice site.Overall I enjoined learning .Thank you
+It was really amazing to get all these topics in just one course. Know a lot about Lean and Agile was very interesting. Also, discussing Kanban and Scrum frameworks.
+Great course to have not only a good understanding of Jira functionalities but also a great introduction to basic Agile principles like Scrum, Kanban or Lean.
+Very good training. It has a lot of examples/labs to practice using the Jira tool which i really like and will start using for day-to-day job and projects.
+Took it more for the Agile overview as I am already familiar with Jira.  But I can see it as a good way to get up and running with not Jira experience.
+Detailed hands on experience of the Jira Platform while a great introduction overview to Agile and Lean Methodology. Great for hands on learners!
+Very easy to follow.  Was able to immediately apply to my day to day work.  Would have been good if there was more content on the Server product.
+Very practical and useful course. I wish there were some content on Dashboards, but other than that, the course was a great introduction to Jira
+Very interesting course, however for me it would be better if Scrum and Kanban topics are covered woth more extent in relation with Jira.
+Good topics that are presented and the exercises are helpful.The narration and presentation of the videos can be more engaging though.
+It was a really informative course. One of my favorite part was the introduccion to Kanban and Scrum , as well as the Assigments.
+Awesome course for those who started working with Jira. Enjoyed lectures as well as assignments.Thank you for such a good content
+Great course. Covered all the basics of Jira. Pretty sure I will be able to work with it confortably (in a basic way) now :)
+It is a good course, Week 3 is a challenge because JQL, search, functions, and issues related to Scrum-Kanban are touched.
+Good overview of Agile with Jira with some helpful tips. Labs and quizzes keep you engaged but quiz questions seem forced.
+I really enjoyed this course. It opened up new dimensions in Jira for me. Without this training, Jira would be an enigma.
+A very comprehensive introduction to Jira. Not the best teaching style that I've seen, but an excellent overview.
+It provided a good medium level detail about most of the features of JIRA, in the context of scrum and kanban.
+Great course!The example screens are a bit outdated relative to the actual Jira version, but I'm satisfied.
+My VERY FIRST COURSE ON ONLINE OF ANY KIND AFTER A LONG TIME . VERY NICELY EXECUTED AND CLEARLY EXPLAINED .
+There are some functions on Jira that did not work as per the lab details.   This caused me some confusion.
+Great Knowledge and concepts are build for Agile and practicing  in the right way will help in delivering.
+This is one of the best course for a newbie to start with agile process along JIRA. i highly recommend
+thank you so much for this coursei'm from iran and iranian people loved to uses jiraplease help us
+This course is especially helpful if you can compare it to your work with Jira in real work life.
+The information of scrum is a little bit, it would be better to add more information about scrum.
+Course materials are really straight forward and the flow of information are quite convinient
+Well structured and insightful course. I really enjoyed my studying in the past 4 weeks.
+An Interesting course  with detailed walk through on Agile and in depth usage of JIRA.
+Good intro to Jira and its main concepts/features when it comes to Kanban (and Scrum)
+recommended for anyone that has not used jira and wants to learn the basics of agile
+A good overview of using and configuring JIRA for a variety of Agile methodologies.
+Complicated topic but very interesting to have a nice overview of Jira's functions
+tasks could be more exciting, but all in all a good intro to JIRA in agile context
+Great course to have a overall idea of Agile concepts and first steps with Jira.
+I wish to learn more about Agile principles instead of exploring Jira functions.
+It was interesting. I think some part no need for them such as searching stuff
+I thought the course wasn't too easy which makes achieving a pass satisfying.
+It is a useful course to understand fundamentals of Agile Project management
+Good course. Could be more in-depth about other related altlassian softwares
+Good introductory course on learning Jira as well as the Agile philosophy.
+Very good course and recommened for all people who want to work on jira.
+It was very nice for those who doesn't know anything about Jira advance.
+Really practical. Hoping for an advanced Atlassian courses on Coursera.
+I would like to hear more about different plugins and best practices.
+Excellent training, learned a lot on Jira and a quick recap on Agile.
+Very nice and beautifully structured course, self understandable..!!
+Week 3 and 4 are very informative, however, a little bit boring.
+Course is good to obtain a basic hands on understanding of Jira.
+It's a good introduction, but is terribly boring to go through.
+Good basic course that reviews Lean & Agile principles to boot!
+VG, started with setup  and included all basics needed. Thanks
+I learned too many things about Jira with this course. Thanks.
+Nice to know more then the stuff i do at work as a developer.
+Good course to learn to manage and administer JIRA software.
+Great Course, but got challenging for me in week 3 and 4.
+Great overview of how to use the core features of Jira.
+Good overview of Agile and Hands-on exercises on JIRA!
+Interactive lab learning exercises help aid learning
+It would be nice to update it and add more content.
+Hands on course applied to real Agile environment
+Well explained and good pedagogical approach
+Explained very clearly and labs are usefull
+nice course. interesting and to the point
+Comprehensive and a good starting point.
+Awesome course and a great beginning.
+Nice way to understand JIRA concepts
+There isn`t module about scheduler.
+Validations of Tasks should be made
+Very helpful and good content.
+Very good for new Jira users
+I good course to look on it
+Please try its great
+Great training!!!
+I found this course very comprehensive. Beginners can learn foundation knowledge and concepts of Agile along-with Jira . Above all labs are well-designed and give learners hand-on experience of Jira
+This is a very helpful course about learning how to use Jira and also covers  some basics of Agile project management and Scrum in one package. And better yet, the instructor is from Atlassian.
+Great course! the hands on laboratories were very helpful and practical in the understanding on how Jira works and it's use, the explanations of the topics on the videos were very clear and straight forward, thank you Coursera and Atlassian for this amazing course!
+Nice course. ItNice course. It is well presented and easy to follow. The  videos and labs are at the right level for the audience. Instructor does a nice job of responding to questions timely.
+Steve's voice takes some getting used to, because he's just like me, and happens to speak on video with very little intoning. BUT he articulates perfectly, emphasizes terms when needed, reiterates just enough and at the right time to reinforce your learning without being repetitive, and the whole course is very well structured. This is my third online course but this has certainly been the best so far. Well done mate, already enrolled in the Atlassian Git course, mostly because of my experience with this one. Hope to see more of your courses in the future!
+this was an excellent course in terms of the technical aspects of Jira software, being an entry level product owner i have learned different methods and techniques for handling complex software development processes.
+I really enjoyed this course.  It was thorough and served as a great introduction to the ins and outs of Jira, as well as Atlassian.  The hands-on labs were exactly what I needed to sure up my confidence.  Thank you.
+The Course is good and well structured. It has really strengthened my understanding about the use of Jira, I will recommend this course to anyone who is interested in knowing more about Agile and Jira
+Really good course, very pratical and useful. I had already worked with Jira as a project manager but I still learn a lot  with this course . Strongly recommend especially for new project managers
+One of the best, well organised and convenient coursed that I have participated in! Definitely worth the effort!
+The course was very practical and centered. I got the skills and knoledge that I was expecting to find
+Content was easy to understand and broken down in the right amount of modules.
+Very Useful tool when building a project and something else.
+Course was very comprehensive to learn Agile and JIRA. Instructor was clear and able to explain all the aspects of the topic. But I would highly appreciate if the Week 4 module is up to date with the current version of JIRA. I understand that a word of precaution was set initially when we start the course. But it is very difficult to follow WEEK 4 since it is bit out dated. Otherwise Instructor did a good job in creating this course as there were more lab session to get hands on the JIRA application and understanding the Agile framework along with it.
+Great course, thank you! The instructor puts out the material clearly and simply. The tasks and quizzes are very thoughtful and makes you digest the information even better. The course explains how to work with classic agile projects. However, even if you are going to work with next-gen projects only, some parts of the course like agile approach and kanban may be useful for you too. It would be great to have a course about the best ways to use other Atlassian apps, like Confluence, for example.
+A very well organised and well delivered course from Steve Byrnes. Content is excellent! The exercises contain clear step-by-step instruction that is easy to follow. I am going to Upgrade for the Certificate because of the value for money I got and to also to support the content provider and Coursera for the quality education.Steve, well done and thank you for your generous sharing of knowledge. Can you please create a similar course for Confluence (if possible)?
+This has been an awesome course and Steve Byrnes was very responsive to questions and issues in the discussion forum. I started out with very little tool knowledge and even less confidence in my ability to learn Jira on my own. This class has really helped me improve my ability to confidently use to do various things. With that said, I'm so excited that I was able to complete the final project without ever looking at m notes. Success!! Thanks, Steve.
+This is a very nice and useful introduction to the Agile methodology with a great tool such as Atlassian Jira. I have never used before but now I'm using for work and I'm quite happy to have a way to track my work planning. About the course, it's well designed, the videos and hands-on sections are well connected and give you the feeling that you're learning applicable stuff. I now understand why this methodology is so used currently.
+Excellent course with relevant materials for configuring Jira boards. I find myself referring back to these materials, and the readings are very helpful in making sure that I understand the lectures & can eventually create my own project boards. I particularly enjoyed the lectures on Agile Methods as they provide an excellent overview of various project management techniques with a sufficient amount of repetitive content.
+The course prepared me well for what was asked in the final, and the final covered all the basic usage of Atlassian Jira, including some more advanced functions I might not have ended up using if I hadn't taken the course but which make Jira more useful (such as JQL and filter saving.) I also completed the course feeling empowered to search out further advanced features as needed. A great crash course.
+Since I'm a beginner in Agile, I got the opportunity to get used to this tool in an effective method. The practical labs helped me to explore more and more practically, thus giving me a good hands-on experience of the tool. All the basic functions of the software were covered in this course, which I feel is quite important for a first time user. Thanks, Coursera!
+One of the high standard and fatastic courses - recent addition to labs is a great way to learn and improve skills, absolutelly fantastic! The course is designed so smart and exactly how is needed in order to get knowledge and skills. I'd prefer to see a course designed for intermediate and advanced level as well, it will help a lot. Thanks to creators.
+This was great course to learn Agile with Jira. This course has covered everything starting from basics to advance. Every feature is well described and explained. Questions asked during the video learning help us to be focused and don't loss during learning. Assessments after every module help us being motivated to learn upcoming modules.
+Very well designed and explained. Steve was also great in the forums and helped me in creating swim lanes for Epics. he has a nice way of explaining which makes things so simple although they are not.Module labs were well designed and helped me understand the concepts the I might have missed out during the presentation slides.THANK YOU!!
+A very brief but thorough course about how to use Jira. It was exactly what I wanted. The configuring issues part in Week 3 was confusing for a hot minute but other than that, I understood everything easily. I did also have a problem with adding a new user in week 4 but it may just be some error on my end that I could not figure out.
+The course is paced out well, has strong fundamental overview, good amount of hands on labs, and although every single feature is not taught, the course instills a good working knowledge of the solution and piques ones interest to learn more. The instructor was precise and clear. Thank you CourseEra.
+The course is created very well. It gives you a sense of constant progress. It has crisp discussion and explanation and rather then getting into every detail of the software, deals with important concepts. This is a good course for anyone wanting to learn Jira or refresh the concepts of Agile.
+I enjoyed this course! It will give you a good idea of how Jira, Kanban and Scrum works. Finished it in less than 2 weeks! Props to Steve Bryne for making it a course that is easy to follow, would recommend it to those that want a proper introduction to Agile methods such as Kanban and Scrum
+Great course given by Steve Byrnes, the course cover the essentials of Agile methods and the administrative aspects of a Jira site. Good explanation method and good labs. to practice the concepts discussed in each section by Steve. I also liked the the course: Version control with Git.
+This courser is really good, it allows you to practice using the tool, access to JIRA makes the training easier, dynamic, interactive. The tool configuration, the topic about security, the kanban topic, the exercises were so well combined and explained. I totally recommend this course
+I really enjoyed the hands-on assignments of this course. I have immediately took actions in my job role and applied the practical knowledge gained during this course. I can recommend this course to everyone who is using JIRA both professionaly or privately.Thank you Steve!
+That is a great course covers Agile methodology, Kanban & Scrum frameworks and more relevant & useful information about working with Jira Software. It helped me to do my work perfectly. I recommend to complete this course who plans to work in an Agile/Scrum team.Thanks!
+It is a very well detailed course for the people who want to understand Agile methodology with the detailed knowledge of Scrum and Kanban.The Lab contents are well documented and detailed with all the navigation.Overall it is a great course to start for Jira Beginners.
+This course is suitable for all those who are beginner to learn agile and Jira. This has a good step by step exercise to practically understand and develop Jira software cloud with kanban and scrum frameworks. Thankyou Atlassian and coursera to provide this course.
+If you are willing to get a general idea of how to prepare and run the Kanban Board and Scrum Board, this course is for you. And also there are lots of great information such as Toyota, and Jira board settings.I loved every single minute of the course. Thank you!
+It gives you a very good basic knowledge about JIRA. I am at beginner level but everything was clear and useful for me. It was so good that they have the sections about Kanban and Scrum thinking so you get a basic understanding about the what is behind this tool.
+Excellent run-through of using Jira for agile projects, as well as hands-on access to a live Jira account to experience it firsthand. The course is self-paced, yet encourages you to follow the pace of the course over four weeks. I'm very glad I took this course!
+Great introduction to agile and software development concepts. I learned about a lot of different features of JIRA that I hadn't been using in my projects at work, such as epics and swimlanes. Glad I took this course and had the opportunity to refine my skills.
+Very good instructions overall about jira and agile. Only concern was towards week 4 where you jump around jira a lot and can get confused at what settings you changed and how they impact a certain project. But with more practice, im sure ill be very competent
+Great structure, clean and simple explanations. You get a very solid understanding of Agile and Scrum. You will learn almost everything you there is about Jira, now you just need hand-on real life experience to master it. Great course can highly recommend it.
+A great way of learning the product and also the right time Q&A page of evaluation of the learning, which acts as a review and also important points to remember. It is apt and not too less nor more. Very nicely designed curriculum.  Thanks for such programs.
+A great course to understand Agile and a very helpful step-by-step instruction to learn about the software and its applications. I'm a confident user now, especially thanks to the lab-practices which include notes I can always tap into for reminders!
+This course gives in depth understanding on Agile & Jira. Modules covering Jira are very easy to understand and the practice assignments clearly explained. Having trail version of Cloud Jira helps to understand each and every functionality of Jira
+After finishing this course, I can confidently navigate the Jira Universe and value the power of a Kanban Board and the ability that it affords you to manage almost anything you can think of.Thank you, Steven, for making it so easy to learn Jira.
+This is my 1st learning on Coursera, Learning experience was really Good.course was well designed. i couldn't do all the hands on activity as mention in the course but all the the documents were really self explanatory and  easily understandable.
+This is a very thorough introduction to Jira. The readings help to reinforce the information provided in the videos. From this point forward, while some reference to the on-line material will probably be needed, it's time to use the application.
+We have been using JIRA in our projects but I haven't really learned how to use them properly. This course is a crash course for me and I was able to understand how JIRA works and how important it is on managing different projects and releases.
+The course is as advertised. All the topics under the Agile method and Jira are covered. Provided you might have to go back and look at your notes when you are actually handling a Jira project but this gives an awesome platform to learn from.
+The videos are very professional and dives deeply into the entire Jira fundamentals. I'd recommend anyone learning Jira for their professional/company get deep info from this course. Thank you Atlassian for this amazing learning experience!
+The Class is an absolute must for someone who is new to agile and JIRA as a working tool. Even if you are experienced, it is always helpful to get a refresher. The instructor is Knowledgeable and delivers the lessons crisply and succinctly.
+The labs are extremely helpful in getting acquainted with the course work and the different board styles.The videos can be improved by using better signalling/arrowing to point out to what the locutor is highlighting in his presentation.
+I am a person who has started a career in the field where Jira and Agile techniques are used on the dialy basis. I did not have any experience with Agile and Atlassian before and this course helped me a lot, especially while using Jira.
+As a beginner to this powerful Project Management tool. I have found this course very useful, Versatile and Easy to understand. Will recommend anyone trying to venture in this subject and add a powerful tool to there skill set.
+Different than some of the other offerings, slide deck presentations with a hands-on lab. Work at your own pace, for the most part. Straight forward information on setting up and using Jira for power users and beginning admins.
+Course is very helpful for whoever did not ever work on JIRA, and very helpful for whoever working with tips and tricks.Refreshment of Agile - Scrum topics and naming conventional and so. very organized and easy to follow.
+It is a nice combination of theory and practice. Also, I liked that there are questions during the videos as well. The explanation for each practice is easy to follow and it helps to get familiarized quite fast with Jira.
+.This course was good, covering almost all topics from jira software. One can be able to create and modify basic projects using this jira software. Module tests are having good content for testing student's understanding.
+It was a very good course regarding agile with atlassian Jira Where anyone can get to know about all the concepts regarding scrum,scrum team, all the meetings, its procedure, benefits  and issues that we may face etc.
+The course is well designed and goes into deep explanation on what can be done in JIRA while working in agile mode. I strongly recommed this course to other users who have just started to explore Conluence and JIRA
+One of best course on JIRA that ensures detailed level of courage and enable anyone to become a JIRA CONSULTANT. Now, am confident to navigate and play around JIRA if provided JIRA / Project admin profile.
+I have learned a lot of new things about Jira functionality. I also would like to admit that the course covers not only Jira itself, but there is also a lot of useful information about Agile in general.
+The course is very detailed with easy to follow worksheets and lab instructions. It's well presented and structured. I enjoyed studying the course and looking forward to apply the skills in my role.
+Great course explaining the tool and its features in a structured and easy-to-understand manner. Furthermore, helps to understand agile concepts by handling some real-world cases through the tool.
+Dear Steve/Atlassian,Agile course was really good and helped me many ways as most of the industries are opting for Agile.Course is well structured with very good materials.Thank you.Regards,Bala.
+This course has given me the in-depths and insights of managing and running Agile driven projects. Even though there is plenty more to explore and learn this is by far the best to get started
+Good overview of JIRA basics as well as an introduction to Kanban and SCRUM methods. At the end of the course I knew how to work as developer and manage project as an administrator in Jira.
+Course is in detail and it covers every feature of JIRA. With examples, screenshots & Lab exercise, I am sure anyone who attends this course will have enough knowledge to handle basic JIRA
+This course has been an exceptional help for me to get the basic and advance learning of JIRA. It has added so much value to my skill set. Thankyou Coursera and Instructor for helping me.
+This marvelous course not only gave me a clear idea of various Agile methodologies, but also gave a thorough, in-depth explanation of one of the most popular Agile tools in the industry.
+Great course with lot of hands-on material,  learnt some amazing concepts and gained useful insights on the Agile framework. Cleared a lot of doubts and most importantly, learned a lot.
+Very good stroyline. I liked the Flow of the learning. Sometimes I have had a newer screen than in the training, but made me think ;-) If you work with Jira, the training to do. Thanks
+Nice course on understanding of Agile methodology with SCRUM and Kanban frame work and their integration with JIRA tool. Keep adding those kind of useful courses. Thanks Coursera team.
+An excelente course! It explained everything from basics about Agile to managing your own Jira instance. I recommend to everyone that wants to learn about Agile and how to use Jira.
+Course was good overview of Jira, though I would have also wanted to see some use case examples for different approaches how Jira can be used to better understand the possibilities
+Very knowledgeable course. Simple to understand. Trainer is very good and really trained us well by explaining through videos and then hands on experience. I must recommend to all.
+Agile SDLC has been explained very well with appropriate level on information on various topics. It cleared a lot of doubts I had regarding Agile methodology and its implementation
+Thorough class on extremely useful software. I was using another program for managing projects, but after this class I will switch over to Jira. The class was well worth the time.
+This course is a good introduction to the use of JIRA, Agile Scrum, and Agile Kanban. If your current work or job uses JIRA and Agile methodologies, this course will be suitable.
+Good pacing of the videos, allowing the student to absorb the new concepts. Readings/Lab in the actual Jira site after the video is an effective way to practice concepts learned.
+This class was straight forward and was a great introductory to JIRA. The hands-on exercises proved to be very helpful and easy to follow. I would highly recommend this course.
+Very easy to follow and the hands-on learning, that is made possible with the help of an Atlassian personal account, makes for a very rewarding experience. Highly recommended.
+Very clearly and well taught. I especially liked the hands-on labs for each sub-section. Extremely useful to know how to work on Jira (both on classic and next-gen projects)!
+excellent course, practical, clear exposure, examples updated to the latest version of Jira. I also liked very much the detailed and accurate look of the concepts on kanban.
+This course is really helpful for understanding the Agile Process. This course clarify each concept with transparency. In future, I will recommend it to other aspirants too.
+It gave me very good introduction and also little bit of hands on. Which helped me understand the Jira software and the way Kanban and Scrum works and their presentation.
+Awesome course! You will get a good basic understanding of not only agile and its frameworks but also through practical labs you will get a chance to dive deep in agile.
+Very intuitive and detailed. Helped me learn about both the basics and advanced nitty gritties of administering Jira as well as gain more insight on agile methodologies.
+It was challenging.  I liked that you completed hands on work after the lecture portion.  And the quizzes reviewed all the material within that module.  I learned a lot!
+Excellent course, really great the overall introduction about Agile (Kanban, Lean, Scrum, etc) and how to work with this frameworks on Jira. I enjoyed and learned a lot.
+Great Videos, great explanation, sometimes it was hard to understand what the sentences meant, maybe because I am new to IT project management. Thank you for your work!
+I did the first three week courses in one weekend, and the next week I was able to successfully use Jira at work to create a profile board to manage multiple projects.
+Atlassian Jira helps me to have a better understanding of the Agile Methodology. and gives valuable insights regarding the usage of the Jira software and its benefits
+Excellent course material to learn about Atlassian Jira product for both setting up projects as well as do the necessary administrations for Jira and Project levels.
+Excellent course! The contents are very useful and are well explained.The only thing I would change is the voice tone of the narrator, which is a little bit boring.
+The course gives prefect understanding of agile processes and gives all knowledges of Jira Software needed for applying to your projects. Thank you for the course!
+It's an excellent course for beginners with no knowledge of Jira. By the end of the course, I am feeling comfortable using Jira and its different functionalities.
+This was the best course for the beginner Atlassian Jira Software user. I learned all the basics. Now I feel like I am ready to use Jira software in real life.
+This is very helpful, informative and easy to learn about Agile. It also made us apply it in a real-life situation with the free access to Jira platform. :)
+easy to follow, videos were broken up into short enough sections to keep concentration but still had enough detail to fully understand. Labs really helpful
+This course provides very good intro in Agile methodology and Jira application. Now I have a good starting knowledge to begin using Jira in real projects.
+Thank yo Atlassian for such an interesting course the main highlight that I loved is hands-on the read notes were clear and perfect once again thank you.
+Course was surprisingly comprehensive given the initial skill level required being low. I have managed to apply the skills i have learned immediately.
+Very comprehensive as also covers handsOn - in very short time I have got good insights into tool and I can now work on projects with more confidence.
+I really enjoyed this course, a good combination of intro to agile PM and getting experience utilizing Jira. The hands on modules were very helpful.
+I am very satisfied with the course. Content, presentation, and learning interactivity are excellent. I will recommend this course to my colleagues.
+Excelent, tutor is very smart and the resources provided is very clear and understandable . In terms general was very interesting , thanks for all.
+Gives a great base and/or reminder of the principles of Agile and Lean philosophies and how to apply them using Atlassian's Jira. Neat little tool.
+Great course for beginners or people wanting a refresher of Jira capabilities. The Labs (exercises) are helpfull in applying the concepts learned.
+Excellent course material. Organized well, Covered most of the required knowledge for JIRA. Nice Questions and final evaluation is also good one.
+Extremely interactive and User Friendly Course for PMO and General Professional who would like to get on board with JIRA functionality and usage.
+I enjoyed the lectures and really learned a lot. The course is very practical and the tool is amazing for project managment even in daily life.
+Very good course in order to understand the software and it's power in the Agile word.It was really interesting as well the knowledge he shared
+Nice starting point to Jira. Basics covered and allowes inmediate use in your projects.I have used it as a refresher and I am fairly satisfied.
+A good overview of agile process using jira. Explains concepts clearly and you can use the jira features to track agile releases. Good course.
+Good course contents and easy to understand even for the beginners also.I liked the labs most which covers most of the instruction in details.
+Very simple and good way of getting knowledge on the subject. Really helped me in clearing all the doubts regarding the Agile frame work topic
+Perfect course who wants to work in Agile team. They had covered all the sections which a person needs to understand while working with Jira
+The course was great. I've never used Jira before. The videos were easy to follow and easy to understand. The hands on labs were very good.
+This course is a great tool to learn Jira and the different possibilities to manage an Agil project, and Thanks for your time in the forum.
+A very thorough course for JIRA beginners. I have much understanding of the tool and have confidence to start using it to manage projects.
+I gained a very useful information about easiest and productive way to manage a project. I will definitely use Jira for my next projects.
+Very well explained and almost included everything. The best course to start Jira and can immediately start working on Jira after this.
+Top Class course with excellent lab-work and sequenced very neatly. An overview or introduction of Confluence would have been very nice
+This course are well explained. The video, text, assessment, etc is very useful for beginner or who is already an expert. Great course!
+This course provides a comprehensive overview of Jira. Highly recommended to obtain a practical interpretation of the agile project.
+Great course, which gave me a brief and detailed introduction to Jira. I liked the part about the introduction in agile principles.
+Very helpful in understanding the basics of Jira before joining a company which uses Jira. Helped me witht he interviews as well.
+It is very practical and the course content is well structured with the Quiz that help me a lot to remember the necessary things.
+Excellent introduction and training. The exercises and assessment helps a lot on general understanding and application of Jira.
+This course is just what I was looking for! it is exhaustive and covers everything that a beginner should know about Jira usage
+Amazing course with an in dept knowledge for a very good price.The lab courses really helps you get familiar with the software.
+This course is valuable for all of those who want to start with the Jira software. It is a great course with valuable details.
+This course helped me in honing my existing skills in Project Management. Awesome course. Well structured with hands-on lab.
+Helpful overview of key functions within Jira and how they map to Agile methodologies.  Labs allowed for hands on practice.
+Best intro course for everyone who is starting with JIRA. However, experienced users can also find some useful tips in it.
+This is an amazing course , which combines the main principles of SCRUM Team projected over the Jira Software .Thank you!
+Very nice overview and use of JIRA. Agile. Scrum, KANBAN methodologies with JIRA. Very good tools for project management.
+Excellent Course for anyone who are just a beginner or intermediate for agile and Jira learnings.Thanks to Steve Byrnes.
+Nice! Courses.Learned a lot of things about Agile and the Jira .Best quick and easy way to learn Jira from this course
+A pretty good course actually. At least now I know how to properly use Jira with all the functionalities efficiently.
+It is a excellent short course, only have a suggest, in the labs you could paste screens step by step of the exercise
+Logical and well designed. Trial access to Jira along with hands on exercises were really helpful in aiding learning.
+This course provides good coverage of the main elements of Agile and an excellent technical base for the use of Jira.
+Very exhaustive course material along with a very effective hands on guide covering the most used operations on JIRA
+I learned and explored JIRA to great extent. It will add value for my ongoing JIRA project tracking and improvement.
+Great course.  The videos were a little dry but the lab work was a great way to really learn how to operate in Jira.
+That was an amazing course, easy to do, and also easy to study. Short videos not too long, it helped a lot. Thanks!
+I highly recommend this course for any one wants to use Altassian as an agile development tool (easy, clear course)
+Excellent course with hands-on modules. Though a bit fast paced at times, features have been explained very nicely.
+This was a great course to Jira software. I would like to see a confluence module in this course.  Awesome course!
+Course is great for introducing and learning JIRA tool and how the tool can be applied to managing Agile Projects
+The course is well structured and detail. I really enjoyed studying the course and it enhanced my skill in Jira.
+This course is an amazing course that should be learned by anybody willing to improve knowledge in Jira software
+Course contents are really precise and easy to understand. Also lecturer has explained the details very nicely.
+It was really a knowledgeable course and definitely helps to understand the JIRA and agile process. thank you!
+A very good introduction to the process. you can easily use this software in your project by given guidelines.
+Great course which covers a basic understanding of Scrum and Kanban technologies, and how to use it with Jira.
+Great course on Agile with Jira. Recommended for anyone wanting to learn more about how to do agile with Jira.
+Is an excellent course that covers the essentials to manage projects with Jira, I highly recommend to take it
+Great course, very well outlines and gives very detailed information relating to getting started with JIRA.
+It sometimes went a bit too technical; I would have like to hear more about the why. Great learning thanks!
+Great coruse I learnt a lot and is quite useful in my day to day  job. Congratulations for such a good job
+too good for any level Agile Managers to learn Jira. I loved it the way the course is designed and taught.
+This is very well planned and explained by Mr. Byren. I would suggest to include videos instead of slides.
+Highly valuable course with deeply interesting and appropriate content for JIRA users with Agile mindset.
+Provide an example of Scrum also, a method to use Scrum. Include the full topic of all activity of scrum.
+Steve provides good information, easy to follow with great exercises to improve understanding. Thank you!
+I liked the course since it gave me a great insight into Jira.It is wells structured and easy to follow.
+Very good introduction to features of Agile, Kanban boards and Jira. I understand them so much more now!
+It would be great to have a follow up course for more advanced topics, such as creating dashboards, etc.
+Although I thought it will be more about agile than JIRA I find skills from this course really helpful.
+Awesome course. very practical and easy to understand videos ! highly recommended course to all agilest
+Very useful course to learn the basics of Agile and start using Jira. It's a highly recommended course!
+Very clear exposition, nice chapters about the "theory" of agile/lean/kanban strategies. useful tests.
+A good summary of JIRA functions, with useful material and guidance for practice using the JIRA tool.
+Excellent Content and Brilliant presentation with Labs that provides an in-depth hands on experience.
+Even thought the videos are recorded with the teacher reading a script/text, the course is very good!
+Beautifully designed course to get a more understanding of Agile Scrum, Kanban, Lean and JIRA tools.
+Congratulations a very good course, very complete both, the theory and the labs, excellent material.
+excellent course with very intuitive explanation designed to give you a very good overview of JIRA.
+It's a great course. Very informative and concise. But the narration style is a little bit boring.
+Well done.  Able to follow everything even without previous experience with this type of software.
+The study materials are helpful and well structured for understanding in achieving a great result!
+Amazing course with excellent  demonstration and lectures! Easy to follow the pace! :D Great work!
+Great course!! Starts with explaining lean/agile/kanban/scrum using Jira, and then dives in Jira.
+Good course for both beginner and user (who wants to refresh one's memory or learn something new)
+This is a Wonderful Course which really helps to learn end to end Project configuration in Jira.
+Extremely well done, good pace, explanations of Agile and JIRA very relevant to my current role
+Documentation and videos are good enough to learn; Jira software and agile management. thanks.
+The best explanation with so many details I've ever seen before for these topics. Thanks a lot
+This course was one of the best Agile and Atlassian Jira courses I've ever made :) Great job!
+Extremely informative and great instruction in terms of the activities paired with the videos
+Fantastic course for basic users and it's must have for 2018 - 2019 versions of JIRA Software
+This is a really good intro to Agile / Jira to get you started down a program management path
+Excelent to understand the full scope and possibilities of the Jira sofware. Fully recomend.
+Pretty solid content and great way to learn about Agile, by experiencing through a software.
+Very good introductory course in Jira. Technical but practical in terms of content delivery.
+The course is well elaborated and each topic is explained well. Very good for the starters.
+A well-structured course with all the basics about Agile & Jira you need. Money well spent.
+Couldn't get a certificate because I couldn't purchase the course :( But did it anyways (Y)
+Informative and with goods short hands  which gives insights of Jira and Agile concepts...
+Good introduction to Jira, covers what a PM or Scrum would use working with an Agile team
+Fantastic course with a practical approach to learning JIRA - cannot recommend it enough
+I really liked the hands on instructions, the learnings from them are my key take aways.
+This is a good refresher for someone like me who has not used JIRA for quite a while.
+very practical, learned the core Agile principle as well as the Jira as the same time
+It's been a very useful course to take, specially if you will use JIRA quite oftenly.
+Super good course. Excellent video lectures and awesome hands-on exercise. Thank you!
+Great course for a beginner about agile methods and a pratical tutorial of using JIRA
+Really good instructional videos and detailed, supportive, educational lab exercises
+Simple to understand and follow. Assessment questions were relevant and challenging.
+Thanks for the excellent opportunity. Happy learning is possible only in Coursera :)
+Great practical and theoretical course if your new to agile methodologies and Jira.
+Very detailed courses and helpful to use the Jira tools with the Agile methodology.
+Great course! It provided me a great overview about agile related to the Jira tool.
+It's pretty good..Finally, it lands you at a very high-level understanding of Jira
+Excellent course to take into account the funcionement of JIRA for Agile projects!
+Very good course.  Excellent practice examples provided, to accompany the tuition.
+Very good course and has very good information about agile, scrum, Kanban and Jira
+very good coverage.Labs help to reinforce the concepts taught, Very useful course
+Very good course for the person who is going to use JIRA tool for the first time.
+This would be very helpful for me very soon!  The training is easy to understand.
+It was more clear and transparent , than many of instruction for JIRA in internet
+Excellent step  by step course. The labs are very useful for hands on experience.
+Clear and comprehensive course, including theory on Agile principles and values.
+This is an excellent course to learn JIRA and Agile concepts. Thank you Steve :)
+Very interesting course, great structure, condensed, and straight to the point.
+Excellent material and very functional for managing my Agile projects with Jira
+So far it's easy to follow, I'm hoping for more substance in the lessons ahead.
+Very good videos and labs. Jira is a powerful and relatively easy to use tool.
+Great explanation of main features and options in  context of agile projects!
+Course about a good software to manage agile teams, with a Atlassian teacher.
+The course gives detailed insights on various stages of product development.
+A good and detailed understanding of Jira and how to use it in Agile project
+this course has given me the confidence to set up and manage the JIRA board.
+Really helpful and technical course regarding the Jira software. Nice work!
+Precise and elaborated briefly to cover all areas of Jira.Good work.Thanks.
+Excellent course. Cover all the important information about how to use Jira
+A well framed Course for the Introduction to Agile methodology using JIRA.
+For beginners, an incredible discussion of the topic. Briefly and clearly!
+Very help full and well delivered course for basic intro to Jira and Agile
+Great course to learn Jira. Also covered Agile methods overview very well.
+Excellent course covering all the important aspects of Jira for Agile proj
+It was seamless and easy to grasp. A great learning experience. Thank You
+Very useful for people of any experienced group in the software industry.
+It will be helpful if you can provide also  a video solution for the lab.
+very easy to understand - good lecturer, good practice exercises in Jira
+This course was really good. I'm now more comfortable with JIRA. Thanks.
+Thanks for simplifying the tool with such great videos and lab sessions.
+Nice and useful training course.Got to learn much about Jira and Agile.
+A great course really needed it to feel confident during my internship!
+Ideal for people who wants to learn or refresh learning of jira cloud.
+It was a good course for deep fundamental knowledge of agile with Jira
+This course teaches the basics of using and managing projects in Jira.
+Excellent course. Will surely teach a newcomer what JIRA is all about.
+Despite I am the user of Jira, it was very useful to learn some tips.
+A nice introductory course, covering almost all Jira functionalities.
+Easy to follow and understand for someone who is a beginner for Jira.
+Really formative. Very well structured, with effective hands on labs.
+Excellent!!! The videos are really good and the practice very useful.
+Thanks a lot for entire course, it will definitely help in my career
+It is a well structured course and it enhanced my knowledge.  Thanks
+It took me longer than expected, but enjoyed the contents, thank you
+Great JIRA overview. Basic needs for someone to get started on JIRA.
+Great course, good level of detail, Jira made accessible, thank you
+Thank you so much Steve, you made my "Year".Wish you all the best !
+Good course to have knowledge and practical hands-on with the tool.
+I think is very good enough for my introduction with agile and jira
+Very good course contain for Atlassian Agile With Atlassian Jira .
+Thanks for this opportunity to learn the basics for this software.
+Excellent course. I loved the practices on the online application.
+Great way to train out the subject, explain, show, do and confirm.
+useful course, clear definitions with step-by-step lab practices.
+Very interesting and well prepared. I completed it with pleasure.
+Course is content was good and can be understood in simple words.
+very useful information and training i got . thank you very much.
+This course will help me to get a better career in Testing Field.
+Good starting point in Agile world, recommended for the beginners
+Very good introduction to Agile Mindset and the tool Jira Cloud.
+Very Good material for freshers to enter into the world of Agile
+Great course with hands on exercises to apply everything learnt.
+All the content covered is very logical and ready to start JIRA.
+Very good course. Not just high level overview but also details.
+The course is very good structured and set out.Than you author.
+Great basic for people who doesn't have a Jira knowledge before
+It was really good course. Lots of details taught. I loved it!
+Very clear explanations throughout. Excellent review of Agile.
+its very insightful and with good examples to set up Jira tool
+Awesome course with each and every detailing explained nicely
+Excellent course for beginners. Hands on Exercises were good.
+Great Course! Necessary to understand Jira's basic functions.
+Excellent introduction to the Jira software from the scratch
+Excellent detail, simply laid on an an easy to use platform.
+excellent i learn to much ..so much information,great course
+Easy to understand and follow for anyone looking to use Jira
+Great course with all the insights about the Jira Software.
+Good material and provides helpful tips to handle the tool!
+some screens are old , but all good and thankyou very much
+Great overview and hands on use of Jira. Fantastic course.
+I really loved the course.. Its perfect for the beginners
+very good, clear explanation and good practical exercises
+This course make Agile and Jira easy and simple to learn.
+Great short and exhaustive course for software engineers.
+A great course covering all major functionality of Jira.
+Very helpful overview of the basics of Agile with Jira.
+Enjoyed the course. Got confident on working with jira.
+The course was very well run. Great learning. Thank you
+Full of insight that benefits me as a beginner in JIRA.
+Very good course! well explained and useful exercises.
+Very good course for the beginners with Jira software.
+Very straightforward, easy to learn, great instructor!
+very useful for people who want to learn JIRA basics.
+It was amazing and really good done course. Thank you
+Goo way to start learning what can be done with JIRA.
+The course gave a detailed JIRa application nowledge.
+Very easy to understand and learn the technology!!!!
+This was good course along with Hands on explanation
+The concepts were easy to understand and internalize
+A good beginners guide to Agile with Jira.Thank you.
+Explained very nicely. Clears all the major aspects
+Concise, easy to follow. The tasks are very useful!
+Basic course about JIRA ans Scrum. Perfect to start
+Very engaging good details and hands on available.
+Great course to start learning and exploring Jira!
+Very informative and useful for full JIRA overview
+Very detailed along with rigorous Lab sessions !!
+awesome, great instructor, very clear and concise
+amazing course with fundamental and  key concepts
+good course, with lot of well organized content.
+Very helpful course to learn Agile methodologies
+Learn too many things... Too interesting course.
+Excellent Videos and Reading & Practice material
+Fantastic, easy to understand course. Thank you!
+Perfect, I understand somethings of Jira. Thanks
+Complete Elaborated Sessions for Jira with Agile
+Very clear and easy to understand and navigate.
+The instructor is as bland as 10-day old pasta.
+Good an clear explanations about the Jira tool
+Excellent and clear explanation on each module
+Indeed a great way to learn Agile with Jira..
+A great start up course for Agile! Thank you.
+Comprehensive and easy to follow.  thumbs up.
+It was great! Strongly recommend this course.
+Great course. I will retake the course again
+Had a detailed knowledge about handling JIRA
+Excellent! very detailed view with exercise.
+Nice explanation and good material provided.
+I like this course, it absolutely wonderful.
+I highly recommend it. Straight to the point
+This is a great beginner level Jira course.
+Walks through everything and is very clear.
+Very helpful if you're new to the software
+easy to follow with thorough instructions.
+A very nice course for beginners like me:)
+Very simple and excellent Beginner course
+Super helpful. Thank you for this course!
+This class has well designed assignments.
+Very clear, well organised and well built
+Simple and Effective in learning Agile :)
+Very useful and simplified! Great course
+Concise yet comprehensive . Thank you !
+its really good course and very helpful
+Great course and material by Atlassian.
+This course is amazing & very helpful.
+Excellent course, I really enjoyed it
+A great course with labs. Recommend.
+Nice explanation , Knowldge sharing.
+Well developed and easy to go along!
+very nice and informative courseAbhi
+Very Very good course, very complete
+Another great course, valuable tool
+Good videos and hands on practice.
+Nice content! Thanks for teaching!
+Really insightful way of teaching.
+Very useful for my future projects
+Good course with detailed hands-on
+Very User Friendly and Informative
+Good course for beginners in Agile
+Great Lesson and Material. Thanks.
+I found this course very helpful.
+excellent and very useful course.
+Great Smooth program, I liked it
+Very enjoyable, would recommend!
+way of learning is good too good
+Very accurate, simple to follow!
+Really Helpful and Informative !
+Helpful to get started with Jira
+Excelent course for the basics.
+Thanks for the wonder Training.
+Well written and comprehensive.
+To the point and crystal clear.
+Very Informative and Practical
+simple and easy to understand!
+This course was very helpful.
+very nice and helpful for me.
+Very helpful and to the point
+Very good training material.
+Very useful and informative.
+very complete course great.
+Very simple to understand.
+Excellent course, thanks!!
+Great introduction course!
+It's really useful course.
+Clear and thorough course
+Excellent review of JIRA
+Good Informative Course!
+Extremely useful. Thanks
+Quite brisk and thorough
+good basic Jira overview
+Awesome course material!
+So clear and useful, t
+Hands on and in depth
+Really good & helpful
+Good Course for Jira.
+It was really useful
+Very useful. Thanks!
+It was something new
+It was fun learning.
+EnjoyedLearninghere
+It's a great Course
+it was great course
+Great course thanks
+Very good Course,
+All was just good
+Good Learning.
+great teacher!
+cool  training
+Awsome course
+Very cool
+useful

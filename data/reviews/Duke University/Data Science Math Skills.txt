@@ -1,0 +1,1359 @@
+This course is very strong with respect to presenting the concepts you need to know for data science. It is extremely WEAK in terms explaining those concepts. If you are like me and did this kind of math back in the 70's and 80's but have not used it since, be prepared to seek sources outside Coursera in order to understand the material and pass the quizzes. The instructors leave out explanations and skip important points leaving you confused about the concept. 
+Example: In the Permutations and Combinations sections, "results" of calculations are thrown at you with no explanation of how the instructor got the answer. 10 minutes later, totally as an aside, you get the explanation. The course is not taught in such a way that A leads to B, B leads to C, and C leads.....; instead the instructor will tell you about C, might explain A, and forget about mentioning B until the graded quiz. That is why you will need to fill in the gaps using websites like betterexplained.com or kahnacademy.com.
+The student is better served by looking at the syllabus and then going to either of those sites - where the explanations are worth your time.
+In addition to failing to present steps in a logical order, the course often teaches at an extremely basic level but tests at a much, much higher level. Again, to get to the higher level of understanding needed to pass ANY of the required, graded quizzes, the student will need to heavily utilize outside sources. The explanations on the practice quizzes also fail in many cases to thoroughly explain why an answer is correct.
+Then there are the issues with Coursera itself, the course navigation using Chrome is quite bad. If I did not constantly monitor what part of a course I should be in versus what part of the course automatically loaded next, I often found myself taking a quiz for which no lectures had been presented. The TA's response to my complaint was flippant and WRONG. She then closed my question and I could not respond or ask for more details.If I had it to do over again I would invest my time and money somewhere else. In my opinion, Coursera should rescind the instructors' rights to charge for this course until the instructors improve and meet higher teaching standards.
+Week one starts with interesting material that relates probability to data science. Unfortunately as the course progress the course material and videos become less and less helpful. Ultimately the student has to visit other web sites and youtube to actual learn the expected material. The course notes are next to useless and the video are equally unhelpful. I am sure the teachers know their stuff but they have no idea on teaching it clearly based on the material presented in this course.  Avoid this course, and head over to KhanAcedemy and complete their probability and statistics program and you will actually learn all the material in this course with a ton of examples and top class videos.
+Silly course. Either you know so much math to be able to pass this course or you know nothing to find this course of zero value. Avoid.
+There are a great many errors in both the lesson videos and the quizzes in this course. In the first half, correction messages pop up during the videos of the lessons. Many additional errors were highlighted over 2 years ago in the discussion forums, so it appears as though no one is currently maintaining this course at all. The second instructor does not teach content at all. He simply records on his slide what he has calculated off screen. Numbers appear in formulas but rarely is there an explanation given as to where those numbers come from or why they belong in the formula where they are substituted. Furthermore, the slides are just a jumble of notations by the end of he slide so are of no value as a reference note. Many of the discussion forum comments were suggestions by others taking the course as to where to go to get an actual lesson. Someone who did not have a background in mathematics who actually cared about learning would be very stressed by the exceptionally poor way this course is designed and delivered. Final comment -- no connections are made between the math presented and data science.
+Lacked practice questions to reinforce concepts as is expected in any math course. Content in videos did not line up with assessments. Practice questions and examples would have bridged this gap. This course may function as a good refresher if you are already fairly confident in the topics but have not seen them in a while. Lecturers were very good, there was just a content mis-match between videos and assessments. Videos also contained multiple mistakes (which are noted), but should have been edited or bits re-recorded. Video editing is everywhere and accessible, there is very little excuse for not publishing a polished product considering the medium.
+I deeply regret having paid for this course. Nothing in it was oriented to data science and weeks 3 y 4 are specially weak in contents on basics on calculus and probability. Not bad if you just want to remember some things from upper secondary maths but definetly not worth to pay for it.
+I understand that they wanted to explain necessary content starting gently and getting to more complex subjects gradually. But in reality they start as simple as an elementary school students finds easy. Which is not so bad. After that, complexity of the subjects may suddenly skyrocket without any explanation, even without giving necessary subjects formulas. There is assistance or further reading recommendations. No one is answering the questions on discussion forums except the students. There are lots of other courses. This one teaches the easiest concepts in an unnecessarily  long way and does "nothing" to teach complex ones which I guess why you are enrolling to this class. Shame on you Duke University. Crap course.
+First three chapters extremely simple. Last (fourth) chapter has a quiz entirely different from the contents of video lessons as well as texts.
+very beginner misleading title, not a significant knowledge in Math for DS!
+Audio is weak. Bendich is probably a good researcher, but not a good teacher. Doesn't make any effort to speak clearly, tone of voice is that the subject matter is beneath his genius, he's only "teaching" the course because Duke ordered him to teach it. Disappointed. I just copied down the curriculum then watched it on Khan. Sal Khan speaks clearly and covers the same boring 10 minute lecture in a lively half the time. Thanks anyway Coursera
+Don't waste your time with this. The first 3 weeks are insulting, teaching you basic highschool math (like what is "<", what is a function, etc.). The last week is more interesting as it gets to probabilities, and the quizzes are fun. Reading materials are given and completely remove the need to look at the videos (pure waste of time). Formulas are given without any rigour.
+I chose this course because it said it was for beginners but the content was extremely difficult and was not at a beginner level at all. The presenter assumed knowledge and the presenter himself made errors during his presentation and did not explain concepts well.  The quiz was very difficult to attempt because the questions often went beyond what was in the course. Do not attempt this course if you do not have actuarial science level.
+The course was not properly taught. There should have been more quizzes, more systemic approach to explaining the problems and solutions. Also the feedback after exams and quizzes were non existent
+The course provides very basics concepts of Mathematics and Statistics.This course would help those who needs fundamental acquaintance with basic theorems of Mathematics  and Statistics.
+Found too many errors in both content and quizzes. Good basic course for beginners. But, the errors must be fixed
+Numerous errors in the videos, very bad audio quality. Not worth the time.
+Extremely Basic. Not useful for DataScience in my oppinion.
+I UNDERSTOOD MY DOUET IN THIS COURSE CLEAR IN DATA SCINCE
+I don't recieve the certificate the course is good
+I want to unenroll from this course
+Too many typos in the videos
+For newbies, the set theory, real numbers, basic statistics and so on are quite well explained. The intro to probability, however, is shallow and quite confusing. It lacks some real-life examples to offer a better grasp of the theory. Coins and dices examples are a good start, but made up examples without a real base are not clarifying at all.
+Difficult content not explained well by the presenters.
+This course syllabus is great. It starts wonderfully. Week 1 to 3  is taught by Paul Bendich. His instruction is awesome. However, in week 4 Daniel Egger starts teaching log, exponential , probability which is simply a disaster. I have not seen such bad instruction in any of coursera class I have taken. I saw in Coursera he is a "top instructor" which makes me worry about coursera content as a whole. If there is a prize for how not to teach math, Daniel egger would win it.
+Dear Professor, Please improve your handwriting. Or at least prepare your materials using slides. It will help the students understand your information better.
+I found week one amazing and the instructor have an excellent way to explain and make things simpler unfortunately I did not enjoy the 3rd and 4th week
+I took this course as a refresher for maths rules I had seen in university, so my experience does not relate to those who will encounter this topics for the first time. I honestly do not recommend this course to beginners with no background in mathematics, because there is not much space given to theoretical explanations of the principles here. The course feels more like a quick slideshow of rules (logaritmic manipulations, exponential manipulations, conditional probability manipulation) followed by exercises to practice them. This is a stark contrast to my University Experience, where mathematics is about principles, logic and the demonstrations that underly theorems and their validity (e.g. ''why is the formula for combinations of "m draws on a set of n" built this way?''): deep study of these topics provides students with the mental skills to build a MODEL of whatever they come to face in real life. You may forget the rules, but those can be freshened up by a course like this. To build Logical and thinking skills instead requires a deeper understanding of mathematics and its underlying principles. I hope the professor who recorded this course will look forward to an opportunity to devise a deeper mathematics course to tackle these topics. Good luck to all fellow learners and thanks to Coursera for this opportunity!
+Too basic. Should give an example on how these math skills are used in data science.
+For someone with a Computer Science background at the undergraduate level, I find the contents basic. However, the intention of the course was to give a refresher for data science professionals who find the mathematical jargon frequently used in practice hard to comprehend. In this sense, the first half of the course taught by Prof. Paul Bendich were good. The second part of the course taught by Prof. Daniel Egger needs a lot of improvement in content delivery and better explanation. The quizzes on probability are challenging and enjoyable. Also, when I took the course as on March 2019, there wasn't any activity on the discussion forum. It seems there are not many students taking the course with me, and it also wasn't monitored by the course staff.
+The first two weeks are good. The material is explained in a fairly intuitive way. One can easily understand the theory. It is also explained why and how a presented concept is related to data science.The last two weeks however are to shallow and abstract in the explanations. I had to check external websites to fully understand the material. The lectures also didn't prepare me good enough for the tests. Sometimes I felt lost and the video companions also didn't really help. This wasn't the case in the first two weeks. At the end I was able to complete all tests with 100% but only because I taught the material myself with the help of external websites.
+This class fails to give a single explanation as to how the math skills will apply to data science.  The first three weeks are a nice basic explanation of some of the math that will be needed.  If you haven't done coding before or have some background in coding, you will have no idea where this class is going to be applied.  The fourth week is the worst explanation of probability you can imagine -- opaque derivations and almost no explanations.  I do not recommend this class as it fails to address the "why" of the title -- how does math apply to data science.
+The first 3 weeks are quite good... but then it makes a gigantic leap on the 4th week. Please update the explanations on Bayes and the examples... they are not optimal. Judging from the comments I have seen, I am not the only one.Thinking about it, I think maybe it would be worth to spend more time with probability and a bit less with the other stuff or even add another week... definitely probability in one week is a far shot... and it is key to understand data science correctly
+A pretty good course even if week 3 and 4 are very difficult for beginners.A few improvements are urgently needed:-There are mistakes in the quizzes, which mistakes have been pointed out by generations of students for months/years in the forums, but have never been corrected. Such a disgrace and waste of student time!-Also using Chrome makes you unable to read the formulas, which should be said in the course outset.
+Course has misleading title. It has no strong connection to data science problems or examples from the field (except confussion matrix). First 3 weeks are simple math. Third one is very brief tour to probability with quite brief explanations which will not be enough for beginners to complete the assignment. There are also errors in the asssigments which I had reported. I will not recommend it.
+Instructors were knowledgeable, but I found the lectures to be a theoretical example, followed by a very simple real-life example. Then when you take the quiz, the questions are SIGNIFICANTLY more complicated than what I was ever taught in the lessons. Some worksheets of sample problems that escalate up to the difficulties seen in the quiz would have been very helpful.
+The course content was very basic. Especially the first part of the course.The later part(probability) of the course was very theoretical in nature. Typical problems in quizzes and examples as you would find in any mathematics text book. Being Data Science Maths skills course, I was expecting some real life example or even the mention of data science during the course.
+After the second week, explanations become too abstract without a concrete explanation of how relates with the real world. Also, the examples are too short compare to the problems that are included in the quizzes. It will be way more interesting to learn the explanation of the quizzes than the abstract examples during the presentations.
+Some useful concepts, but several of them, especially in the last week of the course, were very vague and did not give examples on how to use them to solve problems, which is the point of the course. If i wanted definitions and formulas I can just google them. The whole point of a video is to teach me how to apply it
+The initial modules are insightful and helpful. But I had a lot of problems going through the material in week 4. The instructor struggles to make the content engaging and the videos often end up sounding very monotone. There's a big gap between the material discussed and the questions asked in practice.
+baye's theorem and the binomial addition to it should have been explained broadly, this is a multi country based program , people from different country access it. hence each and every formulae and colocations should be explained better and write-in a better way.
+Very rushed presentation. Blows right through a lot of fundamental concepts without a deep enough explanation or enough practice material (especially in the last two weeks). I feel like completing this class will require supplementation with better instruction.
+I was attracted by the syllabus (substance) but I found the presentation of the teachers quite disturbing (form); bad calligraphy, some mistakes, poor explanations. Anyway I completed the course and it will be useful as a general introduction to the topics.
+The probability section left many serious gaps in information compared to the test. I had to take the exam multiple times, and even after restarting half of the class twice. I'm not usually one to have to do this for a class.
+Video lectures were not very clear. It looked like these lectures are for revision and not for learning it first time. Baye's Theorem is yet not clear to me... I just mugged up some formulas which i will eventually forget.
+The weeks 1-3 although elementary were explained well but the change of professor on the last one really did nothing. There were far better tutors on youtube teaching the same things he did more clearly.
+Concepts not covered well enough, just for the sake of teaching. Pure time waste. Bayesian Theory was not taught up to the mark, I had to refer external resources to understand it well.
+the video learning was good, but the quiz questions were at a very different difficulty levels. I would just like to say that this was supposed to be an beginner level course.
+This course is very short. I've completed it in about 4 hours. Nothing was told about linear algebra, statistics, optimization. It is not enough even to learn Data Science.
+This course dos not contain enough examples which needed to train and practice ,PDF is not clear enough and does not contain any problems to practice. Thanks
+Week 1 and Week 2 material is very well presented.  Week 3 was presented very poorly but reading the notes and youtube helped.  Week 4 went over my head
+The content of the course was simple. But the quiz were above average. The classes were not sufficient  to answer the questions.
+It's a good review for the people that know something but will be very hard for students that don't have a background in Maths
+Found the title of the course mis-leading! School level Math skills are taught. Found the title to be similar to "click-baits"
+You'd spend lots of time checking other sources as they do not explain things in detail. They assume many things.
+I enjoyed the first 2 weeks. Weeks 3 and 4 were harder to follow.  Too few examples, particularly in week 4.
+The last probability course is really horrible It should be changed or make it easier.
+The course name should be Bais Mathematics instead of Data Science Maths Skills.
+Concepts from Probability up to Bayes' Theorem could have been explained better
+Week 1 and week 2 are good. rest of the weeks are very fast and not clear.
+Very basic course... probably won't teach you a lot of new things
+Probability part is good others are elementary math
+This is really basic basic.
+It's nice to learn
+The first two sections of the course are well designed making it easy and clear to understand and do the practice quizzes and graded quizzes. The third section is a sign of trouble, but doable. The lack of notes giving definitions and clear formulas along with bare minimum examples in the videos make the practice and graded quizzes feel like the questions came from someone trying to trick you at every turn. By section four, it was very annoying to need to learn the concepts on Khan Academy to pass the graded test.
+WEEK 4 needs to be covered with more examples and more clarity.
+The lectures notes did not contained too much of supportive material followed by the video lectures. I would suggest that video notes, would contain not just the same content that has been shown in the video lectures, but in addition a further reading material that would allow student to strengthen his understanding on the topic, as well as include exercises with answers (+ solutions) so a student could be firm in his knowledge before proceeding to the next section. At least some links to fill in the knowledge gaps or relevant subject.The video lectures, although have been very informative and useful, I found a significant difference in how subject have been taught and discussed by both teachers. I would highly recommend to address such unbalances in teaching, as it discourages from continuing and finishing the course (initial lectures were greatly useful and the quality of the lessons deteriorated as the course progressed). Overall, I have found this course useful, however I doubt I have gained much from the week 4 (probability subject) as the material was not really intuitive and hard to follow with great jumps in knowledge which one may not be aware, unless had previous experience on the topic. I would recommend this course to people who have already an intermediate (or above) understanding of the subjects taught and/or would like to recap areas which has been forgotten over time. I would not recommend this course if you are a beginner or have large knowledge gaps on Maths as it will make the lectures hard to follow and probably difficult to identify the gaps in one's own knowledge.
+The first two weeks of the course were great! The instructor was very clear in his explanations and made the material very intuitive. The video companion pdf's were also very well written. But from the third week onward, when the other instructor took over, not only did the explanations suffer significantly, the video companion material also ceased to be of much help. He did not explain any of the intuition behind any of the formulas and he didn't even try to explain the intuition behind when and where the formulas would apply. I didn't take this course just to be given a bunch of formulas. I really wanted to understand the material because I knew these are foundational concepts that needed to be mastered. Khan Academy explains a lot of the material of weeks 3 and 4 much better. I really wish someone had explained how the version of the binomial theorem that was presented in this course is related to the traditional version that we learned in school while doing binomial expansions in algebra.
+The first part of this course was great. It was the right level of material, taught simply and effectively with quizzes and exams that were on par with the taught material. The second half was not so great. The teaching style of the second teacher did not convey the material as effectively as the first teacher. Also, I felt that the week 4 probability quiz and final exam had material way beyond what was taught during the lesson. There should have been some exercises to warm us up and get us to the difficulty level of the final. It felt like going from 0-100 mph. Overall because of the stark difference in teaching and difficulty of the final exam of part 4, I can only give this course three stars for the great start.
+I definitely learned a lot in this course, and, as someone who has historically avoided mathematics, I think it is a fairly good introduction to these concepts for people at my level.  However, I think the course was somewhat inconsistent.  The final module could really use some more explanation and examples.  Probability is a very abstract field, and it can be difficult to take real world examples and translate them into formulas.  I think that the module would benefit greatly from spending some extra time on translating english-language situations into formulas.  There were also some non-trivial errors in the videos that need to be corrected.  Overall, I'm pretty happy with the course but I think it doesn't yet fill out its potential.
+The first two weeks of the course were well explained. But when it came to the probability, the course was confusing so that I had to search for more sources and learn from YouTube. I have been away from math for a long time, so I took this course which is described  as for the beginners. I was extremely confused and disappointed about myself for not understanding the concept of Bayes Theorem for example. But when I checked other sources on YouTube, I could understand it easily and only then I was able to answer the quiz questions. So many basic concepts such as Tree diagram which are extremely helpful for grasping the theories and using them in real life situations were not even mentioned.
+Pretty good, overall the explanations are clear and the exercises/practice quizzes are really useful to understand the material. Negative points: the last part on Bayes' Rule and the Binomial Theorem is a bit too fast, and I needed to supplement it by external material to fully understand it. And it would have been great to have a part about linear algebra and maybe calculus, but I guess there were some time and financial constraints that did not allow that. I still recommend this course, that's a really good refresher or intro. You'll need to supplement it by other material, though.
+The course started nice and well explained, there are some useful info missing, e.g. what is Euler's constant and why is it defined as it is and then more practice examples would be also welcome. All that would be fine and I would have given the course full 5 stars, but I felt really discouraged with so many errors in the practice quizes and even in the last graded quiz. Additionally, it was a bit annoying that I could not finish the quiz on my phone as in one of the questions there was only the problem and the possible answers visible, not the question itself.
+If you are familiar with the concepts in this course, it will be fine. If, however, you happen to discover them for the first time here, the instructors go so quickly in their explanations that you'll end up with a high level of frustration. When it comes to statistics, fewer concepts introduced per video, and more examples of each concepts would have been a better approach for real beginners.Finally, don't believe you've acquired the "math skills" necessary for data science just by following this course. In this, the title can be seriously misleading.
+The first Half of this course is wonderful.  Well presented, interesting and something to look forward to.  The second half is done by a different teacher, is confusing, disorganized and and time would be better spent elsewhere. I highly recommend the first half though, and then looking at the topics list for the second half and go elsewhere for those.  There are some great recommendations of others videos and courses to cover the 2nd halves content in the course forum as it appears it was a common issue among students.
+This course was a good refresher to some important math concepts needed for further study of statistics and data science.  Most of the modules and videos were clear and easy to follow.  However, I found the module on probability to be confusing and overly complex in its structure and explanations.  For those with stronger math skills than me, it's probably a fairly easy course.  I found it appropriately challenging, and for the most part it built my confidence in this important area.
+The course should be a guide text with very detail readings, with a lot of solved examples (complex ones) step by step. The readings should also explain very weel what I'm doing and why I'm doing each step, and in the end explain the exercise as a whole.The practice quizzes should bring very real life examples (as thouse of VBS tests) and they have to match de guide text.The videos should be made only from the most comum doubts and mistakes in the practice quizzes.
+I found the first two.5 modules very well done. However, the second half of week three and week four were very poorly done. I am still uncertain about the applications of Bayes' theorem and the combination/permutation concepts. I had a very difficult time with the last quiz and had to go elsewhere to actually learn what I needed to, and even so, I still do not understand the approach to solving some of the problems. Quite frustrating and not rewarding.
+The first two weeks were well paced, in week 3 I think too much is covered too quickly and in week 4 there is a further acceleration. That said, the course was good in highlighting the areas that I feel I need to work on and motivated me to take University of Zurich's intro to probability which filled the gap for the content from week 4 here. I think this might be a good refresher course for someone whose knowledge is not too stale.
+good subject matter choice; however, quality varied between the two professors.  weeks 1-3 provided good clear lectures and enough practice questions;  but week 4 had several confusing points in the lecture, then not enough practice.  I really had to supplement my learning with outside videos and problems for week 4.  but i passed the final test first time.  thanks for narrowing down the maths needed for data science.
+Lessons 1-3 are ok. Everything is explained well and you can make the tests easily. 4 is very difficult and despite many trials, I was not able to make it. And because of chapter 4 I suggest you rather take another course. There is also a technical problem, because the formulas are displayed in java script, so it is not easy to understand how the formula looks like, if you do not know the script :(
+The lectures are very short and simple. Sometimes the explanations are not explained thoroughly. Students without background on the subject will find it difficult to apply the concepts in actual problems like in the quizzes. I hope you can improve your content, discussions, and quizzes so students without background in advance math can enjoy your course. Thank you!
+Helpful overview and review if it’s been a while since you taken stats and probability. But really needs more practice problems with explanations to practice through the workflow on the last two weeks. The formulas and calculations get pretty intense. They have printable handouts that go with all videos that were very helpful.
+Keep in mind that this is meant to be an introduction to some of the math topics used in data science, it is not a comprehensive course. The course needs to include worksheets with practice problems for the students to practice. The instructors do not use enough real-world examples to demonstrate how the theory is applied.
+The course videos for the topics for Week 3 and 4 are not well explained. Even some of the questions in the quiz are not written in proper format. Please look into this and make changes to the course. Otherwise the syllabus of the course is well designed and the probability questions are of quite high standard!
+Felt like the first 3 weeks were pretty good but the probability section needs a lot more detailed explanations and examples to make the information clear. For those that are already OK with this subject, it's probably fine but for those that haven't had much background in probability, this part was lacking.
+The first half was planned and organized.  The second half seemed haphazard.  Examples were a little hard to follow.  Quizzes were fine and seemed to test the material presented. I have only taken three other courses (4 total) and this one seemed a little rushed and the second half was created on a whim.
+First 2 weeks of the course is amazing, very good didactics. The second teacher does not use very good examples, and the thing starts to fill like old math classes, but overall is good. I will need to redo the last 2 weeks because i fill that I will not remember most of it so easy as the first 2 weeks.
+Good for high level understanding of few of the concepts. But last week 4 tutorials are covered at very high level , it was quite difficult to understand probability topic without referring to other online tutorials. I wish more examples could be given in the tutorials to strengthen understanding.
+The class is good. However, the second half of the class zips through concepts that need a lot more explanation than is provided. Moreover this class would benefit from an optional tutorial on how to input factorials into a calculator as the answers on the exam go to the 8th decimal place.
+Some concepts have been explained beautifully, which made things easier to understand. Some concepts (probability) I earlier understood so very well, but now I am confused with the teachings from this course. I don't really like how it has been explained.
+The first half is really well explained. However, the second part could be improved with a more detailed explanation rather than introducing the equation and jump straight to the problem. Also, I think the quizzes in the latter part are (too) difficult.
+Concepts are not clearly explained in the video sessions. I had to seek some other you tube videos to get the concepts with clarity .  Some of the Practice quiz feedback are not fully explanatory and required more outside reference to clear the doubts .
+You guys need to give better practice examples and scenarios in Weeks 3 and 4. That being said, I think the courses you presented give a nice foundation. I'm going to practice on my own time finding problems of the subjects you've spoken about.
+The course has issues later on - there is inconsistent notation, no provided worksheets, formula sheets, documentation, or summaries of any kind.  At first this isn't a problem when the course is simple but is much more problematic later on.
+As a whole: very useful review of the themes.However:Quite a few Latex statements spread around the quizes.Probability could be explained a bit more thoroughly. I had to look up external sources to get a better grasp of the subject matter.
+Some really good course content, but a strange mix of levels/difficulty. I have some maths background so skipped most of the videos but using the notes and quizzes I still learned some new topics (like set notation and Bayes theorem).
+It was nothing new and easy for me but if you have a gap in your study and forgot whatever you had studied in your school then this course is definitely for you to learn some math skills which is important for data science.
+A good review of basic math skills, however I believed the "SUM RULE, CONDITIONAL PROBABILITY AND BAYES'THEOREM should be discussed much more in the last week module with more example and exercise. The 1,2,3 week are great.
+The first 2 parts(weeks) were good and easy to grasp, but the last two were a bit advanced and needed more time to handle the concepts, but overall a good course in general, get more more practice before attempting quiz
+The early videos are good.  The videos toward the end were not as helpful for a person new to the subject.  I had to look up other tutorials on youtube to understand the material enough to pass the quiz and final test.
+I feel the probability portion of the course was too quick for the material covered.  Yet the quizzes for the probability section were very demanding.  It was difficult to successfully complete the probability quizzes.
+The class starts off very well. When it moves to the full professor, the lesson quality falls, as the lectures lack the younger professor's examples and explanations which guided the learner into the quiz material.
+The first three weeks are well explained, the last week is the most difficult and the professor does not provide examples. There are many mistakes in the quizzes and this seems to be done very haphazardly.
+Broad coverage of topics in a compact course. Useful for those looking for a refresher course. Could be improved by explaining where in data science the chosen topics would be relevant to provide context.
+The part about baye's theprem is really hard to grasp, perhaps less equation and more diagram would be better for student to understand the concept. (for me I look at youtube for better understanding)
+The course is well but the last part of the course is boring because the principal interest of the course is data analyst with explanation of smart theorem as Baye's and this is not very well explain
+Week 1-2 are great. Week 4 is not what I expected. The professor did not explain, just read the slide. I need to see extra video on youtube to be able to understand the topic.
+Doesn't include statistics!The combinations part and the probability part is super confusing. Had to read the from various other sources. Not a very good course to opt for.
+The classes from week 1-3 were really good but the week 4 content was very confusing to learn. I had to look online to actually understand what was actually being taught.
+the course was really good. I just hope that we can get more practice questions in between the lectures so that we can understand the concept more precisely and deeply.
+The course would have been better if little more elaboration would have been done for the final week but nevertheless it was a wonderful course to have completed.
+In lot of places formulas is not shown in tests. Last section about probability had really hard questions in tests, more examples in lessons would be better.
+The probability module, i.e. Chapter 4, was explained very obscurely and I needed to spend extra time looking for information to understand the concepts.
+First 3 weeks were quite easy and everyone will get it but for the 4th week concepts are not explained properly and very tough problems added for quiz
+Overall it's a good one. In Math part I liked it a lot but in Stat I think Prof should explain a bit more in depth and the content is not good enough.
+I would like to see more useful tools like Excel, real world examples, practice exercise.  Weeks 1-3 were great, Week 4 module needs some real work.
+I expected more from the course, like better presentation (slides or something like that) and the first 3 weeks are much more basic than I expected
+Quizzes are way more difficult and different than what was taught in the lecture videos and readings. (This apply the most to the last week module)
+Explanations for last two modules are somewhat confusing. I had to consult other materials and read discussion forums in order to understand.
+Modules 1-3 were great. But the 4th module on probability was not only very difficult but I finished the course still not understanding.
+The material covered was very useful for a beginner/intermediate course, however, the style of the presenters was not always very clear.
+it's the foundation for data science, but these contents are too simple. I think it's not enough for a good data analyst.
+Statistics and probability part is a bit difficult to grasp. Anything that can be done to make it easier would be great.
+a good selection of topics, but way too formula based rather than understanding based, especially in the second half.
+Some of the quiz questions have mathematical errors (e.g. inside of a log cannot be negative) or are quite unclear.
+The last module could have been done better. More examples to be included for explaining probability problems.
+the first two weeks were brilliant, but I had a really hard time comprehending the 3rd and 4th week material.
+Thee explanation of week 4 was not comprehensive and the quizzes were too complicated for what was covered.
+I notice that the quizzes questions not reflect 100% to what we got already !, However, the course great
+its ok, i felt the statistical part wasnt explained well, and went from pretty easy to hard too quickly
+i am giving 3 star just because of professor efforts .Difficulty level of this course is not of level
+Some points in probability was not clear and doesn't been explicit.Some quiz answers are wrong.
+I completed the Course but I didn't receive certificate..Good to understand it's useful for us
+The course should be improved from last topics with simple examples. It was good at the start.
+In first 3 week, i learned berfore, so i can understand.In last weeks, it is new knowledge.
+Basics knowledge, i liked first part about functions, but second was not quite good for me.
+There is no practical usage of it. There can be a project which shows its practical usage.
+The Probability section could use more practical examples, I found it difficult to follow.
+Good for those who have not taken any maths since 10th grade, else it would be too easy.
+The last week (Probability) has terrible lectures. They are anything but comprehensive.
+Last quiz is very hard and course does not provide the knowlege needed to resolve it.
+Quite good but so many errors in the presentation that it was distracting at times.
+A good platform for online study material and best experience teaching methods
+Take this course as a review but not to learn the data science skills needed
+The material is very useful, however, the second teacher is not the best...
+Week 4 is poorly designed. Concepts are not clear. Please redesign it.
+Course lacks many details especially differentiation and integration
+The course topics were good. But the video lectures were not good.
+probability was not taken properly and many portions are missing
+It is more of an "appetizer" than a whole self-contained "meal".
+is a good class but is hard for me I will try again but not now
+The probability part (Week 4) was disastrous. But rest is okay.
+The last section is much harder than the previous sections.
+it  required more content for data science mathematics
+The contents were ok, but the videos were a bit boring
+Lost if it is a basic or a intermediate level course.
+The materials could be more advanced for data science
+This require more practical refernce to data science
+The probability part explanation is very confusing.
+Instructor was not so good but questions are tough
+Probability concepts could be more descriptive.
+I think some basic statistics should be added
+Give right information about the subject
+It is good for refreshing your concepts
+the lectures of last week r very bad
+It is not that much effective.
+T%his course is purely basic.
+good course but expected more
+Great mathematical analysis
+Needs more statistics
+It is too low level
+Fantastic teaching
+the first 2 practices and quiz was not that challenging, but the starting from week 3 it's getting hard.
+Relatively a good refresher course, although coming from Duke U I expected better.  There are too many tweaks (lack of scaffolding) that need to be made from a pedagogical standpoint from weeks 3 and 4.  Probably need to make it a 5-week course and not try to cram everything into week 4 just to finish the course.  Also, the time limit to take the final test was way too short and needed to be set for at least an hour (problems 2 4 11 12 take at least 20 minutes between setting up probability doing calculations and checks).  Also, too many glitches with answers coming up in computer code (Over & Over) which basically buries the learner and forces them to guess if they have no clue what the code means, including the anxiety and disorientation it causes during the final.  Many times taking quizzes I felt like the problems were made more for a computer programming course than a refresher course. meant to re-sharpen math skills for data science.
+As it is now, the course is a much better resource for reviewing the material (which was fine for me as it was what I was trying to do) than for learning it first time. It would be much better if it had more of the same, which is why I am giving it 4 stars instead of 5. In my opinion, it is too brief; I hope to see a part 2 expanding on the material provided here. Many of the topics mentioned, and they really were mentioned more than really taught, should have been talked about in more detail. I've completed the whole course in about 4-6 hours over 2.5 days. It is a good attempt, but it is hardly a sufficient preparation for the field of Data Science; students looking to take the course should be aware of this.TLDR: A nice and brief overview of many important concepts (sadly, missing linear algebra) which lay the mathematical foundation for getting into Data Science. Needs to be expanded upon.
+First I would like to thank the instructors, Paul Bendich and Daniel Egger for doing such a wonderful job of creating a power-packed course. I really loved the course. I'm a post graduation pursuer in field of data analytics and I was looking to Brush Up my math Skills as you know data science is a multidisciplinary subject with heavy emphasis on math and stat. The course was neatly done right down from technical aspects to content, the video companion sure provided a lot of help. I would like to mention Paul because his enthusiasm and energy was contagious even though it's a video. The only Con I felt was that Bayesian theorem could've been excellent if it had 2 or 3 more different problems that was solved; Granted, that might make the content a little bit longer than a 4-week course but I felt Sets could be little bit trimmed and Bayesian Theorem little more enhanced.
+In the end I liked the course. The first part was boringly simple though with a few surprises. The second part was, it seemed to me, absurdly difficult, with the tests requiring a higher degree of skill than implied by the lectures. I think the lectures were theoretically preparation for the test, but in practice were not any where near what would be required for to perform well on the tests. I went to other sources such as Khan academy and the internet to gain the skills I needed to do the tests on the second part. Still, once I had, through other sources, acquired the requisite skills, the lectures made more sense to me and I actually enjoyed them the second time around.
+The last section was really tough and a bit more explanation or examples related to the last test would have been appreciated. I have a background of statistics/probabilities knowledge, I imagine students going through that course with no prior knowledge might fail to succeed the tests and give up.For example: the question about the full house is not intuitive at all and does not seem to be explicated in the videos/video companions. I understand it requires the student to search for himself but this one is really hard, and I had to look for a poker lesson on the internet to understand the calculation of this one.But thank you for this course, it was great to follow.
+The course is intuitive and helps a lot with learning Mathematics (mostly on the statistics and probability side of things) all of which is extremely useful when working on Machine Learning algorithms. But, one major feedback that I would like to give is, the last portion of the lecture with topics:1 Probability Distribution2 Bayes Theorem3 Joint and Conditional ProbabilityThe course should have probably split these topics into separate weeks and elaborated more on these. Just 12 minutes is not enough to understand Bayes Theorem or Joint Probabilities, it becomes difficult and I had to watch many other lectures and tutorials to get a better understanding.
+First three weeks progresses very quickly and easily with very good explanations and examples. The last week is packed with theory that can be understood only after thorough practice. A good refresher of high school math sprinkled with some advanced concepts. The teaching was easy to follow. There was a lot of confusion for me when the instructor mixed lowercase and uppercase letters and when there were interruptions in the video for corrections. The quizzes were well framed and comprehensively covered all topics in the videos. Videos dedicated to solving more problems would've been helpful.
+This was a great foundational course in data science. It does not assume previous knowledge of anything it covers, which was helpful for me because I haven't seen any of these topics since high school (about 10 years ago). I have always struggled to understand probability, and it was no different in this course (probability was my least favorite unit) but I appreciated the practice anyway. Highly recommend for anyone interested in dipping a toe into data science. It's a great intro and helped me realize that I probably would rather stick to data analytics instead!
+This course was enjoyable, but a little too basic for my taste. All modules, except for the last were a breeze to go though. The last module was finally something which took me a while to complete. But this is probably not the courses fault, I should have read the syllabus more closely. The instructors are nice and knowledgeable. I would recommend this course only to students that are at the very beginning of their journey into data science and really need a refresher on some core mathematical topics.
+This course was very challenging for me (I'm a musician). I wanted to review the concepts presented in this course to get back on track with my math skills. It was fun, but required me so much time to understand what is what and how to apply it to problem solving. Take this course if you are into Data Science or if you are a programmer who wants to plot data for any given purposes. If you are a musician, well... It will refresh your memory and maybe it will also have an impact on your music : p
+This course is a good introduction of basic Mathematics and Statistics not only for Data Science students, but also for anyone wishing to pursue a course that require knowledge of basic Math/Statistics. Those without any background in Math/Statistics need to practice more sums to master the concepts. In this regard, providing additional resources would be very helpful. A big thank you to the instructors for designing and offering this course through Coursera!
+Wish we had more time for the content of week 4, I thought it was harder and had more content squeezed in. For the past topics, I did a bit of review with some content from Khan Academy as I found it easier to understand from their videos. Then watching the videos here again, it became much clearer. There were some exercises that were repetitive too. Lots of useful tips too, and some exercises to help you fixate or understand the course content. Thank you!
+A good and very concise course that goes through the many mathematical tools used in Data Science : Set Theory, Functions, Rate of Growth, and Probability. The material is short and to the point, the test rather easy, apart from the last module, taught by Daniel Eggers, which is quite hard in comparison. It is doable though, just go over it a few times, all you need is there. I had this course for free. Thanks for the opportunity.
+coming into this with a large gap in time between math classes i was a little confused on how to enter the equations into my calculator which i think would help a bit more . however as i said if i had taken at least 2 math classes before this i probably wouldnt find it that hard hahaha. otherwise great intro and it did teach me a lot and hopefully when i get into more math classes all this can click easier . highly recommend
+Week 1 and Week 2 are really easy. When the tutor changed in Week 3 things started to become more difficult but still the passing grade was achievable. The problem came with Week 4. Understanding the lectures was easy but completing the tests was quite challenging and needed a lot of studying to complete them. The videos of Week 4 look easy and understandable but the test is way more difficult and in depth than the lectures
+This course helped me to horn my basic math related to Data Science. Most of them were familiar to me but it was really fun to revise them more effectively this time. I loved the real-world example of many topics and will suggest using more real-world examples with calculation. If are a beginner at Data Science and you want to reshape your math skill I will recomend this course to you. Thank You.
+Very useful indeed. The ressources have a good format but could be more grouped. The videos have good content but should be a bit more curated as they contain quite a few small but confusing errors. The task are very well selected but do not cover every topic to the same amount. I would also wish for a finals test that integrates many of the newly acquired skills, rather than have them isolated.
+Good refresher course on introductory math concepts relevant to data science (I hope!). The probability modules were a little light for me, given how deep probability is. I think more time/instruction could of been spent on this subject. Overall, this is a good course if you want a refresh on math concepts, or to firm up some learning gaps before taking more math courses.
+In overall this was a great math course, Dr Bendich is a great professor and he teaches concepts very clearly however I had a hard time to understand really what Dr Egger is trying to teach it was more like reviewing concepts for himself rather than explaining things. I had to take some complementary courses in udemy  in order to understand what he was trying to teach.
+It's a refresher of sorts for long forgotten high school algebra, calculus, and probabilities. It's helpful for reminding you of the concepts and have a vague general sense of how they are processed. The video companion PDF have been helpful, though I would personally appreciate a few more examples just to help me really understand how the computations take place.
+I really enjoyed the course. It is true that in the beginning the knowledge that was given was very basic. I would like to have more practice quizzes than the course has acquired. I put a 4-star rating having in mind that 5-star ratings are for exceptional cases. The course is fairly good for an introduction to the data science and so I definitely recommend it.
+This course makes me realize which part of my math skills was lacking and learnt a lot of techniques from here , although if you were finding a basic one this is not for u coz probability part is not that fundamental and they just covers the contents in a little rough way, hope they made it a little better, its just a little ya know, .... Great course really
+the first few lectures, first half is really easy to follow, quizzes are a great way of firming up the new knowledge. Last few lectures are very challenging comparing to the beginning of the course, and I felt that some have missed key steps unexplained. The final quiz doesn't provide feedback which makes it useless as a way to recapitulate and practice.
+Refreshing your BasicsThe whole course is a just brushing up your basic math.  The  videos are brief and to the point, and problems make you use your brains and they are not right out of the video or any other reading material. I feel only Bayes and binomial theorem videos are not comprehensive and the problems a quite challenging.
+All skills taught in this course are prileminary are preliminary and essentially. In my pont of view,  anyone who get familiar with probabilitis and statistics in high shcool chould pass this course easily. Though its content is easy, it's still a good course that anyone can review key points and take some practices in class.
+The first parts were easy but I have difficulty grasping the concepts in Bayes theorem and binomial theorem yet. I think it needs more content and more sample exercises. It could also help to put exercises in between videos for the concept to stick. All in all, the course was very informative and I learned a lot. Thank you!
+Overall it was really good and I remembered a lot of things that I had forgotten. I won't lie - I had a really hard time at module 4 and had to watch more videos on its topics. It was my first time learning specifically about the topics in module 4, so I believe that this is one of the reasons that I found it so difficult.
+This course is a great place for those who want to get started learning and also a good refresher for those who have learned Calculus, Discrete Math, and Linear Algebra. Overall the course content is easy to understand except for the Week 4 module. I feel like more example should be given for the problem solving question.
+Overall, a great course. Can get a little too basic at times. But, very good for any beginners or intermediate level student/professionals who want to get into Data Science and need a little bit of Math background for it. It is a great "first course" for anyone opting for Data Science or Machine Learning course path.
+A good course if you are in need of refreshing your math skills. While the lectures are mostly easy to understand, the questions are often significantly more difficult than the examples given during lectures. That said, it does cover a fair amount of topics that are important for advancing a career in data science.
+The first three blocks are really good explained. However, the last block containing probability was not so intuitive and I had to go to other sources to understand some concepts. It should be good to strenghten this last part and add more examples on probability of repeated events with and without replacement.
+Good Refresher course. The material is on the easy side so you can finish the class in 1-2 hours. The last part of the class about probability was very good. If you don't know anything before hand, this would be a good introduction to math topic that you would need to know, but not enough to stand on its own.
+This is a good review of basic mathematical principles. There were some examples of how the concepts apply to data analysis, but there could have been even more. The explanations were clear and concise. There is not a lot of reinforcement of the material, so I ended up doing some additional study/review.
+I enjoyed taking this course during the quarantine period.Even though the complexity of the arguments was not really high, the professors were really clear and helpful on every aspect.I highly reccomend this course to those people who want to have a good revision on some important mathematics arguments.
+The instructors break down the mathematical concepts into easy-to-understand terms, which helps me in understanding these concepts when I revisit them after 15 years. A minor feedback is if they could expand on the topic of probability as it moved too fast and slightly not as clear as the other topics.
+Great crash course. The latter units really ramp up in difficulty and the quiz/tests really made sure I was paying attention. There were a number of inconsistencies early on in the course. Although there were notices posted about them, it was still jarring to see/hear an example that was clearly wrong.
+There is a lack of examples in probability lectures.  It would be great If you add more examples in probability lectures. In order to pass the test I had to find more additional explanations and examples on the Internet. Generally, the course is well organized and other topics are explained very good.
+The course is super good, definitely worth it for a beginner though at the last week it moves at a bit too fast base for a beginner, in general, it's a really good first step and a doorway to better understand and know what are the ways you can get information from data and what can you do with it.
+Haven't done this math in 30 years. The general overview and PDF sheet were good.  Required use of outside resources to understand units on probability, logarithms, change of base, and rate of growth of continuous processes. Extra time to do outside reading but glad to have learned this material.
+Was a very nice intro into the math behind data science. The final chapter, (week 4) was not as well done as the first 3 weeks. The lessons seemed more hastily thrown together and failed to drive home the important sections. Would have been an easy 5 star but the last week was very disappointing.
+Enjoyed the first 3 weeks quite a bit.  The probability lectures were not as strong as lectures in Weeks 1 through 3, however.   I took the Intuitive Probability course offered by Zurich University to really learn probability well and only thenI was able to pass exams in week 4 of this course.
+The Math instructor was great! I loved all his lessons.  The engineering instructor teaches this final few weeks.  I struggled with his teaching style and his penmanship.  But, the topics covered throughout the course are great!  The course notes given I also found useful I will hold on to!
+Some question has no answer. For example, the log in the test 2 that answer is -80/23. It can't be that because the number inside the log less than 0. There are some errors in the same tests, too, such as the answer 1.304. Furthermore, some question in the fourth test has some confusion.
+The weakest coverage was definitely in the 4th week during the coverage of probability. One would be better off using youtube videos or another course as this overview was rushed and felt incomplete. The explanations and examples were just not up the standard set by previous weeks 1-3.
+The videos and class materials are great for introducing students to all of these concepts. However, there should be more ways for students to practice things that they have learned in this class. Some of the modules were especially difficult because of the lack of practice problems.
+There certain things in the last week 2 videos that could be explained better and I felt like more formulas could have been derived for more multiple cases in the probability section. But although for basics it is a really good course. I will highly recommend it to everybody.
+Even though this course seems to be simple to complete , the basics from this course are essential. All the Definitions of a Complex subjects are delivered through a simpler explanation. Reattempting the Quizzes results in knowing the areas where we have to concentrate more.
+I want the resend of my certificate with change of name in it. Due to some technical problems o mistyped my name in the account created. Can you please rectify my name as Alina Vincent for the course Data Science Maths Skills I completed today and resend a fresh certificate?
+Great fun brushing up all those basic skills! The quizzes were challenging. Additional reading resources might be helpful. Some later videos need a bit more explaining I guess. It might also be helpful to speed up the videos while the instructors are writing things down.
+It was a great course, I really believe that I learned a lot. However, I have to say that the last part about probability I did not find it very easy to understand as the other 3 so, I had to search for more information outside the course, that is why I give 4 starts.
+An all in all easy course to follow for the first three weeks, however the last week could have been more elaborated since that touches upon the most important concepts of probability. Rest it is a good course for anyone to brush up his or her mathematics skills.
+Is a great course for the most part.  However, as it gets toward the more complicated concepts there are expanding holes in the explanations and the homework.  Students enrolling in this course need to be ready to teach themselves more as the material progresses.
+Good course and well explained material with thoughtful questions that test your knowledge. Lost a star due to some of the tests having poorly formatted questions with regards to rending some of the mathematical functions which makes the experience frustrating.
+The course is so good, I just realized how easy the basic Math is (functions, permutations and combinations, and probability). Explained so nicely and clearly. I would've given 5-star if the Bayes' theorem and Binal theorem section provides a bit more clarity.
+Enjoyed the course, found week 4 to be highly difficult compared to weeks 1 to 3. Some of the notation in the quizzes are not in the proper format, making it difficult to read formulas. Otherwise, it was great. Thanks to the professors for putting it together.
+I have learnt a lot from this course. Your contents are more important than the certificate but i am also felt so validated for providing the certificate. Thank you so much Coursera community as well as Duke university for the online course & i really mean it
+I learned something new, actually a lot however it was a challenge to keep up with the scribbling.  Some of the writing got confusing especially when they tried using the symbols.  I may need to take it all over again to gain the confidence I need. Thanks
+A well-designed refresher course. I learned the significance of different mathematical quantities, and how to realize theorems in day to day life. Also, quizzes contained questions of various types which helped to build a better approach to any question.
+The first half is excellent. The second half, with the second teacher, is hard to follow, given that the explanations are much more theoretical, and the quizzes are harder than the videos exercises. But it helped me with basic concepts, I enjoyed it.
+Although I previously studied these things I have long forgotten them or they WAY I was taught them previously was incompatible with Data Science in general. Do this course first if you want to start data science and your maths needs some work.
+I have been struggling with probability till now but now my understanding of probability especially conditional probability and Bayes Theorem has improved significantly. Also, I never knew what e actually meant, which I learned in this course.
+Course is simple yet difficult. It explains most of the concepts in simple way but the assignments are pretty hard to solve :) overall makes perfect foundation and provide necessary skills for data Science. More focus on derivatives will help.
+The last week is very abstract and not very well explain but the rest of the class if pretty good but i feel like i've learned superficialy math skill for ML because i didn't see the intergral, funtional analysis, linear algebra in depth etc.
+Quite interesting. Some of the quizzes have questions with "tricks". Questions should be straightforward, IMO, so that it's the content of the course, not intepretation skills, that are subject to evaluation. All in all, extremely worthwhile.
+I leaned a lot especially in probability. But I had to search around various other resources before I got the hang of Bayes theorem. Also a tree diagram approach to both conditional and Bayes theorem will help get to the understanding faster.
+Some section are easy to understand, but some others not. Especially in the probability & bayes theorem section.  This section is like compressing hours of lecture into 30 mins video. For advice, maybe it is necessary to add more example.
+The learning curve was a little bit unbalanced. I think would be better to spend more time with probabiliy instead simple cartesian concepts. Besides I miss for sure linear algebra since the course its called Data Science Math Skills.
+I enjoyed this course and would have given it 5 stars if it were not because of the material in Week 4 and how poorly it was explained. Apart from that, great class to take if you have not reviewed relevant math concepts in a while.
+Great introduction to mathematical analysis and probability. I took it to refresh the concepts I had learned some years ago and it met my expectations. The quizzes, particularly the ones in weeks 3 and 4, are quite challenging.
+I am very satisfied with this course, it provides me with the basic knowledge of the math of Data Science. The lecturers explained very carefully although the knowledge was not too difficult. I will recommend it to my friends.
+It helped me to understand what I should be expecting if I want to go into the data science field. I also realized it is not as difficult as it seems if only I ma willingly to work a little harder or just do some extra work.
+Very good explanation of Sets, Sigma Notation, Cartesian plane, functions, and logarithms. But probability (last week) requires more independent learning from learners side (this is actually a very big and interesting topic)
+Sometimes  som expresions and explenations may confuse non american learners, but the content is amazing and its easy to learn ( Also too many videos have mistakes  and some scribbles in the videos are hard to understand).
+I m very happy to complete this course .it was very interesting and brain storming course.it Will help u in every situation of maths course simple question.it was awesome and very interested course...thank u 😊🥰😍😘
+It was an exceptional course , however I felt a little more of solved example and thinking procedure on encountering a conditional probability and Bayes theorem related problem can be shown a bit more for novices
+A good refresher on mathematics wrt Data Science. Concepts were very well explained. There is a vast difference in difficulty of quizzes in first 3 weeks and week 4, with the former needing to be more challenging
+Although the instructors explain mathematical concepts in simple, easy to understand ways, there needs to be many more (real life) examples as well as practice questions with answers to solidify understanding.
+The explanations by both the instructors are quite clear. However, I'm cutting one star because the difficult of the problems in the Week 4 (Probability) lectures are easy, but the ones in the test are hard.
+the week1 and week2 makes me feel i was a child,it is too easy, but the week4 is good, the example about ball is easy to understand, I think it is worthwell to take in this course if your have time.
+The content of the course as a whole is interesting as a good synthesis of basic skills, even though the content of the weeks 3 and 4 lacks of clarity compared to the content of the weeks 1 and 2.
+It is very valuable course for data science learners. They provided math topics which required for data analysis. For further learning, it is very useful. Thank you for providing such great couse
+Entire course material is very helpful in understanding the concepts. Only request would be to simplify the probability section a bit more so that it can easy to understand the concepts clearly.
+Great refresher and primer. The section on Probability and Bayes Theory needs a lot more support material (video and notes) as it can get tricky and abstract,  especially when doing the quizzes.
+This course was very easy to understand, though I  think week 4's context required more examples. Overall, it was a concise course for brushing up basic math skills required for data science.
+Good refresher.  Weeks 3 and 4 are much more difficult to follow than one and two.  Part of this is due to the subject matter but also a change of teacher / and style makes it more difficult.
+There are a lot of different topics in this course and I feel that more experimental examples and longer lectures that are more coordinated within the module.  It was a good review, however.
+Loved it! Started off easy but got a little tricky in the end with Bayes Theorem. Glad I know which data / math areas I need to brush up on for my job. Thanks, Duke University and Coursera!
+sometime the lecture is too easy to understand and after some week it goes too hard to understand even it not a hard thing but sometime the lecturer make it so hard so it can make confuse.
+A great review of A level statistics which I had long since forgotten but suddenly found myself needing again.  A really good balance of work through the weeks and at just the right level.
+It started with very basic and gradually it lead me to work more hard and think thoroughly. Quizzes was very good and week 4 was kinda tough for me, but I managed it. It was hard but fun.
+It was quite good learning online and it helped a lot to learn Mathematics, I am bit confuse that how would l use this knowledge into data science ? overall reading learning was amazing.
+I like all the video lectures more and gives me more ideas to recollect the ideas..  Week 4 videos little more to be improved with other set of examples to make the concepts more clear
+Course is really good for beginner who wants to start career with data. Especially is possible understand everything by video companion which explain math skills in practice exercises.
+I find this course really helpful with explanation of concepts and definitions. I would like the probability module to have more example exercises though. I really need more examples.
+I love this course. I have gained lot's of knowledge by completing this course. I would recommend who want to develop their career in the field of data science should use this course.
+Could have a little more of theory on how to solve the problems. But otherwise a good understanding of the basics of the statistical and probability maths required for Data Analysis.
+I did not like the last week, I have tried to help on the forum with answers, but even me with a solid back ground in probability  thinking that it must be explained in a better way
+Quite useful especially the last few probability sections with a focus on Bayes' Theorem. My key takeaway was Bayes' Updation which I had hitherto ignored. Good introductory course.
+Overall the course is very good. Although there are some errors like a few questions in the quiz are wrong. And in the last week probability is poorly taught. Otherwise, it's good.
+nice course but very introductory nothing further, a good catch for someone with very little math skills and thinking about getting him/her self ready for a career in data science
+The course was very nice, the only complain I have was it was a bit too basic for the first three weeks, it became a lot more interesting and a bit challenging in the 4th week.
+Liked the course, it covers the basic concepts nicely. However would like the probability section to contain more problem examples in the tutorial video or reference materials.
+The lectures are done ok. The tests are a bit too complicate with respect to the level of the lectures (specially the last ones...).  Apart from this, the course is worth it!
+Good content and non math student can also learn concepts taught very quickly. Good start towards data science course. Must have skills for non math students and scientists.
+Good videos , quizzes and reading. Need to improve Probability section by adding some simple example by cases in the videos and the readings since it is quite hard to catch
+What I am impressed the most is the assessments are quite challenging. Make sure that you have good math background before taking this course. But overall, it is very good.
+Good course to revise basic math concepts! Would have liked the probability module to have been a little more detailed. But on the whole i had a good learning experience.
+It's a great refresher of a lot of math & probability concepts. last wk (wk 4) of the course is not great. more detailed explanations and examples will be very helpful.
+Very useful to review some math basics that everybody forgets after school. Interesting the part on baesyan probability which I only knew on a game theory point of view
+Learn many thing and boosted my confidence on the math concept explained in the course. I would have appreciated some more in-depth explanation of the last week classes
+The video provided is very helpful this is because they explain more the concept. The quiz is help as well because they provide the solution when we wrong the answer.
+Very good course, but  in chapter 4 when starts to talk about probability, It starts to be confusing, there are some questions in the final test that seems ambiguous.
+The first half it was great. After that I felt really confused with the probability examples and the exercises was really tricky. Besides of that, it's a good course.
+Good course to start your learning off, could do with some exercises to facilitate learning along with references to more extensive materials for reading or viewing.
+Its nice course to brush up basic maths. It would be helpful if you can add more topics which are required  to complete data science like matrices and other concepts
+It was doable for the first 3 weeks as it is a recap to me. The 4th week is a little challenging as there is probability and Bayes' Theorem. Overall, a good course!
+The first 3 weeks were excellent and enjoyable, however for week 4 the material was not explained clearly and necessitated the use of external material- not ideal.
+The last week of Probability was not upto the mark and I had to study it from outside to clear some doubts. Other than that rest of the topics were well explained.
+It seemed the last week course was a bit rushed and could have been extended into few more classes. Apart from this the exercises and practice quiz were very good.
+It was interesting and simplified which made it more understandable except for the last classes in week 4 which didn't have enough examples for clarity. Thank you.
+everything is great and sufficient for starting in data science. but please one request please do elaborate more the probability concept with excellent examples
+The fourth week was not specific enough and not covered entirely . Also the professor should consider using widely accepted scientific notations in probability
+The second part was difficult for me because was short on examples and not as dynamic as the first two weeks. But overall I would say that was a nice beginning
+Another course on how to apply Bayes-Miller to something other than coin flips and card drawings is needed. The transition to real-world problems is the issue.
+the very last week was toughbeginner of data science will not understand. that probability things is really hard to understand without some basic illustration.
+Good content, but the explanations will be able to improve, i know that at last week the subjects are complex, but i found better explanations in other sites.
+The initial material is very introductory but the later does get much harder.  A combination of the lectures and notes provides a good coverage of the topics
+From these course your basic concept of mathematics will improve and anyone can apply in these course. It is easy as non mathematics person can also learn it
+Pretty decent. I could've used some clearer explanations on the statistics stuff, but that's likely due to the fact that I've had no previous exposure to it.
+Its a good review of the concepts I studied in my high school but it is certainly not enough to dive right into data science after completing this course.
+It is really amazing course which refresh my short knowlege and cleard my some of the doubts.And Great thanks to instructor who make this course amazing.
+Easy to understand. Very good for beginner's. Handwriting was a little tough at times, but explained well by the instructors so it didn't hinder learning
+They gave real life examples to explain the topics which is very good .. personally it helps me to understand the core fundamental logics of each topic.
+Actually I don't know well whether these contents should be earned by video classes. But, the explanations and the passion of the instructor were great.
+The course is good for beginners. Although, more emphasis could have been placed on industrial examples but still the course is a great start for anyone
+an essential course for them wants to learn data science.  But last week become really tough to understand, though the experience was good.Thank you.
+it was a great experience to have this course . I have learned lots of statistics tricks , which I found difficult. Thanks to provide these lectures.
+It's really good courses to get complete command on mathematics on this very lockdown times.It really helps me to solve such maths problems.thank you
+it was nice and understandable course specially the probability part .. for a basic data science it is enough to cover all mathematical portion.. :)
+very good content and quality, however, the explainations could sometimes have been presented better way (the blackboarding could have been better).
+Good course if you want to get the necesary skills for a data science course. The readings were good, but more examples would make the course better
+Overall a good overview, Bayes portions moved much faster than the rest it seemed like. Maybe it's only because I'm less familiar with that portion
+I wish the Bayes Theorem explanation was a bit more clear. I found it hard to understand. Apart from that the course and the exercises were great!
+Thank you that was very nice, especially in Algebra. I think just in part of "Probability", week four,  it was a bit ambiguous. once again thanks.
+very helpful course to refresh our memories on probablity functions.week4 quiz answers explanation is missing - could you please upload Thanks
+Needs more examples being given in the videos. However, the instructor does a good job in explaining the concepts in an understandable manner.
+Very good resource to refresh thIngs we learned in the past and also asses some voids in our knowledge of calculus and probability. Thanks!!!!
+Week 4 gets confusing as more examples could help explain concepts. Otherwise overall course is great  for basic math skills for Data Science
+Introduction to some basic mathematical terms. Conducted in an easy-understand way. Not very clear explanation in the part of probabilities.
+Great for those who need to review their fundamentals. Helpful for people like me who already forgot about derivatives, probabilities, etc.
+the material could be a little more challenging. If more vector/matrix material is introduced would be more helpful to the data scientists
+This course helps me to learn basic math of Data Science very effectively but more math skills are required other than this maths skills!
+The last part of the course, week 4 is a bit short on example, more examples on how to calculate conditional probabilty will be helpful.
+Easy and suitable for beginners with high school math skills. If how the equations are deduced are introduced, it would be even better.
+Good video course and quizzes. Not too long.Only remark is the code in the quizzes, sometimes fractions and formula's are not visible.
+Good materials. But examples from learning sections are a lot easier than problems in quizzes. More difficult examples would be great.
+Week 1 - 5/5Week 2 - 4/5Week 3 - 3/5Week 4 - 4/5A good introductory course which could do better in explaining some concepts clearly.
+Every data scientist needs to know some statistics and probability theory. The amount of math you'll need depends on the role.Thanks,
+It's a excellent course with all of the basic concepts to start in the Data Science World.Great regards and thank you for the course.
+It was a good course for a beginner.But I think the proportion of the course allocated to probability is much less than it deserve.:)
+it's a good choice for anyone who wants to refresh or enforce his knowledge, even to discover what math skills a data scientist need
+Very comprehensive and challenging - I feel a final quiz would be great but individually, very well though out content and questions
+The course offers a good insight to the maths skills utilized in Data Science. WIll be looking to program all concepts learnt here.
+A very great course for begginners but it would be great if the math skills could be elaborated closer to the real world examples.
+Although I've already learned these but I had so much fun reviewing and gaining new insights on the materials! Thank you so much!
+Though that this course was too simple but actually it is quite an eye opening and refreshing for the last two topics. Well done!
+This is a interesting course . I learned lot of new things from this course .This course will be beneficial for me for my future
+I enjoyed the class.  I haven't taken probability in over a decade so it was rough learning it again.  Thank you for the class!
+The instruction is great in presentation however it is far too shallow for the depth of the questions expected on the quizzes.
+The Course was structured pretty well! Like the tutors. More Support could have been offered for the last two modules though!
+Well taught. I felt Bayes Theorem could have been explained a little better. However, overall a wonderful course. Thank you.
+its very good course,,but i didn't mark 5th star because course need more excercises on each lesson special at probabilities
+Thanks for course! Only advise I can give - change the name to "Basic Math Skills for Data science". Course is pretty easy.
+I understood all the basic math skills behind the data science Field. Very good explanation of probability part and so on.
+It is very good course but
+need to add more exercises (examples), reading materials in
+addition to more and longer videos.
+Should be rather more competitive from the 3rd week stage. Although the teaching was definitely interactive and engaging.
+Well-described concise notes and if you do not understand anything, the author provides written notes with every lecture.
+Good course for brushing up one's maths skills.  I found the week 4 content quite challenging, but got there in the end!
+It was very awesome experience with coursera.it help me to clear my concept regarding with data science and math skill.
+One more week on Probability could have been better. Probabilty week felt a little rushed. Rest was awesome. Thank you.
+Good introduction course. It will be better if more contents and examples for calculus and probalility can be provided.
+Quality instruction with clear explanation of concepts and relevant practice/test modules to check your understanding.
+Maybe a little easy for the real task, I will try another harder class, but thanks for giving me the chance to learn.
+no discussion or ongoing grade at least in the beta course.  Generally pretty good, a little slow and simple to start
+Clear structure and typical case were applied in this course. However, hope the course material could be more detail.
+Good course for people who have been out of school for a long time and looking to understand some math fundamentals.
+The course was helpful to enhance some forgotten mathematical concepts, especially probability and its applications.
+The course is helpful both as a refresher and a introduction, although i would like to have more practice exercises.
+Good one .Content creator focuses nicely on basic maths which is required further for understanding complex topics.
+Some lectures were not that interesting but the video companions are so well and the quizzes are very interesting.
+Week 4 problems are so chalenging,  Give some more reading refernce, practice reference, need more practice on tht
+Would be great to have a chapter dedicated to relating the concepts learned with typical data science activities.
+Pretty basic until the last module.It has been very useful to remember a some maths that studied a long time ago
+THE QUIZZES WERE AMAZING. IT CHALLENGED ME SO MUCH. BUT AT THE END I COULD GET BETTER AT MY ANALYTICAL THINKING.
+I liked the explanations, there are some errors that are corrected as comments that chould've been easily fixed.
+Extremely help ful for the beginner in data science thank you coursera, Duke university and both the professors
+Material was well presented. Exercises could have been more involved; likely would have enhanced the learning.
+Really enjoyable course that taught me how much I still need to learn to truly understand probability theory.
+The course is well structured and good for the newbies and the ones who are not from mathematics background.
+I wished there were better examples and a little more in depth videos for week 4 since week 4 was very tough
+Good course. I feel like Week 4 could have been explained slightly better but otherwise I really enjoyed it.
+Great Course content, but many formatting mistakes which made some questions difficult to understand fully.
+Great course. For me the linear algebra part is too easy. But really learnt a lot about Probability Theory.
+Some topics were slow; Final week on Bayesian theorem etc. should have been covered little more in detail.
+The Bayes Theorem and Binomial Theorem portion could have better examples and more simplified explanation.
+There are several mistakes in video lectures, there are pop-ups saying about those mistakes, but still...
+I really enjoyed the session on Data science math skills, refreshed all the math skills learnt long back.
+It is wonderful to go through the basics of  data science math skills. Thank you for offering the course.
+brushed up the basics of mathematics good course for beginners and want to revise the key skills of math.
+Please make probability sessions more interactive so that it will be useful to understand basic concepts.
+at time the formulas are given without proof or intuitive explanations. overall a good basic level course
+Congratulations on making such a course. But remember that the largest room is the room for improvement.
+It was a great course but in last two modules is seems it is difficult so need to make it more expalable
+A good refresher on some basic concepts. Great intro to bayes theorem. Didn't go as in depth as I hoped.
+Some of the assignments are not well covered by the material, I have to check with additional material.
+Well Structured course , had fun learning. Thanks to Duke University and Coursera for the opportunity.
+I was a good experience to learn the base of mathematical skills related to data science and analytics
+the course was great but the last week was so hard and the instructor didn't explain the subject well
+Good refresher course. The course instruction would definitely benefit from some real world examples.
+A well structured course. Content is simple and limited yet it sticks to necessary for data science
+The last part is a little bit confusing, I think there should be more introduction about why is it.
+Would definitely recommend this course as an introduction or refresher to Data Science Math Skills!
+Can be make still better and more descriptive content with more examples in the instruction videos.
+Overall I really like this class because all lectures, assignments, and tests are straight forward
+The Probability class (week 4) is difficult, maybe more examples should be explained during class.
+Wish it was faster and some of the earlier topics were too basic. Overall, it was a decent course.
+Great Subject for the Data Science Students which cover most of the topic related to the subjects.
+Suitable for high school students. For a University student it can be easily finished in 1-2 days.
+An effective and interactive course to start with the basics of data science math-related topics.
+The course was pretty easy except for the last week. The teacher of the first 2 weeks was better.
+The course is very relaxed and very quick to sort out the mathematical knowledge of data science.
+The Course was really good to refresh the math concepts needed from a data science point of view.
+Great lectures, the quizzes were extremely helpful in judging my understanding towards the topics
+It was exactly helpful.Coursera gave me a proper understanding  of sets, probability and graphs.
+Probability concepts could be made easier and simpler to understand with more and more examples.
+Good course, to really brush up basic Math. It would be worth to go bit deeper into derivatives.
+Good course to learn the basics but the explanation of Probability part should have been better
+A pretty good course, though the second half wasn't explained as intuitively as the first half.
+Really great for the algebra.  Statistics was harder and needed more reading around the subject
+It's very good and if you're beginning your career in data science, this course, it's for you.
+Good Course. Can be Extended with more lessons and a little more depth in the topics chosen..
+it is a good course for beginner.Most of the lectures are informative and easy to understand.
+Good intro or refresher, but needs more concrete examples in the probability theory section.
+Very helpful course for those who want to pursue their career in Data science and Analytics.
+thank you for teaching me and coursera has a good material and i like the way how hey teach
+A very basic introduction of math. You can use this course to recap the relative knowledges
+The course is short. It had better if you design a Data Science Math Skills specialization.
+Pretty basic stuff, but a good refresher. I wish the course spent more time on probability!
+Highly basic math course with a subtle introduction to probability and many other topics.
+I enjoyed doing the maths...Thank you for the free course especially during lockdown days
+I liked theI liked the course and it was useful, the last part I found some difficulties.
+It was very insightful. although i had difficulties understanding the courses in week 4.
+i would like to see more practicality on day-do-day application, but overall good course
+i learned a great deal about probability distribution which i didnt know in particular.
+Good starter course for beginners. Several basic concepts could have been elaborated.
+Exercises were really targeted and helped me consolidate the knowledge I've learned.
+Great course for beginner. But this course need some improvement at week 4 material!
+A great course to remember old subjects and be familiar with the basics of algebra.
+accha tha course par kuch samjha hi nahi , jo samjha wo to pahile se hi aata tha!!
+Great insights on how to go about  solving the problems with different techniques.
+Overall, a good review of mathematics skills ranging from calculus to probability.
+The last module should have covered more solved examples in the instructor videos.
+Probability section should have been detailed otherwise the course is very simple
+Wonderful learning experience. Needs more detailed content in probability theory.
+A good course with intensive content providing learner wide view of data science
+The binomial module would be better if there were more explanations to exercises
+It could have been a bit harder. Overall a well thought out and precise course.
+Useful knowledge.Interesting to remember important concepts for data analysis.
+good mathmatics skills to learn and amazing easy learning things available !!!
+Great experience while learning, but it will good if it contain more problems.
+Coursera is a very effective learning website to improve skill. Thanks Coursea
+Very good course, but a couple more detailed examples would help comprehension
+Great Beginners course! Would appreciate if they had more interactive lectures
+the course is well structured but is a bit unclear at the end(week 4 modules)
+A very good introductory course. Could have more foundational concepts taught
+this course gave me a better foundation in mathematic skills in data science
+last week class need more explanation since the quiz is harder than expected
+Its really helpful to build fundamental concept on school level mathematics.
+maybe need more details about probabilities, and add Russian to the text :)
+Excellent course I enjoined. I looking forward this type course. Thank you
+Great course to upgrade your Mathematical skills required for Data Science
+The second half of Week 4 was good. Rest of the weeks were pretty simple.
+It's great for brushing up on your Statistics and Probability knowledge.
+The first three weeks are too simple, while the fourth week is too hard.
+The guys are clearly very well across their stuff but don't act like it.
+Very helpful overview of basic math skills. Great refresher in general.
+great for reviewing if you already knew material but needed a refresher
+first 3 weeks very good. the 4th week, on probablity, is very confusing
+The course is pretty good! It would be better if it had more exercises.
+i like the teaching and quizzes as it helps up during problem solving.
+Introduction to the basic knowledge preparation of college level math.
+Last Weeks concepts are good but not great, everything else was great
+Great Course with great instructor and Sufficient difficulty level...
+Week 4 was difficult. Please provide solutions of week 4 graded quiz.
+Re-shoot the videos and re-word the quizzes and this can be a 5 star
+Course contained simple maths, algebra, summation, mean and variance
+Very well designed with plenty of examples for better understanding
+Great course to be back on tracks with mathematics and probability.
+Really is through a provoking course, as how many ways to estimate
+Overall, a good course. Could do with some more detailing, though.
+this was nicely designed course,and made me re learn many concepts
+This is a great course to start with for Data Science Mathematics.
+great course, would be great to have a follow-up with more content
+The quizzes are hard compared to the explanations in the videos.
+It's a very intersting training in order to refresh your memory.
+A little bit easy if you have solid high school math background.
+Good explanations and brief presentation of Important concepts.
+I have enjoyed this course and learn about data science skills.
+the course overall was good -- the probability section was hard
+Good introduction to a few concepts that permeate data science.
+probability theory was a bit fast but otherwise it was awesome!
+Very much  understanding !! It's good....guys go and check out
+Great course for basics math and introuduction to probablility
+Insightful course. Would recommend to anyone within the field.
+It's great pleasure to enjoy such course from respected sir's.
+Well informed and structured sample case approach to real life
+Good Course to understand the Maths behind Machine Learning.
+Great course, but hard to understand without math background
+Last Week was bit confusing and not clear. Rest it was good.
+Good Course. The probability section needs some improvement.
+very steep learning curve, but good info on lot of formulas
+More exerciser required. Specially in probabilities theorem
+The most fundamental course explained in the most easy way.
+The Bayes theorem and binomial theorem needs more examples.
+Would have liked a more advanced discussion on Probability.
+Very nice course clear all basic and intermediate concepts
+I learn so much basic topic ,so it's really helpful for me
+Really good but wish week 4 lectures were bit more clearer
+It was Indeed an Amazing Experience taking up this course.
+Experience was amazing, I got to learn lot of new things.
+Could have spent more time explaining when to apply what.
+still difficult to apply the theory to real life examples
+More practice problems would have made the course easier
+A great fast introduction into Data Science Math Skills.
+Great course except for the instructor videos for week 4
+I hope detail reading can have example at video, thanks
+Explanations need to be at the same level as assessment
+EveryThing is okey but probability session is not good.
+Very useful and uses this knowledge to improves better
+Perfect foundation course for maths skills enhancement
+This course helps in probability, Binomial, Sets etc.
+It provides very good knowledge and in very easy way
+This class give me a lot of thinking of Math skill
+Very engaging instruction and interesting content.
+Great introductory course for people outside STEM.
+thx you i have learned alote from this Coutsera...
+Good course. But course material could be improved
+Great introduction / refresh to math & probability
+Overall, the course was good, but I expected more
+It lacks some more problem solving explanations.
+this course is useful to get the logic of maths.
+great introduction and refresher to maths skills
+Probability Course is difficult to understand
+The first three chapters are relatively easy.
+interesting and learning more inside course.
+Good examples and illustration. Good tests.
+Good but need more informative information
+Good it was perfect for beginners like me.
+This is helpful for gaining a knowledge..
+The second part was a bit short and fast.
+its nice to understand the logic of math.
+Teaching and explainations are quite good
+Very good refresher course on Probability
+Week 4 content is not explained properly
+It was great introduction to math world.
+all is good but improve probability part
+This is really very beneficial for me...
+Nice but It was obvious and easy stuff.
+Too good content and practice sessions.
+I'm so happy can follow this course :)
+Course Tutors are teaching nicely :)
+Overall good, little tough on week 4
+Good course and supporting materials
+very useful for building foundation
+the last unit is a bit confusing...
+Some concepts not explain properly.
+Thanks for this awesome course sir.
+A good course for math begianers
+Great for a review of the basics
+Nice start math for Data Science
+This course is very interesting
+Probability part was difficult.
+very coherent class! Thank you!
+Content was really helpful !!
+Worth to refresh math skills
+Very interested course.Nice
+Nice course for a beginner.
+fully satisfied with course
+Probability course was good
+good course for a kickstart
+Please send the certificate
+Fantastic and elaborative
+i want a certificate.....
+this is just basic course
+Course is very helpful 😊
+No answers for some tests
+Yeah it's good to learn
+i learned data analysis
+Good refresher of maths
+nice introduction class
+good for entry learner
+This was A nice course
+Good contents to study
+expanation is soo good
+Really awesome course.
+Great Stat refresher
+Overall good refresh
+A beginner's course
+it is the best one
+INTERESTING COURSE
+Nice for Beginners
+Basics it is good
+worth learning!!
+It's wonderful
+Good session
+Great'''''''
+Please include integration, algorithm analysis (big O, theta, omega), recursion and induction. Your course is helpful, thank you. If you add those things I've mentioned it would be absolute gold.
+Effective way to refresh and add the Data Science math skills! Thanks a lot! At the time of the study some of the quizzes content were not rendering correctly on mobile devices (both iPad and Android)
+This was mostly review for me though probability especially Beyes Theorem derivation was new. The instructors provided clear often refreshing ways to look at material.Thank you for a great class!!
+I graduated with a BS in computer science and mathematics 15 years ago.  Since then I've been working as a Business Intelligence consultant and I've recently decided to look into the field of Data Science.  I was looking for a math class to refresh my math skills rather than start from scratch and this was the perfect course for that.  Kudos to Daniel Egger for creating the class.  It saved my a lot of time.
+Effective way to refresh and add the Data Science math skills! Thanks a lot! At the time of the study some of the quizzes content were not rendering correctly on mobile devices (both iPad and Android)
+The course overall was great. So much math was covered that it is hard to believe it was all done in 4-5 weeks required to complete the course. It was well taught-- very relevant and clear for the most part. I have had all this math in the past so I had a frame of reference but without it I think it would be hard to follow.  Having said that,  I found the Probability lectures hard to follow. It seemed you need to know a lot of probability theory beforehand. Also the videos were too short in this sections and went very fast.  The videos need to be 20-25 minutes with more examples.  The quizzes in this section were the hardest because not many examples were given in the lecture.  Overall though I feel accomplished and feel I can tackle the math that comes my way when I pursue my data science degree.  Thank you for putting together a course with the background math needed for data science.
+This is neat little course to revise math fundamentals. I generally find learning probability a little tricky. This course helped me a lot in better understanding Bayes Theorem. Thank you professors.
+I thought this course was a nice refresher on basic mathematical concepts and it introduced me to set theory and probability very well! I think I am better prepared for data science afterward!
+Excelent course to begin!
+Overall the course was great. Shored up my knowledge on a number of subjects. Could have used better explanations of certain topics though. There were a couple of instances where the instructors simply show you how to use a particular equation to deal with a particular kind of problem without explaining why it works. For concepts to really sink in you need to get a deep intuition for how they operate. I think these intuitions were provided for the main concepts, but there were some sub-concepts, where they essentially just gave you the method without getting into how it works. It's fine to know how to use it, but without a deep intuition it's just memorization.Overall I really liked this course though. The quizzes and tests were challenging and fun and I came away with a much better knowledge of the subject matter, especially probability. I'm not a scientist, so I can't really speak to whether this will be all I need, but it was certainly helpful in the data science concepts I'be been exposed to so far.
+A tremendously useful primer on the fundamentals of data science math. This course is a particularly good option for individuals who have seen some amount of calculus and algebra but haven't used those methods in a long while and need to review. Thorough, easy-to-understand material.I would suggest to the course facilitators that they develop the provided lecture notes -- already a useful tool -- into a full-fledged text. I'm not suggesting something much longer than what they already have, but simply taking that document and adding a bit more rich content. While the notes are useful for more carefully studying the math being done in the lectures, even a bit of effort putting some pedagogy into the notes and combining them into a single document (which I did for the sake of printing) would create a hugely valuable resource.
+This course is designed for those either without a college level math background (calculus, probability, etc) and thus need an introduction to fundamental math skills or for those who need a refresher. This is not a course that teaches data science, nor the math of data science (linear algebra, random processes, algorithms, etc). But rather it teaches the math behind the math of data science. It reviews the basics of sets, plotting, sigma notation, derivatives, logarithms, mean and variance, Bayes theorem, etc. It is a gentle introduction to basic math skills that everyone should have. This is a course to definitely take as a refresher or before venturing into more higher topics such as collegiate math, data analysis, machine learning, computer science, engineering, etc.
+I learned many new things, ideas, knowledge,and skills from this course.I am very much thankful to both professors for teaching about all of those interesting lessons,providing many more things. now, I am able to give all of the answers frequently which I learned from this beneficial course.
+The course has limited resource to understand. This course content is not sufficient to understand the topics. But that is fine as we come to know what we need to learn .Then , We have to put additional effort to understand the topics in external sources like textbooks, Internet, youtube.
+cannot believe I took a programming course without doing this - the math was taking me so long and it was because I hadn't finished high school math a decade ago (our school didn't require it) - really thankful to have found this course!
+Every part covered gives a good introduction to the world of data science as intended. However in my personal opinion the part on probability was covered a bit hastily, though the quizzes will force you get some in-depth understanding
+This is a very interesting course for those who have not used math for many years and now want to pursue the field of data science. The basic concepts are presented coherently and understandably attracted me throughout the course.
+It is really good  data science  math course, all described topics are
+highly important to know for everyone who need to know about data science.  if anyone want to know
+about  Data Science I will recommend to join this course.
+As a non-native speaker, the first three parts are helpful in getting into math terminologies and reviewing basic math knowledges. The essence is all about the last part, which might be a little tough for new learners I guess.
+A great refresher course and a range of interesting and foundational concepts. Would recommend to anyone who has prior experience with calculus and probability theory and is just looking to remind themselves of key concepts.
+Great option to get back to the Math worked, reviewing the basics of what needs to be known when working on data science and see where you need to put more effort. Hoping this helps while I continue taking other DS courses.
+It helped me reviewing and learning interesting mathematical points that will help me understand more about my Machine Learning course.I believe the last week, about probability. could be more extensive and made more clear.
+This was a great beginner course on some of the math you might see in Data Science. I'd recommend this course to anyone that might not be confident in math who want to start a career in this field. A great refresher!
+Fantastic course, especially when paired with or done before Andrew Ng's Machine Learning course as it matches up quite well! Thank you for the detailed guidance in the practice quizzes on incorrect answers as well!
+This course gives me the basic conceptions about the mathematics, especially parts about calculus and possibilities, however, if would be great if there are samples or basic practices related with the data science.
+This was an excellent review of the basic mathematical concepts useful in data science and machine learning. Thank you very much for the very concise and clear explanations of the various topics! Much appreciated!
+very nice course, and a good starting point to catch up data science and computer science math-skills. Helps to bring some of those rusty concepts back into memory, and from there you can expand further ...
+Hi it is very helpful to me. Concept is properly explained. I enjoyed learning process. Expect some more courses on data science as well as on python which involves real time application.Thanks a lot.
+First 3 weeks were easy going and the last week was a bit more challenging. I think more examples could be included in the lectures to understand Bayes' Theorem at the most fundamental level.
+It was a very good opportunity to go through the course, and the content was good. I can say I definitely learnt a lot in this course. Thanks team and kudos to great work you guys are doing.
+Looking forward to advanced courses on Linear algebra, eculidean geometry that would make the concepts of vectors, matrices, plane and any application of those in the data science problems.
+It covers all basics of mathematics and of-course intermediate concepts from Mathematics which are essential for data science in general, and very useful for data mining, data storage etc.
+I just finished the Data Science Math Skills on Coursera which is taught by Paul Bendich and Daniel Egger. Overall I learned a lot from this, but most of the stuff I learned already in Algebra class. For example, one thing that I already learned was the definition of infinite numbers on the number line.One new thing I learned was about sets, which are a way to group numbers efficiently. It makes a big set of data easier to read and process. I also learned from this course is something called sigma notation, which is a way to solve a certain type of equation. If this sounds really technical, don’t worry. Honestly, the course was less about doing math and more about learning how math is related to data science and some basic techniques and definitions.Overall this course surprised me because I thought it was going to be a little boring, but it turned out alright. The only bad thing I would say about it is that Paul Bendich made a quite amount of errors in his lesson, causing Coursera to pause the video and edit it
+The course overall was great. It was well taught-- very relevant and clear for the most part. I found the Probability lectures hard to follow. It seemed you need to know a lot of probability theory beforehand. Also the videos were too short in this sections and went very fast. The videos need to be longer, with 20-25 minutes and with more examples. The quizzes in this section were the hardest because not many examples were given in the lecture. Overall though I feel accomplished and feel I can tackle the math that comes my way when I pursue my data science degree. I will certainly recommend the course to my friends who wish to have better knowledge in mathematics for data science.
+The course is a prerequisite for a Data Science course and its aim is to empowering your math skill :) With this purpouse, the course covers important mathematical topics; it can be used for advanced learners as a revision and a recap of fundamental subjects but someone may find it a little bit boring. I love maths so I really had enjoyed the course. For me, the last part (about probability, Bayes theorems, etc...) was the more challenging and interesting but I had also appreciated the first part with the funny explanations of prof. Bendich :) I think that the pdf companions are really useful to follow the lessons better.
+The course has truly been helpful in showing me my level of understanding on the topics, as like all the other reviews it was a great refresher and more so it was truly helpful in helping me see areas i needed to improve on to become more advance in mathematics. i definitely recommend this course for those who want an understanding of the mathematics that is used in data science. this course by no means is an all you need math course to be successful with data science, but more of a stepping to stone or guide in my opinion in finding the right path to take to become far better in mathematics for this field.
+While most of material is well known, it is presented in a great way, so it is a clean and smart refresher for Sets, basic Algebra and notations, Cartesian geometry and functions, and derivatives. I knew the material about logarithms, exponentials and probabilities, but I felt that I knew it better in the end of this courses. Material is great, and teachers are very clear. I wish they came with more material about calculus (matrices), vector spaces, Lagrangian, Hessian and so on, which are also really interesting in Data Sciences.
+This course offers a great refresher of the FUNDAMENTALS of Linear Algebra , Calculus and Probability. Do note the strong emphasis on fundamentals. All lectures are well produced and the material put forward in an unambiguous and layman language. The concepts presented are very easy to grasp , all thanks to the brilliant efforts of professor Bendich and professor Egger.This course , along with another course on Calculus would serve as a great starting point for all data science enthusiasts and I strongly recommend it to everyone.
+One of the best course, i have ever learnt. Even though i have been learning the Data Science for the last few years, i had no idea how the algorithms are working in technical. Which i was always skeptical. But honestly, now i am able to get things really faster than before. I am very happy, i have joined this course. Thank you so much for coursera to bring this course and importantly thank you so much for the professors to explain things in an easy for the people to understand. God bless you both and your family.
+I thoroughly enjoyed taking this course because of the effective syllabus that reviews the math skills for Data Science.   I liked having both Test and Graded Quiz to check the understandings of the subject. Test Quiz gives good feedback on both correct and incorrect answer that helps to compare the problem-solving strategy and solution of the students with the correct solution.Graded Quiz gradually becomes more challenging and the week 4 graded quiz is the most challenging quiz of all the graded quizzes.
+I enjoyed the course content and lectures. The quizzes were a good test of understanding. I was wondering if there could have been a few more additional lectures and practice problems on probability. I request the team to check the answer to the 11th question on the last quiz of week 4. Prof. Egger's lectures were very interesting and I only wish he had a larger writing board or apparatus. Thank you for getting me interested in a subject that is not my core area of work!
+It was exactly what it said, math skills for the Data Science. Standard of problems kept increasing and became more and more challenging. I was able to finish the first 3 weeks in one day, because of my physics masters, I had previous Maths training, and that came handy. For the fourth week, the probability was extremely useful and challenging. I would recommend this to all future data scientist, especially if you are not coming from the Physical science background.
+The learnings are very broad meaning, it is not only applicable in the field of data analytics but also in a the filed of mathematics, sciences, and statistics  in my opinion. Thank you professor Daniel  Egger and professor Paul Bendich for the amazing efforts, like for the amazing lectures and putting the step by step process of how to solve certain problems in your quizzes and also the of copies of the handouts which made my learning more conviniet.
+I never thought I could do math, that I just didn't get it. In this course I was doing math stuff that I considered was way above me. While I still have some difficulties with the more advanced concepts such as logs and "where to begin" with probabilities, I still have a foundation in these that I actually understand. Knowing my inadequacies I can go on and study those, but thank you so much for making an easily understandable course.
+Excellent course for beginners. It starts from the basics and goes up to the intermediate level. Excellent short and very well explained videos and exceptionally good practice and graded questions. These questions help students to think deep into the matter and provide the necessary stimuli of in-depth learning. Great course. I am much obliged to Coursera, Duke University and the instructors for giving such an opportunity.
+From 3 courses I've taken so far, this one was the best, because it covers a lot from basics to complex math. By the end of the course it does try to cover very complicated topics, which if you don't have training in, you will feel the need to supplement from another resources, even though the reading section of this course helps a lot. Lectures on Khan academy were also very helpful in remembering lost concepts.
+The course was easy and comprehensible as long as you have done basic maths at some point in your life. For those who don't I would suggest to go and take a calculus and statistics course and revisit. Otherwise, you would have to do some research by your own, in order to be able to follow. Keep in mind that if you do not see the exponents etc, change browser. Chrome seems to work better than my Firefox.
+I did learn this course due to I found out a mention about it in an article on the Web. I had 3 higher eds with math, and I needed to get it again because I started to learn Data Science in Health Care Administration. Thanks to the lecturer, thanks to all who made this course availible online.I would like to continue with you! Highly recommend this course for those who need to study Data Science.
+Great course to strengthen the basics before jumping into applicable approach on data science. The hardest part on this course is the week 4, the one with probability and bayes theorem, and it is advised to get supplementary information on bayes theorem and probability to avoid confusion. All in all, it is highly recommended to anyone starting to learn for solid understanding on data.
+I am fairly new to the field of Data Science and Machine Learning, and I felt like i had to strengthen my math skills, hence why I enrolled in the class. The professor did a great job explaining everything in detail, and brushing up on simple math terms. I feel more confident now to move forward into data science that I have a basic knowledge and understanding of the math concepts.
+A fantastic primer on the basics of math related to practically every quantitative field. I hadn't touched probability since high school but now i feel that i am prepared to tackle intermediate probability problems. That being said, prepare to breeze through most of this course and then suddenly find yourself looking up advice on math stack exchange. I love Bayesian statistics.
+First of all I would like to thanks Coursera for providing the different types of courses by the world best instructors from the top universities. From this course, I get to know more deeply knowledge about data science maths skills .By, using those knowledge I can apply those in real life problem related to this.Thank you very much Coursera for providing this type of platform
+I totally liked this course for clear explanations and plenty of practical exercises. Some of them were not easy for me, but thanks to comments after mistakes I could finally find the right solutions. Just in the last week in the final quiz, there were no explanations, but maybe it was a problem on the site side.  This course made me think a lot, and I enjoyed it genuinely.
+I thoroughly enjoyed my course as both professors made the entire process of learning an excellent starting point for beginners as well as a wonderful refresher for those returning to the subject once again. I strongly recommend doing this course in order to better understand the fundamental concepts that are underlying the domain of mathematics in Data Science.
+This is a good course for anyone who wants to brush their math skills. The explanation in the videos are clear and the video companions/pdf files are very helpful. I personally read the pdf files first and then watch the videos and proceed to do the quizzes. If there should be any improvement, I'd like to see more practice questions, especially after each video.
+The explanation of concepts was amazing. But I feel more examples should have been illustrated, since the quizzes were really hard in the last week. Overall, a great Mathematics and Statistics refresher course. This short course will help you figure out where you stand and how much more work needs to be done with respect to your Data Science Math skills.
+This course really helped me in refreshing my knowledge, especially at the theories of probability. First, second, and third module was okay, but in the last module (module 4), you need to study more comprehensively as there were too many trap answers. This course is a good choice for everyone who wants to begin their specialization in data science.
+Nice introduction with Probability and other mathematics. Good examples. For some, it might be too basic. I have not done mathematics of 3 years this course has helped me to remember different common rules and their application in data science. It has jerked my memory down. Thought, the probability module can be improved with better examples.
+Succinct explanation of the basics. Take more time at the Bayes theorem. It is worth it. Work out all the problems and keep reading the PDF notes accompanied with the videos. All in all, a great experience for those who have missed some basic math in earlier education. I am onward to my next course in machine learning and data science. Cheers
+This is a very good course for those who have forgotten about their math skills and are new to data science. The first few weeks will cover basic math which you can skim through if you are good in math. This course also introduces you to statistics in particular Bayes' theorem which is an important topic of data science. Enjoy the course!
+First of all thanks to the data science math skill because i learned many new things,ideas,knowledge and skills from this course and more thankful to professors because of them i am able to give all the answers and it was too much interesting to do .   Thanks to all the teams of coursera as well as  to the data science math skill......
+If you are a right-brainer and/or rusty on math, I strongly recommend this course as a precursor to Duke's Intro to Probability and Data course.  Some of the practice and final quiz questions really threw me (and that's good)... Most of them I was able to rethink and derive the correct answer and a few others remain a mystery...  :-)
+I loved this class, the only one of it's kind and much needed, unless you particularly want to re-do your long forgotten high school and college math. It was nice seeing a Venn diagram again. I did have to supplement some of the material that was covered quickly with google searches, but filling in the blanks was quick and easy.
+It is a thoughtful and well-designed course. I really enjoyed learning the core math skills related to data science. As a starter on data science as a field of study and career, the course refreshed my previous knowledge and helped me learn more about the mathematical skills needed for learning and practicing data science.
+Hi. A very good refresher course that serves as a pre-requisite to Machine Learning and Data Science courses. Probability could have been a little better explained, specially the processes and event part. I would also like to see Vectors and Matrices added to this course, which is equally vital for Data Science.
+This course provided clear, expert teaching at a very good pace.  The materials were very helpful & directly applicable. The videos were well portioned, and the professors are well spoken & highly competent.  I highly recommend Coursera, these professors & this course.  I plan on pursuing more in this subject.
+Learning this course I have gain many new and interesting skills. I am very much glad to get the knowledge from two professors and they gives me more knowledge on those interesting courses. I was able to do the answers of the given courses.And I THANKS them to give me such opportunity to do these courses.
+Everything was great except probability theory.  The videos were hard to follow and understand because everything was a kind of mess.  Reading materials would be much better for probability section.  Overall it was very helpful for me and I am very grateful  for this wonderful course!!!
+The course is completely related to prerequisite data science skills. There are lots of useful materials. However, the last module (probability) is kind of introduction and superficial, and do not discuss probabilities concepts and distributions in depth.In general, the course is Great
+Good course because it focuses on basic statistical science needed in Data Science. Only issue I had with this course was it was pretty short. Shorter than I thought by looking at the syllabus. Also the agenda is very simple in the first couple of weeks until it gets to the last week.
+Would have been better if real-time tool were used such as PTC Math-cad or Mathworks Matlab then the Simulation based learning approach could have been much better. Well this course has vas potential and can be be released as series with capstone simulation project. I loved it though
+very nice, this course helps me a lot for a basic understanding of the different concept of math. The course is also design in very well manner for understanding each and every concept clearly.i also very thankful to the teacher association who created this course for helping me.
+Great course for starters. For first three weeks there can be some advanced examples as extras and for the last week, it would be better if several complex examples solved by instructors since Bayes and Conditional probability can be confusing sometimes. Thanks for the course.
+The course explained all the basic mathematical concepts really well, especially Bayes' theorem and probability theory.The best thing that I liked about this course is that it also explained some simple real world test scenarios where these mathematical concepts can be used.
+I came for this course after working on data science for sometime. While initial 2 weeks were easy and known, last 2 weeks were really helpful. My probability concepts become much clearer after going through the lecture and tests. Very precise and clear course. Thanks a lot!
+Everything I've tried diving into in regards to data science after having been out of school for a while (I'm 34) has been stuff I haven't learned or forgot. This course was perfect. Nothing was too difficult for someone who still remembers basic math and I learned a lot.
+Even though I have learnt quite a bit of math in college, my basics weren't very clear. This course helped me clear up my basic doubts which were causing problems. The instructors explain the concepts quite comprehensively using easy-to-understand real-world examples.
+This is a real good and inspirational start in data science education, especially for people, who have some fear of math (like me:)). This course is enough complicate to learn something new, but simultaneously not too hard, so you dont loose motivation for studying.
+The course is helpful both as a refresher and a introduction. It made me understood all the basic math skills behind the data science Field. Very good explanation of probability part and so on. I found the week 4 content quite challenging, but got there in the end!
+I had a really easy time going through the first 3 weeks of the course, but then the 4 weeks were so hard. I got through it, but it was hard. The 1st-3rd weeks were just going through the same things I had learned again, but the 4th week was almost completely new.
+I think this course helped me identify certain areas of weakness within my education that I have already received. As a result, I know where to start in order to shore up the gaps that formal education has solidified. Overall it is a great introductory course.
+Thank you, Coursera for this course for free. It was really helpful. It covers almost all the basic math term for Data Science. Looking now for intermediate level course of the same. Hopin that very soon, I will be gifted with a new free course. Thanks again.
+Something good to learn and in fact the session are so precise to understand that you don't need anyone's help at all  to learn thing. Just go through the video lectures. It's that simple. Thank you Coursera for this wonderful journey and amazing sessions.
+First three weeks were mostly review, but the fourth week was incredibly helpful. Would appreciate some more background/derivation of the binomial theorem - it was hard for me to develop an intuition for it in the same way I could for the Bayesian theorem.
+Clear and straightforward introduction to the key mathematical concepts that underpin statistics and data science. Video companions and practice quizzes complement the lectures in an effective way and prepare the student well for the graded quizzes.
+Very good course. Really enjoyed the explanation very concise and clear. This is however not exhaustive for anyone to gather every bit of possible knowledge in Data Science, do keep that in mind. But this definitely sets the foundation correct.
+Great course brushing off math skills with quiz in the end of each module. The last module is the most difficult, it'll be better if more examples be demonstrated. Good pace and a good course for those who need to get an idea of some topics.
+Very informative and I learned a lot. I enjoyed taking the practice quizzes and the exams. I failed, I made mistakes yet what is the most important  I learned a lot. Thank you Coursera and DOST-CARAGA, the Philippines for the opportunity.
+Pretty fun and understandable. The last week resources and content was quite deep and confusing when it was explained. From the exercises I've found some errors in the solutions. Briefly, It fulfills my expectations pleasantly.
+Well, except for the last quiz of probability (basic and intermediate) others were too easy, and also this course is highly recommended for the ones who really are entirely new to math concepts present in this course.
+It was delightful. I think this was a great introductory course. I still had to go on for more learning material for the harder topics, but the structure of the course really provided the backbone on what to learn.
+Maybe the first three chapters are a little bit easy; but the fourth chapter is challenging. This is my very first Coursera course, and I have learned a lot. Shout out to Prof. Daniel Egger and Prof. Paul Bendich!
+I was looking for a math class to refresh my math skills in preparation for getting into the field of Data Science and I am very glad that I found this course. It was well taught and very clear. Thank you so much.
+The course provides comprehensive basic math skills for the ones who might have forgotten all the maths they have learnt. Highly recommended for ones who wants to restart the math skills with clear intuition!
+It was a good basic level course of math design by Duke University.I just say thanks to all of this course team and especially thanks to coursera for providing such a amazing opportunity to learn more skills.
+It is an amazing course for everyone who want to learn Maths. after learning this basic math skill, i am capable to perform basic algorithms for Machine Learning. It is very helpful course for me, Thank you!
+If you have previous background is easier, but in Baye's theorem it was a little hard to understand it. Overall, it is an excellent course, but a little more explanations in Baye's theorem could be better.
+The course was really great. You could include some more offline practice questions with solutions for better practice at least 10 for each topic. Otherwise explanations were easy to understand and follow.
+This course syllabus is great. It starts wonderfully. Week 1 to 4 is taught by Paul Bendich, and Daniel Egger the instruction is awesome.  Effective way to refresh and add the Data Science math skills!
+For the part of Bayes' theorem, I think the explanation is no clear or through enough. Maybe more break-down is necessary. And the other parts are really good. I really enjoy taking this course.
+A great foundation course for anybody whoose tryna find their feet in the excitng and vast world of data science,i learnt so many new things..it was truly an enriching experience.Thank you!!
+My first course on Data Science and was happy to share this experience with Duke University. The course was informational, very resourceful and hopefully beneficial for my future endeavors.
+Good learning overall.Some part are pretty easy, which I remember learning in junior high,but some theorems are hard to apply.Now I want to use these theory in real world and data science!
+I learned basic math of data science from based to Bayes' theorem.  Lecturer explained material clearly and easy to understand. It helps me to start my journey in data science. Thank you.
+The instructors for this course have a very calm, awesome demeanor.  They are very confident and efficient in their methodology overall. This course has reawakened my desire for learning.
+The course was very good and well thought of, a great refresher for very important concepts, the instructors are very good at simplifying the material and making it very understandable.
+An excellent course to learn, Thanks to to Instructor and Duke University and Thanks "Coursera" for this online platform for giving us the flexibility to learn as per learners comfort.
+I don't quite understand the last chapter about probability. Please use more examples like in quiz to demonstrate the concept one by one. Thanks for making education free to all of us.
+This is really hard for me but this gives me a great deal lessons and guidance on what math lessons to learn for Data Science. The final week is very challenging. Thank you for this.
+Great course. First three weeks are a bit basic, and the fourth week is more challenging. Highly recommended. Hope there will be more on derivatives and courses like this. Thank you!
+At face value it looks like a very simple course but it is very challenging and extremely demanding course.I had  to continously recap on the concepts by the lecturers.great indeed
+The Basics were covered pretty nicely. The instructors had given it their all to explain the concepts. The tests did test you pretty well on the concepts you learnt from the videos
+Make sure to polish up on every concept regarding probability from the beginning of the videos. That way you won't lose your way at the end. Everything else was simpler to follow.
+I wish I could learn more about data science since I really enjoyed this course. I have mathematics background because I'm an engineering graduate but this course taught me a lot!
+I never take MOOC training before,but after taking this course, i was really impressed .Now i highly recommended this course to every one who wish to increase mathemetical skills
+The course was important especially the topics of probability. The videos are very useful and I can easily followed the flow and topics of this course. Thank ypu for this course
+Excelent course! I am studying at the Data Science Math Skills to fill some math gaps, and also doing the Data Scientist Toolbox . All of them are really great courses. Enjoy!
+The course is well structured and helps in acquiring the essential knowledge of mathematics for Data Science. Thanks  Daniel Egger and Paul Bendich for this wonderful course.
+Both instructors we're awesome, it's easy to understand the distinction and level of knowledge in top professors at a top university like Duke. Really appreciate those dudes.
+A very holistic course on mathematics required for machine learning. I hope the Probability bit could have been covered more in details. Also, very good on exercises as well.
+It was wonderful course to do and content was good, but there are some improvement needed inside last chapter.please add some more slides inside binomial and bayes ' theorems
+A great introduction to the basic Mathematics skill needed to start Data Science Career. A must course for does not have the mathematics background required for Data Science.
+A must-have course for anyone who wants to start his/her career in data science. The probability module of this course is really helpful in solving many real-world problems.
+It was excellently taught. I have not perfectly understood conditional probabilities but I am aware that it needs a lot of practice and study. Thank you for your knowledge.
+Really good to remember some maths stuff and to learn and consolidate new maths stuff that I thought I knew (but actually only learnt about it in this course).Great course
+Really good course to get a understanding of the basic concepts required to start with data sciences. Teachers are excellent and the quizs and assignments are challenging.
+Explanation and notes were very concise, although the learning curve for the probability portion is a little steep. Able to rewatch and google until you grasp the concept
+This should be my first most completed course on Coursera, although the last quiz overdue. Probability is hard to me, so I've learned a lot during this course, thanks!
+It has really helped me understand a lot of mathematical principles, however i think the explanations of the first professor were more understandable and easy to get.
+its very nice , amazing coursei have cleared my many conceptsrequesting you to explain few more examples on joint probability and based on probability topic.thank you
+Started from basic stuff but when things were getting interesting, the course got completed. Wish a few more topics should have been included in the probability topic
+It is a course that led me to understand these topics from basics although I had studied all this but here it gives another dimension to my understanding. Thank you!
+even though I have had some background before the course, I took this course as a refreshment and it definitely helped me a lot especially week4 with Bayes theorem.
+Very helpful and interesting. I truly loved this course and I believe this gonna help me in my upcoming future.. Thank you so much for such an adorable opportunity.
+Really Really very interesting from the beginning till the end. Instructor videos are excellent. Thank you so much  and waiting for these kind of courses in future.
+Its one of the amazing course where i accomplished a great sense of Data Science with Maths.Many Thanks to Duke University and Prof. Daniel Egger and Paul Bendich.
+Very well explained concepts. The probability portion was the best. Baye's theorem & Binomial theorem were very interesting. I had a very nice learning experience.
+I haven't taken a formal math class in almost a decade, and this was a very "gentle" welcome-back to the quantitative realm :) thanks to the team behind the magic
+The quizzes were tough and challenging. Overall the course curriculum is outstanding. Thank you Coursera and Duke University for providing such wonderful course.
+It is an excellent course to bring back all that school and university Math:) Great examples, learning materials and training tests! Many thanks to the authors!
+It was very good experience. But certificate reciveng is a very difficult process. I completed my first course but I didn't received my course certificate yet.
+Best knowledge given by Professors with detailed real life examples. It was an amazing experience by learning from the Professors of renowned Duke University.
+The course was very helpful in giving the detailed basic math required for Data Science.The concepts are explained nicely and one can easily understand them.
+Both professors made this course extremely easy to follow. The first three weeks were good review to refresh my memory, and I learned a lot in the last week!
+This course is exceptionally very good. The way the professors helped me to grasp the concept was amazing. They taught from basics and cleared all my doubts.
+This course is really helpful for data science (not only) other students can also learn this. The content of this course is very good and easy to understand.
+I am a high school sophomore and I loved this course. I learned so much in a short period of time. Now I want to go into data science as a career. Thank you!
+This course provides very basics about some of maths concepts and I became able to recall those basics and learnt how to apply these concepts in daily life.
+The readings that come with the video's are a must; extremely helpful. I needed this course to cope my mathematics skills which I took a break for 3 years.
+the lectures are really very resourceful and enlightening. I learnt so many things. I enjoyed myself while learning thanks to coursera and the instructors.
+I've been having practices about probability and other resources and it has been all so clear an with a lot of examples. Thanks a lots for the experience!
+Great for beginners/intermedite and course contain the most minimal (but absolute essential)requirement for data science programmers,thanks to professors
+It's one of the best course I have done.The lecture and professor is just awesome ,the instructor is very efficient.Would miss the instructor's lecture.
+It has been a great opportunity to refresh my math skills and enrich my knowledge , this course is highly recommended for math and Engineering Students.
+The theory is explained in a very simple way which makes it easy to understand and the examples given are very relatable and eases the learning process.
+A very comprehensive and well explained course. For someone with a healthcare background this course very helpful as introduction to basic math skills.
+It was a very good course and refreshed my basics. The quizzes very helpful and tracking progress was very easy. I am very thankful to the instructors.
+All it was good! Probability was awesome assignments were not easy so I loved the week 4 section so much! Thanks, Coursera to help to upgrade my skill.
+Great course, but the Bayes' Theorem bit could have been simplified a bit more and/or more examples could have been added in. Overall highly recommend.
+The course is refreshing my function and probability skills, as well as adding new knowledge that is Bayes inverse conditional probability. Thank you!
+This is an exceptional course. Im all the way in South Africa, Thank you for this great opportunity to finally challenge myself and improve my maths.
+My certificate is not real.Sign of  teacher on certificate is past not by running hand.  file:///C:/Users/monish/Desktop/Coursera%20XV7WTXVA2VTJ.pdf
+Thank you for the course. It is good enough to regrow the passion of learning data science math and to go deep down in the path of machine learning.
+Very informative course explained in  a very clear and understanding manner. Thanks a lot for the people involved in making this course a reality.
+There are resources provided with this course, that made remembering old calculus lessons and university courses a breeze! I highly recommend!
+This is very amezing course for data science student . if you want professtion data science in your company then first clear u r mathemathics.
+Good course. I wish there cover calculus topics like integrals but otherwise covers most of the topics that you need to know to data science.
+This course is really helpful to data science student.I was very weak in probability and statistics but this course really polish my skills.
+Its nice and quite harder than I thought..........but I really enjoyed this course and their contents  thanks for teachingwish you Good Day
+I enjoyed the videos the most. The examples were quite simple and well structured, easy to manage and understand without additional notes.
+Course was designed in very lucid and effective manner. My only suggestion is to explain probability part in little slow and detail manner
+At first, I thought there is no need for me to take this course but at the end it was very useful for me. Especially the statistics part.
+Classes were beautifully structured. Only the final Bayes' theorem could have been more elaborate with more live examples. Need solutions
+Basic math course help to get revise all the high school concept. Even those who haven't any background on mathematics can get it easily.
+The lectures are well presented and the practice problems and graded quiz helped learners used the new knowledge learned in the lecture.
+Very easy to learn.This course with good instructors ,increases my knowledge and at the same time it increases my data science interest.
+Very well structured and really helpfull examples. The videos are really easy to see and not boring at all. I really enjoyed the course.
+This course contains what you need to do your job more logically and would make your argument or opinion much reasonable and persuasive.
+I have got various knowledge from it. We have learn various lesson s of math. I am thankful for the professor who teaches us this things
+I really enjoyed the course, and found it really useful- it has inspired me to continue on and study applied mathematics at university!
+Great course which covers every statics topic necessary for Data Science. It helps me to recall what I have learned during my masters.
+Very challenging test at the last few chapters and it makes me think and think again which reinforces my understanding of each theory.
+A Basic Introduction to Function Graphs and Probability. To ace data science interview (Math part), I feel the content is not enough.
+very descriptive and elaborate explanation of concepts. But using blackboard a lot is kind of old fashion. More animations is needed
+The course can be made more complex by adding more challenging questions and exploring each of the concepts in a bit more of detail.
+first i want to tell thanks becouse giving me that great opportunites and i learn manny things and it will help me to grow my future
+Good n best ways of learning and also getting free certificate.i hope all the students will find it best and have learnt in detail.
+Data science and math skills is a very good course. Very interesting  to learn  and given  a good knowledge. Thank you  Courseera.
+it was great and brainstorming session. In fact the probability session was a bit tough and tricky. Altogether a great experience.
+Good course outline and instructors are also well qualified. Would be better if they suggested some additional reading materials.
+I have learn many things from this course  such as algebra, equations,and other math problems. It has given me many information .
+This is a great course for anyone who has little or no experience with elementary algebra and for those who might have forgotten.
+The basics of math were explained in an easy to understand manner with relevant examples and extremely helpful course material.
+Really a great place to get a  free education. I already complete a course and am looking forward to complete my second course.
+A bit more information regarding Bayes theorem, Examples and how to tackle them would be better. Other than that it was good.
+I have fun sooo much :) Its a great course and highly recommended to anyone who wants to learn and review about probability.
+One of the best fundamental mathematics course I have stumbled upon. Highly recommended for anyone who is a math enthusiast.
+Great course! Great material! It has been fun to learn and beginning a data science path with this outstanding introduction.
+THE COURSE HAS BEEN BUILT IN A PROGREESIVE WAY Y BUILDING BASICS REQUIRED FOR BAYESIANS AS WELL AS SOME PROBABILITY THEORY.
+The course was good enough. Maybe, after we did the Quiz on Grading, we were given the discussion. Thank you verymuch, Sir!
+Its soo helpful and to the point. It also helped me to revise my basics and quizzes made me to test my potential.THANK YOU
+Best way to get started in basic data science maths. A+ for the simplicity and straight-forward explanation!!! Loved it!!!
+Some of the things I learned were very challenging and I will be reviewing but this was overall a very informative course.
+Thanks a lot! It's a huge important course, really... Thanks. Because I want to become a data scientist, so thanks, again.
+It's a good course if you want to refresh certain concepts about math that are also related to the field of Data Science.
+Informative and quick, not a big math fan but it wasn't overly painful. Definitely helped my understanding of Logarithms.
+This course was fairly easy but the questions from probability were a bit tricky but doable. Overall it's a great course
+Very interesting and helpful course.. very knowledgeable experience ...I recommend everyone please enroll this course..
+i would love to rate this course 5 stars as it has lead me to  enhance my data augumentation and understanding skills.
+very good knowledge for someone who want to call back prob theory in uni or get an introduction in mathematics problem
+It is a wonderful courses. This course is very useful to my job. Thank you very much for given wonderful opportunity.
+Thanks to the professors, thanks to everyone responsible for the existence of Coursera, this course is simply great !
+this course really helped me revise some basic concepts and also corrected some confusions about some basic concepts
+The course is very much student friendly. It helped me to improve my math basics for preparing towards Data science.
+Thank you for giving free course. I learn a lot of things from this course and struggle with the last quiz so much😂
+I loved the tag team between the two professors. I would love to learn more math and data science from both of them!
+Very Informative course, which gives the foundation knowledge of Mathematics required in the field of Data Science.
+This course from course era has given me  new opportunity to explore and has given me confidence in data science ,
+This was a phenomenal course outstanding and I learned very much and my thinking is changed towards data science.
+If you want to learn about Data Science Math Skills, this is the best way to introduce yourself to those topics.
+Best Math Course to Learn Basic Mathematics for Data Science and to have Grip on Data Science / Machine Learning
+A very good course that explains basic concepts of mathematics and probability that are useful for data science.
+Practice quizzes are also good, especially the last one. I think it is harder than the graded quiz. Nice course!
+I learned the main topics of maths to have more confidence in Data Science. I feel satisfied. Thank you so much!
+Really helpful course. Recommend for anyone. Clear explanations. Appreciate the effort of  both  the professors
+BEST EXPERIENCE EVER I GOT IN MATHS RELATED AND PROBABILITY THINGS WERE SUCH AN HIGH LEVEL I'M IN LOVE WITH IT
+Very Short, simple and Understandable. Complex concepts are broken own. Everything is Digestable!! Thanks!! :}
+Thanks a lot for a wonderful course. Gave a quick overview of the basic Math skills required for Data Science.
+Excellent course gives good knowledge on mathematics skills needs for data science without unnecessary facts.
+this course is very good, it helps me to recall my math logic which may be used in data analysis very quickly
+We need a more practical example to increase understanding. But, indeed, thank you for the knowledge so far.
+The lectures were very precise and moves from easy to hard across the module. I highly recommend the course.
+Great course. Help me to refresh my knowledge on basic maths which is necessary for my following study plan.
+The course is great, the fourth week will test your probability concepts, so practice carefully and slowly.
+Instructor videos can be improved a lot by providing more examples.The reading material should be improved.
+Very easy to understand explained clearly by the professors. Suited for anyone with 12th grade math skills.
+good content to revise our data science math concepts. thanks to everyone to make such a wonderful course.
+Thank you so much for present course. This course helped me refresh the probability knowledge in my brain.
+This course was great, but in the module of probability, there is a big gap between videos and questions .
+Very good course. Gained lot of information about data science and math skills. Seminar sessions was good.
+Great course! I would recommend this course to get familiar with data science basic terms and definitions.
+Loved both of these professors the work was challenging but accessible - the practice quizzes help a ton!
+One of the best courses offered by Duke University, USA in collaboration with Coursera's online platform.
+This Course very helpful,in my maths data improve ,and learn science maths knowledge , skills Thanks!🇮🇳
+It was an awesome experience and was also a prerequisite for machine learning. Helped a lot.Thanks a lot.
+This is quite good and very much useful to me. Especially probability topic,it is quite useful. Thankyou.
+I just believe that there was a discrepancy between the videos and the last quiz, but is a great course.
+If we get more examples on probability section, it Will be helpful to understand the concept much deeper
+Generally it's good, the basic skills are coupled with real life examples, which makes the skills useful
+Excellent course !!! All video companions are complete and very informative. Education quality awesome.
+This is a very helpful course in getting to know the fundamental of data science with some math skills.
+The course is very useful for data science people.  Lectures are well organised and easy to understand.
+Perfect for beginners or as a review for those who have not used basic math skills for quite some time.
+Covered all the required topics. I wish they covered Linear Algebra(matrix). It would have been great.
+The first three weeks are pretty easy high school math. The last week is very informative and helpful.
+one of a kind and so far the best course so far that I have come across in the field of data science.
+It is a very good course for data science students who need to understand the mathematics part of it.
+great course! it was a nice refresher for me, though I still learned new things as well!  thank you!
+I took this as a refresher Math course. I found the exercises and their explanations very helpful.
+I am very happy because of my completion of this course. Thanks to all the facilities of coursera.
+The overall Basic course is GRATE but in last few chapters in probability was tough to understand.
+Very easy to understand and know how to succeed in the future on the learning path. Thanks a lot !
+especially, the last test on probability in one of the proofs of higher standards of this course.
+Very easy course from Duke University. Thank you for introducing this "DATA SCIENCE MATH SKILLS".
+It was really helpful in enhancing my data skills though it could have had been a bit more better
+I like the course and the lessons in data analysis .The concepts and theories are great for math.
+Helpful course -- highly recommended for people who need more background or who need a refresher.
+Awesome! Loved the content as now I have a starting point in a race towards Data Science Skills.
+More examples must be given to understand Probability Week 4. Overall it was a very good course.
+This class was great. I really recommend it, especially if you are new to mathematical concepts.
+I found it quite engaging and challenging at times to get my head back around high school maths!
+My experience was phenomenal, although the syllabus was a bit difficult but i got the concepts.
+Awesome course. A little more on probability will really help the students as well this course.
+Awesome course to review and refresh your math skills before studying on Data Science. Love it!
+This course is absolutely helpful for the beginner. Really good to remind of my uni math class!
+Learning of Basic Math skills is very much essentials for Data Science and it helped me a lot.
+The review was comprehensive. The latter part of the course really helped me a lot. Thank you!
+This course was very good. Adding few advance topics like various distributions will help too.
+Great course covering the fundamentals which I had largely forgotten (not used) since college.
+This course so good .I have learned so many things and it's very useful.coursera is the best.
+I was looking for such a course that particularity covers the Math required for Data Science.
+Very condensed yet accessible material. Great invitation for further, more deep dive studies!
+This is very amazing course , I am very lucky that I join in this course.Thank ! u, Coursera
+Very good basic maths course, useful to remember the basic concepts from pre-calculus times.
+Nice,In my engineering classes I have red these topics so it was really fun to exercise more
+Two lecturers cooperated with each other quite well! And I enjoyed those real-life examples.
+It is a very useful for learning basic mathematics which are required to learn data science.
+Excellent course with excellent examples and challenging test. Really enjoyed the course!!!!
+Very Informative and Helpful for all the students...Seen DataSkill into an another level...
+Topics very well explained with appropriate examples. The quiz really helped me to improve.
+Great introduction to the required math skills necessary to apply data science. Very useful
+Thank you for this opportunity that I've learned more about math skills. Very interesting.
+I learned a lot in this course. The assessments are challenging at the same time exciting.
+Very informative and engaging course. Examples are very thought provoking. Thanks a bunch.
+it gets quite challenging at the end but its a good refresher. like the pdf helpers a ton!
+Simple and easy to understand explanation of concepts. A great course! Thank you so much.
+Good for beginner to study and someone who want to repeat the old knowledge in university
+That was such a good course I have seen on the Coursera.Thanx for Teaching Me this course
+This course is very good. During this course i recalled and tested my mathematics basics.
+Excellent overview of foundational skills needed. Great instructors and course material.
+Nice experience... Lot of information gathered in this coursera.... Thank you so much...
+A very good course with clear explanation and Higher-order-thinking skills problem sets.
+Its is really worth spending my valuable time to gain this exposure to Basic math skills
+Good refreshment of your highschool math knowledge if you haven't done math for a while.
+It helps you build the basic math skills in easy introducing way and you would enjoy it!
+I like the course only is that I really find it hard to do the probability theory part.
+thanks for the amazing course, but there should be some minor adjustments on the video.
+this courses are helpful as well as increase your knowledge.It helpful in our carrier.
+Amazing Course! Thank you for making it available for free during the COVID-19 crisis.
+Wonderful course. Baye's theorem with more examples would improve the course material.
+Great course for beginners in understanding data analysis using advanced mathematics.
+Very lucid and covers the important concepts well. I used it to refresh my knowledge.
+An excellent course with good pace provide clear concept and skill to solve question.
+This course is really useful. I would like to say thanks to Mr. Daniel and Mr. Paul.
+Much better than I expected. The skills gained can also be applied to Data Analysis.
+A good course for math lover. Its really healpfull. thank yo so much for this course
+Excellent course.If you are a beginner  like me then its for you.Enroll and dive in.
+Highly challenging quizzes assure that you are getting your investment's worth here.
+Thanks🌹🌹🌹🌹I learned a lot from you. You exaplained every thing perfectly. ☺☺☺☺☺
+This course helps me to improve my data science math skill!Thank you very much ! :D
+very good examples, to under stand the theory, then applications show how to apply.
+great course and good basics for anyone starting in Data science highly recommended
+Great course to learn basic math. It focuses on the essential and it is very clear.
+Very good informative, surely has helped me understand probability more intutively.
+it was a great course for me having left maths for a while and needing it again now
+The quizzes at the end are quite challenging but the instructors are very helpful!
+Good intro to math. Section on probability is helpful but not completely thorough.
+Excellent instructor oratory skills, explained every topic in a very lucid manner.
+In this course,it helps to built and remind your math topics, it is really helpful
+This course is very useful specially for me that clear all fundamental very sharp.
+Very good course,i like it so much and get so many knowledge through this course.
+The materials are excellent, the tutor is amazing and the quizzes are challenging
+overall good course although probability section could have been explained better
+Excellent for the begginer to learn the fundamental help to dive in data science.
+Teaching very clearly concept of data science math skills thank you very much sir
+Excellent course if you wish to improve your basic understandings of Data Science
+Excellent Course. Must-do course for beginners in data science. Great instructors
+Great course to refresh memory about mathematics. Pace and quizzes well balanced.
+Thank you for this teaching experience. It was very useful for my life and career
+Good introductory course to build the fundamental knowledge needed to go further.
+I really enjoyed learning this course, thanks for providing this amazing course.
+Great lesson! easily understood!. It's also friendly to non-math major students
+I really enjoyed the course and recaptulate my knowledge of maths. I live this.
+Best course for beginner who to wants to turn their career towards Data Science
+it was an amazing course which helps a lot to boost my carrier in data science.
+Thanks for sharing the course details and subsequently facilitating the course.
+Excellent introduction to essential Math concepts in the world of Data Science
+Awesome course. Kudos to the professors for explaining everything from basics.
+The course was extremely good .My knowledge towards this subjecdt got enhanced
+Great course. Simply presented in ways everyone can easily relate to material.
+A course on basic mathematics. The part on probability is very well conducted.
+I enjoyed Data Science Math Skills. The quizzes test learner's understanding.
+Thanks. This course helps me a lot in developing my critical thinking skills.
+Good course, if you want to know the basics of math involved in Data Science.
+I enjoyed this course and also revised a lot of my basic maths. Thanks a lot.
+It is extremely good. One should do this before starting data science course.
+Fantastic knowledge gained with basic mathematics required for Data Science.
+It provide a great flexibility and utilize my time in enhancing my knowledge
+Very great class for the basic skills of data science. Would love to do more
+Great Course. Good Level of Probability Questions.Very close to Data Science
+A useful getting-up-to-speed maths course for those going in to data science
+This  course help me in an understanding of coordinate as well as statistic.
+A very concise and well planned course. The notes were particularly helpful.
+Thank you for providing the basic understand of the maths for Data Science.
+Honestly, very helpful in refreshing your mind about all that is statistics
+Good explanation and wonderful experience by studying from a great teacher.
+Learned a lot and in a good pace provided. Good content and well explained.
+Really enjoyed the course. Explanatory content and good practice questions.
+Decent course to refresh the skills in probabilities for Data science cases
+Really informative and super fun like math never is fun before. Thank you!
+Thank you for providing me this course which enabled me to hone my skills.
+wonderful course...made me learn a lot of probability and math..loved it..
+Excellent course, the probability part was really challenging and exciting
+Excellent course. I would suggest it to anyone interested in data science
+Sort of high school maths, not a rocket science, but very well explained.
+Everything was crystal clear, Finally Recalled my old School mathematics.
+the course is designed at a good speed and provide necessary information.
+Great refresher for my high school maths which I'd thoroughly forgotten!
+I recommended this course who want to build career in Data Science filed
+It's very good learning... I have more knowledge.. superb... Thank you.
+Great way to start learning maths if you are interested in data science
+Good to learn basic maths skills which are compulsory for data science.
+Really liked the explanation for Bayes theorem along with its examples.
+I like  this  course.  it   is  very  intersting.  Thanks  for  course.
+A must take course. Really helpful in understanding terms in simple way
+Really a good start for those who want to have a taste of Data Science
+Very useful course to learn and recollect the basics for research work
+Ecelent review of the basic math skills you must have for data science
+It was a better experience on maths which required for Data Scientist
+Nice refresher for some old topics and nice introduction for new ones
+More practice problems and reference book required for modules 3 & 4.
+Great condensed course to refresh you math knowledge and terminology!
+very good lesson with common skills for data science, really helpful!
+The topics which were explained are so perfect.Perfect that's it...!
+Good for new people who need to know about data science math skills.
+It is a way of easy to understand the mathematical skills I liked it
+This is my first experience on Coursera, Very happy with the result!
+The course is good and covers most of the required basics very well.
+Really good course, basics are clear now, enjoyed doing this course.
+This course helped boost my confidence in the field of data science!
+Nice course which could help one revise all studied at junior level.
+The video, video companion, and exercise all really helpful for me.
+This is a beautiful course that goes a long way in decision making.
+This is an excellent course. It inhanced my skills in Data Science.
+Good course to clear basic concepts of mathematics and probability
+It's Very good course  and i completed very nicely thanku Coursera
+The method of teaching was very good. I like videos,quizzes ...etc
+A very interesting data science course provided by duke university
+I just completed it in 1 day, had fun completing it successfully !
+The course is very basic and easy to understand with many example.
+Step by step course! Perfect for beginners. I highly recommend it.
+Excellent course , and it is  refreshing ! i highly recommend it.
+Fantastic course for build math skill to enter data science world
+The course content is very efficient and flexible, ease to learn.
+it was useful , as some of the probability concept was new for me
+Helps me to review mathematics knowledge quickly and efficiently!
+Good refresher course with all basic concepts explained very well
+Some quiz answer UI mistakes. Doesn't display the correct answer.
+great course to refresh your math skills in data science projects
+right course to brush up on mathematical skills for Data science.
+Impressive way to explain basic concept. Really a good refresher.
+The Course was well structured and easy to understand. Thank you
+Great refresher for all of the things you forgot in high school!
+Nice course to learn all the Math skills related to Data Science
+For the basics of statistics it's better  to learn and practice.
+basic course , probability module is very interesting and tricky
+Very good and concise introduction to Probability and Basic Math
+very good lecture and easy so very easy to understand the course
+Good course to cover all the basic maths related to data science
+Mathematics Explained SimplyMust do for a Data Science Beginner
+I like the week 3 and week 4. Help me to review the basic math.
+It's very basic and very suitable to new comers in data science
+Module is well-planned for both the  beginner and professional.
+Very interesting introductory and knowledge refreshing course!
+Mathematics needed for data-science skill covered wonderfully.
+Best course to revise the data math and start the new journey.
+A useful course with all basic math knowledge you should have!
+Concepts are very clear and the instructors done a great job!
+Very simple and easy to understand to learn about probability
+THIS WAS A WONDERFUL COURSE.THANKS FOR PROVIDING THIS COURSE.
+I didn't receive my certificate yet. Can please anyone reply?
+Awesome course,loved the quizzes especially of 4th week quiz.
+Excellent course and lecturers have presented the Ideas well.
+Instructors made this subject so much easier for me to learn!
+It was a great review and the lessons are designed properly.
+Great course, good balance between simplicity and complexity
+great learning platform....I learn so much thank you so much
+it was the best course which I have ever done in mathmatics.
+Excellent revision or introduction to maths for data science
+Thank you so much, i learned mathematics with the best ways.
+I love this course 😍❤️Amazing experience with the teacher.
+LEARN Basic of math use in DATA SCIENCE , ALSO PROBABILITY.
+Nice course. The intructors describes the dtails very well.
+In-depth explanation, I wish I had studied maths under you.
+Very well structured course for beginners. My fav is week 4
+It was such a wonderful experience in studying this course
+This course is really good for learning basic mathematics.
+I learned a lot through this recommending this to everyone
+Honstly say that it's good course for me for my experience
+Very Basic and Knowledgeable understanding. Must to learn.
+It is very nice subject to study.I like Coursera very much
+Nice Course, Looking for specialization bundle on this one
+Very good course, can't wait for the more advance classes.
+Must say, very well teaching basic math for Data Science.
+Very gentle introduction to mathametics for Data Science!
+Explained beautifully from basic. Cleared my doubts also.
+wonderfully designed course for refreshing my math skills
+It was a great oppotunity to get involved in math skills.
+this course very interesting to learn basic math science
+I learned lot of knowledge from this course. thank you .
+course was great and it helped me enhance my math skills
+It's a gud course to know about data science math skills
+Perfect Course for getting a head start in Data Sciences
+Excellent course. Very detailed explanation of concepts.
+Great refresher course on the math used in data science!
+thank you so much. I hope to get my certificate soon :)
+Great amount of basic knowledge.Really enjoyed a lot.☺️
+VERY GOOD TO LEARN THE GRAPHIC STRUCTURE OF ANY COMPANY
+Excellent course with excellent and experience mentors
+Amazing Experience to learn Data Science Math Skills !
+it's just refreshed my mind... such a wonderful course
+I have enjoyed the course and refreshed my mathematics
+great course, it helps me a lot in my current position
+Basic Revision of all concepts of probability and sets
+very good course. clearly explained and good examples!
+It is perfect for me to review some concepts of math.
+Great course to brush up basic math for data science.
+This course is very useful for our future. Thank you.
+This is a good learning course and nice to go through
+This is a great course. The final quiz is difficult.
+I really love statistics. Thank so much, professors!
+I think the theory based on the topics must increase
+Excellent course to refresh some basic math concepts
+Nice class and it help me to improve my math skills
+one of the best course for data science math skills
+Good lecturing and simplified examples and delivery
+Very informative and skillful course for beginners.
+Excellent course, specially the probability section
+Excellent videos, great Trainer and happy learning
+The best course for revising Math for Data Science
+It was a very good experience, covering every area
+i have learned some basic stuff better than before
+Good material with easy-to-understand explanations
+Good course for beginners. Loved it. Good revision
+Amazing course with clear understandable concepts.
+GREAT MATH COURSE FOR A BEGINNER IN DATA ANALYSIS!
+Excelent vourse from the basics to advanced topics
+Good course. Initial practice could have difficult
+KEEP IT DUKE PROFESSORS ....... COURSE IS AWESOME
+This course is very useful to me in my education.
+really helpful to improve my mathematical skills.
+Great course!! understood well and learnt well !!
+The Quiz questions were extraordinary. Well Done.
+It's good. The final part is somewhat complicated
+Good course. Last quiz was extremely hard though!
+too easy for someone with engineering background.
+not bad for reviewing some of the basic concepts
+informative course and higly expierenced faculty
+Excellent! Very useful and simple to understand!
+Great expérience for me.Thanks YouHerbaut Julien
+A very helpful course for starting data science.
+It's very good to learn this course, so amazing.
+very rigorous and very helpful for math language
+I have improved my understanding of probability
+Thank for my basic making my basic fundamentals
+Very good course,with step to step explanation!
+The course is very educational and well taught.
+exactly what I need. not too hard, not too hot~
+It was really helpful for my basic math skills
+Provides great foundation for journey into AI!
+a must try course to test your maths knowledge
+The Course was awesome to preparation for GATE
+This is awesome in refreshing your math skills
+Very Good Course to kick start on probability.
+good course and its good for mathematics also
+Best Course ever on Data Science Math Skills.
+deep and precise learning through this course
+Thankyou for the course.It cleared my basics.
+This course was good and refreshed the basics
+Pretty good revision of basic maths concepts.
+Very good course to remember thing about math
+Excellent content, very explicit every video
+it was quite interesting , thank you so much
+I really love this course! Thanks very much!
+i've learned a lot .!! it is very beneficial
+Everything was good and easy to understand.
+amazing course for data science enthusiasts
+Absolute Basic will be explained Diligently
+Thanks for the course, it's very interested
+Useful course for the data science students
+It's one of the best course of data science
+It's one of the best courses of statistics.
+I got Very excited and experience with this
+Thank You, The Course has been challenging.
+outstanding course this course helps me lot
+Very nice introduction to statistical work!
+Great Course, really refresh my math skills
+Very well explained with real time examples
+especially the first two weeks were super.
+Amazing Course. Thanks to all Instructors!
+How to teach easy way. Thank you very much
+Very convenient and well explained course.
+Thank you, this was a very helpful course.
+Great course, many examples, good teachers
+very good teaching ,i love this course ☺❣
+I learned mathematical  data and analysis
+This was a great review for the material.
+Good, basic course. Moved fairly quickly.
+Learned a lot from this course, thanks :)
+the first three part is a little too easy
+A great course for learning math skills.
+A very good course for Highschool kids .
+a good course for data science beginners
+Complete refreshing on fundamental maths
+Very good introduction or for refresher.
+They are good for revisiting the basics.
+It was a nice course and well documented
+Great course to refresh your Math Basics
+very interesting and informative course
+Good Experience and best skill to learn
+The probability part is worth learning。
+very informative and knowledge gaining
+certificate downlod option not visible
+it's good to earn back my maths skills
+Thank you! was easy and comprehensible
+This is a good course for data working
+You people made probability much easy.
+It is a good work.pleasure to be here.
+well taught by professor daniel egger.
+Great course!  I really learned a lot.
+Very good learning experience. Thanks!
+thank you that was awesome experiences
+its a good course to improve knowlege
+Good Course to brush up on my basics.
+it's really helpful and easy to learn
+Easy to understand I like this course
+I want to get unroll from this course
+It is very interesting topic to learn
+decent topics and great explanation.
+One of the best courses in Coursera.
+Excellent COurse ! I really Loved it
+Data Science Math Skills Course Good
+COURSE WAS SO GOOD AND HELP ME A LOT
+Great content with tremendous value.
+A well-designed course for learners!
+VERY EFFECTIVE COURSE.THANK YOU ALL.
+The course is perfect for beginners.
+Very Informative and Well Structured
+Good to revise mathematical concepts
+It was really nice experienceThanks
+to the point and good for beginners
+Amazing Course, AMAZING INSTRUCTORS
+The course is interesting and easy.
+THIS COURSE IS SO GOOD FOR BEGINER.
+Thanks Coursera and Duke University
+Great opportunity come and Chase it
+Amazing Course and amazing Teachers
+Great course and highly recommended
+Great Primer for Data Science Math!
+learnt many new things . THANK YOU
+Very good and easy way of teaching
+Great review of Maths fundamentals
+Very Good course for the beginners
+Very happy to complete this course
+This is a very informative course.
+Basic math skills for data science
+Thanks for boosting my confidence.
+Compact but clear and informative!
+Course used for perfect the maths
+Builds your foundation perfectly!
+very best plateform all students.
+Revised the basics of mathematics
+I love the way teacher, teach me.
+really good and enriching course
+Very Informative. Learned a lot.
+Good skills Math and Helpful us.
+Course is good, i enjoyed a lot.
+Thanks for give me a certificate
+The course is so easy to follow!
+Good Content and well Structured
+It is a great course , Thank You
+Its awesome, I really enjoyed it
+Awesome and its really helpfull
+Very well designed for everyone
+I enjoyed the course very much.
+Amazing lectures helped a lot !
+Two thumps up - a great course!
+very nice course and excellent
+Its nice course and intresting
+Really good i get new concepts
+Nice practice and participated
+Very Good Probability Questons
+course is good , I learnd lot.
+Well-explained course. Great!
+Personally loved this course.
+A fantastic course for anyone
+It was a amazing experience.
+Good lecturer... Good spoken
+The course is easy to follow
+Teach easy good learn Thanks
+Perfect course for beginner!
+Awesome and love the quizzes
+Very important Review course
+good materials and questions
+Awsome amazing three in one
+Great refresher on the math
+It was very helpful session
+Good Experience.Nice course
+More BasicsNice Explanation
+Good course to start with!!
+its good interesting course
+Great courseWould recommend
+amazing! i love this course
+can i get the certificate ?
+Great course! Thanks a lot!
+complete and easy to learn
+Excellent course to learn.
+So much informative course
+thank you for adventure :)
+Good knowledge and skills.
+Awesome course, Thank you!
+Nice opportunity to learn
+Thank you Duke University
+Yeah...a very good course
+The course was enriching.
+Very easy to understand..
+Got refreshed with basics
+good course for practice
+This course was awesome!
+It was very informative.
+good course thanks a lot
+The course was fabulus.
+Very Effective Learning
+Cool, objective course!
+An enlightening course!
+Great course.  Thanks!
+useful and informatice
+Very up to mark course
+I need the certificate
+week 3 and 4 was tough
+It's awesome and tough
+wow, i really enjoy it
+It is very good course
+Enjoyed the course..!!
+I love this Course!!!!
+amazing math teaching
+Good basic knowledge.
+It really was helpful
+a good refresh course
+Outstanding course :)
+Interesting and very
+I actually like math
+Over all it was good
+It is a great course
+love the instructor!
+nice course, thanks!
+Highly recommended..
+Very Good Course!!!
+Coool, a refresher!
+It's very awesome👍
+easy to unjderstand
+Perfect! Thank you.
+excellent  teaching
+Very nice content!!
+Good Content Thanks
+a rewarding journey
+one of best course
+best course for me
+reallly good couse
+Its a good course.
+Incredible journey
+it is easy subject
+It's Very helpful
+Had a lot of fun!
+goood  experiance
+super sir so much
+Thank nice course
+Awesome Course..!
+commendable work!
+Great Course!!!!!
+Am glad and happy
+Very helpful....
+It is so useful
+Little bit hard
+Maybe too easy
+that was good!
+nice and easy
+Nice teaching
+To the Point!
+great method
+It's so cool
+littleboring
+Great......
+Great Cours
+Loved it...
+Thanks you!
+Free cousre
+good notes
+Thank Youu
+Love It
+thank
+Yo

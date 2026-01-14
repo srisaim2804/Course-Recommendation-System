@@ -1,0 +1,946 @@
+The final assessment was not covered in class, and it was very difficult to figure out how to do.
+I did not like that some assignments do no rely on the material that was given in the course. For example, data visualisation with Artist layer was not covered in details in the course and you have to spend tons of time on Internet digging out how to implement that. This is a waste of time, I need a course that gives me complete and structured info, not a course that sends me out to explore the Internet.
+It is a strange course and the worst in this specialisation so far. In one week 50% of the video is how the data is prepared. That would be ok if it won´t be the same video snippet 4 times. Also the relation of video vs. reading is 1 to 6. In one week is only 6 minuites of Video and about 1 h of ungraded assignment. The final assignment isn´t solvable with the given code or examples. It is ok that one had to google for code snippets, but this is far too much.
+Data could in most cases not be loaded, making the labs useless. Also, the videos have unnecessarily much redundancy. Really didn't learn much from this course.
+worst instructor I have ever seen,very few instruction but the assignment is extremely hard!!
+The course is very inconsistent, it repeats the same one minute in all of the videos, when reviewing the dataframe. Many times some things are asked without providing previous explanation, and the final assignment is also an example, I had to search all over internet to resolve it, because I couldn't find any reference in the content provided.
+I would give zero if the system has. An empty course that you almost cannot learn anything especially when you're going to practice.
+The course materials are poorly structured. Labs are not well-designed and not friendly to students with little experience. This is not a very effective course.
+No mid-lecture quizzesEnd of section quizzes test rote memorizationNarration is poorly done
+so far ive spent the most time on this course . This course has around the shortest estimated time to complete. The number of discussions in week 3 is around 5 times more than the Python for Data Analysis course.... why we may ask?The plotting of views are overly dependent on syntax. The information gain in trying to figure out that syntax is negative, i.e. up until this course i was enjoying my first experience with python. 12 hours later, i cant get a chloropleth chart to work because something as minor as  column orders were incorrect. Very frustrating! That said, perhaps im spoilt. Im a tableau user and its fairly straightforward to do data visualisation. It is  rewarding. and flexible.The bar is thus set, and so far data viz in python is frustrating.
+I felt that the curriculum was not structured in a manner conducive to learn the material. Too much of the training and lab work was to execute already prepared commands without an explanation as to why we were doing using these commands. In addition, the training material could have used more detailed explanations and then lab work allowing the student to apply this knowledge. Instead, you watch a lot of abbreviated videos and then do a single lab exercise that has the student try out certain aspects of what was covered.For the final exercise, there was so much that wasn't covered in the course material. This took many extra hours searching for how to do things. While this type of searching might have been helpful in preparing for use of Python/Data Science outside of the course, none of the course material to date trained us on how to interpret the reference material. The final lab should be challenging, but not to the extent where the material presented doesn't provide the method for solving these problems. The curriculum designer should take this into account when building these classes.Lastly, the tooling used for the course did not work for over a month. This added hours to my training. It also meant that I was never able to complete some of the lab exercises, or use the completed material as a reference for the final exam work. The Coursera help desk was not at all helpful in informing students of the issue and when it would be resolved, and only gave advice to try to recreate the same exercises (without the supporting code) in other environments. This added many hours to the time that I needed to complete the exercise.
+While the data visualization tools outlined here are valuable, the final assignment for this course does a very poor job of assessing the things that were actually taught.Early on, you are assured that the course will emphasize the scripting layer of matplotlib, rather than the more complex artist layer. In the final assignment, however, you are instructed to use the artist layer, and configure many parameters that were never covered in any of the labs or videos.Likewise, utilizing geojson files for choropleth maps was covered in the most cursory manner - you are never requried to open a geojson file, or understand how it is configured. You just load it in and carry on with the assignment. However, without understanding the setup of a geojson file, no student is going to understand how to properly configure the key_on parameter when making their own choropleth map for the final assignment.The ability to actually create a graph from a set of data is perhaps the smallest part of the final assessment. Everything else is fussing with irritating details, often details that we were never taught about in class.
+This was not a course. This was a "go get them tiger": the
+labs are there, go do them and come back for the assignment. And then, in the
+assignment there were features that we had to include in a chart that were not
+even hinted - let alone explained - anywhere in the course. If we the idea is that we must search
+for everything on the web, then the course should at least include references
+to websites where we can find relevant information. Back in my student
+days we called that "suggested reading". Some of the
+Multiple Choice questions were really annoying: do we really have to remember the
+first name of the creator of Matlab to become data scientists? Great Material,
+but a very frustrating overall experience since there was no teaching.
+While I enjoyed the content of this course, I feel that the instruction was disorganized.  This course is part of a beginner sequence in data science, but the teacher assumes certain advanced skills are already known and does not teach them.  For example, chart annotation is only briefly covered in the second lab, but the final assignment requires a depth of knowledge not taught in this course.  If that's the case then chart annotation should be taught as its own section.  A lot of the quizzes are written to trick you with ambiguous phrases, rarely do they actually test what is learned in the labs.  I think the teaching in the other IBM data science courses is far better than this one, hopefully they improve this one.
+This is by far the least helpful course in the IBM Data Science Professional Certificate series.  The videos contain mostly repeated info, so you really only learn much of anything from the labs.  But even the labs are very basic compared to what you are expected to do for the final project. If I am paying for a course to teach me something, I shouldn't be teaching myself with help from Google.  I can do that on my own, for free.  If the "help" offered by the teaching assistant in the forum is code that doesn't look even vaguely familiar right after going through the course, doing all the labs, and getting a 100% on every quiz, then there is a big problem. I would absolutely not recommend this course
+The video lessons just tell you that do some things are possible, but  just in theory they would explain how to do it on labs, but the labs aren't so clear. There are days that I try to download the files for final assignment and the link doesn't work and the mentores don't answer. I didn't want to give one star to the course, because all of the other courses from IBM Data Science certification are so good, but unfortunately this course definitively doesn't scores higher than that, because I had to study on matplotlib and other libraries documentations in order to do the exercises.
+by far the worst course of the whole certification program. Carelessly prepared content. Full of typo and mistakes. Quiz results are not even consistent. Different answers for the same question is considered wrong. If a question has two possible answers as multiple-choice, the answer should be one of those, right? Many of the videos are repeating each other. Very little information. Waste of time and money. If there was another way to get this certificate without taking this visualization course, I would pick that way.
+The course was not well organized. The instructor focused on providing very advanced content rather than simplifying the conpects in order to make it easy for the student to digest, and follow. In many times i had to search online to understand the content. Even in the final assignemt, it was asked to use many functions that was not itroduced before, and the attached files that were needed to answer the questions came with errors, and i had to search in stockoverflow to solve the attachments problems.
+In my opinion, it's a terrible course. The labs seem to belong to an advanced course, whereas the videos are elementary and for absolute beginners. The labs take several hours and and even days to complete and understand, whereas it's claimed only an hour is required. None of the links/path at the final assignment worked! zero to none customer support, which is an absolute shame. The final assignments are way beyond the scope of a beginner course. Waste of money!!!
+Arguably the worst course in IBM certification. There were problems everywhere. The code boxes weren't loading in quizzes. The overall peer guided assignment was a nightmare since they were demanding the part which was not even taught. To sum it all up, peers checked my assignment incorrectly. The assignment grade calumniation took so long than usual. Keep in mind I've done previous courses in this IBM professional certification.
+Worse course ever!Don't waste your time - this course is just repetition of the same video "data cleaning" which is half of the whole course.BTW they use outdated (unsupported) version of Python - Python 2. Not a big deal, but shows that the course itself is outdated. Other libraries used in the course are outdated as well - if you use latest versions you'll find some warnings or error because library has been moved forward.
+The videos are chopped together and the end-of-section quizzes are full of "gotcha" true/false questions and incomplete questions that will cause you to fail and wait the 8 hours until your next try. The content is lackluster, the videos are cut together with differing audio quality, and the presenter couldn't sound more bored.Not a good course. I just want to get through it to finish the specialization.
+The course was shallow in content. I wish it explored pros/cons of advanced visualization techniques & how to go about implementing them in python with several real-world examples. The videos were extremely short & repetitive explaining the same dataset in each video. Bulk of the learning happens in optional labs & peer reviewed final assignment. Most of the insights are easily available online.
+This course should really just be the three lab sessions. The videos could be more helpful if they reinforced the labs, instead they gave very rudimentary descriptions of the charts. Aside from the geotagging lesson, the detail of the videos and even some of the lab content doesn't adequately prepare you for the course assignment.
+By far the worst module of the IBM Certificate. The videos do not explain anything just repeat the same things over and over again and the things needed for the final assignment are not in the videos or the labs. It will take you forever to do the assignment in the end simply because you need to do lots of research on your own
+The instructor skipped many things on the lectures expecting that the students will learn from the lab. The lab experience was good until I used the last lab on the last module. I couldn't run some functions. In the final graded assignment, the lack of proper tutorial on how to use JSON file, I felt like a failure.
+The overall level of the cause is way too low compared to the request made in the tests. Furthermore mistakes and inaccuracies are present all'over the course material.  Please review the course material and integrate information needed to perform the tests
+Seems like a Pandas course instead of a Data Visualization Course. The videos are very redundant and don't really give explanation on many items. The assignment is extremely hard in relation of the quality of the materials covered in the course.
+In lab there are many funtion , libiraries Which have been used first time with out any description , then I have to search for each and every funtion or lib which is way time consuming which make this course worst courses in my list.
+Complete waste of time and money!  Skills Network Labs was constantly malfunctioning.  The labs were so glitchy that I spent more time troubleshooting how to open the labs than I did on learning the actual course material.
+Poorly structured contents. The whole contents were compressed into 3 weeks. Videos are very basic, whereas lab materials are more in-depth. As such, it could be hard to have a good understanding of the syntax.
+The course content is not accurate in some units. Quizzes are asking for information that was not covered in the course and some of  the questions are hard to interpret, like the one for boxplot function.
+Labs didn't work for the whole week. it's often happens with  all IMB Data Science specialisation courses.Videos are not really useful, labs are the most valuable, but it's always hard to load them
+material for map ploting was not clear and hard hard time cant understanding how those code worki wish map ploting part was giving more time to explain like other course material.thankyou
+Could have included detailed explanation in the videos. For a beginner, the videos are of high level presentation. Assignment included questions that were not covered in the videos.
+very little instruction from the course tutor. many of the links did not work and had to trawl through forums to find the new link. poor course delivery for a very important topic
+Labs do not help solve assignments. They must explain examples to learn, I have to research in google to solve. those practices are bad I don't like this way of working at all
+I have to resubmit final assignment many times and wait for peer review for so long only to be reviews unfairly. Course needs grade moderation for peer reviewed assignments.
+Material was good, videos were not. Poorly produced with noticeable track/volume changes within videos. Instructor was very bland and continually repeated himself.
+The final task is too complicated for what we've learnt and when looking for help in the forum I've received no help, so I have been stuck in there for days.
+This course does not do a good job explaining visualizations and how to plot graphs. More time needs to be taken show how to set parameters in the exercises
+Teach fundamental skills. not something like how make your font size big or include colors. Make assignments a fundamental activity not a complex activity.
+only course i actually didnt like. incomplete and it was easir if obly send us to cognitive labs directly, the difference is that cognitive labs are free.
+The tools for practice the code in python don´t work. All the tools in cognitiveclass.ai have some error message and I can not finalize my studies.
+This was the worst course in the specialization.. It was hard to follow, there weren't many lessons, and it wasn't worth the cost.
+One should take another course on coursera to pass the final assessment since the tasks are not covered in the course.
+Absolutely bad instructor with the videos not elaborating enough and the labs not functioning properly. Please fix it
+Honestly, this is the WORST course I have ever taken on Coursera. And Alex Aklson is the worst instructor. As a course on data visualization, it should focus primarily on how to VISUALIZE the data. In other words, when we have the processed and formated data, how can we turn it into plots. But in the videos, especially week 2, the instructor over and over again repeated the data processing for Canadian immigration. After watching the videos, what I remember most clearly is not how to make the plots but the total number of immigrants to Canada from each country. And for the most important part, that is, the details of how to generate the plots as well as applying various features, the instructor just spent very little time in the videos. Yes, a lot of them are covered in the lab, but remember that for a course, the lab should just be supplementary of the lecture. The instructor should teach those skills systematically in the VIDEOS, and the lab should only be used to reinforce our understanding of those skills. In particular, as has been mentioned in many comments, the final assessment requires using the artist layer which was only introduced a little bit in the lecture but NEVER taught in detail. This is not responsible behavior. Overall, I am very disappointed. And I hope that IBM can ask another instructor other than Alex Aklson to create a new version of this course.
+Very disappointing. Unfortunately, one of the worst course of the IBM Data Science professional certificate. It does not have the typical quality standards of an IBM course:- Most of the videos are very short and do not go in the detail of the topic- Videos have bad quality audio - Labs are not laboratories where you use what you have learned, but the real lessons (without a deep explanation of what is done and why).- Labs are also unbelievably full of typos.- Most of the final assignment requires things that are not explained.- The course also lacks consistency: they explain something and request totally something else regarding Data Visualisation (that you have to search on google).- It should be a longer course, with longer videos that explain in detail how to make the various diagramsI hope IBM will make a massive restyle of this course.Do not attend the course if you are not obliged (you are studying for the IBM data science certificate).
+This is worst course in the specialization. None of the videos give any defined explanation about the parameters or keywords that are discussed in the labs. In the labs too there are no clear explanations as to why certain parameters are used. This is the worst course. I would recommend replacing the videos with videos that actually contain clear explanations. This is not for beginners.
+502 Bad GatewayThe server returned an invalid or incomplete response.I think, you really should change this course in a way that one is not dependent on labs.cognitiveclass.aiIt simply does not work. I have manually to upload everything to my light version of the Watson Studio.
+The class itself is very high level (and super repetitive on unimportant information) , but the final assignment asks for things that were never covered in the class. Anything I learned from this I taught myself. Very frustrating!
+This course is a disaster. Nothing works. It is impossible to propperly prepare the tasks because not one single lab is working. I am paying for this and I feel cheated. I am truly considering dropping from coursera.
+I can't use IBM skill network labs for almost a week. There is always an error starting a lab and I will not go on course.
+Labs did not work. Kept getting 'Application Not Responding' errors from the IBM site hosting the lab notebooks.
+So far this is the worse course- the coding is not well explained and the lessons are extremely ripetitive!
+The videos were very repetitive, and didn't teach you much about best uses for diferent kinds of graphs.
+Poorly design. Not enough practice material to help student to burn the knowledge into our brain.
+The link in the labs did not work. The videos were good but I wish I was able to use the labs.
+Bad instruction to finish the assignment and not enough tools to get the objective done
+I spent more time searching online for answers than I did going through this course.
+It was so shallow. Just mentioned everything without going a little bit deeper.
+Just Awful.  Test is nothing like the practice modules.  Very poorly done.
+Many technical issues with the course material that are outright ignored.
+Many technical issues with the final project and no one cares...
+Taught Too less. Asked too much during the Final Exam
+Awful. You don't learn anything you're tested on.
+Very few guidelines to complete assignments
+Really bad course: too much redundance
+worst course please update the lab pls
+Course is not organized properly
+very bad course
+This course quizzes you on things no one cares about such as 'Artist Layer' which has no relevance in calling a function. Folium library was the only cool thing about this module. Glad it's done!
+This was a monsterous let-down as a class. I already know how to GOOLE things. I am paying $50.00 USD/ month to be TAUGHT some things. Not spoken AT, and then tested on things that aren't taught.
+the explanations were not at par with the exercises and assignments given
+really bad quality of LABs
+It was a good course that follows steps clearly and effectively. However, I cannot rate it higher that 2 stars for a very important reasons: Big Parts of the Final peer-reviewed assignment are not even covered in the course!!! I had to scour the internet and find my own solutions (and many others clearly had the same problem as seen in the discussions section). This is a big problem and needs to be addressed as we should be tested on the material actually learnt!Also, almost every video repeats how the data is 'cleaned' which is good once or twice, but unnecessary the 15th time.
+The course material is not sufficient for completing the final graded assignment. It required many hours of internet research to collect the details necessary for the final graded assignment.
+A lot of the work in the final project was not in the course (in either the content or the lab work). There were plenty of topics covered that could have formed a challenging final project without asking us to do things that we weren't equipped to do by the course. Fortunately, I was able to find what I needed but after putting all of that work into the course and labs, I shouldn't have had to spend as many hours on the final project as I did. If those are things I needed to know, then the content was inadequate. If I didn't need to know those things, the project was poorly created.
+Compared to other courses in the IBM Professional Certification catalog, this course has some noticeable deficiencies.First, the overall content of the course rather confusing.  The very first lecture focuses around efficient 'less-is-more' figure design, which I certainly agree with.  However, much of the course (and most of the tested material) focuses on making extraneous graphics such as waffle charts and chloropleth maps in situations where a simple bar graph would be the most efficient way to present data.  Meanwhile, the standard module Seaborn (which is EXTREMELY expansive in data visualization utility) is given only a single 2 minute lecture.  Second, unlike all other courses I have taken in the IBM certification, the assignments and workshop sections of this course are largely unhelpful.  In addition to my point above, the workshops focus on manipulating aesthetics of simple graphics (i.e. changing colors in a bar graph)  as opposed to showcasing the broad number of figures that Python is capable of generating.  This left me disappointed with what I took away from the course in terms of usable knowledge.Finally, the final assignment is arduous and poorly documented.  There is no structured notebook that provides guidance on solving the problems, which is particularly troublesome when rendering uncommon figures such as chloropleth maps.  I found that I spent >80% of my time on the assignment chasing down unintelligible error messages, as opposed to developing a real understanding of the logic behind generating graphics in Python.  The majority of other courses in the IBM certification have been very well designed and educational, I just feel that this one in particular has a lot of room for improvement.
+ZERO support from our teachers, assignments that have little to do with what they teach us (Videos don't even have any information explaining core concepts) Most of the learning was done by Google. Quite annoying to be honest.
+Need more detailed explaination of artist layer. Very confusing. Questions on topics which are not covered in syllabus.
+This is the only course so far where the videos have not been helpful. They were repetitive-- we do not need to learn how to do the same transformation on the dataframe 10 times. The videos didn't show or explain any of the code like in the previous courses. The final assignment covered code we didn't even look at at all during this course.
+This course did not went into the depth and breadth as per expectation after following previous course. In my personal opinion as PhD myself with history of teaching for 4 years, the content is not enough to make a separate course. This course can be included as part of data analysis course itself as separate week worth of lesson.
+A lot of information that was required to complete the assignment was missing. I had to look up lots of other sources to be able to complete it. I understand this maybe was the course setter wanted but it felt like the material was overlooked.
+Bottom Line Up Front: You are going to have to teach yourself using Google for the Final ProjectThis course was unique in the Data Science Professional Certificate Progression in that the content of the videos was not very helpful, making your rely on the labs to teach yourself.  The labs were not great in walking you through all the parameters that were available for each type of plot, and while you can copy and paste solutions and tinker to learn things, the course didn't leave me with a good understanding of how or why things work and thus, unable to apply solutions creatively and appropriately without much effort.By far my least favorite course of the 7 IBM courses I have completed so far.
+Like other reviews I was really looking forward to this course in the IBM syllabus but was very disappointed. Videos were very high level and repetitive - and there were a lot of them. The detail in the exercises was better but there were significant challenges in getting them to work. And then the final assignment was a bit of a joke. The visualisations you were expected to produce had not been taught in the course and as you'll see from the forums requires a lot of work arounds. I would suggest this course needs a bottom up re-write. Do less but cover it better!
+The video content was not extensive and it was recommended to study on labs for more detiled information, however,  like many people who took the lesson, I had difficulty opening and using the lab labs.cognitiveclass.ai. When I wrote about the problem to the support team, they said they already escalate this issue to their partner to take care of it and fix it as soon as possible. I completed assigments and labs on a different compiler. I'm disappointed about this course after all the good courses I took on Coursera. I hope they will fix the issue quickly.
+quiz had strangely tricky questions, which were not thoroughly covered in the videos. And as others have said, the final assignment challenged us to do a bunch of things that are out of the scope of this topic. It would have been much better if we had more guidance on setting up the groundwork to perform the visualizations. For instance, I had to figure out how to import folium into my notebooks, which took up some time - some direction might have helped with that. Overall, I did learn some from the material, but the experience could be way better.
+The videos were unfortunately pretty useless. At least half of the time the respective dataframe was processed (but always in exactly the same manner... zero information about the actual new concept). In addition the videos were too short and the really important new concepts were only introduced by quickly showing the code snippets. There was often no explanation of key concepts. Unfortunately, overall one of the weaker courses on Coursera. The Data Analysis Python course is much better and explains similar concepts.
+I enjoy the IBM certificate programme in data science so far.  But this course is a great disappointment because of the followings.  1) The clips are not organised which waste us time to read the same contents (i.e. how to clean up the data) for more than five times. 2) The instruction is not clear without going into the details of the coding. 3) Some of the images of the assignment are incorrect, misleading many of us to spend extra time to fix something that should not be fixed. Hope Coursera can redo this course.
+The class is beneficial as it allows you to understand how to create visualizations of your projects. However, the final project for this class was very hard to understand. A lot of the parts that were expected to be completed were no where in the videos or labs. In the forum, you could tell because a lot of people were confused about the same stuff. Others and I ended up using other sources as a way to get the results Coursera was wanting, rather than what Coursera taught us.
+This course does very little teaching. The labs demonstrate how to do things, but there is little explanation of why, and no theory about visualisation at all. Instead, students are simply taught to follow recipes. Also, for the past week, the IBM servers have been extremely unreliable. I haven't taken off any stars as it's not the fault of the teaching staff, but it's a bad look when an IBM run course can't actually get the IBM computing services to work properly.
+Videos are so so, the same introduction for all videos with 2 minutes of data formatting, which is exactly the same in all videos, leaving only few minutes at the end of the vid's for the content of the lesson. The examples in Jupyter were interesting but not very well structured. At the end, I better used Google and Pandas documentation to solve problems and learn about the topic. Not a bad lesson, but there are just more effective way to learn in my opinion.
+There's a lot of good material, and ultimately enough to integrate into successive work in data science. On the frustrating side, most of the explanations focused on "what" rather than "why", and there's so many "why" left unanswered when choosing to address a problem with these tools. Additionally, most of the questions were either insultingly easy or incredibly difficult. Plenty of googling in addition to reviewing presented material.
+The videos are very repetitive and do not offer much in terms of preparation of the lab. They are very short and say the same thing about the structure of the data. The labs are very good but I had to spend time looking up solutions online that were outside of the taught material. The course really needs to be updated.
+The provided material is really bad. I don't see the point of doing this course, when you have to search on internet how to do everything.I learnt doing some things during the assessment, but not using almost any of the instructions given during the videos. They were completely useless.
+Course could benefit from a refresh - for instance, support for Mapbox Bright tiles has been dropped from Folium for 1+ year, but the course still tries to demonstrate their use. There are several posts from confused students wondering why this doesn't work. Surely it'd be better to just remove/update this section of the course rather than have to deal with so many bug reports in the forum?Also the videos for this course are extremely repetitive and barely of any relevance, e.g. 1-2 mins of several of the videos is just the same footage of the data being imported to Pandas and cleaned. Once you've seen this once, you've more or less got the point. Add to this that the Final Assignment required knowledge of matplotlib which was *not* covered in the course, and had to be researched elsewhere, and it seems obvious that the quality and relevance of the video content could be improved significantly.
+Out of all the courses in the  IBM Data Science Professional Certificate, this was the one I had the highest expectation for and unfortunately I was a bit disappointed. The course materials are lacking in information and the final assignment asks for customisations that weren't covered in the course materials, which leads to question: are these important things to know and the materials are lacking in information ? Or are these irrelevant and should be a part of the final assignment? Because if they're just there to make sure no one gets a 100% grade, then that's just sad.
+This class could have been one of the best based on my interest, but it wasnt explained very well and I had to use outside sources to figure out what was going on in the labs and sections...  Also some of the final project material wasnt covered in the class itself...  It was more difficult than it needed to be...  Once I used Google to find answers, the stuff I actually learned were useful...
+Much of what was tested, was not taught in the course. Therefore, the course requires individuals to do their own research online to answer the final assignment questions. The purpose of paying for the course is to quickly learn fundamentals from the course, NOT to spend hours looking online for the right answers and waste time with trial and error experimentation.
+Very poor. As the course carries IBM's name, I expected a premium product, but I was disappointed. The training videos were brief and didn't go into the material in any great detail, and certainly didn't prepare the student for the lab sessions or the final assignment. I learnt more from Stack Overflow than I did from from the training videos.
+Links did not work for classes hands-on exercises, repetitive video explanations, and final project required content that was not explained in classes. Overall, it was a bad experience on a subject that should have received more thought and caring from instructors on lesson plans and class materials given its importance.
+Labs and lessons did not adequately prepare me for the peer review lab. A lot of information went through quickly or was hard to reread on account of the sheer volume of charts created. Minor gripe but when learning pie charts the videos mention pie charts being awful without properly explaining why they are awful.
+Almost all videos included the same bit about getting and reframing the data. This was a significant portion of the videos as well.There seemed to be more confusion around the final assignment judging by the amount of questions in the forum. The assignment needs to be rewritten or made more clear.
+Content was solid, but videos mostly said "go do the labs" vs offer meaningful tips for the final an beyond.  Worst of all, the tech is outdated. I spent an entire weekend working on the final assignment due to technology issues.  An embarrassment for Coursera and IBM that they let this happen.
+Better to read matplotlib and folium documentation and look for answers from stackoverflow.This course didn't offer enough components of matplotlib and folium.This offers lab sessions but they are not main contents.Final assignments are impossible for someone who just takes only this course.
+The teaching pedagogy wasn't as good as the other courses I have completed in this certificate (Professional Certificate in Data Science) so far.Questions in the assignment were related to topics that were not discussed in the course. I had to search online and complete the assignment.
+This course is in need of a healthy overhaul from content to lab to final assignment. I would recommend adding a recap "week" just for data frame manipulation.  As with many of the courses, the labs could use some proofreading and updating, this course skips around a lot.
+The course can be made much more better. The final course assignment wasn't much based on the things that were taught during the course. Example could be using the labels above the bar.On the bright side, the contents were really good. Thanks to the instructors! :)
+As all  the other courses in the specialization, the depth is rather shallow. The seaborn and folium parts are extremely short and superficial. Good luck if you actually want to apply these libraries for your own projects -- then you're back to googling.
+The videos had low sound quality, almost all videos had same recording for initial 2 minutes which was unnecessary. The final project had use of many such functions which were neither discussed in the videos nor explained in the Ungraded Tools.
+It was by far the worst course I have taken in this specialization...  You really should renwe the materials  and add more labs, because video lectures are kinda useless.  I am giving 2 stars out of respect for the effort given to put it here.
+Had some problems with changes to the interface that caused quiz questions to become unreadable. Also found some of the discussion around artist and scripting layer in matplolib difficult to follow. Could have done with more explanation.
+The marking rubric on the final assignment gave 5 points or no points for a table, so there was no way to give part marks. Also the previous labs did not show how to add the SF map in the same way as the final assignment.
+As compared to other courses in specialization, this course has many errors in labs. Video sessions are also less informative. All the things directly come to lab only. Also error resolution by faculty is very poor.
+The final project was way difficult. Which is fine, difficult is fine, as long as the knowledge on how to solve it is provided by you in the lecture notes\videos\lab sessions. I mean that is your job right?
+I was so upset for the last project because knowledge of I have learned from this course was not enough as all for completing all the questions. I really wish to get more advice or tips for the project.
+Doing the IBM Data Science Certificate and this is probably the worse course. The content is relevant but the directions and labs are poor compared to the others. The explanations aren't as clearn.
+A lot of problems opening the labs. The final assignment required us to do things that were not discussed in the course and it was unclear where to get the relevant information to complete it.
+Video lessons are poor in explanation of matplotlib syntax as well labs. Differences between pyplot and artist layer are not clear: a lot of work has left to selftaught. Kind regards, FT
+Some exercises throughout the course aren't explained neither in the video, nor in the labs.It is hard to understand the Authors data visualization functions explanations in the course.
+This Course wasn't that good like the previous ones, the Videos were quite short and the labs weren't very explicit and made to be understood by everyone.
+Not everything that was needed in the final project was covered well enough (or at all) in the videos and lectures
+Very theoretical, Quiz questions were made over complicated. this make loose interest in completing the course
+I am happy with what I learned but I think it is not as good as the rest in the series.
+Terrible IT support. Labs do not work. Never recommend IBM courses to anyone.
+more examples in the lab for the most popular chart types is appreciated.
+The course material is well presented and interesting, but the final assignment is totally out of line. It contains questions with items that are not in the course or prior courses and I for one could not find on the internet. It took much longer and was much more difficult than final assignments in any of the prior courses. The professor needs to change this assignment, in particular question 2. Other people have struggled with the assignment and complained about the course and nobody seems to care.
+Not good. The quizzes were pointless and the final assignment deal  minimal modifications (that have nothing to do with analyzing the data ) that are not covered in the course. Of course you can do these minimal adjustments if you search the documentation for the plotting libraries, however is this was the goal of the course why not teach it? if not, why make us bother with it?
+This program needs to be updated. There were some things that were outdated. Additionally, for the final, we would be asked to do things that were not covered in the lessons. Although this can help in teaching problem solving, it was quite confusing and overwhelming considering this is an online class in which we have no instructor to go to for guidance.
+1. Course videos are repetitive. Infacts videos in this course are useless2. Plots parameters are used but limited info about those are provided. It is assumed that we already know.3. Personally, expected more detailed info on some of the charts, word cloud waffle needed more explanation4. Course is not updated
+While I did learn some new coding skills, the course still needs to be developed. Mini labs should be conducted after each video to tie information together. If we are to be tested on something, it should be a part of the instruction. This course is part of a beginners' specialization not advanced.
+The assignment is overwhelmingly difficult. I understand it is important to do online research when completing the assignment, but I hope more clues and guidance will be provided step-by-step just like other courses within this IBM Data Science Certificate scope.
+I think that was the hardest IBM Data Science module  I have tried until now. Level of final exercise to me was munch more difficult than lab sessions , which is not fair.  Videos do not show anything relevant, lab sessions have been good.
+The videos were very poor, and the methods given in the labs assignments did not cover some types of questions that were asked in the final assignment.
+The course content is good and well covered. However, in general, I would have expected less of Matplot and more of Seaborn. Seaborn is easy to learn.
+Very Irritating. Absolutely no guidance for the Assignment Questions which were not covered in the videos labs also. Wasted 3 days on the assignment
+The videos were repetitive and the final required a lot of outside research/information since the content was not covered in the course.
+Very perfunctory video teaching, a lot of content in the lab needs to be Googled by urself they teach nothing but give u the code
+The course videos, lab, and assignments do not really align in my opinion. I expected to learn more from the IBM's DS series.
+The course material is not comprehensive enough and the final assignment is too hard for the things taught in the course.
+The annotate function is not explained in the course making it very difficult, so please add more material on the same
+Videos and Labs do not fully prepare me for the final assignment. The course material could certainly expand a little.
+Audio with noise and distractions. Irrelevant quizzes, and final assignment with topics not well explored in classes.
+Had to google a lot of my problems with the lab projects. Information should all be in course for projects.
+Assignments seem to be quite a huge jump from the course material. Otherwise pretty succinct course.
+Needs better and more elaborate explanation. It's too tough to understand and execute.Thanks!
+Some of the questions on the final assignment questions were not covered on this course.
+There was no course material teaching us how to do one of the tasks for final assignment
+A lot of material is not explained verbally, videos are half-useless and repeating.
+Please have more explanation in Videos. The content is not covered enough in labs
+Not Fully explained. The final agriment tasks not match with course content
+No Instructors helping out. Little is learned... Not worth taking.
+The lab stopped working and we didn't get any support.
+Questions in the peer graded are little out of scope.
+Poor examples / labs! Labs very often not working.
+Poor study material compared to the assignment
+Need to be clearer
+A lot of functions and lines of code weren't explained they were just left to be figured out by the learner. While some lines of code could be understood without much explanation, others were too complex for people new to programming (which most people taking this course are).
+The course labs had broken links which caused issues with several of the students. The quizzes also had several question choices where two of the answer choices were the exact same, leaving the student to guess.  Not to be so critical, although the datacamp classes are much more effective when it comes to learning.
+Although I understand that learning doesn't take place at only one place, this course seemed very weak in terms of providing enough examples necessary to solve the problems in the final assignment.All videos had a same part that was repeated, and no information was agregated by this repetition.The contents of the labs are quite good, but a more detailed explanation could exist.Some updates are needed: one of the labs uses MapBoxBright, which gives us a clean figure with no map because this is not available anymore.The final assignment required us to look for solutions that were not present in the course, and in my opinion, they should be. The student should go to outside sources when it feels a need to understand something deeply or if the way presented by the instructors was not the best for the student to understand what's going on.There's a lot of room for improvement: the videos should not be repetitive; the contents should be updated, anything that is required in the assignment should be presented throughout the course, if it's not in the labs it should at least be in the videos; the final assignment could provide a notebook with the requirements as the other courses in the specialization offer (in my case, I took it as part of Data Science Professional Certificate by IBM); if this is not the case, the student should be prompted to create a notebook with the questions and answers, which would estimulate even more the creativity around data visualization.
+This course was nice but there were extra stressors that weren't included in the course.
+I have mixed feeling about this course. I think the purpose of this course (visualizing data) and the different ways of doing it is really motivating and awesome, specially when you realize all the things you can do (types of charts , maps etc...). This is actually awesome! However, on the down sides: -Each video repeats the steps on how the database used in each course has been "cleaned". I agree with the feedback from other people, reminding us one or two times is fine, but in each video... This is too much!-I would have liked more practical exercises, specially to plot multiple linear regression models (and polynomial of different degrees, in particular), to display on a chart, and to make predictions. That would be great ! -Labs: they are of unequal difficulty: some are relatively easy to complete, some require more  thinking/research and time, while some have no question at all or very little. Maybe it would be useful to re-organize the labs ?...-Week 3: as everyone mentions, the "artist layer" method is only briefly covered in one of the lab. It would have be really useful to spend more time on it, and on all the things we do with it. Like others, I spent lot of time searching online, and it took me a full afternoon to complete that part of the final assignment !To summarize: it's a very important and interesting course, but video lessons should be re-recorded with deleting all parts repeating the initial database processing, and adding more topics such as artist layers, etc. Also, maybe split each lab in 2 since there are few labs in this course, but if we follow them correctly, it requires quite few hours to spend on each lab (at least for "beginners" like us starting learning about this topic).Thank You !
+I hold a degree in computer sciences with majors in Software Engineering so please take this review of the course seriously.Unfortunately, this is the only course where it seems the teacher never had any outline as to what he needs to teach and how.1) He has made the video lectures useless as he declared himself that the videos will be short but you have to 'read' lines and lines of lectures to get a grasp of the visualizations he will teach. I think he don't know if it was that easy for a person to get knowledge then he would have just read text books and would have gotten the degree as according to him there wouldn't be any need to educational institutions.2) Many times, he introduces many 'advanced' functions of Python which was not taught in the previous course which was about Data Analysis by Python. I don't have any problem in learning new things everyday but using multiple advanced functions in a 'beginner' course makes it tough for student to grasp what he was trying to teach.3) There are far better and easier ways to do many things but it seems he deliberately uses long, tedious and advances methods for plotting various graphs and makes things confusing again and again.4) Lastly, he himself gives advanced quizzes for the stuff which were not even taught extensively and it makes hard to even pass them.
+The rating of 3 is because there are some excellent points to this course and some issues.  First, no doubting the Instructor knows his stuff and he has a good style, but for EVERY lesson to repeatedly go over the details of the data set used (and you can tell this is one clip pasted in every lesson) is mind numbing.  Cover the data set once and then simply say "We will use our Canadian Immigration Data set, refer back to it if you have question" .  Then use this time to go into a bit more detail on the graph mechanics.  Secondly, there is no lab environment for the final assignment (as was provided in precious courses of the Data Science module).  This overly complicates the assingment beyond the material being tested (I was bangin my head as to why I could not get a graph working until I realized it was the lack of an environmnet variable, not my code, that was causing the issue.
+The course itself was good. Unfortunatly it was not clear at the beginning, that the "Data Analysis Module" is a pre-requisite. After struggling with the lab of week 3, I found out and took the Data Analysis Module. I tried the lab again - meanwhile the first part has changed - the file was not in the same structure. So, the code I wrote before was worthless. Took a while to figure this out. Then in CC Lab the "conda install" did not run - neither in the lesson, nor in the lab - therefore I spent many hours struggling to find this out - didn't know, if it was my coding. It would be good, to improve those "organisational problems". That's why I only gave 3 of 5 stars. It did cost me a lot of time.The content and lessons and exercises and the lab itself is very good and interesting. Also the amount and speed, very good to handle besides a full-time job (if everything works ;-) ).
+The course is very informative with step by step explanations. However, there are too little teaching staff to answer all the students questions. As well, throughout the lab quite a few things were unclear (i.e. a certain map is not available for free users, a certain tiles doesn't work with maps, something must be downloaded/imported despite saying it must not). These things could have been mentioned in the lab instead of having to look through many students questions on the same issue up to two years ago. The importing/downloading parts of the code were also very slow on the notebook and it often had to restart often due to this. The final assignment discussion page often crashed and froze too but all the other discussion pages worked very well (no crashing or freezing, fast loading times).
+The notebooks don't mention that Mapbox Bright isn't available for free anymore. This results in one of the map exercises in Week 3 to not have a map populate. Only after hammering away at the code and reviewing the forums did I learn that this map type isn't free anymore. There's also a section in the final where we are asked to populate labels on a bar chart. This wasn't covered at all in the material. Only after reading the forums and being linked to some obscure blog post was I able to figure this out.Also critical items not converted the material: why when load a csv file from a URL do you sometimes need to add a .csv extension to the string and other times not (such as in the final map). Why does a .geojson file need a .json file extension when being fetched from a URL?
+This course was easier to follow than many of the others, partly because of much repetition, which is an essential yet often overlooked element of effective teaching. This is also one of the only courses where the instructor introduced themself in the video, which I really appreciated. If I was grading only based on the lessons and labs, I would give it 5 stars. However, the final project involved a lot of code that wasn't covered in any of the lessons. I know it wasn't just information I missed based on the countless questions in the forums. Thankfully, with the help of the other students, I was able to understand the concepts necessary to complete the project, but that's no excuse for not including the information within the course.
+This really isn't a class, it's a lab, and that would be fine, but we have to watch a few one-two minute videos that should not exist - they are meaningless and waste of time and just end up saying - make sure to do the lap. Delete the short videos and just say - do the lab. The content of the class is very simple, which is fine, and this is one of the classes that doesn't create a very difficult exercise as a test (yea!). Although I will say for me, it took me hours to figure out the box plot, the little no-line nuances, etc. I don't know if was easy and I just could not find the right commands and parameters. All in all not a bad class - because WOWOWOWOIEE - I had no idea making stunning maps was so easy.
+The subject matter of this class was very enjoyable.  However, the level of presentation of the material was not in depth enough .  As a person who is not from a computer science background, this class was extremely challenging; not because it was too difficult per se, but because I was not given the tools needed to be able to confidently complete the Final Assignment.  It took many days of researching, watching several videos outside of the Coursera platform, and a lot of trial and error, to be able to complete the course.  In addition, the labs had trouble loading (not Coursera's fault, as it was through another site) quite a lot, which hindered my progression.
+Disappointed with this module. The Labs would not execute and had issues. Throughout the course there is a request to advise of errors (including spelling errors) or problems in the modules or content. I don't understand how entire Labs cannot execute, due to the starting cells not running. I logged a few issues (that other participants encountered too, backing up my issues) and had responses after a few days saying there were "fixes", but you had to run x/y code ..... This still proved difficult. I think the fundamentals definitely need addressing (modules/labs that run). The videos (teaching) are very good however. Thank you.
+The course material is good, but the notions in the exercises are sometimes just shown and not explained in enough depth. The exercises during the course are way easier than the final exam, that I found too difficult for the content of the course. Also, the difficulty of this exam is not comparable to the other exams in the same certificate (I am following the professional certificate in data science), that have been much easier and much better aligned with the content of the course material. I would cut on the material of the course and keep it simpler, plus simplifying the exam to actually reflect what has been taught.
+Hi, In the final assignment, I had to explore the internet to get some codes to display the bar graph or the map. These codes were not covered in the class. The course needs to get improved by giving the keys of how to do things . For instance, the method .patches was never covered in the course. I do not know how to use it. It may be a part of panda library, but the method was critical to do the assignment. There are many other examples. I spent almost a night to finish the assignment because I took a long time to self learn these tasks. It is good at one side, but the course should help me.Thanks
+Explanations were clear and gave a good basic start to doing data visualization with Python, but the final assignment required searching on the Internet in order to accomplish the tasks; i.e. it is not possible to complete the final assignment using only information found in the course. You can take it 2 ways: that this is actually realistic for the real world (since there will always be problems you can't solve with what you already know), or that they didn't give a solid enough foundation so people actually know what to do with what they learnt.
+I would recommend that there should be more contents in the lecture videos and the lab sessions. It would be good to have more practical tutoring on the code. for example, in the lab it only mentioned how to do annotation on an ungrouped bar chart, but the assignment requires to annotate on a group bar chart, which is hard when i just followed the lab steps, and i ended up doing hours of searching, alghough it's a helpful process. So it will be good if the course can add more details on different methods of using the libraries that were covered.
+This course felt less well organized and structured as compared to the other courses in the IBM Data Science track. The videos were sparse on detail, and while the labs did have a lot of good information, they were missing crucial material that was necessary for the final assignment. The final assignment also didn't include a Jupyter notebook template / starter code, which combined with the missing information from the labs made the assignment much more frustrating than those for the other courses in this series.
+Almost good. But not much explanation given, quick brief on basic functionality. Most of the videos are 3-4 minutes long, where 30 seconds is logo + ending and additionally one minute in almost every video - explanation of the data. In almost every video. So, total explanation of particular functionality is close to 1:30 to 2 minutes. Plus, lecturer is soooooo bored with what he is explaining, that you want to go to sleep in 5 minutes. Final assignment was quite good. That is why it's 3 stars instead of 2.
+The labs were very informative, but the videos didn't add much of anything to my knowledge. The final assignment was incredibly difficult, and the course was all but useless for completing it. Almost everything for the final assignment had to be looked up elsewhere. When a final assignment tests over material never covered in the course, what purpose does it serve? There are many other reviews that have the same complaint. Something needs to be done to rectify this problem.
+That`s a good course. I realised the Instructor efforts and his great skill and capabillity wich Python visualization. The final assignment pointed to activities that couldn't be deployed in another (or resident) Jupyter notebook, just  only in an IBM cloud notebook.I expensed too much time trying to discover it. Some instructions should be better explained during the course. This is an important subject to be dealing in just tree weeks. Thank you.
+The part of using the artist layer is a little ambiguous.  Now after I finished the course I don't feel that I know clearly the difference between using the artist layer or using the scripting layer. In both cases we use plot function of a dataframe.I think dedicating a week or more to discuss the actual functions and the way of using the matplotlib library may be better than previewing more visualization options like waffle chart and word cloud.
+Sorry to say but this course is actually worse than the others in have learned before.I understand it may be hard to teach only the different tools for visualization such as folium, bar/pie chart. However, the speaker in this course speaks the same "WORDS", just like replacing the variable names when coding under instructions.I did learn something in this course but just don't like the way we been given.
+This course had several areas where it could be improved: (1) The Final Project was made much more difficult by requiring the students to use skills which were not taught in the course. This seems to defeat the purpose of testing, which is to test what was learned. (2) The course should have contained content which explains when it is more appropriate to use the specific types of visualizations.
+Overall a good course, especially the final assignment is well done. However, there is too much focus on the class labs and practically no effort put into the videos. Within the class labs there are only comments as reference to how and why something is done which often lacks proper explanation (e.g. what the called methods in a chart mean, how loops are used to fit data etc.)
+I felt this class was not bad.... I do think that the quizzes are a bit too easy with the assignment being a serious step up. The assignment also required you to Google some how-to's, use some patches and reference prior courses which I feel asked a lot of learners. The info is good, the skill learned is pretty cool. Not the best class, with definite room for improvement.
+Although the idea of this course is good, it didn't have the same flow as the other IBM courses in the IBM Data Science Professional Certificate.  There were no quizes during the videos, and the final project had concepts and code that weren't in any labs or videos. Even the hints from the professors in the discussion were misleading.
+This course was good but for too many of the final assignment questions I really had a to look up how to do it on the web.A better explanation of the key_on parameter in choropleths would help - even though the entry in the json file is features - the key_on value is feature.properties.<key> not features.properties.<key>.
+The course is nice, but there are several issues that could be easily solved: Some of the notebooks on JupyterLab were not working (e.g. "exploratory..."). On the final assignment page there were some bugs regarding the upload (i.e. question 3)The videos in week 5 were too condensed and resulted hard to follow.
+This course is a little disappointing for me.  It is a 3 Week course and content you learn in this course are not even cover introductory sections. The Final Project is So hard, that it didn't cover the important sections. I don't suggest this course if you are really serious about Data Visualization.
+None of the labs data imports worked.  The majority of the video content said to take the time to really learn the topics via the labs.  The final assignment data sources worked, so at least that could be completed.  Paid courses really need to have external dependencies reliably available or updated.
+Good content to know. Fair but not great in terms of presentation. Many videos repeated how to prep the data frame so you end up watching the same 2 minutes several times. Also a lot of the things you had to know you had to figure out on your own versus finding it in the material presented.
+Still good overall but not as well designed as previous courses in the IBM data science certificate track. The final assignment is MUCH more difficult than any content in the labs and harder than previous final assignments, which isn't necessarily bad but it's inconsistent and unexpected.
+I didn't completely understood the labs and where some lines of code came from. Also, I felt that we don't get enough directions to complete the final assignment, not even which notebook to use. This has been by far the most difficult course of this training in my opinion.
+Great course except of the final assignment being based on a deprecated or soon to be deprecated version of Folium Choropleth implementation. Please review that part as it could be very confusing to students that do not use cognitive class as their development environment.
+Since students weren't able to submit code, this made it extremely difficult to answer the final project (which I couldn't figure out how to finish). Getting feed back on how to correctly code the answers is more important than showing a screenshot of the final product.
+Need more clarity and practice for this course. This course seems the toughest as it asks for memorizing artistic layer syntax which seems so difficult coupled with the humongous choropleth map! A huge amount of practice is needed for this certificate even after labs!
+Good approach to basic concepts of Matplotlib and other tools to visualize data with Python, but the assignment and final evaluation require much more knowledge than those taught during the course and, eventually you spend more time googling concepts on websites.
+The information was valuable and generally well explained. The final was a massive failure; the classes and examples prepare us for maybe half of the questions, but all the questions depend on building off each other. The only way to pass is to Google for hours.
+I had many issues when people marked my final assingment. Maybe the indications should be clarified. For example some people didn't gave me the points for not showing the dataframe with the rows in the same order, although all the rows were respectively correct.
+not too practical over the course, a lot of theory based which is great as well. But I personally not a big fan of the Watson studio as it's not user friendly. I have to go through a lot of layer on their site before getting to the studio or the notebook.
+Not much on videos, I could find the info in the labs in other courses. It took me very long time to submit my assessment, I had to buy another course to get back on track here. I was demotivated. This course was the least satistfactory among all..
+Topics were interesting, but the amount of new code being explained dramatically decreased. Also the final assignment was nightmare-ish as I was often forced to make code that wasn’t discussed in the previous videos and labs.Overall frustrating
+The course is good but the final assignment is quite tough for someone who is learning this for the first time. One better way to approach this course is to break down the codes line by line which makes the learner to pick up quickly.
+The Course Was Perfect And Was The Lab.The only thing that was so annoying was intructor just give a brief introduction and left the topic with lot of confusion.Lab was annoying to it was very hard to open and was giving so mcuh error
+The course would require revision to introduce the concepts in a simplified matter with different data sets. I also believe a lot of the detailed concepts are left for the course takers to explore to fully comprehend the material.
+Need more concepts to be discussed for modifying charts using artist layers. 25% final assignment was based on artist layer, but the different options of artist layer are not explained like ax.spines 'top' .set_visible(false).
+The data visualisation videos are repeating itself most of the time, but the final assignment is super hard, which many of the details were not mentioned in the courses materials - no clues to do the assignment at all..
+I think that more explanation about the syntax could be taught within the videos. As of now, most of the syntax is being taught within the hands-on lab practices which does not offer much explanation to it.
+The assignment was way more complex than the content of the lessons. It was hard to find ways to complete the assignment correctly with the information we had at our disposal in the lessons or the labs.
+The final exam is really vague and not organized.  It would be a much better course if the instructor made exam in the JupyterLab like other courses. Also, the videos are not very comprehensive.
+The content of the course is good. But, it was not gripping or engaging. Probably, because the instructors voice was inconsistent, modulations and variations. Overall, ok. But NOT satisfactory.
+I feel like these courses could use more detailed explanations of functions and their parameters. It is one thing to learn from examples and on other to really understand how the tools work.
+PRO:Content CONrecurring technical issues (data on final assignment not available )description of final assignment not clear / inconsistent to previous courses, no jupyter notebook provided
+The videos are very short compare to  exercise covered. Assignment gives overview of how much deep the coding can go but video should be elaborating few aspects of layers of matplotlib.
+Again I cannot access the cognitive class ai and this has truly hindered my learning experience. I cannot open any jupyter notebooks nor can I submit any assignments, This is really bad
+I am unable to reset the timelines for this course. I missed the timeline due to an emergency and the course is now frozen and I am unable to complete it. Please unlock the course.
+The assessments are a little silly- the quizzes trip you up on minor syntax instead of being concept-focused, and the final assignment used some skills that weren’t taught.
+1) Quite a lot of contents of the final assignment are not covered in labs/videos2) Huge portion of videos is redundancy and repitition3) Labs cannot be exported to HTML
+Course was pretty good, except... The final project was too much of a stretch, had to google too much to figure stuff out that wasn't in the lectures or practice labs.
+The final assignment required knowledge that was not thoroughly explained in the videos and labs.  Some of the practice labs could use more/better explanations.
+Overall a good review over the different graphs, yet the course feels wonky in the flow of this courses covering stuff already studied and staying on surface.
+Final Assignment covers many aspects that weren't explained in the classes. Meanwhile, every video repeats the same data management segment over an over.
+Some of the content tested in the assignment is not covered by the lessons, staff is not fast and helpful in answering questions from students
+Great course, very bad exam. Most of the stuff in the exam was impossible to do using the classes. Level of the exam was way too difficult...
+Labs are very difficult and hard to follow. There is a big gap between what we learn from the videos and what we are asked to do in the Labs.
+There some information gaps in the labs and lectures that made the assignment quite challenging without seeking further external knowledge.
+The course content does not sync up with the assignment, you need to self-study about many other materials to get the certificate.
+Actually I think the final assignment part 1 is too difficult for the videos and lab courses to draw the bar plot as required.
+Video explanations and difficulty of the assignments don't match. Unnecessary long and tedious exercises. Needs to be revised.
+The way topics are explained during lectures are not enough deeply treated for the final assignment. It is anyway interesting.
+Out of all IBM courses so far, I didn't like this that much. IBM should put more emphasis on teaching database transformation.
+Not all of the tutorials rendered correctly. Information was good. Would have preferred more questions throughout the videos.
+Peer grade assignment in this course is far too hard and packed with a bunch of topics not directly covered in the curse.
+Great overview course, I wish if there longer videos that explains the content.. not just trying to do the lab by myself
+Part about Maps can be some what more extensive. The Thing taught in Lesson and Assignment does not maps section alone.
+In general, it was a good course.Some of the quizzes were very much based on syntax which I don't think is very useful.
+The course is really good, but Matplotlib is not popular now. Plotly is trendy  and more interactive than Matplotlip
+It was a difficult course but it could've been better if there were little short quizzes during all the videos.
+A lot of techniques have not been covered in the module even though they did show up in the final assessment.
+The course content and labs are a bit light on context considering the work required in the final assignment.
+Very less detail and seaborn was not covered which is better for visualisation than matplotlib in most cases.
+Some of the notebooks given did not function correctly, overall did not ruin the learning experience thought.
+More information about Plots, charts and overall things could be provided in the videos - on the slides.
+There were some gaps between the taught material and the final assignment. Overall, I learned from it.
+most of the material explains bits and pieces.  Conceptual and Fundamental knowledge is not covered.
+recapping the data set in nearly every video was very repetitive and didn't add any learning value
+The final assignment is more difficult compared to what is taught in the videos and lab sessions.
+Some lab instructions and links to files do not work and no real help is provided in the forums.
+I like the lab work but the jupyter notebook is so low to work with creating the Choropleth map.
+The caption is very hard to save as a note sentence by sentence. They always crunch as a whole.
+Course design could have been better.Still a good course.Had to research a lot for this Course.
+Very interesting chapter, but the labs don't load or even when they load, they were very slow.
+This course explains very briefly about the kinds of plots. It should have been more detailed.
+Video lectures should be more explanatory. The rest quiz and final project were really good.
+A lot of the things in the final project were not even touched upon in the course materials.
+Needs lesser recaps in each one of the videos. The course could have been much shorter.
+It is a great course. I learned a lot. However there are lot of rooms for improvement.
+The training video are missing most of the commands required for the final assignment
+The final assessment isn't suited for people just starting out with Data Science.
+The lab test of each assignment is not easy to understand or to learn more on it
+Not well structured. So many topics left with shallow and quick explanations.
+The assignment was quite difficult because the learning material was poor.
+More exercises pleases. I need more practice. Please answers discussions.
+Topics were interesting but the final task was really hard to program.
+A lot of the code in the jupyter notebooks wasn't explained in detail
+It could have more explanation and content. Everything else is good.
+quizzes are overrated vs. assignment, poor communication in forums,
+Some aspects need updation especially the geodata plots, bar plots
+Instruction to prepare for the final project was insufficient.
+could be better , the last assignment is not well explained.
+I didn't find the modules very helpful. Okayish Experience
+At least, this course is way more useful than the others.
+Learning efficiency of video's material could be better.
+it could be more intresting ...yeee good for beginners.
+A lot of questions are not in the theoretical classes.
+nice course for learning basics of data visualization
+some of the exercises were not able to load for me
+The lectures contain too much repeat context.
+All videos have one minute content in common.
+Course was okay, not great but worthwhile.
+All the time practice lab is not working.
+Easily encounter 503 errors for the labs
+Need  to improve more please
+Some code did't work in Labs
+The labs are very buggy.
+Need more hand notes
+I found it boring
+course is ok
+Final exam was frustrating.  It took longer to complete than the rest of the course combined.  Questions were included that were not part of the course including the need to reset keys.  Peer review was almost impossible since I could not read the tiny screen shots very well.
+The course was overall, pretty good. Although it was extremely repetitive with regard to 'cleaning' the data, the information covered was explained and shown pretty well. The lab sessions were detailed. I would have liked to see more of the possible implementations as opposed to manipulation of the aesthetic.  I also hoped they would cover seaborn in more detail.Although most people are against the final assignment, I actually enjoyed it as the previous courses gave us a jupyter notebook with most of the work already done, only letting us write the main part of the code. Coding from scratch with just the dataset helped me understand the topic better and will definitely make it easier the next time I attempt data visualization.
+The course is very good. Intuitive and easy to follow. The real challenge is in the peer review exercises, where your patience is tested. You really have to work hard to get all the solutions to the questions. There are so many things that the course just can't teach you in the time constraints.
+A great course for you to further understand the mechanics of data visualisation as well as providing a space for you to familiarise and test your understanding on the subject matter.
+this course should come before data analysis with python
+Once again, quality hands-on labs were the highlight of this course (as has been the case throughout the IBM Data Science Certificate courses). The end-of-week quizzes were also a bit more difficult/involved, which was a good challenge. Still, I think there's room to increase the difficulty a bit further - after all, you can re-take the quizzes if at first you don't pass. I appreciated that the final project gave us the opportunity to apply a wide range of the skills that we learned.That being said, I think there was quite a bit of fluff in the lectures. I would have preferred more content/exposure to other libraries rather than the redundant "data recaps" at the beginning of almost every video. I also would have appreciated more theory/recommendations for selecting the best visualization for a given application.
+The best parts of the course were the labs and the final assignment. I spend a lot of time at the labs, paying extra attention to the details and often following the external links suggested by the instructor. I found the final assignment very interesting with good explanations step by step and I especially liked how the instructor were present at the discussion forums. The weakest part of the course were the videos, I think I could have skipped them altogether. The information mentioned in them were elaborated much better at the labs. Also, for some reason, 1/3 of each video was exactly the same clip recalling the dataset. That felt a bit useless and loss of time! On the other hand, each video was a couple of minutes long so no big deal in the end.
+I have two minor issues. First, the final assignment called for a few things that were not directly discussed in the class. The class did recommend reading the documentation, and the needed information was available there. This is probably more realistic for a real world environment, where you won't know all the ins-and-outs of an API before using it, but a little warning at the top of the assignment would have been nice. The second issue is that folium.choropleth() is now deprecated and produces a warning if you use it; the recommended alternative is to use the folium.Choropleth() object. Using the old method produces a warning, but works (for now). The labs and lecture should be updated to use the new API.
+This course was a change of pace compared to the previous, absolutely stellar courses in the Applied Data Science specialization. The instructor is different and the methodology as well, the content was equally as digestible as the courses that preceded it, but at times the course had inconsistency on its quality. There was a lot repetition and it felt like padding at times. The difficulty and learning curve takes an abrupt spike on some of the assignments, but nothing you can't manage if you put in the work and leverage on the content of the previous courses.
+The videos are nice and clear, the visualizations are beautiful, and I'm sure that all of the libraries presented are extremely useful.  But this course is not well-suited to students who have no prior background in Python before taking the Applied Data Science specialization.  I look forward to coming back and maybe having a shot at understanding the code in the labs after I take a Python programming course.  The long chunks of code presented here are mostly opaque if all you have are the previous courses in this specialization.
+I Learned a lot in this course and the teaching assistants have been very helpful in the forums.  This is very useful information that I learned and I highly suggest this course. The final assignment was quite a jump from the videos and labs and took a lot of work to figure out.  The labs could have supported the final assignment better.  Also, perhaps more work and examples in the labs would help to learn the material better. Thank you for the good learning.
+The reason I'm giving it 4 stars is because the although the content was good, the labs were challenging but there are something which I found missing, for example, there should have been more information on libraries related to cholorpleth map. !wget was not working on my PC's jupyter notebook and looking it up on the internet was even harder because this extension or whatever it is big on its own. I don't know what to write to get the correct google search.
+It was a great learning experience with coursera.After Data Science course ,learning Data Visualization with Python was my next target to complete.I learned many basic and advance things about how to work with data using visualization.With every questionior and assignments it was interesting and challenging to learn from this course.Thank you coursera for this course it was really helpful to learn and know about data visualization more accurately.
+I believe a more comprehensive review of the material discussed in the Final Assignment would be beneficial. Perhaps including a directory of other topics outside of course and under which courses to find the material. I have all the information from prior IBM courses to complete assignment, but I did spend a bit of time just looking for my old labs trying to find material that covered the Final Assignment questions.
+There is a lot of repetition regarding the data within the videos, but thankfully they are quite short (especially when played on double speed). Unfortunately there are some issues completing later modules and the assignment on any browser other than Chrome because of compatibility issues with Leaflet/Folium. Other than that, the course is pretty good. iPython notebooks do make learning a lot nicer than it can be.
+The lectures make everything seem simple, but you really have to dive into the labs and make a point of studying on your own. You can easily get through most of this course just by running the Jupyter Notebooks that are provided then copy/pasting and editing for the final. If you really want to get something out of the course, you really have to motivate yourself to learn the material.
+Honestly, out of all the courses I've taken so far, this one was the best, in terms of presentation. The instructor repeated a lot of the formatting for each code block and by the end, one could easily remember what code to use for the specific visualizations. The only reason I did not give 5 stars was because I thought the final assignment deviated a bit, but otherwise, a good course.
+A good course to learn know-how of Data Visualization using Python language so as to facilitate analysis and visualization of data to make effective decisions. I thank the professors to make this course interesting and worth it. Only thing is, videos can be made in a better way so as to facilitate people with non programming background. Maybe some basics of programming would help.
+This course has one advantage over the others in the series: practice time. The labs are more thorough and provide more practice problems. However, the overall quality in production of this course is lower than the others. Additionally, there were some points awarded on the final project for things simply not covered in the lectures or labs, which was frustrating to say the least.
+The last third of the course was not much more than two Jupyter notebooks that I Shift-Entered through, with a few problems presented to work out on my own. These were usually able to be completed by copy and paste, I learned more in one question in the final quiz, which required me to to the Maplotlib documentation site and apply that to the question. I expected more.
+Course is very well taught, it would be better if they taught us Artist Layer a little bit in detail, also the Final assignment is little bit difficult from what we have learned from the course, it would be better if labs content taught us in a video because in video we see in realtime. Overall its a great course for learning Data Visualization in Python.
+Overall, the course is good, but some additional explanation on some parameters for the graphs (specially ar the Artist level) would be good. Apart from the platform issues (xlrd was almost never loaded and need to be loaded and imported, and some downtime issues), I would suggest to move the final assignment to a 4th week, as they do on other courses.
+It is an excellent class in terms of practice and playing with tools. The weak part is that the course does not cover much the logic behind different choices of graphics. Often, we just create a plot and tweak it to make it more appealing. Overall, I would still recommend this course to people who are new to the visualization aspect of data science.
+Covers a large range of subjects and gives you are good overview of lots of visualization techniques.  However, in covering a lot of ground in a short time, I found I needed to do quite a lot of extra reading to ensure I understood what was being taught.For me, probably the toughest of the 7 Data Science modules I have completed to-date.
+I  learnt a lot about pandas, matplotlib, seaborne, data visualization (different types of plots), folium and wordcount. Overall the course is very good. The jupyter notebook assignments are very nice. Folium is fairly bleeding edge so a lot has changed between the last version of the library and the one currently used by the assignment.
+This was the most challenging course thus far in the IBM Data Science concentration. The quizzes are as simple as the earlier courses but the final programming assignment is much less cookie cutter and required substantial reading of the matplotlib API. As a result I think it took longer and I learned more than in previous courses.
+More time should have been spent describing and showing examples in bar charts and choropleth.  Only simple bar charts were used nothing related to multiple bars for grouped items were demonstrated.  Some for the Choropleth. Simple example in lesson that wasn't anything like the requirements for the final assignment was discussed.
+This course is much more difficult than the previous courses of IBM Data Science Professional Certificate series. Lack of tips and procedures makes it a challenge both to follow the video and to finish the final assignment. However this is similar to the real environment where you have to solve problems yourself.
+This course is great for those who want to learn the art of visualization in python using different packages available for python.The only thing I want to point out is that it is using outdated packages of some libraries.Once the assignments are updated with the latest libraries ,Then it will be a 5 start course
+Good work through the information. Assignment challenged your knowledge.  Would have given 5 stars but I continually had issues with the Jupyter Notebook crashing.  I had to restart the server or just leave it for a couple hours. The content was great, but Jupyter notebook frustrated me incredibly!
+Excellent Instructor. One of the best in the series. Very clear explanations, and resourceful.One suggestion - edit Question 4 of the final assignment so that a who student copy/pastes the instructor's image would not get more points than if they put in the code they did to try to get it.
+This course was thorough. However, we could have been prepared better for the final assignment. I had to rely on the internet a lot to complete it. I don't know if that was intentional. If it was, then it should have been stated explicitly. Otherwise, well done and thank you!
+Extremely challenging final project. The specificity of how the bar graph was to be labeled was, quite frankly, maddening. I don't remember having encountered a single whiff in the course of how one should proceed with the labeling  in the very middle column of a bar graph.
+Quite an extensive course - as a beginner it went a bit over my head at times. The Assignments were challenging and the final one was a bit dissapointing - not all the elements were covered in the labs so had to trawl the internet looking for answers. Learned alot though
+Course is great but the part with Folium should be separate course (some Advanced Visualization) rather than graded part of this corse. Instead of using Folium in final project it would be better to use some Seaborn advanced visualizations or other plots in Matplotlib.
+The most interesting course in the specialization up to now, for me at least. A brief but informative overview of all kind of plots that can be done on pandas dataframes.To the course author: repeating the data wrangling/cleanup in EVERY video gets annoying.
+Although the content of this course is very interesting and has a lot of depth in the field, I believe that it needs further improvement, specifically with more examples in the labs, in order to get a better hang on the different types of visualizations.
+The materials are OK, the labs are really helpful, but the test-related data files that needed are hard to get. In fact, some of the csvs required to complete the test are out of time, and students can only get the data through the forum, that's a pity.
+Overall the content of this course was good. There were some headaches with getting folium working. It was annoying listening to the description of the dataset we've been using for half the video every video. But it did help with learning matplotlib
+Short videos but well-worked notebooks with many examples on Visualizations with Python. Exercises had tricky questions that the student must pay attention. The final assignment is difficult, since it uses some features not explained in the classes.
+While the course was very good and showed lots of different data visualizations available in Python, the final assignment required topics that were just briefly touched upon and required quite a bit of outside research to figure out the syntax
+Mostly really good. great practical projects. would have liked a few more practice sets to better understand some of the unfamiliar concepts that popped up in final assignments, but other than that i really liked it, great helpful TA as well.
+This course is interesting to learn and the final assignment is not something you can copy from the lab sessions and easily pass, which is good. However I noticed the questions posted on discussion forum are rarely answered by teaching staff.
+Labs are very interesting.  Would suggest including more data wrangling techniques (to better align with the final assignment), and removing Mapbox Bright references.  On the whole, this was a far more interesting module than I had expected.
+The Course helped me to clear my doubts and made my concepts of Data Visualization  more strong.The Ungraded assignments helped me to apply the concepts in practice. The quizzes were easy and I think there should be more questions in quiz.
+OK overall - but I wish there were more and smaller hands-on exercises. Also, waiting to load 3rd party libraries in exercises is quite slow (3-5 mins for choropleth, for example) - it would be nice if these could be pre-loaded somehow.
+Good intro to matplotlib, visualization of dataframes.  Some of the more advance content, e.g. choropleth maps, relies on older versions of some of the python packages (folium) so the examples need to be updated for the newer versions.
+the course is great, however, I think matplotlib's structure should have been explained in greater detail, this would help the student to accelerate the understanding of the library's documentation and implement his visualizing needs.
+I enjoyed the course to the fullest. My only complaint is regarding question number 2 in the final assignment. The bar chart that we were requested to create and display is not shown in the videos or labs how to create it.
+Generally good content with great lab additions except for Folium. Folium 0.5.0 is outdated (it is 0.11.0) now and the choropleth method is deprecated. Also, the final assignment threshold label differs between versions.
+Course content is good. But there're some replication for each video about "recap of the data". The final assignment is quite difficult because I need to find some codes from the internet to meet some task requirements.
+After learning, I still feel a bit confused. I think it would be better if there is a comprehensive summary, such as: what graphics use which imports, and the comparison between the coding required by each graphic
+Videos were short and could have explained the lab work better. Also, the Data was discussed in every single video which was annoying and I always skipped 30 seconds in every video.The course itself is nice.
+Course material did not prepare you well for the final assignment, the final assignment was too difficult and didn't have enough clear instruction. Overall, the course material was very interesting though.
+Course was interesting. Few more sample exercises on the features of map, artist layer could have been useful. Since these are more visualizing concepts which requires more practice and thinking. THANK YOU
+This course and the following course "Data Analysis with Python" should be switched. It's mentioned that "Data Analysis with Python" should be completed before this one but they are in the reverse order.
+Good course, some of the lab assignments did not load properly so it was difficult to practice... (week 2 & 3). Assignment was good after using Jupyter Notebooks as the scripting interface. Thank you!
+The final assignment requires self-research (not included in the course material) to fully complete the required items. The course shall cover all that the assignment requires, at least touch a bit.
+In each video we transform dataset and it  take more 1 minute for each video. Will be good if in video will be some quick quiz as in "Data Analysis with Python" and "Python for Data Science and AI"
+More in class projects similar to final assignment where we can challenge our knowledge as we are all remote and it takes time to communicate through the available coursera forums.  Thank you.
+The labs were good but the issue was the extremely rushed up videos. A lot of concepts, especially the artist layer was not covered will in the videos, which made me give this course 4 stars.
+I learned solid bases on different data visualization tools, it was an overall good course. The one thing I think could be better is to provide more exercises to work with the Artist Layer.
+Good coverage of different plots. Videos are somewhat repetitive regarding the dataset (most of them could be about 20% shorter due to this). Labs (in Jupyter Notebooks) are great practice.
+The course was beautifully structured. I would like to request to add the conditions on which tiles Mapbox Bright works. At times the tiles dont work and we are not sure of the root cause.
+Kindly update the final assessment of this course work since it is quite difficult to work with it, as the content related to the assessment cannot be found in the course videos. Thanks !
+Excellent course. The labs really challenge you because some of the material is not directly taught or the syntax differs slightly from what is taught so you have to hunt for answers.
+The course had a great examples and samples for common and uncommon visualizations.  The course lacked the background to be able to import the geojson properly for the final though.
+Good course, but I found the final assignment hard to complete, spent quiet sometime researching to be able to complete it. Providing the correct solutions would be helpfulThanks
+Overall really good. However, would be better if a few videos added about object-oriented visualization.  Also some links and methods used should be updated to the latest ones.
+Best of the 5 IBM Data Science Courses I've taken so far. Some problems connecting with the labs, but you can bypass these by downloading the ipynb's from cognitiveclass.ai.
+It was very nice and brief course but it could have been better. Some other topics must be included and some more exploration of different properties needed to be addressed
+This course, although useful was difficult to follow at times. It did not get that into the Artist Layer of Matplotlib but the final project requires the student to use it.
+final assignment is tough. Everything else was decent and intuitive. Good jupyter notebooks and labs for practice were provided. Do practice all ungraded lab sessions.
+Would've enjoyed the course more, if it got into the nitty gritty of annotations, but a comprehensive and decently delivered course nonetheless. Kudos to the IBM team.
+Just like the few previous Python courses by IBM - errors and typos have yet to be fixed. But other than that, it is a really good introduction into using Matplotlib.
+This is a very fascinating and demanding course when one follows all the Skills Network Lab exercises. The advanced visualization tools are worth the trouble!
+Examples contained less python codes as compared to asked in final assignment. More python codes for visualization are to be conveyed. Queries are not solved.
+The course content was good, but final assignment needed more clarity in the what was demanded from the question. Lots of interpretation left for the student.
+Some tests are not comprehensible in their entirety and can only be carried out with a great deal of effort. Otherwise very good content. I could learn a lot.
+Course is really helpful for indulging someone into data visualization but sometimes in the lab some stuff is just present for you to figure out yourself.
+The information provided was straightforward and easy to understand. However, the final lab requires extended knowledge that is not covered in the videos.
+Excellent lab material. However, I feel the video lectures were a bit too brief and could have tried to explain the technical concepts a little bit more.
+Nice course. But Seaborn examples could have been more helpful. Also, please use Python 3 for examples. Thanks for the video and more better class labs.
+The Course is an interesting and practical Course. Alex Aklson, the lecturer is a good teacher too.Many thanks to IBM and all the teachers on Coursera.
+The Course materials are brief and Short and understandable. No need to learn junk topic only relevant areas are learn in this course. Thanks to IBM .
+The course was good, syllabus was okay, I think that seaborn could have also been added in this, though waffle chart and map was very new for me...
+Good condense course. One thing is a the recall of the data set and the lab at the beginning or at the end of each lecture which are very annoying.
+A good overview of different visualization methods in Python. The final assignment is a little tricky and requires a diverse set of Python skills.
+Its a great course to learn all Data Visualization libraries in python and thier constructs. It helps me alot to learn Data Science using Python.
+Good course. However, the instructor should add a slide mentioning what kind of errors can occur in python programming and how to correct them.
+Some instructions could have been clearer. The final project required code that wasn't covered in the lessons. Had to research the internet.
+Not all code examples were explained thoroughly enough within the labs, definitely not within the videos. Generally a good overview though.
+Overall good course that goes through basics. It would be nice to get the students to write more code in the ungraded external tool (labs).
+Could use a little more detail in the lectures, especially in the code being shown.  Example, Folium library.  Overall met expectations.
+Very interesting summary of different graphs I saw in my life, though the data can't be imported to the Jupyter notebook for exercises.
+Great course with a lot of avaliable tools for using in data analysis. Although i'd enhance the didactive material offered in the labs
+A very good course which begins with the basics of visualization and then dives deep into various kinds of visualization techniques.
+Nice introductory course on basic visualisation patterns. Videos are short and needs additional readings and examples to work with.
+course is great, but  most of the content is covered in lab sessions. please if possible try to add more content in video lectures
+Very interesting content! But, most quizzes test on content that wasn't taught in the course so the quizzes are very difficult.
+Comprehensive course with detailed lab practice to reinforce taught topics. Would be nice to have in-video quizzes for recaps.
+Good course, however, should add some additional readings on the topics. Because the videos don't develop too much the topics.
+good basics + interesting things like maps. Only 4 stars because I find map visualization interesting but not very useful
+Overall a nice module. Unfortunately Folium didn't load on Watson Studio  and could have been explained in more details.
+Very interesting course! I've learnt diverse tools about data visualization, and I'm ready to apply them in my projects.
+To much emphesis in the quiz on terrian tiles - that is something you can look up, seem no reasonable to know by hard.
+Very useful lab sessions, but only the Mapbox Bright is now unavailable. I hope its installation can be updated soon.
+Great overview and introductory coursework. At times light on detail and needs complementing with additional detail.
+the overall course is short and precise. The course assignment has questions that are not taught during the course.
+This was a valuable course, but the pacing may be a little too quick. It's a lot of different libraries to learn.
+I felt that the week 3 was somewhat rushes on the videos without much discussion. Otherwise, great learning tool!
+Appreciate the content and visualization.Labs dont work most of the time, it hinders the progress and momentum
+Excellent lab materials. But the presentations can include a bit more contents to explain the packages better.
+Videos were not helpful in learning the different visualizations you could make but the notebooks were.
+The class is too short to get into much details. The projects are much harder than those practice labs.
+This course was good and gives me a clear understanding of how to use data visualization with python.
+Good content, but again, in the final problem resources beyond the scope of the course were required.
+I just wish instructions were given more in details in the video rather than giving only assignments
+Not great audio on the vidoes, but an excellent introduction to many python visualisation techniques
+the final assignment was a bit more complicated than the labs and I had to look online for support.
+The course itself is very useful, but the content in some of the lectures may need to be updated.
+Really helpful, but some of the more complex topics are glossed over and require extra reading.
+Final project required a bit more google searching than I'd expect from an educational course.
+Overall, the courses need more explanation of the code used in performing the various tasks.
+Jason data that set for map exam can not be use or maybe there should be other way to do it
+Great course to learn python to visualize data which is an important piece in data science.
+Good Skills Learnt. However, some of the labs have outdated codes. They need to be updated.
+very well structured and insightful, gives you a good idea of the potentiality of the tool
+Lab environment loads very slowly for me, not sure why. library installation tooks ages.
+It is a solid intermediate course to deep inside the graphical posibilities of Python.
+Some of the lab exercises were not available online/was having problem accessing them.
+will be good if the module can elaborate more on how to add data label as annotation.
+Good course. I wish they had more details on how the layers in the Geo charts worked.
+nice course but needs few improvements, screen recordings needed rather than slides.
+The data processing in the assignment could align more with the examples provided.
+Some minor issues regarding e.g. Folium installation (mentioned in Forum section)
+assignments are using too many techniques which tutorial videos are not included
+No proper Lab Instructions. But was a good course in terms of topics covered.
+Very good course but labs contained many typos which were sometimes confusing
+very good in explaining an introduction in data visualization with python .
+Need more methodic explanations on the key functions and parameters , kwarg
+There are some problems with the labs according to installation required.
+The last section of advance Visualization lab could have been more better
+Mmany mistakes that make the studentsd work and stress more tan required
+Excellent study material and brief description of visualization concepts
+the spatial analysis is new to me and want more detailed study chapters
+It would be good to make another section only for seaborn or bokeh
+Good enough to learn basic skills of data visualization library.
+Felt like there could be more information in the last week lab.
+short course but learn useful python package Folium efficiently
+Thanks for the content of this course. I really learned a lot.
+The final assignment is not too clear.Question 2 specifically.
+more explanation on functions' and methods' parameters needed
+Some new packages i've never seen.  Map one was really cool.
+Good course to learn basic knowledge of data visualization
+first of the courses where things weren't spoonfed to you.
+An interesting course with a number of practical examples
+Very good course but need more examples and explanations
+Good insights into various plotting methods and library.
+Very wisely chosen content of ungraded lab assignments
+Very Good Course for Data Visualization with Python..
+Will be good if seaborn  is also included in syllabus
+Brief introduction to Data visualisation using Python
+great course content but it should be more disciptive
+The course was good, but some documents were missing
+Very nice course with all explanations and examples.
+All the course is good except the final assignment
+The course was thorough in data analysis content.
+Liked it a lot, a little rushed but learned a bit
+Projects are interesting. Labs could teach more.
+The labs and assignments are really interesting.
+most interesting course in the IBM python series
+all parameters/options not explained in videos.
+best course for beginners in data visualization
+It was good. Though the video content was less.
+Great course, good information! Learn a lot!
+videos should have more examples with code
+The final assignment is really complicated
+A bit  more charged, but liked the whole.
+Some of the exercise tools didn't work
+The assignment is a bit too difficult
+Much harder than the other courses.
+The system was down several times.
+Good Visualization Learning Course
+Complex and need more information.
+The videos were a bit repetitive.
+The Datalinks to IBM do not work
+Increase my knowledge immensely.
+Assignment has been frustrating
+Well aligned content and labs
+Notebooks are very practical
+feel confuse in the homework
+Few things are direct.
+Very small course
+This course was really well designed. I've taken the preceding courses and I really connected with the format of this course.  I liked how the labs really explored different options and played around with the code in a variety of ways to show a more complete picture of what the code instances can do.  I especially liked how sometimes the labs would purposely use incorrect code which users might enter, and then explain why that code didn't apply or work for given scenarios.  I liked how the videos (specifically regarding Canada dataset) would repeat the cleansing of the data and introduction of the data for each type of plot because it really reinforced the concept, however it could have been better if the corresponding code were displayed alongside its effects instead of just showing its effects because then it would drive home the code and the concept instead of just the concept.I also liked the fact that the final project asked students to make connections beyond the individual class scope, as a way of teaching that mimics real-world projects and learning.
+I appreciate that the videos were done in a human's voice and not a robot. It helps me focus to hear the natural pace and emphasis on certain points. Also, the labs were very clear (thank you). There was clear guidance/notes through steps which is very helpful because this is a new thing for me.  The final was also fair and comprehensive. I have a long way to go but this class was very well done.
+This was a valuable course to learn visualization with Python. I especially appreciate the section on mapping and the waffle charts. The only suggestion I would offer is to have more opportunities for practice coding, especially for grouping data for analysis, labeling charts, calculating percentages. These could either be optional assignments or links to other resources. But regardless, this is the best course out of the series for me so far.
+This course is really good. The instructor did a great job introducing common graphs, charts and map techniques. What they look like. How, where and when to use them. The lab is time-intensive which give chance to thoroughly practice the technique. One more plus point is the lab uses real data and guide you through the step of retrieving, cleaning, analyzing, visualizing and mapping.Definitely recommend.
+Great course, extremely thorough! Interesting assignments. It is more than obvious that the author has put time and effort into it. Thanks for that :)
+This course provides lectures that enable learners to understand the theory, application and practices that data scientists use to create meaningful visual presentations of complex data relationships. The labs provide adequate opportunities to do hands-on end-to-end work with data and visualization tools. The learner is challenged to go beyond the scope of information presented in the course to also search other resources to gain the knowledge necessary to complete the final project. Searching for additional resources builds a foundation for independent future work.
+Great course, one of the best course to get hands-on learning  for Data Visualization with Python. Particularly the lap exercise, it will make you think on every line of code you write. Excellent!!!
+It's a really great course with proper hands on time and the assignments are great too. i got enough opportunity to explore the things which were taught in the course. Really Satisfied. Thanks :)
+The final project was somewhat more challenging due to some file downloading issues.  But I was able to get some help in the forums for that, which helped me accomplish my goals.
+I learned and understood how to make graphics based on a previously clean and standardized data source. I liked this section.
+Really good course with easy to understand materials and wide varity of visualization techniques and tools.
+The assessment was really complex, but the course overall is really usefull!!
+Amazing course!!!! I liked your very detailed and well-organized notebooks <3
+I have done other 2 courses in this specialization....but frankly speaking, this course was far better than those....the type of things that we handled in the lab was very interesting and also intriguing....in other courses, the labs were just about the same as the video lectures....no new things except one or two....but here, they were very thorough and we learnt a great deal of things outside of the video lectures.....About the final assignment, i thought it would be boring and very noobish as i experienced in other two course....but to my surprise it was so great....it just put what i learnt in this course to a test and i had to do everything by myself....it was quite unlike the other ones where i was baby-fed by giving most of the code in a notebook and completing the rest which was so easy that it rarely felt like an assignment let alone the final one.....And that is why loved this course very much.....about the labs, about what i learnt and about the final assignment....i genuinely think these are gonna help me to accomplish my goal for what i took this course....And i would like to request the course instructors and maintainers to make other courses in this specialization like this one especially the labs and final assignment.
+I started, stopped, started, stopped, and started and finished this course. Partly because my job got demanding and I had to pause; partly because some of the concepts in this course weren't always clear the first time I looked at them. It was when I needed to create charts for my job and I was actually working with Python to do those assignments that the concepts in this course finally clicked. Once they did, I was able to push past the finish line. With this happening, I remembered the important truth of coding skill: it's like a muscle. It only grows when you exercise it. That said, I wish this course offered more exercises (perhaps ungraded FYI exercises, or expanded lab work) in creating various charts. The maps section rocked! That was, I think, my favorite part of the course, especially when creating the choropleth map for crime in San Francisco. I remember when I did GIS projects in my work 25 years ago, when specialized software ($15,000 - $20,000 per license) was required. Now, in just lines of Python code, you can create an even more precise map. Once I complete my certificate for data science in Python, I will be looking for GIS courses available at Coursera!
+The course really highlights the power of Python's visualisation. It is really cool to see the charts as well as map functionality that comes free with Python. With some basic programming experience, far more powerful visuals can be created than some very high-end off the shelf programs. I really liked the features such as Word Cloud as well as Choropleth maps. Improvements:1 The videos can be a trimmed a bit - Almost every video re-iterated the data cleanup exercise, which got repeatitive after the first 2 videos.2 More examples of map related lab exercises would be very helpful for those like me who want to delve into this further.
+Powered by detail-oriented labs, this course amazes the learners with what can be achieved using Visualization libraries. The course beautifully covers all the plots used by Data Scientists in day-to-day life along with their variations. Going through this course, the learner takes a step towards mastering the art of storytelling, something expected of a good Data Scientist. Nowhere you would feel that prior knowlegde of Visualization is necessary to assimilate the concepts taught.Lectures are great and so are the videos. The team really must have worked hard to make this course interesting. Loved it!
+This was a pleasant experience! Fiddling with the bar chart to remove labels and ticks on the y axis, as well as the annotation of the percentages on top of the bars turned out to be more work than expected, but is was fun! I had not used Choropleth maps until now, so this was really cool. Folium is awesome! Supposed that you plan an update of the course, you might want to take into consideration that the more recent versions of Folium seemingly had a change in the way Choropleth maps are called.In summary, thanks a lot for putting a lot of work into this course!
+The course is great , especially with the support of the instructor. However, because we do not have solutions for final assignment, I do not know whether my code/code structure was appropriate, efficient, effective, smart, tidy even the result was correct. Code structures also my concern. I coded 5-6 lines, steps to get the correct result while others may use only 1 line  to get one. That's really matter i think so.Thanks anyway.
+This course focused on hands on examples for practicing Matplotlib and python on IBM cognitive lab for data visualization using different tools. Also all videos and lecturers made are great and helpful to show graph, plot , charts and maps. The course contents are clear, precise and lecturer is very knowledgeable.
+Joining and getting help from course mates and moderates in discussion forum is Excellent! 
+Ashfaque A. Joarder
+Firstly, I want to thank wholeheartedly to the instructor Alex Akson sir, all the lab sessions were great. The content was very elegantly balanced as it was neither hard nor easy, I feel like I learnt a lot of things. The explanation of every plot/topic was very easy . Final assignment took a little bit more time but it was totally worth it. Thank you again for teaching this course. I appreciate all your efforts.
+This course was fun, interesting and challenging.  The final assessment was a true challenge because it require a combination of materials that were covered in the course, but also required a bit of additional information and expertise as well.  Finishing those assignments gave me much more confidence in my ability to perform these kinds of assignments in real engagements and assignments.
+One of the best courses in the certification. The assignment is tougher than previous courses and that is one of the reasons I loved the course. Also, the labs are very well structured and presented. Gives a nice overview of Pandas in the 1st lab.Overall, I think this instructor is very good at communicating his ideas and has a good grasp on what his teaching goal and methodology.
+I thought this course was a bit tough but still very interesting. I gained lots of insights and ideas on Data Visualization methodology and techniques and I am looking forward to applying this knowledge going forward. Recommended course if you want to get good insight and ideas on how to work with data viz and how to prepare the data in order to present it more professional.
+In this IBM program, the discussion forum is well managed. Whenever I posted my questions, I got help from teaching staff. Although there is a variability in response time, they responded to all my questions.Thanks to that, I managed to pass this course with 100% grading.Especially, I want to give a good credit to Lakshmi Holla for mentoring the students including me.Thanks
+Thanks to instructors. But as always a few improvements are possible. 1) Personally I missed the voice of the speaker from previous 2 courses. 2) I think that extra quizes inside the lessons will be very useful - Don't hesitate to add more tasks for students as intermediate progress assessment.Anyway, I gained a valuable Data Vis experience from this course. Thanks!
+There were some issues I spent a lot of time on in the final assessment. The first was loading the file into the notebook. The second was troubleshooting the choropleth map. I had written the key_on code slightly wrong. You can consider explaining in some more detail how to upload files - and also the code you use - !get. The course was all in all very interesting.
+I thought the syllabus will cover only matplotlib and seaborn. I didn't expect to learn geospatial data visualization in this course. I learnt a great deal about folium and it's versatility. I feel it's a great addition to the course. Such modules will enable aspiring data scientists to expand their domain knowledge and excel in unorthodox data science areas.
+Not sure if the creator gave enough tips and tricks to help provide solutions for the final assignment. I had to use alternate solutions not provided.The examples given are good but quite simple in places, and only work in specific circumstances. This may be because there are simply too many solutions to go through in this short course.
+While the course's material is very interesting and extremely helpful, there is a vast variety of different ways to visualisation and I'm afraid I had to search google for most of the last assignment's requirements.I believe three weeks is not enough and there should be more exercises in this course. Other than that it was a thrill :)
+The Data Visualization with Python course is really outstanding when compared to the others in this specialization. Alex is doing a great job explaining, the slides and examples are comprehensive, yet easily digestable. The in-depth exercises are the best in the whole specialization, quite challenging and therefore very effective.
+This course outlines the importance of Visualization and where and how to use different type of representation such as Bar Graph, Area plot, Pie chart Scatter Plot, Box plot and others. The course also introduces to use of Plots to show Geo spatial data. and also introduces one to the different libraries used for plotting. .
+The first properly challenging course I've encountered on Coursera and I loved every bit of it. I have an engineering background and I loved having to look for the answers on the internet and in the documentation. It wasn't simply spoonfed to me. If you pass this course, you will definitely gain proficiency in this subject!
+Truly Awesome, I get a in-depth knowledge in this specialization and just precise content as well up to date. Correct combination of theory and explanation in detail then practical lab over recent topic covered then Project in each topic. Also final Capstone project is really rigorous. Thanks to Instructor and Coursera.
+I completed this course as part of the IBM Data Science Professional Certificate and it was by far the best (so far, I have one more left). The videos were short and easy to understand, the labs were on point and many additional resources were offered. The instructor did a really good job when putting this together.
+A well done course that really gives a decent overview and exposure to the python tools for data visualization.  Although the projects take a bit of extra self studying and research to complete, the course provides a majority of other good sources to continue your understanding of the material beyond the lectures.
+Very interesting course and a must take for people interested in learning powerful techniques with Python's Panda, Matplotlib and other libraries. At the end of the course, you will feel confident reading, manipulating and displaying data analysis in a wide array of graphs, charts and other stunning visual media.
+Using python to create graphs and charts is very simple and easy, once u remember all the basic and keep trying. It seems to me that it is easier than any other reporting tools I used before. It is great that I know where to find the tool to create these charts and graphs if I need to prepare presentation. :)
+Though the course videos were short, giving an introduction to how different charts look and to plot them, the lab sessions were the best and gave a plethora of information on data visualization. Also, I am glad that they included the folium part of the course in the assignments which were very well formed.
+Nice lecturer and useful tools. This course was really interesting though pretty hard for me. Sadly at the end of the course I didn't feel that I gained enough skills to do the lab easily but maybe it just me. Anyway I ll definetely return to this course again to get the better understanding of some topics.
+I really enjoyed this course! The labs used interesting, real-life data and did a good job explaining the purpose of each line of code in an easy-to-understand way. I appreciated the questions in the lab because they built on and stretched my understanding of Python from past courses. Thank you, Alex.
+Really nice course. This course has helped me build up a  number of Data Visualization skills, and I am able to draw meaning and conclusions from data easily and much faster. The course labs are excellent and the final assignment was a good way to test the skills that I developed during this course!
+I feel this is harder than the other ones in the series, sometimes you need to google a little bit to figure it out.I spend more time for a week, but I wonder why I have to do it in Python. I learn Python just for faster loops than R. Personally I think R need less coding and produce better graphs.
+This is a very enjoyable course, even though I was familiar with most of the tools, I still got to learn a few new tricks. If you are not familiar with programming, you might find the final assignment a bit challenging. Therefore, I strongly recommend that you take the course labs very seriously.
+Course is really good to learn all the fundamentals of data visualization along with the advance techniques to master it. Assignments and practices are designed very well by the instructors and you would have to put all your efforts to understand and master all the course. Kudos to the IBM team
+Best course so far in the series. The labs are great, they make you really apply what you've learned.The final assignment is a true test of your skill. You can't repeat what you've done in the labs or what you've seen in the videos. Perfect test of skill. I've learned a lot.Thanks Alex Aklson.
+The final assignment is excellent! It is not just straightforward but requires us to think and research, go beyond the basics learnt in this course. Amazing course! Just the right amount of videos, simple labs, and challenging yet effective assignment, I learnt a lot! Thank you Alex Aklson <3
+This course consist of most of plotting types with python, it's not only about matplotlib, but addtional tools and methods to create maps. It gives you a fabulous understanding about visualization using python. Completing this course, you will be able to demonstrate the data in ways you want.
+Though the videos were short and running fast the labs were well designed, the peer graded assignment is well prepared too. I feel more accomplished than before. Honestly, this course should've been suggested to be taken at least before 2 other courses that I already finished to get here.
+It was very good and interesting how to create different kinds of maps for different purposes, specially I liked the maps that you can embed in an image like the wordcloud using a mask from Alice in Wonderland, I will try to do something similar with another topic. Thank you very much.
+I appreciate the way the Instructor always (always!) refer back to previous lessons, so that the transition to the next lesson becomes seamless. The lab also reviews past exercises so you are not at a lost (especially if you have not gone through the course for a while).
+Content wise, the best course in IBM Data Science Professional Certificate, as the quiz, lab and assignment modules really tests your knowledge. It made me learn a lot apart from course content to earn the course completion. Kudos to the content creators Jay and Alex.
+As I have no coding experience, it is hard for me to follow the course material. To finish the assignment, one have to repeat the exercises in the labs until one has everything understood and remembered. Not a easy course but it gave me a sense of fulfillments.
+Excellent, this is a great course introducing and teaching visualization !PS : You might read about people telling that some of the materials in the assignment is not in the course. It's false it's in the lab. These people should take notes while working.
+Excellent Course. I would recommend that the first week of this course be included in the introductory courses in Panda analysis. It will allow the student to really see the value of Pandas over an Excel and provide more of a boost to learn quickly.
+a great course, data visualization is one of the topics that draws many people into the field of Data Science.  I found it to be a very interesting course, one whose lessons I will return to often as I continue to build my knowledge and experience
+At first I thought this course was the easiest among the 4 courses in this specialization. Turned out this course was the hardest but also worth spending time on because I have learned lots of applicable knowledge. Thank you Coursera and IBM!
+What an outstanding way to learn such crucial skills from the world's best platform of Coursera.I am feeling really proud to complete  the course.IBM Skills network labs are just speechless.Jupyter notebook is just an amazing tool.
+It was one of the better courses in this data science professional certificate. I like that the datasets didn't come prepared in advance in the lab exercises and I had to do some work on the on the data before creating the charts.
+I felt this was hard. I realized this particular course forced me to review on how I needed to develop the mind set to become a data analyst and software developer. This class force me to learn more and keep going forward. Thanks
+I feel grateful for the challenge in the final assignment which help me to grasp the necessary skill sets in a way of learning while doing; a great experience good for the growth of  both technique capacity and mental strength.
+interesting course, but i really faced a challenge doing the assignment, i guess it would be better if assignment questions were covered in Labs session also. The assignment was over the top, and tougher to get it correct.
+This course is a foundation for those who wants to master data visualization. All the video modules are short and crisp. The lab sessions are very good and explanatory too and covered all the concepts comes under a topic.
+Best course for understanding the data visualization libraries of python and easily elaborate by sir. Thank you sir for this course, great experience to solve lab practical problems and quizzes and all. Thanks a lot sir.
+I really love this course, the instructor really provide clear explanation, give enough example, provide comment in each code to give more description, and more importantly the task difficulty is enough challenging.
+The course is great. Covered all most all the aspects. Little suggestion. Please force the students to add the notebook url for the final submission. That could help to preserve the integrity of the course. Thanks.
+really loved this course, top notch material.. rushed a bit towards the end.. but it covered so much ground.. thanks again for the wonderful walkthroughs.. pretty self explanatory on its own. best regards, dhruv
+Thank you so much for the course! This one is the best out of all series! It is a pleasure to learn with you! Labs are fantastic! Really, I spent a lot of time on them. Course is really exciting and insightful.
+Excellent class. The instructor Alex Aklson uses a very methodical approach when introducing each topic. It was very refreshing to see that the coursework did not have errors which makes it difficult to learn,
+Started of with very basic visualizations and ended up making a real time view super imposed on WORLD MAP. Never thought I would work on these examples before starting this course. Kudos to the instructor.
+Great course.I struggled a lot on the bar chart assignement and spent a lot of time reading documentatation. but it was a good practice and helped me get into the right mindset. Thanks for this course!
+The course with the IBM Lab is a very good way to learn and practice. The tools we've learned in this module can supply a good material to enrich all data work that need to be presented in a nice way.
+This course was really interesting and it was great learning experience.A big thanks to a instructor.I got to know new things like folium library (most interesting library of python according to me)
+This course gives very well knowledge about different types of visualization techniques and helps to start with visualization.  Coursera provided an amazing course with an amazing instructor.
+The way of design this course is so interesting , quizes , lab session is so good ,Final assignment is great ,to increase skill on data visualization with python is best course on coursera
+Very challenging, yet that's what make it's rewarding. Even though the course only takes 3 weeks, its difficulty is on par with the longer previous course. I enjoyed every problems on it!
+This is a very helpful course. It introduces a variety of data visualization tools. The interesting practices in the lab sessions inspired me to explore different solutions for a problem.
+This module is extremely important for Data Scientist. This module gives you the confidence on how to explore, manage, display and visualize data concept to meet end-users requirements...
+Very good introduction to the use of graphics in Data Science, the labs helps to consolidate knowledge and skills and gives you the confidence that you are really learning the subject
+It was great leraning to use various visualization plot technique using Python based libararies. I would reommned this course to be taken before "Data Analysis with Python" course!!
+The videos, the labs and working with real data make the course just great! Excellent resource for learning to visualize data using Matplotlib, Pandas, Seaborn and Folium. Thank you
+Excellent tutorials, great labs and fun exercises - visualization is one of the most satisfying things about data science, and it is no surprise that this course is very enjoyable!
+The course contents and lab work are appropriate and useful, however the final lab assignment using folium 0.5 to generate a choropleth layer was fraught with technical errors.
+The best course in this specialization, so far. Great balance between theory and practice. Interesting and demanding exercises and assignment. Theory explained in friendly way.
+A highly efficacious course for intermediate level Data Analyst enthusiast to enhance their skill over Data visualization techniques. I highly recommend to  take the course.
+This course gives a solid knowledge on creating visualizations with Python. Please have in mind that you have a good familiarity with Pandas to take the most of this course.
+Great Learning. A truly good course which is very apt to the title. Learning clearly on the data distribution plots like Scatter, Boxplots, Folium and Geopandas. Must Learn.
+Excellent course, especially the labs were very useful and served as a recap of what was learnt in the previous courses of this certification course. Very clear explanation.
+Very useful and good explanation. The topics could have been subdivided more so the each tools could have been explained orally rather than working fully in the lab session
+Video lectures are compact. To really get to know the matplotlib, a lot of work needs to be done during hands-on lab and self study. But it is a good introductory course.
+Data Visualization plays a vital role in ML. This course helps in understanding various visualization tools and plots. Nice course to know about matplotlib, folium, etc.
+A fairly good introduction. The scripts can be a bit advanced for those who are new to Python. It's best to have the documentation open on a different tab at all times.
+This course has very good topics on Data Visualization, I must appreciate the exercises in lab and the final assessment which really helps you work on real-time data.
+Excellent ! Although most of plots that I have learnt before, the map plot with folium is very attractive to me and I have got so much new things. Thanks professor !
+I love final assignment, that's too hard for me at the beginning, but it's turns out to be very easy when I figured out. I was overthinking for the condition. lol
+Let's you know the methods and techniques that you can work on real-time scenarios. Final assignment will make you feel great letting you to work from scratch.
+Very well designed course. Clearly explains each module how to do it and then lab exercises gives us pretty good hands-on experience on the concepts we learn.
+Very good course on understanding scripting layers and artist layers, as well as going over all basic graphs and advanced graphs. It was definitely rewarding!
+It's an excellent data visualization course with Python, which is supported by external tools promoting knowledge and practice of what is seen in the course.
+It's an excellent data visualization course with Python, which is supported by external tools promoting knowledge and practice of what is seen in the course.
+This course was presented in a way that challenged me more than other courses in this program. I was very happy to have been challenged to think critically.
+The assignments carry some general templates for data visualization. Downloading jupyter notebooks of them helps me when i visualise some othe data. Thanks
+Among all the other courses in IBM Data Science, I liked how this course emphasized on the practicals while giving a good idea in the videos. Thank you Sir
+Lab materials are really good.. and the assignments in the course need additional research than the learning available in the course which is really good..
+Really like it, the maps are not working in MS Edge, and took me a lot of time to figure out, those thinks would be great to be announced in the training.
+I had a good idea of basic statistical plots, but this course actually shows you how to make them attractive and effective for presentations and reports.
+Lots of in-depth labs. However, final assignment required some techniques that were not covered at all, so the difficulty was much higher than expected.
+A very good course! The Jupyter Notebooks are structured perfectly to follow the steps and action without difficulties. Had a great learning experience!
+The course is designed very well and each topic is explained in easy to understand manner. Also the labs are very well designed to clear the concepts.
+I liked the assignment presented by the course. I learned from solving the problems. The constant error with the lab problems discouraged me at times.
+The tutorials are brilliant and very useful! Make sure to complete them and you will get an extremely beneficial intro to several visualisation tools.
+The project was well done.  To be successful you have to complete the labs. The lab materials are a really good balance between practical and theory.
+the teacher of this course has made great designs and offered rich resources to students. I personally like his teaching style a lot. thank you!
+Amazing challenge for enthusiastic learner,  i would definitely reference the course materials several times more just for its depth. Thank you.
+The course is brief and to the point and is providing you with great practical work to get a hands-on practice to make you ready for the world.
+Very clearly explained and lab is excellent. Like the style of providing description of datasets used in each lab. Thanks a lot to instructor.
+Nice course. It is short video, but well-composed ones. I love labs, it focuses on key points of visualization. I learned a lot here. Thanks!
+Thanks for IBM for providing these courses and the content of the material is good for who coming from different domain can also do easily.
+Detailed explanation in the lab section on how to implement each visualization tool to better understand its use case in various scenarios.
+Great course. Demonstrated some great techniques on representing data in an informative way. Will definitely use the learnings in future.
+Excellent class - only problem was one of the map types available in the labs are no longer available open-source.  Challenging project.
+Every Data Science aspirant should do this course. Very helpful and easy course to help you complete this course through full guidance.
+Great course. I liked that you in this course had to do some programming on your own and make use of what I learned in earlier courses.
+Congratulations Alex Aklson for this incredible course that you made. I learnt a lot! Good content, good questions and good assignment!
+Excellent course, the best in the series so far. You can really see the quality and attention to detail in every lesson, lab, and quiz!
+I like that the final projects requires lots of in dependent research. This help us to build skills of solving problems independently.
+This course so challenge for me. If you give me discuss about how difficult of assignment. I thought this one also hard and seriously.
+really nice examples and overview of the different types of plots. the last assignment was one of the best of the course series so far
+An excellent course in which I have learned a lot. The course is very well structured and the professor explains the lessons clearly.
+It's a fantastic course. The course starts from basics and will drag you to advance skills. Thanks Coursera for arranging this course
+This is a very good course! It takes you through the steps, in the video's but allows you to learn a lot through the notebooks.Thanks
+The hardest class so far! Required quite a bit of additional work in completing the ungraded assignments. I learned more than ever.
+Really a very good course...tested me to the core :(. But end of the assignment , it made me very confident . Thanks Instructors !
+It teaches you from the scratch on how to visualize data on Python. Really useful if your work requires you to draw graph a lot.
+Difficult, yet very complete. It will definitely give you everything you need to work with matplotlib, even doing advanced maps!
+Great instructor! I learned many Data Visualization tools with Python, and the content and activities are very well elaborated.
+It's very nicely taught and helpful for my career perspective. Thanks a lot Coursera and IBM. I am loving this Specialization.
+It was an amazing course very well sorted out to teach top notch visualization techniques that are in demand in the market.
+Great course on how to get better and more valuable insights in your data by visual inspection. This course was so helpful
+Hands down the best course in the certificate program so far. Actually helpful and not just a robot lady reading a script.
+This is a great course though it is very challenging. Recommended to anyone who want introduction to data visualization,
+nice course but little bit of complex course. There is a lot in simple plot. So, It is not that much good idea to do so,
+I loved this course because it provide easy visual presentation of data that good for management to understand the data.
+The 5 star is for the final project, which is very challenging. However, the class materials is not as good as expected.
+Really awesome course, i am able to enhance my visualizing and story telling skills to a next level. Thank you Teachers
+Very well designed course and a bit challenging for newbie in visualization with python . Overall Worth taking course.
+I appreciated manipulating libraries and tools that help to draw figures, charts and maps with python. Good learning.
+Simple during the course, but with a complex Assignment, which made me go online and research. And I love doing that!
+The one that makes you work the most, gets you to learn the most.  Kudos on this course.  The assignments were great.
+Amazing course!!!I learned very useful ways to visualize datasets and I can't wait to use these plots to my dataset.
+the course gives me basic knowledge of most common data visualization libraries and gives hands on practice in PGA
+Very good hands on labs. Some more explanation on how to change the borders or adding labels would be more helpful
+Great course. The laboratories and the final assignments are a good way to test what you learned in the lectures.
+I learned a lot in this course. The final project really challenged me and was a good way to wrap up the course.
+The course was very informative and let me explore matplotlib and other visualizing tools of python extensively
+very good course for the beginner, ample study materials and practice test. Worth spending time on this course.
+Enormous amount of information, I personally cannot retain of that. It will be the best to review occasionally.
+Some of the practice exercises should have answer for us to recheck. Great course! Thank you for your teaching!
+Great course and interesting visualizations. Get a glimpse of the power of visualization available with Python.
+Data Visualization with Python, I am grateful to have the chance to participate in an online course like this!
+The content of this course was very interesting and very useful for the capstone project. Thank you very much.
+The course labs are very comprehensive and provides us with sufficient exercises to commit concepts to memory
+Great explanation about Visualization tools for data representation, looking forward to have more challenges.
+This course helps every data enthusiasts to upgrade  their data visualization and data story telling skills.
+the course video some times are not play, even after switched the network of my computer. this freak me out!
+Data without Visualisation is just Data. Learning Data Visualisation stuffs are quite fun and knowledgeable.
+Enjoyed a lot. Very much clear and step by step explanations. But more examples and update would be helpful.
+Wonderful contents and learning experience, especially creating/annotating Earth map and making word cloud.
+Great course!  Last assignment was quite challenging, which meant that I learned a lot from it.  Thank you!
+Very challenging Final project but worth doing all the labs which is gives you the foundations to do more.
+The course very beautifully and intelligently explains some of the difficult topics of Data Visualization.
+Labs in this course are excellent, no errors in the course content. The best of the specialization so far.
+This Course is really excellent. It gives me a lot idea about Visualization. Hands on were really Helpful.
+Great introduction but very few real life examples. Could have had a little more hands on problem solving.
+Its a really good and every aspect of visualising data been covered and highly recommend for a beginner..
+Final assignment was demanding so that we could apply the concepts learnt in the earlier courses as well.
+it was goods for me have this  course , I am very thankful of coursera and IBM concerning ME THIS COURSE
+Loved the practicality of this course. I feel empowered to get the most out of data. I'm truly grateful.
+this course was excellent! really forces you to focus in the labs and learn how to read documentation.
+Very good to review and repeat all the dataframe preparation process before generating visualisations
+Great course. It covers the basics of very powerful tools to show data in a clear and attractive way.
+Really liked the structure of the course. specially the ungraded exercises and the final assignment.
+Great learning curve for matplotlib and the challenge in final assignment is excellent for beginner.
+Lab hands-on are very good - a lot of exercises to build solid understanding of visualisation tools.
+I have taken multiple Python Data Visualization classes this one has a very good section on mapping.
+Amazing course, by far the best in the specialization....excellent content and very well explained!
+A nice short course with examples of main tools for visualization and interesting labs and project.
+content was great, so much of new knowledge was introduced. Labs were challenging and just awesome.
+A fantastic introduction to data visualisation in python. I will start using this straight away!!!!
+This module introduces all the useful features of various visualization libraries from a dataframe.
+good course with important substance! Instructions for  final assignment should be more elaborated!
+Awesome work put up by the teamHard work, patience and perseverance is the only key to every lock.
+The course was helpful to understand the different types of graph and how to create them in python
+Need to study again. It took longer time than other courses and lot more things to learn from net.
+Excellent course, really pushes to explore and learn how to use Matplotlib for data visualization.
+I really enjoyed the course! I thought it would be easy, but it is very challenging! I recommend!
+Very good course for learning briefly and getting hands-on experience of data visualization tools
+This is a great course that will provide you a gateway into the vast world of data visualization.
+This was a lot of fun learning to plot crime statistics of districts over a map. Very cool stuff!
+Has very challenging labs as well as the final project. Drives you to investigate and lear a lot.
+Great experience
+This is really a good course, simple to understand and very complete. Thank you!
+Great class. Learned about data visualization, data clean up, and more. Challenging but worth it.
+Some detail was not taught in lab or class session. For instance, labeling in grouped bar chart.
+I have accumulated enormous skills that I thought wasn't possible for a beginner in Data Science
+Video not much detail but Have a good description in the lab, clearly understand for me. Thanks
+highly recommended, excellent course structure, hands-on practice labs and moderate assignments
+Excellent content, I really enjoy and get challenged with the activities. Really useful tools.
+Very practical course. The final exam is helpful to understand deeply about what have learned.
+It was amazing experience of plotting graphs and maps really liked this visualization course!!
+A very nice and detailed course (labs of course) for the entry level python data visualization
+Exceptionally good content on using the various libraries and features for Data Visualization
+I like the exercises and the final assignment took me a while to complete.Good work, thanks!!
+This course was quite intense. It was are real difficult one but in all, it is just awesome.
+great content but i'd love more explanation especially in week 3but it's really good overall
+Best course in the specialization!The final assignment was challenging in all the right ways
+Challenges you to learn how to use the abundant Python and Matplotlib resources on the webv.
+Very good course. Small, but covered variety of visualizations I learnt for the first time.
+A very great course of Data Visualization in Python. The exercises proposed are not trivial
+Very Good Course!Really opens up a new world when you can see the results of lines of code.
+Probably the most pragmatically useful and beneficial course right out of the box to date!
+Very well structured and informative course. Covers from the very basic. Highly recommend.
+Very cool packages introduced like seaborn, and well introduction about the stamen series!
+One of the most hard final assignment lab, really hard to finish.. but a great experience!
+It's a very good course. But I have many problems with my final assignment. It's my fault.
+Complicated and coding heavy but it shows some really good applications of visualisation
+A masterpiece of a course for a novice like myself. Using the lab really taught me a lot
+Highly relevant with real word practice. Thank you everyone who makes the course happen!
+Its a great course which give a brief information over the ploting of data using python.
+Properly arranged and managed course. It is a must required for data science enthusiast.
+Good course to learn basics and some advanced topics about data visualization in Python
+Very good material and really improving python skils on working with visualization libs
+The most exciting part yet it was from the IBM Data Science Professional Certification.
+Great!The course teaches how to make awesome graphs, interactive maps, and more!Thanks!
+One of the best course i have studied.It has given me opportunity to learn many things.
+Pretty comprehensive course on Data Visualization.  Has a challenging final assignment.
+Great Course , All Info packed in great course. Also Great teaching. Thanks to Alex Sir
+Course is designed in simple and powerful way. It covers most of the important topics.
+Very interesting and very well explained. Exercises are very helpful and instructive.
+some of the assignment topic is challenge for someone who are new to computer science
+i am very glad for complete the course , very good for beginners , enjoy the course
+Good introduction to data visualization with panadas plotting, seaborn for beginner
+Excellent Course, well structure and forces one to get a grips with pandas :D TNX!!
+The best and the most challenging part of this course is the assignment of week 3.
+An excellent course to learn the visualization techniques and also well structured
+The Course was great.The lab work was so effective.Very Satisfied with the course.
+It is worth doing this course. Thank u IBM and Coursera and Specially the tutors.
+Great course! After completing this one, I better understand Dataframes and plots
+A great chance to learn drawing superb graphics with Python from numerical data.
+Good introductory course to different graphical techniques used in data science.
+Learnt a lot, really like this course, especially the lab sessions, thanks Alex!
+One of the best Courses in Coursera! Clear, Step by step, really well organized.
+Courser content and Presentation was wonderful, really it's very much helpful..
+The course instructor is the best! The learning was smooth and very beneficial.
+Only this course from ibm professional certificate is something worth. Cheerio!
+Very good course and excellent material that we surely save for future consult.
+Intense! Covers a lot of stuff, and gives you the basis to explore on your own.
+Nice Course to Learn which will bring your technical skills boost up.Thank you
+It was really good in understanding new concepts and applying them on dataset.
+This course helped me to learn data visualization with Python in more details.
+Very nice course. Short. Well explained. Practical. Many examples. Nice labs.
+it is a good choice if you want to learn some basics of python visualization.
+Fantastic course !,. Quite challenging assignment. Very well designed course.
+Basic but so so useful in real world applications. Great Notebooks. Pleasure!
+This is great course about data visualization with Python. Higly recommended.
+This is a great course for anyone interested in Data Science. Great material
+The best of the six courses! Thanks, excellent course. I have learned a lot!
+really really it is an Excellent start to Data VisualizationThanks alot IBM
+trés riche et interessant ce cours !it's so rich and amazing this course !
+Very good course. Enjoy it so much. Never knew that I could do such thing.
+Very Informative and covered a lot of topics, it was also short and crisp
+It is quite difficult and challenging course but useful and important one
+Excellent explanations and resources to learn complex data visualization
+Excellent course. Challenging and engaging lab exercises and assignment.
+Nice course, gives overview of lot of python packages for visualization.
+Good course to introduce you to the Python world of data visualization.
+Course Assignments are very extensive and make learner to explore much.
+very impressive course and peer assignments are very good and efficient
+I really enjoyed learning during the course. Thank You IBM & Coursera.
+Interactive quizzes would do more justice than multiple choice quizzes
+An excellent concise introduction to Data Visualisation with Python.
+Awesome course to get a flavor of the data visualization techniques.
+Nice insights on matplotlib and a very crisp introduction to Folium.
+Nice course to get start with basic data visualization using python
+The course belongs to the point and a lot easier to the beginners.
+ASSIGNMENT IS TOUGH BUT LOOKS INTERESTING...SPECIALLY THE MAPS ONE
+Great course! Enjoyed the hands on sessions and loved the content!
+Really interesting and challenging for beginners, enjoyed it a lot
+one of the best courses so far in the IBM specialization. thanks!
+It is a good for learning the basics of Visualization with Python
+Really informative course on visualization however very beginner!
+A good course on visualization. many important topics are covered
+Nice concepts. real need of this course for every data scientist.
+Really Good Course, especially the labs for practicing exercises.
+Excellent introductory course to data visualization using Python
+Such a productive and interesting course. Learned a lot from it.
+Some what hard but exciting course related to data visualization
+Great course with easy-to-understand contents from all the labs
+Very good course and help apprentices to  search web and learn.
+One of the best courses on data visualisation I have ever taken
+Fantastic course with some great lab and very good assignment!!
+Great course to get introduced to visualizations using Python.
+I learnt a lot about the data visualization skills! Thank you!
+This course helped me a lot to improve my knowledge of python.
+Great hands on course. Really enjoyed! Big confidence builder.
+Very useful not only on data science filed, but also any filed
+Great exposure deep knowledge in Data science with simplicity.
+Course was very good, wish to have more examples for annotate
+The hands on programming exercises were very useful!  Thanks.
+i took a long break and still managed to come back and finish
+Awesome explanation. This is the perfect course for beginner.
+Folium is a incredible library, thanks a lot to introduce it!
+Excellent! Good Assignment. Good Lab work, good presentation
+The assignments were challenging but I appreciated later on.
+An excellent course on Data Visualization with Python by IBM
+What a cool stuff! This really motivates me to learn Python!
+One of the most descriptive courses on Data Viz with python.
+Awesome Course.Thanks to IBM for developing a nice course :)
+Assignment was bit challenging and I liked every bit of it.
+Nice subject to learn and the course was will setup. Thanks
+Great .. Need to practice exercises more.. to be perfect...
+Really its short flexible and rich contentsThank you at all
+Good course! The last assignment definitely made me sweat!
+Excellent course and the final assignment was challenging.
+One of the best courses for me on coursera about data viz.
+Super didactic material to follow! Python labs are great.
+Instructive lab materials and very interesting assignment
+Finally a somewhat challenging Final assignment!Loved it.
+Well explained and well put together in the lab. Thanks!
+Learnt a lot and it was very challenging too. thank you!
+Learned a lot about how to use visualization effectively
+Good course ,introduced world of  visualizing in python
+Good to know how to use python to do data visualization
+Excellent Course. The instructor really challenges you.
+best course to get started in the field of data science
+Very good course to learn Matplotlib library in Python
+Very useful course for data visualization with python!
+its great session for me and i enjoy this session alot
+Very informative course  and need more  practical work
+Its an Amazing Course Which is being offered by IBM.
+Challenging course; I learned a lot. Well done labs.
+This course about Data Visualization is pretty good.
+wonderful class with good instruction and materials
+Final assignment was very challenging but effective
+a ton of helpful example make it easy to understand
+Amazing course with good level of problems to solve
+So interesting and helpful to improve your skills.
+Very Easy and Interesting course. Enjoyed Learning
+Loved all the libraries introduced in this course!
+The final assignment was very engaging and useful.
+Descriptions could be better regarding assignments
+I found the content and labs very easy to follow.
+A nice and gentle introduction to DV with Python!
+Clear concise introduction to Data Visualisation.
+it was best place to learn about the data science
+Great course to learn many new things with Python
+I think hands-on training is very well organized.
+Very thorough, detailed and also easy to follow.
+very helpful course for who want to learn python
+The final project is challenging but rewarding.
+I didn't know so much was possible with Python.
+It was a great course. Kudos to Alex Aklson!!!
+Awsome course and instructor.Thanks coursera.
+Helped me to enrich my skill in visualization
+I love this course! Interesting assignment :)
+Good course. I learning many things. Thanks!
+Good course with very interesting practices.
+worth the information for exploring the data
+Good course for learning Data Visualization
+Great time learning and apply the knowledge
+Nice video and Lectures. Great Explaination
+The course is challenging and  informative.
+Very challenging, especially with the labs.
+Great visualization course on map plotting
+Great and simple course with fun exercises
+Lab exercise and assignments were great !!
+Really Challenging and interesting course
+Great course, would thoroughly recommend.
+SUCH a useful and well structured course!
+Good lections and beatiful final tasks!!!
+Big thanks to the creators of the course!
+Great course to learn Data Visualization
+A great course to prepare, I'm thankfull
+Covered all concepts. Really beneficial.
+It was an excellent experience, thanks!
+simple and easy .lab sessions are cool.
+Like the way, the course is structured.
+real data and easy practice environment
+Labs and assignments are very valuable.
+The final was challenging .  Well done
+Good for learner to learn and practice
+Perfectly designed course for beginner
+Data visualization explained very well
+Nice Visualization Tools and Libraries
+It is a little challenging. I like it.
+It was a very well structured course.
+Activities were really hard to solve.
+Very good discussion and use of tools
+Useful plots have been covered well!
+Great course and an amazing teacher!
+The labs and final test is awesome!!
+This course is so beneficial for me.
+I learnt new things from this course
+Very good practice and real exaples
+good overview of data visualization
+It was good course and little tough
+learn more about Data Visualization
+Awesome course, highly recommend!!
+Very useful course and very clear
+good tools for data visualization
+Very useful!!! Thanks so much! :)
+Moderately tough and fun course!
+Good exposure to data wrangling.
+The assignements are really good
+Great cource and great content.
+Its really excellent course!!!!
+The assignment part is awesome
+good class. labs are awesome.
+Course is very well designed
+It was an excellent course!!
+Such a nice course to learn
+Awesome Learning Experience
+too easy to read and study
+THANK YOU SO MUCH COURSERA
+loved the mapping features
+Very nice thanks coursera
+Could I be anymore happy!
+Very valuable and useful.
+really complex and useful
+Great hands-on experience
+easy and informative one
+Thanks to the instructor
+A really helpful course.
+Love it. Learned a lot!
+It was excellent course
+Totally useful of time
+Great and Informative!
+Assignment is tough.
+Really a good one !
+Pretty nice course!
+Really Nice Course.
+Thebestmodulesofar!
+totally loved it!!
+it was a hard one!
+Very educational.
+well done! thanks
+love this module.
+It's Amazing !!
+That was fun!
+very great
+loved it .
+Pratic!

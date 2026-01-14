@@ -1,0 +1,497 @@
+The information is glossed over quickly and does not prepare the learners for the quiz questions at all.  The quizzes are set up in such a manner that it is extremely difficult to learn from them.  There is no feedback on written in answers, which makes it impossible to understand the mistake that was being made.  The questions on the quiz were also more specific and demanding than any lecture or material from the course would suggest.  Interesting material presented in a poor manner.
+The lectures are very thin, and questions very arbitrary. In the end I felt this course was very low value. The tests themselves are poorly graded, obvious correct formula answers are marked wrong (tested my answers on excel). The Teaching staff are not available. Most answers are 2-3 years old.
+Extremely content light. Quizzes are bizarre and basically rely that you go back to the lecture and find the one sentence where a comment was made. There's no interactivity. Really pales in comparison to the first course in the sequence. I really hope this specialization gets better or this will be a SLOG. I expected better from Wharton!
+Keeping in mind that this course should introduce spreadsheets and models, it is quite a discombobulated attempt at doing so. The 'models' are glossed over, and too much focus is placed on simple spreadsheet functions which can easily be learned via internet searches. The quizzes are riddled with ambiguity, potential solutions don't take into account multiple solution possibilities/variations such as optional excel function parameters, and numerical questions do not specify rounding requirements. This will likely lead to several attempts to pass the quizzes despite knowing the correct answer but not the specific solution required. Thus, making quizzes a chore rather than a test of knowledge. There is a disconnect between the material covered and the material tested, and there are inconsistencies between supplied spreadsheets and in-lecture examples. Additionally there is a notable error as the lecturer refers to the 'coefficient of determination' as the 'covariance' in one of the videos. Not something you want to hear when someone is teaching the interpretation of excel regression outputs. For anyone who has used Excel before (to do a calculation) and knows how search engines work, I would not recommend taking this course. You're better off just searching the syllabus sections online as there are tons of free resources that provide exactly the same information. There are plenty of websites that can not only teach you this content, but do so much more comprehensively and in an introductory business modelling context. All of that is provided freely online, with equivalent brevity and clarity to the lectures in this course. Other online course websites also offer much more comprehensive excel modelling and intro courses that 'blow the socks off' this one and for under 20 bucks when on sale (frequently)! The only acceptable reasons to take this course are: the specialization prerequisite, or you are interested in business but 'Excel' and 'Google' are undefined words to you.
+This course needs a total overhaul; in its current state it is a detriment to both Coursera and the Wharton Online brand. First, there was relatively little content; there was less than an hour of lectures each week and no actual programming involved. Second, the material was pitched at a very basic level, but not in a good way. Third, the tests didn't manage to even test the material being covered. For example, when given a mean and stdev, when asked to find a value, often the lecture would use an approximation ( i.e., a 2-tailed 95% distributed = 2.00 std devs. ) This is a class on excel: there is NO excuse for not introducing norm.s.inv and norm.s.dist when asking that question. When the test required the "approximation" rather than the exact calculation? Everything about this course was wrong, it needs to be scrapped and thrown away.
+Frankly speaking, it should be the most disappointing MOOC I have ever enrolled so far. The Professor's teaching is clear and comprehensible but the depth of the course content cannot meet the university level, especially from a worldwide renowned school like Wharton. Quiz is the most terrible part which seems like nobody could get it because of the ambiguous questions and paranoid answer area. Personally, I,  like many other mates, am really grateful to Coursera for offering everyone this equal opportunity. But courses with that kind of quality but staggering price will destroy the company's brand. We all want Coursera to go further and better, but few people prefer monopoly businessman rather than prestigious professors and diligent intellectuals.
+This was very disappointing, especially considering it's a Wharton product. The "course" was little more than an afternoon's worth of seminars. Since I am not a paying participant, I could not take the quizzes, so I finished watching the videos in less than a day.In addition, there are NO collateral or supporting materials provided. None of the spreadsheets or workbooks illustrated in the videos are available anywhere on the course site, despite their being advertised in the videos. All in all, it was consistent with the first course in this "specialization".Again, very disappointing. I'm glad I didn't spend any money on this.
+Content is badly presented with a little attention given to difficult topics of modeling. You would get more information from simple Google search than this course. In addition, some solutions, proposed by professor are not optimal in terms of time consumption.Some quiz questions are based on personal view of the professor on model structure which, however, is never clarified in lectures. Furthermore, a lot of topics are the same for this course and "Fundamentals of quantitative modeling", but this course quality and clarity of explanations is way below.Do not recommend if it is not a part of specialization for you.
+No detail, terrible professor, overly focused on the history and reasons for using spreadsheets rather than actually teaching you how to use them. This is probably helpful for people who've literally never opened Excel before, but given this is a course designed to teach complex financial modeling, a basic understanding of Excel should be expected when designing the course material. Quizzes, too, aren't based on reality and don't test knowledge of the useful material in the course. A waste of time.
+I felt the Quizzes were poorly written and the instructor skipped around a lot or just did not explain concepts in detail compared to course 1.  For the quizzes, fill in the blank does not work in this format especially given how imprecise the instructor was during this course.  A lot of jumping from one idea to another without explaining the connections.  Instructor in course 1 was very good at this. Instructor at 2 was not as good.
+This course has been an extremely disappointing experience considering a course from wharton faculty.  I am sorry to say that a staff guy is trying to become a faculty to teach people and that sucks.  The course contents are choppy and the lectures and quizzes were a guess game as a result of such siconnect.  Please review this course and get someone more qualified an experienced in real world scenarios to teach this course.
+Dropping this cert on account of this course.  The quizzes are horrendous.  They include concepts not yet covered.  Some of the answers that require a formula keep getting marked wrong if the formula is not entered exactly as those who created the question want it.  The presentation of the information is one sided.  There is not an option to follow along with the instructor, just a series of small video and then the quiz.
+The recommended add-on for google sheets does not work (as of June 8, 2020), rendering most of the information in this course useless. The instructor seems to presume a lot of technical knowledge in that he skims over objectively dense subject matter that could use better explaining. Last annoying thing: speaks too close to the microphone in a way that it sounds like there is a piece of gum in the mouth while talking.
+This course felt like a waste of time. The presentations are very rushed, no attention to detail and the explanation lacks purpose. It took more time to solve the quiz then go over the module material. Very challenging to answer the quiz questions with such limited material. Very disappointed! Please review the content to enhance the quality and hopefully make it a better experience for other learners. Thank you!
+This course was not good. It was not taught or presented in a structured manner; the videos were seemingly meandering, haphazard monologues. To compound the poor teaching and poor structure, the images were so grainy it was impossible to make out cell references in the text bar. I will definitely not recommend this course to others and would actively discourage others from taking it (especially if paying).
+This is one of the worst courses I have ever completed on the coursera. Although it has a good content, it is passed in a rush, without good explanations. Not to mention the extremely confusing questionnaires with information that is not in the material.To learn during this course, I studied more in other videos and materials than through the instructor and course content.
+Modules are taught nicely, however does not aline with tests at the end of each module, wasting humongous amount of productive time. No direct help available. Most question are very vague and expected answers are from wide range of choices. Very poorly designed. This doesn't look like Wharton teaching. Very sad
+With all due respect, this course was definitely not easy to finish - not because the course material was hard but because it was very confusing. It really needs modifications, especially because of the lack of course material and the confusing way questions were phrased.
+This course does not belong to this specialization. Poor content, poor assessment quiz, and felt quite disappointed. It is way below par. I never thought I would have to rate it this bad. If not for specialization that I am aiming for, I would never take it. Period.
+One of the poorest courses that i have taken. The instructor was unable to motivate or even teach the fundamentals of the course. As a matter of fact, You Tube tutorials (free) can do a much better job of training in spreadsheets and models. Very disappointed !
+This course was a extremely introductory course in excel. I would not recommend it to anyone, especially at the cost of $95. Aside from getting yourself thinking about using Excel and some minor lessons learned, I found it to be a complete waste of time.
+Content was good. Teaching was excellent. Video length was extremely poor. The quizzes were maddening because quite a number of them included answers that had multiple correct ones. Overall, 1 star!! Worst experience on Coursera till date.
+The qiuz are managed terribly, full of error and I seriously doubt  the professor ever seen these quiz before. The Course suit for a beginner but a bit fragile, I expect more about building a usable model. This course need serious review.
+Quiz were pathetic. Got over 90% in each of the modules. But cant pass this even after several attempts. Questions are open ended. Say in question 1, there can be multiple ways to answer correctly and it would accept only one of them.
+Buggy questions - especially for formula based questions which are correct in Excel, yet not working in quizzes. No/ambiguous instructions in quizzes. Really unbecoming of Wharton to present this level of standard.
+I had great expectations, but the course focuses on really basic stuff. If you have worked with spreadsheets before, it won't help much. If you haven't, it will not teach you how to use it.
+after we pass the quiz, we should be able to see what was the mistakes where were them, and how to correct them;provide assistance on how to build formulas shown on the lecture;L
+The videos did not help with the quizzes.  I had to go back and review material in the first course of the certificate.  The spreadsheets were difficult to read.
+Organisation of week 1 and week 2 questions could have been better. It was draining to be honest and I was losing my interest in learning from such platforms.
+Hard to follow due to the pacing. The presenter spoke too slowly at times and went too fast through certain important details.
+This is the worst course ever.  The professor's voice is very monotone and trying to guess excel formula syntax is insane.
+The tests were not upto the mark, where the questions were not very logical and the options were confusing.
+Really basic spreadsheet knowledge, not to be recommanded for anybody who is already familiar with Excel.
+bad course its need a new evaluation from zero its one of the hardest courses for no reasons
+I can't hear & understand the teacher properly and I don't find the course interactive.
+Very poor PDFs, needs more exercises. It was a waste of time, i didn't learn anything
+Very Poor materials, no examples or exercises to actually put the models to work.
+The videos are very thin compared to quizzes which asks some bizzare questions.
+Short and unuseful lectures, lack of real examples, and inappropriate quizzes.
+Very poor course. Low depth of teaching, assignments awfully developed.
+Nothing new and no challenging exercises. It could be more interactive
+It does not match the description.
+Very skeletal and slow paced
+Not one of their best.
+Poorly structured Quiz
+Week 2 quiz is awfull
+Worst instructor
+Quizzes need to explain why some question answers are incorrect, or else learning is almost impossible.
+No theory, Very vague. Questions asked unrelated to what the teacher said.
+The course is quite helpful and valuable, but i felt it could have had more context and content. The presenter Don, seemed to be reading off a script and lacked the personal touch or know how on the subject matter. Also in explaining the various funtionality, the spreadsheets were obviously pre-made, but this then led to some of the steps to be missed in being explained, how they were done etc.
+Very useful content but terribly demonstrated.
+I did not find it as hands on as I would like and found that the answers to the quiz's were not really in the material
+The Wharton School and Penn by extension has taken such tremendous effort to put together a great on-line offering. Some of their finest professors have made some of their rigorous coursework easily accessible via this platform.This course however is one of the weakest that I have experienced both on this platform and from The Wharton School. The material covered is indeed dry in nature but the lectures - uninspiring - make it more so. The quizzes, designed to test your retention and understanding of material covered are ambiguously worded and not at all helpful in developing skill level around modeling. In more than one case, students are asked to write formulas that can use input data to create an output that will help make a decision. Many correct formulas are not recognized as correct by an overly rigid set of data in the grading system. That creates confusion - not helpful in developing skills. Words such as "simplify" and "logical" appear in quizzes. These words are subjective, so the "logic" of a student may be different from the "logic" of the professor. Again, creates confusion.It could be that one of the objectives of the professor is to get the student to think differently about modeling so as not to be overly linear. If that is the case, that is a good objective. However, whatever the objectives are - they are not clear nor directly put.If you have little experience with financial models you will likely find this course to be both confusing and frustrating. If you have had some exposure to financial models you may find this course to be even more confusing and frustrating.
+Pros: -Learned some new Excel shortcuts and tricks-What-if Analysis and Solver-Random variables and Monte Carlo SimCons: -The combination of boring lectures and next to no screen aids, as well as bare bones "slides" seemed like the course was setting students up for failure. Minimal effort toward the learning process, just lectures and working in Excel.-Not a single "fill in the formula" quiz question was marked correct, even though I took the formulas directly from the Excel sheet (modified of course for the example cells in the questions). My only explanation for this was that maybe there is only one "correct" answer that can be input? So if I say C8*H3 and he says H3*C8 maybe it's wrong?-The prof enjoys writing (and sometimes speaking) at a very high level.  Complex wording and sentences that span 3 or 4 lines are difficult to decode. I found myself reading one of the quiz questions 5 times in a row trying to figure out what he was actually looking for. We understand, you have a PhD. State the question simply. True communication is the response you get. I felt he was trying to force people to decode his complicated writing instead of helping us to understand the concepts. Student understanding should be of greater concern than complex sentence structure.Overall: I would only recommend this class if you really want to learn some new excel functions and need to know linear models and Monte Carlo simulations. Even then, I would exhaust other resources first.
+Unfortunately, I have to say I was disappointed with this course. Especially right after doing the "Foundations to Quantitative Modeling", which held a high standard containing very thorough- and clear instructions. I felt that parts of this course were not explained thoroughly enough which made it feel very "jumpy" and abstract. -This was then later verified in the tests where the question/thought; "did he even go though this?" often arose. Furthermore, the excel sheet that can be opened by oneself, on the side of listening to the videos, or reading the lessons, sometimes didn't fully match the one you saw in the video lesson. -For example; the reference points could be different. Now I'm hoping the next course is more like the first one, which I very much enjoyed!
+Contents of this part of the Specialization looked very promising (especially after a brilliant first part) but in reality this Introduction is shallow, rather monotonous, and I always had a feeling that it's like a patchwork and not something integral. The best part is that it doesn't take too long to complete, and the bulk of the time you spend decyphering the meaning of the questions in quizes (and at least some commentaries in answers would be great because this is not an exact science like math and there are a lot of possibilities for interpretations) . All in all, there are a lot of much more useful courses on Excel for models. I hope that other parts of the specialization will be closer to the 1st one.
+Some of the ideas discussed are useful & new to me like linear programming and what-if analysis. The content is more suited to this specialization context instead of teaching excel in general so in case you are looking to learn excel, this is not a great course. I didn't like the quizzes, most of the questions added no value. My suggestion to the instructors would be less questions on the quizzes and more relevant to what you teach. I wouldn't  complete the course if it wasn't a part of the specialization that I am attending.
+1.Lecture & test is not well connected; 2.PPT for course material does not address the key point/knowledge that we need to master. If next review, I have to repeat the vedio instead of PPT.3. Quality of Forum is bad. It is a paid course, the resource cannot help you to solve the problem. And I reviewed the majority of the forum, the useful answer from your staff is almost none. You may need to think about the staff training of the course related knowledge/skill.
+This couse needs to be more detailed. Simple formula application in excel is not helpig understand the objective. I was looking forward to understand under what circumstances do i need to use a paticular techniques. Also more of real time problems could have helped relate the situation.the videos showed the excel prebuilt with formulas, until you actually show why are you referring a particular cell, this is not going to retain with beginners
+Quizzes need to be updated and are very subjective sometimes. There are multiple ways to skin a cat especially in excel, but this course and its respective quizzes basically say there is only one right answer. Professor has mistakes in his excel models that he uses for class lectures, but again your expected to be perfect based on logic that isn't cover in the lectured. Good coverage of material for an intro to excel however,
+For what you pay for, this course is not worth it. While I was able to follow the lectures, the material is very introductory and I was hoping to learn more. The lectures are really short in duration and the quizzes aren't challenging. I feel that pricing of this Specialization is purely due to the brand name of Wharton. Please improve this Specialization to encompass more depth in the course material or lower the price.
+This course left a lot up to the student, as many quiz questions were far too ambiguous or were barely covered in the materials. I'm flabbergasted that no clarity was given regarding how Excel formulas should input in the quiz answers, which naturally causes correct answers to be rejected because of arbitrary formulaic differences. A lot more work needs to be done on this course to make it useful to the student.
+The material was interesting but a challenge.  As someone with little to no experience with spreadsheets, I had to refer to directions to review materials after not being successful on quizzes.  The directions were not relevant to the questions and I found the overall presentation to be inconsistent and lacking in a meaningful order to follow.  I wanted to understand, but I couldn't connect with the method.
+Significantly worse than any of the other 5 courses (all of which are authorized by U. of Penn. and Wharton).The lecture slides for all modules were essentially useless.3 of the 4 module quizzes have questions whose meanings are unclearThe screen size for the professor's demonstrations of the spreadsheet functions was too small to follow.Worst of all, I didn't learn nearly as much as I had hoped to.
+I had a good background in excel and finance and that is sole reason I was able to comprehend. Moreover, the questions need to be change. They get vague sometimes. There is quite good use of jargon without even describing those terms. And for the complete SPECIALIZATION, whenever I give quiz I would be happy to know that why is this answer wrong instead of shooting in the dark.
+Tests are not flexible with answers: for instance in week 2 or 3 (I forgot), with Ce;; X and Cell Y, =(1+X)*Y was not accepted when =Y*(1+X) was accepted. And many quiz questions deal with topics not covered by lecture. There is also a lack of support for the course. There is a "mentor" but he doesn't have the ability to improve the course (reword questions, etc.).
+I am aware this is an introduction course, however, some of the concepts and information presented is too surface-level basic compared to the questions required to be answered from the quiz. In essence, it seemed the questions from the quiz did not match the information presented many times. However, there is no doubt I definitely learned many things.
+The professor did not do a good job at explaining the concepts. Coming from no background experience in modeling or excel, the professor really glossed over getting from basic spreadsheet knowledge to having a completely filled out model. I wish the videos were more structured like the first course in the specialization was!
+I think more time could have been developed on QA/QC on the quizzes.  I thought the presentation of questions was not that clear.  Upon becoming initially discouraged with myself on not answering questions, I found in the forums that I was not alone in being a little frustrated with the presentation of the quizzes.
+This course did not meet my expectations. Firstly, the videos are way too short in length and substance. So much more can be covered in spreadsheets/models. Nothing was covered in terms of cash flows, business cases etc. Too much focus on (in my opinion), things that not everyone will deal with in the real world.
+I've only taken 2 classes with Wharton online. This and Intro to financial accounting. Financial accounting is awesome. It taught smoothly and explained things well. This class jumped around and didn't give full explanations and had questions on one quiz that we didn't learn until the next week.
+This course was helpful, however not particularly instructive. A lot of the specifics on how to do things in spreadsheets were quickly glossed over. The course notes were not particularly useful. The exams seemed prone to errors in grading and Coursera was unresponsive in resolving the issues.
+I have expirience using montecarlo and  excel statistical functions. Unfortunantly the exams were very confusing and the open questions hard to answear not because of the difficulty but to get the particular answear asked by the teacher. This module should be developed more deeply
+Definitely could be more systematic and clear. Sample spreadsheets could be improved in many ways and any attention to detail would do this course much good. Tests and quizzes also could benefit a lot with a revise-currently plenty of confusion with phrases and wording.
+The lectures were too focused on the examples that are discussed in them. There is little explanation as to why the skill is important. Improvements should also be made in explaining when and how to use the skills and functions being taught throughout the course.
+Lectures were great and the professor provided very valuable and applicable examples. The quiz format was made very poorly with no feedback on why the question was marked incorrect. Often times, certain questions in the quiz were not covered during lecture.
+Poorly made with very little thought gone into the making of this specific course. Youtube was a great supplementary information hub where many of the topics were discussed in more depth than in this course itself! Overall, a very unhappy experience.
+The course was helpful. However, it was not organized and some questions in quizzes where not covered (briefly explained) in the course.There were unnecessary information in the slides and there was technically no reading material for this course.
+I don't feel learning much after the class. Particularly I think the video should be better made to present the spreadsheet content more clearly and i think there should be more emphasis on important points during the lecture session.
+Did not sufficiently walk through building models, only showed completed models and formulas. Rushed through model building and fundamental statistics explanation. Would have liked more in-depth model building, formulas, and stats.
+The slides are not at all helpful.  Unfortunately, this is a far less useful course than the companions in the specialization.  The quizzes tend to be glitchy, and have a maddening propensity to have users type formulas,
+Poorer quality than other courses. Content was sparse and poorly explained in parts, and quizzes didn't help with learning as well as they could have. The Fundamentals of Quantitative Modeling course is much better.
+There were issues with both slides and quiz questions.  The team of instructors and TD's may be masters of their material but they lack the ability to create a meaningful and endorsable learning experience.
+Not very helpful or in depth compared to other courses in this specialization. Skimmed the top of topics without really providing much in terms of actually operating the tools of spreadsheets and models
+Decent content; really, really bad quizzes.  Considering it's taught by the head of Wharton Online, you'd think they'd know how to structure quiz content for this delivery medium.  You'd be wrong.
+I was expecting an intro course for beginners... this was not it. I'd say this is more of a refresher course for intermediate/advanced users who are out of practice.
+1st 3 weeks were helpful but questions of the quiz were unclear & improvement is really necessary but still an ok course for basic learners.It could be  much better
+A lot of the questions end up being opinions and I would have liked to go further in depth with using Excel. Many questions were not answered well by the videos.
+I didn't know how to make cashflow assumptions. Also, instructor jumps from one lesson to another without enough explanation how did he reach to the solution
+Weak, definitely not what I would call a "course".  Should have been at least twice as long to give more depth.  Also, too many type-in answers for quizzes.
+The course was good in the sense that it gave at least some idea about spreadsheet model however conceptually very less scope was there for learning.
+Quizzes are very disputable. Not clear in some passages and in some cases you must remember the exact expresssion of the teacher or you fail. Crazy!
+Fine Knowledge but very poorly constructed course. Test has random questions with ambiguous answers. Monete Carlo isn't explained well enough.
+This course would be a lot better if there were exercises and opportunities to practice applying what is taught vs being purely lecture.
+Test submission modality is really bad, many syntax conflicts, no guidances and neither explication for bad responses are available.
+i know is an INTRODUCTION, but excel i s about practicing, so I think teh teacher should encourage the student to practice more,
+This course is somewhat lacking depth. The introduced tools are very basic and I would have expected more content for the prize
+Homework assignments are poorly worded and fail to provide students with correct answers to enhance learning.
+Unclear Quiz Questions 2-5,9 in Module2Very basic idea for excel beginner. very few techniques provided.
+Mistakes throughout the course - one example was a miscalculated mean during the Monte Carlo Simulation.
+Outdated information, the tool used for Google Sheets is not approved by Google. No alternative.
+Material provided is very incomplete what makes to complete the quiz of every module very hard.
+Very little new and does not include more complex sensitivity analysis for corporate valuation
+This course is poorly organized and presented in comparison to other MOOCs offered by Wharton.
+The quizzes in the course seem to have a problem in evaluating certain write-in questions.
+It was fairly easy and short. In comparison to the Duke course, it was way too shallow.
+Initial Excel explanations are too basic, test answers that are open are to vague
+Course needs improvement, specially the tests could be much improved.
+Unclear quiz questions. Not thorough teaching or discussion forums.
+Would be better if there were more practical exercises provided.
+Rudimentary. Paying to complete the quizzes is disappointing.
+very basic and becomes boring after a point in time
+videos are too short. very disappointed!!!
+This coarse don't worth 80 bucks at all
+Too easy for financial spreadsheets
+The quizzes are poorly designed.
+Not worth the time and energy.
+Too basic and superficial.
+the quiz is so frustrating
+Things are confusing
+It's pretty boring
+Absolutely useless
+needs more clarity
+What to say about this course? On the one hand, I learned a lot which merits the three stars. On the other hand, the quizzes were very poorly designed. It took me the maximum three tries on every single quiz to pass and I did just barely. Hey, this is EXCEL, not advanced calculus! Also, there were questions on the quiz that weren't even covered in the particular module. E.g., on quiz #1, there was a question about "objective functions" which the instructor didn't explain until the last course module. There were times when I questioned my own sanity until I read in the course discussions that others were experiencing the same issues. Before presenting this course again, TEST, TEST, TEST the quizzes and answers!! And if you're not going to allow for a range of correct answers or formatting variances, then change all questions to multiple choice where there's (maybe) a fighting chance of passing. I am immensely relieved this course is done and I can move on to the next one in the specialization--hoping it's better organized as was the Fundamentals course that Richard Waterman taught. I was fearful that a course in Excel was going to doom me for the rest of the specialization. Last recommendation: improve the presentation materials. Provide more details for reference purposes. Okay, I'm going to go relax, now, to recover from this trying experience....
+While the course can be useful to learn some modelling tricks with Excel, I found the quizz somehow badly designed for some questions, especially the one requiring entering formulas as in real life, a goal could be achieved using several different ways of writing formulas.But otherwise, the teacher was clear and to the point.
+The slides were not informative.
+This course was very average to me. Compared to the first course in the specialization, Fundamentals of Quantitative Modeling, which was absolutely great.What I liked:Good info on the tools in excel that are needed.What I didn't like:Time spent on content that necessarily wasn't regarding models;  the critical material was buried in videos and was very brief. More time should have been spent. Additionally the quiz questions were subjective at times based on what was said on video and the formula answers weren't correctly graded in many cases. This course could have been much better, maybe I was just spoiled by the first course.
+Thought Don was a good speaker, the various examples were interesting and provided good variety for basic Excel business statistical analysis, which I believe was the purpose.2 severe weaknesses: 1) Quizzes do not provide feedback on missed answers. I realize there is likely some concern about "giving the answers away". Therefore, once a passing grade has been obtained, the testing function should explain any and all mistakes made/or why the correct answers were correct in all iterations of the tests taken.2) There were many references given to receiving samples of the model examples used in the course. I cannot find them anywhere; also I asked about this in the discussion section and NEVER received a reply from Wharton or Coursera.These are significant deficiencies in teaching and customer service and remove 2 stars from my grace.
+I'm not entirely sure that this course should have been separated out on its own. The material was too high level with very minimal examples/practice questions. It made it kind of difficult to tease out what was important in a 3-5 minute videos. I felt like it left you stretching to match the objectives with the content. In regards to the quiz questions, I think it'd be useful to see the correct answer when it comes to formulas. This would be important because an answer may actually be correct but marked incorrect due to the fact it wasn't typed exactly as the specified answer was. For example, $F$8 <= $H$8 could be construed differently than $F$8 < = $H$8. Again, I'm not saying that this was the case, but it does happen frequently in these types of quiz formats.
+This course was well-organized and I appreciate the no-nonsense, fast pacing. I was introduced to several functions and tools I was not familiar with and think I benefited from the course overall. However, the quizzes are terrible. I found the questions to be either 1) extremely trivial or 2) ambiguous in wording of the question or in the answer choices provided. As a result and as someone else noted in a review of this course, you can't learn anything from the quiz feedback. For some of the questions in which I erred, I'm still scratching my head as to why I got it wrong in the first place, or why my subsequent answers upon retaking the quiz were right.
+The professor seems to have a good amount of knowledge about the topic, but the course does not provide a lot of information regarding basic functions and the examples given are not enough; the content lacks of exercises to apply what we learned. The lessons are well explained, and overall the information is good, but as I mentioned before, it would be better to make the course more dynamic and provide exercises to complete. Also it would be better to explain in depth the tools individually because what they teach you is excessively general, so you can't actually see a proper application in real life.
+Although I learned some new material, the course was very disappointing. I am not sure what had happened with the second chapter. It appears, based on introduction ,  we should have learned many new things in each video. However, after the introduction the video was over. Next two chapters had some useful material but again, I wish it would be explained in a greater detail.I give this course three stars but only because of the respect I have to all professors. I fill like this course was a teaser for people to go to the Wharton University.
+A separate class for spreadsheets and modeling isn't bad perse. The best way to teach these models is to integrate them during finance or accounting, or whatever specific class you are trying to learn.That said this is probably a good resource for someone with 0 and I mean absolutely NO experience with excel. However my gut feeling also tells me that those who have had 0 experience with excel will not be able to follow the models shown in this class.
+I seemed to have trouble with Quiz questions requiring input of formulas.  I was 3 for 3, missing each one, although I proved each one was functionally correct.  Could be just subjectivity as there are many ways to write a formula.  Also could be that I was not writing my formulas according to some standard or best practice.  Other comment: additional worked examples would be nice to test and practice on as the complexity of steps builds.
+Highly interesting subject and useful additional learning material at the end of the weekly lectures. Questions on a quizzes can be really challenging, but unfortunately the lectures are really oversimplified and at some points I felt like I'm studying on some trial/free version of a bigger course. This also reflected in a quiz part of a course, where sometimes it was hard to find an appropriate answer to some of the questions.
+The lecturer was very slow, and some things were not explained very well (while very simple concepts were often over-explained). Also, I'm quite sure there were at least 2 errors in the weekly quizzes. One that comes to mind is a question that had identical options for two of the multiple-choice answers, but only one of them was correct (50/50 guess, more or less --- I had to take the quiz 3 times before I guessed right!).
+Modules 3 and 4 were satisfactory, but really does not make up for how ill-thought out the first two were. Questions on quizzes were confusing and you could not correct yourself because you couldn't get the correct answer. The course would be much better if the answers came from interacting with the data sets given as examples, or if there was a 'quiz' data set that you had to actually perform the functions on.
+There were some useful examples in this course. But overall this course and the entire specialisation rely too heavily on Excel which seems a bit outdated when data sets are so much bigger these days (than the ones in this course). Based on the requirements of companies hiring data and business analysts the expectation for anybody who wants to work in this field is in at least one or more programming languages.
+The explanations on videos are not as precise as I needed. And so far it has been the course with less content I have took in Coursera. I think, videos can be done again to be more agile and introduce information missed. Also, the test were not so clear. I got good grades but answers were ambiguos. I think you need to structure questions in order to know what you expect as an only answer.
+The lectures were quite good and I learned a lot. However, I found it difficult to understand sometimes what was wanted from in the quizzes and I ended up taking them several times in order to pass. I would recommend that providers examine the google support certificate model of using labs to practice and learn with smaller quizzes interspersed, even within the lectures themselves.
+This course needs tremendous improvement. In contrast to previous fundamentals of quantitative modelling module, this lags in lot of areas. No clear explanations and the quizzes are worded super vague and filled with with bugs. I expected a lot under Monte Carlo Simulation. However, too simplistic example and explanation was presented. The topics were not introduced clearly.
+course content needs up gradation in terms of examples . Linear programming is a huge topic, needs more materials/explanation. Similarly cash flow modelling lecture provides high level overview , please add more examples and more assignment questions. Also please provide detailed workaround post completion of the assignments for the questions one could not answer.
+Videos presented were structured in a poor way. Announced topics were not at all fully presented. Quiz was not at all covered by video lectures, though quizzes themselves were rather interesting, weak point is that you cannot check yourself by going through the lectures, sometimes you should guess if you got the logic of the question in a right way.
+The professor of this course expects you to read his mind too much, preferring to skip through explaining his reasoning for solving some problems, such as calculating risk with the Empirical rule. He also mentions subject in the course outlines which he is supposed to lecture about in the course but doesn't, or just expects you to learn it yourself.
+Exercises should be better designed and I think that first week of this course and the whole previous one are too basic. They could be assumed for 99% of people and I think it would be a good idea to create an optional preparation module containing them. That would save time and perhaps open opportunities for more advanced material to be included.
+The exam answers were not clear.... The were questions not related to the videos. This was an excel course and no excels were available to download, just PDF. In the other two courses (Quantitative Modeling and Accounting Analytics) the excels were explained and available for download. This was an excel course and no excels available.....
+Many errors in the quizzes made this course a disaster, although the course staff was eager to correct them as more complains in the discussions arrived. Being the second course in the specialisation, it doesn't actually live up to the expectations as it mostly covers the very basics of the excel functionality in terms of modelling.
+Most suitable for people who have had very limited exposure to spreadsheets. Anyone that has spent considerable time working in Excel will find this pretty limited. The final portion of this course (Monte Carlo simulations) was the most interesting part, as it got into the more statistical functions and the Solver applications.
+I had some problem with typing the formula in the quiz as the formula typed was also correct but the program told it was wrong one. And I could not contact any people so I had to try my best to find what formula you used. And I think that if you can add more description about the answer it would make a clearer understanding.
+Overall this course is good, especially the last two weeks of the module. However, the examples are not very strong (Week 1 and Week 2), videos are too short for the most part and I find the tests are more robust than the lectures (I think both should be robust). I do appreciate that this module has extra materials to study.
+This course could work better as either a longer course with more examples, exercises, and step by step instructions in excel, or as a smaller part of the first and third courses in the specialization. The content is good and the examples are properly explained, but it probably doesn't warrant an entire course of its own
+The quiz questions are poorly organized, it would be better if some guidelines for the form of answers were provided and I do not believe it reasonable to have questions that the professor did not specify, overall it has been an unpleasant experience for me, sincerely wishing the quality could be improved.
+Decent introduction course however examples are very simple as well as the models that are constructed. I understand being an intro course the content needs to ease people into the subjects however, more realistic and real-life examples are necessary to take the material from this course and apply it.
+The quizzes were giving me a hard time. Some questions included write-in questions where you'd need to type the Excel formula and even though I knew the formula I wrote works, it would be marked incorrect. This is very frustrating because at the end of the course you get a grade.
+Level of complexity of lectures was very low for Modules 1 and 2,  and yet the quizzes were pretty in-depth. Similar issue with Module 4. Seemed like lectures had been simplified too much to convey the necessary knowledge to competently (and confidently) complete the quizzes.
+While I really enjoyed the first module, I was less impressed by this one. Have the course is very basic, while the rest is just too brief and not practical enough. I will however continue with the courses and expect the next module to build on the one reviewed here.
+Overall it is a good course, however, despite assuming minimal knowledge of Excel Statistical Modules, it offers little insight and practice. I would prefer a more in depth approach (for the advanced), or more exercises for those getting familiar with spreadsheets.
+Since spreadsheets is a practical thing so just from watching videos and MCQs can't make you understand the subject , therefore I would like to suggest coursera to add a practical question in the test which includes making a spreadsheet like a capstone module.
+The model is kind of simple and lack of commercial sense. It may be better to provide some basic functions of excel at the beginning for self-learning. Actually, I cannot find anything that the teacher is really needed from this course. Sad for the money.
+Quizzes often did not reflect materials from the lectures. Not providing feedback in the quizzes made it very difficult to determine where you went off track. There is a great deal of room for improvement in the presentation as well as the evaluation.
+Professor was excellent in explain the concepts but the examples used are more case based and it needs financial knowledge to understand, If professor had used generic examples it would have been easy to learn for naive financial grads like me.
+The content of the presentation is very good. The flaw is the quizzes. Especially for week 1 you need to precisely match the quiz answer, which is difficult as multiple options are possible and it is unclear what format the answer should be.
+The lecture slides did not contain the actual content covered in the lecture videos and there is no reference to study/ or prepare for the kind of questions presented in the quiz. And there is no mechanism to learn from mistakes in the quiz.
+It's a good course, with quite a bit for a newbie to learn. Would have appreciated more in-depth examples in the lectures though, as I often found a gap in the lectures and the questions asked in the quiz. Even otherwise, good stuff.
+Course was very informative and well paced. However, as an Introduction Course, I felt that the questions on the quizzes left a bit too much up to the students intuitively understanding the concepts that they had just been exposed.
+As an introductory course, it was OK, but if you have a background in excel it was not as beneficial. I would have liked to see more Monte Carlo simulations and tutorials vs theory quiz questions that didn't align with the videos.
+This course is not very good. Sure, it teaches how to use some supplements on Excel but it doesn't give any opportunity to practice what was learned prior to the tests. Also, the slides/pdf files doesn't explain a lot of anything.
+Some classes were fine despite being a little superficial about the analysis, but the quizzes were terrible, as well as the support at the forum, since there are many complaints about them and nothing has been done in some years.
+The course was useful, but the quizzes were frustrating. Whenever there is a write in answer for a quiz question, I know I will get it wrong. Even though I am certain my answer is right, it never gets recognized as being correct.
+There did not appear to be direct correlation between the brief lecture slides and the questions being asked in the quiz. Often, the lectures were too concise and did not include enough practical applicability.
+Many of the questions in week two's quiz are poorly written, and the correct answer as determined by the test system or the professor for Q1 doesn't sufficiently reflect all criteria outlined in the question.
+Overall the course was good, but the quiz assignments need work. When entering formula's there should be more clarity. Formula's can be entered in many ways and even when right were often counted as wrong.
+-course slides are same as if non-existent-quizzes need improvement as some questions are no quite covered in the material and the fixed functionality of the quiz does not help one using excel.
+The prerequisites are accounting. Things need to be more transparent for the students by making the mistakes available. Additional resources to grasp the fundamentals are needed.
+The module can include assignments for more practice of the concepts. Moreover, concepts like when to use uniform/Bernoulli/normal distributions can be explored better
+The teacher was good, but he definitely could have gone more in depth with the course. And some of the question in the quizzes were not even covered in the modules
+In one of the quizzes some of the questions weren't very clear, that created a bit of confusion while answering them. Apart from that the course was quiet helpful.
+The questions on the quizzes were very confusing and marked answers incorrect despite being right. Quiz content should be improved, the instructor was good though.
+Definitely there is some room for improvements. The course content is great but the quizzes are focused on more on Excel syntax than actual problem solving.
+A bit boring – way too basic. And I expected it to be a bit more systematic – simple (and quite fragmented) examples around one case... Could be a bit more.
+Extremely shallow scraping of subjects. Many learning objectives were not even explained further than reading them off of a list of learning objectives.
+It's pretty straightforward and teaches important concepts, however, its quizzes are confusing at times. Some of the classes felt kinda useless.
+This course is very brief and basic introduction to spreadsheets. It was surprising that the "pivot tables" was never mentioned in this course.
+The course covers all the necessary theoretical basica of statistics and modeling but isn't very helpful in terms of practical implementation.
+Is not as bad as I thought at the beginning (the first two weeks). It gets better the third week. I think it needs some improvement though.
+The course relied too much on excel demonstrations, so it was harder to keep track of concepts and take notes. Ok, but not great.
+lectures were good , but was not sufficient enough to get the quiz answers. For that the video lectures need to be more thorough
+I would like to be able to view the answers to the quiz questions that I answered incorrectly after I have passed the quiz.
+Videos and Quizzes are great to introductions but modeling small examples on Excel would have helped anchor some notions.
+Would prefer to have the actual excel template in order to have a first hand experience on how to apply the concepts.
+Although the course content was good and helpful. A more detailed explanation would have helped provide more context.
+Some of the answers to quiz needs specific text answers. I believe even though the answer is right, the quiz come out
+Quiz's were more theoretical than practical, overall intermediate level and need prior basic knowledge of finance.
+Bit of a large step between very simple weeks 1 and 2 and more complex weeks 3 and 4 but mostly easy to follow
+course content is great, quizzes not so. Some questions are very confusing and needed further clarifications
+I enjoyed the difficulty of the quizzes, but found that the material could've been explained in more detail.
+Few tools on Xls has been shown.More extensive and complex problem are required on use of Monte Carlo method
+unlike the previous course this was more vague , its was not detailed enough to get a good comprehension.
+Found the course a little ineffective. The wording of the questions were confusing and not clear at all.
+more examples of the different topies would have been useful to solidy the kowledge newly learned topics
+Slides did not add value. I prefer the slides summarizing the lecture so that I can keep them on file.
+The videos were so short and not comprehensive and the quizzes were way hard compare to the materials
+Module 2 specifically was really cut down in comparison to the quiz taken.felt a little unstructured
+It seems to me like the course could have like 2 or 3 times more video concerning tasks required
+The course itself is interesting and can be done in 3-4 hours in total max. Slides are useless.
+Wharton's online MD can not have a course so poorly develop (lectures vs quiz vs material)
+It was a good course. The quizzes should be corrected since some questions are ambiguous.
+In my opinion, this course is more information oriented rather than knowledge oriented.
+A Good course, but there is a need for further expansion, especially in Week 3 and 4.
+Should really show you how to build a model piece by piece, but overall very useful.
+this wasn't really my strong suit. i think a lot could be explained more clearly.
+Much of the lecture content is not included in the readings, only in the videos.
+The slide set is too brief, was expecting more details with examples & visuals
+The questions are poorly worded could better correlate with the lecture.
+The course is fine but very short videos and lack deeply explanations.
+Some points (at least those mentioned in the quiz)are not so clear.
+It is quite basic and sometimes the quiz can be a little confusing.
+Just wish to have some concept check before taking the quiz.
+It was not challenging. Could raise the difficulty a little.
+The material is not up to what is explained in the videos.
+The course does not make you learn spreadsheets in detail.
+The spreadsheet portion should be included in the slides.
+Questions are just not related...and "Random Generated"
+The lectures were great.  The quizzes were confusing.
+PDFs could have had more information on the lessons.
+It's very quick and quizzes do not prepare properly.
+quizzes were poorly written but interesting content
+didnt learn much and the quizzes were terrible
+Very hard to plug in formulas on the quizes.
+Students need more explanation and practice.
+Content is good but not practical enough
+too superficial in the discussed ideas
+A bit too basic at the beginning.
+I felt modules 1 and 2 tests where a bit misleading in some questions. I think there could be better questions to assess the learning of those modules
+Course content is generally very good, but could go a bit deeper on the formulation of optimization models, but that may be coming in future classes.  Some quiz questions are a bit ambiguous, causes grades to be lower than what should be achievable.
+I think this was a good practical, hands on course. I would love to have more linkages with the theory covered in the Fundamentals of Quantitative Modeling course, a little bit better coverage of all key concepts during the presentation using some simple techniques as repeating important concepts twice or at least changing the tone of the voice. When the lecture is delivered in a monotonous manner, sometimes it's hard to follow and catch what were the important concepts presented and which ones were secondary. I noted that description of topics related to some exercises in quizzes were covered only in subsequent module. I don't appreciated this approach from learners perspective. It's always good to present material thoroughly first and then check whether the student has understood the concepts.
+Very useful info, but there were discrepancies in his spreadsheets on screen vs in the download material, which was confusing. (e.g., the equation used to get profit in the Monte Carlo simulation would NOT generate the numbers he had on the spreadsheet on screen -- I think there was a typo somewhere.) Also, there were a couple of questions in the quizzes I was pretty sure I got right, but they were counted as incorrect. Then there were a few that I couldn't find complete answers to anywhere in the material. I almost gave 3 stars, but decided on 4 because overall, it was very valuable and mostly understandable.
+Pros:  Very good information and methods for running real life business models.  The course provided the spreadsheet modules which allowed you to tinker around and learn them. I consider myself a power Excel user and I picked up some very good new modeling methods. Very concise.Cons: I did Week 2 on my lunch break.  Some questions on the quizzes were a bit vague.  Probably need some working knowledge of Excel before taking this class.If you need to complete a lot of modeling with your job, this is a good course to pick up some skills.
+This took me longer to finish than other three. There are more open ended questions in the tests and so you cannot rely purely on luck and the number of attempts. I felt the lecturer's intention to focus your mind on things that he thinks is important, but may sometimes be overlooked in this area. For me, its not just commercial, its a course that help you deepen your understanding about the subject. Dont be fooled by the stars : )
+Overall, it helped me to understand how to use speadsheets and models in my daily life by making it less of a chore once I understood how they worked, as well as the functions within them. I think it was a good course, but perhaps the end-of-week quizzes could be tailored to be understood better by the learners of this course as the questions did not always align what had been taught previously.
+The course was a great introduction to using spreadsheets, although the information was a bit basic. Anybody with decent working knowledge of excel should not take this course unless they are trying to complete the specialization. For true beginners it is fantastic The instructor was clear and concise, although it felt like he was rushing through the material sometimes.
+I like the course but currently it has some issues. First and foremost problem is tests. There are some questions that allow ambiguous interpretation, some questions require to know the information that is discussed later in course and so on. Also the lectures are quite short. Other than that course gives very nice introduction into using the spreadsheets in modelling
+Overall all good experience. I defently walked out knowing more about excel that I did before, considering I have used it quite a bit. Week 4 was by far the best. Could have gone into a lot more detail about Monte carlo simulations. I found myself going back to the first course for more info on the topic, even though there wasn't much about about it. Thanks.
+It was a great course where I understood how spreadsheets can be used in modeling. Different types of models and the characteristics of each model. I would have appreciates if the course has taken more complex and real-world applications and models so that the utility of the subject can be much more appreciated.
+This course teaches how to use spreadsheet to do some predictive modelings. Although no depth in math, but for me, some practical skills and functions are introduced.I just give 4 stars only because the overall content is still kinda simple. I though I could have learnt more with this price.
+Good overview of implementing statistical tools we have learned so far in excel. Loss of one star due to quiz questions & and answer requirements in week 1 & 2 being ambiguous. This caused some frustration. Week 3 & 4 were quite good in my opinion. Overall a good class. Thanks.
+I am accountant from Brazil and at the beginning I thought It was a single Spreadsheet course, ok here I go. Then when I realised it was a wolrd of possibilities, including statistical tips for Forecasting, using a toll we already have. It will help me a lot
+The course is useful and insightful even to someone who used spreadsheets for a life (I think the name makes it sound too simple). I didn't understand what I got wrong in some questions in the tests, and I think that some of those. could be thought better.
+Sometimes, when I worked the spreadsheets out, the data differed from that on the examples. The items in the course were good and built up well. Some more details would have been nice. The instructor went over some spreadsheet steps quite fast.
+Great introductory course for the subject. There were some parts, especially at the start of this course, in which the subject matters were being explained too simplistically and very quickly - not a good combination to maximize ones efforts.
+Very good, but on its own it left me wanting more detail. Better if followed with Modelling Risk and Realities (the next in the specialization), which provides more substance and detail to some of the concepts glossed over in this course .
+Some of the quiz questions are not explicitly covered in the course. I could not figure out the right answer even going through the videos again. Guess I missed some basic knowledge there myself. Overall, very interesting course as well.
+I think its oa good course, however, the XLS examples could be better and more complete (?) did not find some functions. German English Exec translation is a bit anoying - bit worried how that will work in more complex courses...
+This course was fantastic! I only wish we had more "Homework" or somewhere in which we could test the skills we are learning. It would have been nice to be given some data and then attempt to make a Cash Flow Model on our own.
+A pretty basic intro to spreadsheets - good for complete newbies or for those who want to refresh their memory! I wish the course was a bit longer and showed a wider variety of Excel functions and worked examples.
+I enjoyed the course quite a bit. What would really be useful is more opportunity to work examples or problem sets. The quizzes and knowledge checks don't really give me a sense that I really know the material
+The course was well blended and covered depth about models which can be seen in a business work place. However there should have been practice exercises before the quizzes to understand the topics better.
+The course structure is easy to understand and follow. The content may be too easy for those with Excel proficiency. Assignments that require students to use Excel can deepening the learning.
+Course was generally very good...however, apologies if I've missed it, but doesn't appear to be a way to get a transcript of the lectures. Not ideal for taking learnings into practice.
+This course requires discipline, patience and attention to details. I learned things, about the subject and beyond. Don Huesman is the organizer of this entire series. Thanks for that.
+Course is great with showing much interesting fuctions in excel. Only 4 out of 5 stars because it is not clear how to submit formula input in quizes - whether start with = or not etc.
+Would give this course 5 stars to be honest. It's just that the lecture slides are not informative enough (only course outlines are there) & look like they weren't made seriously.
+It is very good course. however The lecture should explain the type of model more specifically or the PDF file should be more content. Esp for non-native speaker student like me.
+Completing this course helped me improve both my theoretical knowledge and practical skills in MS Excel, discover exciting new tools and technics for modeling. Thanks a lot!
+Good review of what tools are available to you in spreadsheets. Not recommended if you are already a heavy user of spreadsheets, as this is a pretty rudimentary course.
+It was initially difficult for me to understand but once I began to understand it, it made so much sense and it is very relatable to real business scenarios.
+The course is too shallow. I wish all topics were covered more in details. Moreover, it is unreasonably expensive for only about 3 total hours of lectures.
+It's a very useful course, but it has few mistakes in some videos and questions in the quizzes that are hard to understand what are the purpose of them.
+The course is easy to follow and has light workload. However, I think we may have wanted to go with more depth. In general this is a good intro course.
+The content and pacing is great after week1. Wk1 was a bit elementary, introduction and all. Overall, learned some new Excel tricks so it was worth it.
+need to pay for test this course is excellent! the professor is very professional, I understood everthing. he Explain everthing in plain english.
+The course is good. The quiz was quite hard. The ppt material for this module is too short and sometime does not cover what in the quizz are
+The presentations will be better if there is a more explicit content of what a you watching in the video class, not only the objectives.
+Some of the explanations are not clear, and the knowledge net is not clear as previous chapter. But it is still good for me overall!
+It was good but videos were too short and sometimes explanations were not deep enough. Good professor and good content in general.
+Since I had already studied similar subjects in my Master's degree, this was a good revision. The clarity of explanation is great.
+Good job of explaining the probablistic models, distributions and why certain elements (e.g. R squared and std. dev) are useful.
+The course is a very simple introduction to Excel/Sheets and some modeling techniques. Some of the quiz questions are ambiguous.
+Excellent course, my only objection was that the lecturer's speed of speech was very slow, so had to play it at 1.5x speed :)
+Informative modules. Mr. Huesman explained all the things very well. The quizzes could have been more well created .
+Course provides a good understanding of Regression and Monte Carlo along with Linear programming and Optimization.
+thanks for the wonderful course, it would be highly appreciated if provided the solution to incorrect answers.
+I don't know if it's the best way to grade, questions aren't very clear. Anyways a good introductory course.
+Really enjoyed the learning experience. My one concern was that the quiz's were a bit confusing and unclear.
+Broader exploration and usage of Microsoft Excel is a delight. Lots of new stuff to go through and explore.
+Please provide detailed PDF of all excel formulas used in this module and one details softcopy of module.
+While the course content is great, it could be a little more user friendly in  terms of the explanation.
+Excellent teaching just Questions could have been asked better since format of answers affected course.
+Good sequencing of the module. And total number of questions are so that crux of the module is tested.
+Very interesting for an Introduction. Might need more examples in order to assimilate better.
+Good course, but maybe too compressed and with scarce examples in excel as well as in slides
+the quiz shall have more hands on task and the depth of the contents is not enough. thanks!
+It was difficult to follow some of the spreadsheet logic at times. Very useful in content.
+Course was short, crisp, informative and to the point. Very well designed. Thank you
+The course was good except explanations in few modules like the Empirical Rule one!
+Add examples for more clarity. also add advantages & disadvantages of each module
+The beginning is very basic but towards the end it gets really interesting.
+I appreciate the work by the professor.I really enjoy the application part.
+well structured and good templates for the explained functions and examples
+If you have any buisness or financial backround this course is really easy
+A little too easy if you know your way around Excel, but still informative
+Quick, easy, learned some nice tips even-though I am a heavy excel user.
+Would have been more helpful if lecture slides were more comprehensive.
+This course is good for sales and production planning professionals.
+Basic and essential knowledge about modeling with Excel/spreadsheet.
+good, but need excersices which students can apply all the concept
+Good course but the I thought the questions in week 4 were poor
+Very useful in becoming familiarized with Spreadsheet modeling
+Some areas of quizzes were not covered in respective modules.
+Not what I expected to learn but still a very useful course!
+Excellent articulation of excel features in finance context.
+Good information but  i felt lack of deep in exercises done.
+Well done course to go over basics of Excel.  Worth taking.
+Very basic course, but it gives you some very useful tools.
+Really good basic explanations to spreadsheets and models.
+Enjoyed and Learned many new things. Thanks Coursera.
+Good course. Not excellent, but useful nonetheless!
+There was some unclear concepts.The rest was ok.
+Could have had more explanations on Monte Carlo
+Several problems with the student assessment.
+The professor introducted the features very
+Great if you are looking for the basics.
+final correct answers are not available
+it should be more detailed and covered
+Would like some answers for the tests.
+Too simple and not really organized.
+Examples needed to be more detailed
+hard to understand but very useful
+Need models to be more realistic!
+Very basic exercises and topics
+Videos can be more informative.
+GREAT! KEEP UP THE GREAT WORK
+Good and practical sessions
+Sometimes not clear enough.
+Useful and practical course
+It was not very informative
+Good course thank you.
+It seems too easy
+Short and sweet.
+I am really trying to learn throughout my learning experience and I think I did throughout this course. However, I believe that there are certain irregularities within this framework, as questions in tests are not communicated properly and furthermore not fully articulated throughout the lectures. This is just to give one feedback and improve certain conditions for upcoming modules. Thank you very much for giving me some extra knowledge and good luck for the upcoming future.
+I thought this was a great course. I have an undergraduate finance degree and it encompasses a lot of the econ/ math/ finance courses I took and actually shows you how all of these elements are applied. Eye opening for me and very helpful.
+one of my Best Challenges in this Entire Course, I thought it was Simple Dealing with Spreadsheets, But I learn Once again, One Can Learn each and every day, as a Product and Project Manager, I use a Lot of Excel, and that Module 4 enlighten me in a way that words are too simple to express, thanks University of Pennsylvania, Coursera and the Teacher amazing, I would Like one to meet him, Regards, Sala
+This course was really helpful. Professor Huesman is an extraordinary pedagogue. This course really intrigues you with the statistical playfulness and mathematical insights through a very simple yet immensely useful tool named Microsoft Excel (as I have used that throughout the course), so thanks to Microsoft. Finally Pf. Huesman, you rock!! (pardon for the unprofessional language)
+This course really helped me in understanding use of spreadsheets for financial modelling. I have now understand the use of several functions, and the data analysis tool and Excel solver in creating a good and accurate forecasting and models. This course helped me to learn more uses of excel in my profession. The course is very challenging yet it is very exciting to learn.
+I began this course with very limited knowledge about data modeling and ended it with a great overview of its different aspects. Prof. Don Huesman explains concepts elegantly and at the right pace. The content and teaching were engaging and easy to follow. I would definitely recommend this course to anyone who wants to gain good knowledge on how to create data models.
+It covers some of the most useful and important tools at hand for probabilistic and optimization models in Excel and Google Sheets. The course seems easy but it requires some homework and additional investigation and practice to go be successful. The quizzes are a bit tricky and require a minimum level of skills to pass. Really good course.
+This course helped me learn about using spreadsheets, and the functions in spreadsheets to create models. This also helped me learn how to do statistical operations and linear programming. I created models for risk and uncertainty and used Solver function to maximize the profit potential for dummy business.
+This course helped me understand the functionality of Excel and Google Sheets better. I was very intrigued by the fact how this software provides functionality into building business decision-making models, without necessarily having to resort to much more complex statistical packages such as Stata.
+it was very hard course for me to accomplish, but I really liked the lecturer helping me out at every juncture of class. introduction to spreadsheets and models is a must to go with course, it enhances your ability to understand all the basic and much needed knowledge for ms-excel.
+This course provides an exceptional introduction to Spreadsheet modelling with practical application using Excel to solve real world business problems. I am really surprised by how much I have learned by taking this course with 4 weeks of materials in less than 4 hours.
+Had no idea how powerful Excel was before this course! Learnt how to conduct so many types of data analysis and the inferences one can draw from them thanks to this course. Some of the questions were challenging and really helped fortify the concepts learnt.
+Very good introduction to financial models. Congratulations to all stuff that decided to use excel as the informatic tool to overcome the difficult task of handle mathematics. Therefore, the real work of this course is concentrated in financial models.
+A little more technical compared to the first Course in this Business & Finance Specialization and requires more time to understand the various uses of modelling. Definitely useful if one has intention of mastering Data Analysis and projections.
+The course is truly helpful for those who do not have prior understanding on how to implement the business problems into Excel. This courses teaches me the usage of excel tools to come at the final outcome for decision making.
+Concise, no fluff spreadsheet modeling fundamentals with quality instruction concerning the different functions, data analysis and solver add-ins needed to start building effective financial models. Thanks Professor Huesman.
+Very well-structured, full of practical content - also includes a great tutorial on solving linear programs in Excel. Felt like I was learning with every video, which is not always the case with online courses. Well done!
+Monte Carlo simulation and linear programming are made simple with the way the instructor teaches. It is amazing! And from my point of view this are key knowledges to differenciate as a professional from the croud.
+I love these course. It is very practical and I learned a lot. I hope to learn more from the instructor and would like to see a course covers more extensive topic since I am really interested in learning this.
+Quiz is the highlight, you should read discussion board to get clarification, but once you understand the point of the questions, it's actually very practical and useful for real life spreadsheet scenarios.
+Very useful course for business students. The course explains wide range of topics in short period of time. At the same, it was very challenging. Thank you Professor and coursera for this wonderful course.
+Complex Forumlas has been presented and taught in a simple way to understand it better.  Don Huesman is very impressive presenter and teaches in effective manner, so that we learn in first instance itself.
+This course has made me understand cost accounting, has provided a fresh perspective on how to solve some of the challenges i had with management accounting and as a bonus, made me love maths again :)
+The course is worth the time , the faculty teaches you about some complicated advance formulae with so much clarity and ease that  even beginners can be pro in excel related to business and finance.
+Wonderful course with very useful introduction to spreadsheets: what tools use, when (which scenarios), which will make you improve your skills and provide valuable insights in a business context.
+So many tools that I knew existed and have tried to use the How-To's to learn how they work and until the Prof takes you through them one-at-a-time, they never make sense. Great Stuff!
+The course was exceptional. I learnt a lot about excel and google sheet from this course. The instructor has been very smooth and clear in teaching his concepts. I am deeply grateful.
+A particularly useful course. It built on my existing Excel knowledge and "expertise". I really enjoyed it, as all the skills learned in this course can be applied in the real world.
+Thank you Sir, not only for this course but the splendid work you have done as MD of Wharton online in making the in-house expertise available to millions like me through Courera.
+This is a very interesting course. You will get to learn the functioning of spreadsheets and how to use it for business models. Moreover, one can use it for market research also.
+The course was highly informative and challenged one's ability to understand the value that spreadsheets will provide as the course progresses in using it for business decisions
+Don Huesman did a great job of discussing and demonstrating the uses of Excel in cash flow analysis and other useful ways to manipulate spreadsheets to tell a story with data
+This course was very helpful in stepping-up my finance related excel skills. This is especially most helpful for students with little to zero background in finance.
+This is a very good introduction to building deterministic models. Be sure to utilize the additional reading suggestions and tutorials at the end of this lesson.
+I like the pragmatism of the course: introducing these concepts in few minutes and driving applicants through such contents was done in a really effective way!
+It is a very good course. Instructor was very clear and precise in explaining the contents. Quizs are a bit tricky and it was a good challenge for your brain.
+A very helpful and practical course. It will help me in developing a personal budgeting tool and in my Procurement Career. I strongly recommend this Course.
+This is a great course for beginners! Each step is explained thoroughly with great demonstration which makes it easier for me to keep up and understand.
+Great course literally as an introduction to spreadsheets and models. It gives you an overview of the necessary tools the maximize the use of modeling.
+Great entry level course. Provides lots of detailed information, useful applications, and even the theory and logic of using spreadsheets effectively.
+This class did a great job of introducing the Data Analysis add-in in Excel.  I think this will be very useful and time saving in my line of work.
+Great class, concise, efficient, but tough questions!  Lots of useful applications that can be implemented right away.  Overall, very enjoyable!
+This was a very useful, well presented course that I will be able to immediately leverage in my current work.  I highly recommend this course.
+lectures and examples were clear and questions were pitched at a just-right level, enough to encourage but also to challenge one to do better.
+What I have learnt in this course is really useful but I hope I could learn more. Maybe video time could be longer containing more content.
+Very basic, but that's the point. A good review of the capabilities of spreadsheets for simulating scenarios with a probabilistic mindset.
+Introduction to Spreadsheets and Models provides very useful tools in learning how to think with numbers. I highly recommend this course.
+I wouldn't recommend it for those already skilled in Excel, but it is a very good course for those starting to use excel for modeling.
+This is a very useful course. I'd certainly recommend it for those who would like to know more about business modelling in MS Excel.
+The lecture was quite good but some questions of the quiz made me confused, maybe it can be written in a different expression.
+Pretty useful, it had everything I expected.Further readings could be added about more complex models in terms of regression.
+Very useful even if you have been already using excel. It helps find out many things we often neglect while building models
+Great course with very challenging quizzes. We hoped more explanations about quizzes' answers but nice materials anyway !
+Great course. Could you a video on Excel on Mac, and differences between Sheets and Excel a little earlier on though! ;)
+This course teaches hands-on skills on using excel functions for financial modeling.  The functions and concepts are
+Challenging but very informative could use more in depth examples but appreciated the history lesson on spreadsheets
+Great course. Learned many new formulas and tools that can be implemented in my day to day environment. Thank you!
+I gained more capability in excel and give me a new horizon to use it in my work and makes me want to do research.
+nice for beginnersuggestion:hope all add-on files can be packed into one zip file,which will be easier to download
+A very important part of the 5 series course. Broadly covers all the important spreadsheet functions and models.
+Very well explained course. I do wish that the quiz explained the answers after the completion of the course.
+I really enjoyed and i think it is very helpful to understand better the functions and power of spreadsheets
+Concise yet not short.Simple yet not easy.I recommend it even if you have been using Excel for a long time.
+A good fundamental course which provides hands-on learning about what goes on behind some of these models.
+Amazing! Packed with so much useful info, that I keep returning to months after completing the course!
+Great course in order to understand methods of problem resolution and how to implement tools in Excel
+great course, but maybe more detailed explanation of concepts, also making quiz questions more clear.
+Very interesting course. Even though I would have prefered to have more much actual life examples.
+I really liked the Excel tools Professor Don used. The material covered was very useful as well.
+Pretty decent course. If I had to do this over again I would take course 2 first then course 1.
+very clear examples, relatively slow pace, which allows you to understand and exercise a lot
+Wonderful guided explanation on how to solve optimization problems with excel/google sheets
+Nice introduction to essential MS Excel (Google Sheets) functions. Good for summarise.
+I gain many new insights, especially for probabilistic model from this course.Thanks!
+I have learned much more for spreadsheet use and functions than I have ever learned.
+It introduced some useful tools in excel for analysis and some management concepts.
+Good overview but I think the different topics could be explained more in detail.
+Challenging material to do via the web, but explained in a paced, systematic way.
+Thank you for the course!Great experience of Spreadsheets creation and updating!
+Very articulate course. its no different from on campus when you are at coursera
+THE COURSE WAS VERY GOOD. I LEARNT MANY NEW THINGS. AND IT IS EASY TO UNDERSTAND
+Fantastic introduction.  Easy to understand. Well taught.  Clear and concise.
+Very educative and equally challenging as well of which i have learned a lot
+This course is super useful and provides clear explanation. Strongly suggest
+Every thing was so perfect. thank you sir for giving me this opportunity.
+Course was insightful and very helpful for efficiently analyses of data.
+Straight to the point. The leasons were usefull for my rotine at work.
+This course is informative and useful. I thoroughly enjoyed learning.
+Excellent course - easy to understand even without quant background!
+Very well and useful for corporate data summarisation.Thanks sir!!
+Very helpful. But it would be better to add more detailed content.
+Great professor - learning a lot despite 15 years working in Excel
+Great introduction to spreadsheets for financial modelling course
+A great overview and detailed examples that students can follow.
+Good material, the downloadable spreadsheets were of great help!
+i think Google Sheets should be more eloborated in these course
+I found the course simple, clear and practical. Thank you Prof.
+Very practical course filled with helpful real-world examples.
+Very helpful step-by-step approach in explaining the material.
+Questions with answers to fill in do not always work properly.
+its very excellent course i had ever found on spread sheets.
+Excellent course, very useful!! Thanks to all the teachers.
+Great pacing, good examples, clearly explained concepts.
+Dear Team,Thanks for a wonderful delivery.Warm regards,
+This course is a little bit hard than the fundamental.
+Great experience.It's not so time consuming. Love it !
+Very useful - especially liked introduction to ad-ins
+Helpful in understanding basics with simple english.
+Exceptional  introductory course on modelling risk.
+A bit basic, but sets the ground for future courses
+Excellent learning opportunity for distant learners
+It is the best spreadsheet course I have ever had.
+Many questions in the tests was subjective for me.
+It was challenging and exciting at the same time.
+Very practical and usefull, Manythanks Professor.
+Amazing course with a great overview of finance.
+Very helpful and systematically designed course!
+amazing and helpful professor and great content
+A steep learning curve makes learning easier.
+Good course content with practical examples
+Challenging yet a great learning experience
+very good course: simple, clear and useful
+It is very helpful and useful in practise
+It's kind of difficult, but really useful
+Very Insightful and good use of Examples
+Wish there were more take home examples
+Excellent course! Highly recommended!!
+I have learned a lot from this course.
+Clear, concise and well elaborated.
+very challenging :)  learned a lot.
+Good One makes you think and work!
+Very well presented and explained!
+Thank you. It's well structured.
+Excellent and practical course!
+A great course. I recommend it.
+Very easy to follow along with!
+Good and directly to the point.
+its a great course for finance
+strong excel practice training
+The great course! is here...
+Great content and quality !
+This was an amazing course.
+Useful Introductory course
+Very good and challenging!
+this professor is amazing
+Good introductory preview
+In two word: Just Great!
+Amazing course , must do
+Quizzes are too abstract
+Pretty intense course.
+Learn many new things
+Great help on Excel!
+Tough but insighful
+Great and helpful!!
+Very Useful !!!!
+Tough but fair.
+nice and short!
+Very helpfull.

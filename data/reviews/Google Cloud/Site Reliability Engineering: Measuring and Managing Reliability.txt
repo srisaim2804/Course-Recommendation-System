@@ -1,0 +1,140 @@
+I was searching for RELIABILITY AND MAINTENANCE PROFESSIONAL CERTIFICATION course , but in coursera i found SRE .I thought it is the same i am searching . But it seems for IT employees not for the core sectors. . So please provide RELIABILITY AND MAINTENANCE PROFESSIONAL CERTIFICATION course.
+The instructor is only reading the manuscript, and the students are just learning a compressed version of the introduction. It is difficult to fully grasp this knowledge through limited learning. Open questions and peer review are actually not so useful.
+I found this training to be very difficult to follow. Even the submissions are difficult to achieve properly and the peer review process I really think does not provide any value.
+It's all Youtube videos and thought exercises that come from Google's SRE book. Why is this a course?
+By far the worst course I've taken on Coursera
+in the next days my considerations.
+Very poorly structured.
+Everybody do not get things right the first time and I think it is the same for Google. 1)The instructors : This was the most frustrating part of the course. I don't think any speakers spent time going through the content before they came for the recording. They just read from the tele prompter and they read it so fast often number of times that they just finish talking so fast and then  wait without talking until the tele prompter shows them the next word. There is no proper intonation in their speaking as well. My guess is that the Google voice assistant would have done a better job.2) The course structure : I understand that this is an Advanced course, but the course content is poorly structured. If you see the discussion forums, there are multiple threads where readers are unable to figure out where a question in an assignment came from / how to answer it. For example, there was this quiz about Action Items that should prevent an issue from happening again. Without any further explanation in the course about some terms that'd be used, Google just came up with its own choice of options that users are expected to pick from.3) The Peer Graded Assignments : While I like the idea of Peer Graded Assignments and the approach that Google took with the Assignment structure, it'd have been nice if for all the Assignments Google did a practice solution of another similar problem, so that the exam takers can give their answers more confidently and with better understanding. They did it with one example, but that's it.Overall, it was not a bad use of my time, but probably I had high expectations for a course by Google.
+Peer grading made it difficult to proceed with the course. Instructors energy was very low, it was hard to follow at times.
+I agree with another reviewer on here (ASHISH) in that it would have been beneficial to have some practice examples for the submission tests. Not knowing the "grading rubric" ahead of time as to get an idea of what the course was looking for, sort of left you writing something up, submit, see what the grading-rubric looked like, then edit (which blows away any feedback you received from peers) and start again.The last user submission (which required a spreadsheet to be downloaded), updated with info you analyzed in previous submissions, and then needs to be "publicly" shared out from your personal Google account to be publicly reviewed by other users. Two things from this take-away:1) put in more "specific" instructions on how to proceed (I reviewed several other users, and it was clear they did not understand what was required. I commented back to several with line-by-line instructions to help where I could).2) Instead of requiring me to us my personal GMail account (if you have another way to publicly share the spreadsheet, that can be used as well), have some way to host it on the Coursera site.
+Content was good, but there are a lot of things that could have been done better about the Coursera website.  All content was presented through video.  Although the transcript was provided, it was just a big block of text.  It was almost impossible to look up a key point.  It would have been good for the class to provide TEXT summaries of the key points at the end of each lesson.The videos were also extremely dense and dry.  Again, a text summary would have helped immensely.The content of weeks 1-3 were good, but I wasn't very impressed with week 4.On one of the written assignments I accidentally refreshed the page, causing me to lose all of my work.  I'm taking off one star for this.  If you are going to give us large assignments, then you need to have an auto-save.I wasn't impressed with the week 3 assignment.  I was mostly fighting with the spreadsheet instead of focusing on the concepts of the course.
+While the concepts presented in the course are valuable and important, the way they are presented is extremely dry and difficult to follow. I would not be surprised if both the text and videos (besides the intro videos with 2 people) were all AI-generated. Concepts that could be explained easily are presented as they'd be in an academic paper. You're better off reading the transcription over and over rather than watching the videos.
+The material in this course was very useful, but in general I found the presentation to be horrible.  The transcripts need to be better formatted -- just put a few line breaks in.  And the presenter of weeks two and three is very hard to follow.  He speaks way to fast and it's almost just a stream of consciousness.  You have to follow along with the transcript, which makes it impossible to watch the slides next to him.
+The course content is great! the videos are very good! the questions are good also. There is just 1 thing that is really poor about this training: the peer-reviewed questions. there is little (mostly no) feedback from the peers and the grading is very random. I hope you can change this to something more fair. I'm also hoping for a sequel to this: with examples of the "wheel of misfortune", "post-mortems" etc.
+Very poor content and continuous loss with different people and topics.
+
+For example, What is SLI, SLO and SLA? Here my question.https://www.coursera.org/learn/site-reliability-engineering-slos/discussions/weeks/1/threads/IV_7w_oCSXaf-8P6Aul2RQ
+Should be broken into two. Most people do not need the excuritating detail at the end.The assignments are painful. You have no idea what it should look like, because none of the videos actually go through an example written result.
+This course is really hard to complete, due to assessment score is dependent on other people. This make learning and be better at SRE is slow.
+The course content is VERY interesting and valuable. BUT it is presented with scarce examples and a lot of theory. Some quizzes and assignments seemed more like guesswork than homework. One quiz in particular had no feedback at all, and no direct correlation to the videos. I wished they had provided more examples or a couple of readings with real world cases, instead of just jumping right into doing it for the first time as assignment.I'm also not a fan of peer reviewed assignments.
+The video content in this course was excellent, but the assessments (particularly those that were peer-graded) detracted from the overall value. Peers left arbitrary ratings with no further comment/constructive feedback, and others submitted blank responses to assignments just to gain access to peer responses to review. The same response submitted twice resulted in two drastically different grades (the first, a failure with no feedback, and the second, a 100%). Despite the value of the videos, I will not be recommending this course to my peers because I did not find the assessments valuable.
+The video content was a good introduction to the topic. The graded assessments did make me think in more depth about the issues, but the instructions for them could have been clearer. For some of the assessments (particularly in week 3), I think it might have been helpful to give more detail about how to devise SLIs for a different scenario beforehand, it wasn't until I saw the sample answer after doing the assessment that I really understood what the course wanted. There did seem to be some bugs in the course, such as repeated identical questions in week 4.
+Five-star content. One-star functionality for enterprise users: (1) If your company has a strong firewall, you won't be able to share the main assignment (a Google spreadsheet). It must instead be submitted from your laptop or other home computer—big hassle. (2) The peer grading process is cumbersome, slow, and random. (3) The Week 4 discussion prompts marked "Optional" are not optional—you don't get credit for having finished the preceding section until you enter a response in the discussion window.
+It was an excellent course for beginner like me because I could understand the basic concepts, such as SLI, SLO, error budget, and documentation. However, I felt a massive gap between the lectures and assignments: the assignments, not quiz, were challenging due to the lack of guides, and the peer-to-peer reviews were not working well. It would be great if there were more steps in assignments.
+One of the presenters spoke really quickly and I found it hard to follow. I am a native English speaker and so was he, so it wasn't a language issue, I just felt he was racing through the materials. Overall a good course, but could be better and I loved the subject matter.
+The ratio of instruction to assignment work was not great. It seemed that after every 15-30 minutes of instruction, we were expected to complete a 2-hour assignment and then grade each other. I took this course so that I would not have to be self-taught! You know?
+Course content and delivery was excellent! The peer review process could use some improvement..had to chase reviewers via discussion forums, ran into one reviewer who didn't read the response before grading leading. It was a distraction in the learning process.
+Some of the content is a little disjointed and the exercises need while well thought out individually don't flow together very well (jump around between scenarios). I also didn't really think the first week was as high quality as 2-4.
+A big topic to cover in one course. I would suggest covering a little mare material and extra exercises over a longer period. Thank you for the opportunity to learn though.
+While the content itself is good and relevant, the presentation and speakers are too robotic and the module layout of the course doesn't match the weekly schedules.
+The course is designed for people knowing some basic. The beginner level introductory course should be made available before this course
+This allows to establish the universal language between teams and set up common goals, but the practical part is not very solid.
+The course could have been more interactive. Sometimes it felt like the trainers are just reading from the material in front!!
+Issues with test no working to get the answer addressed not responding to title in the project you need to turn in .
+Dependency on people is not very good as we end chasing people for reviewOverall course structure is good
+Flashback from Lost. Some of the materials and assingments seemed out of sync.
+Not well structured peer-graded assignments.
+Content is great but quizzes sometimes seem inadequate regarding the content of the course.
+what I did like: the learning videos and the structure was perfect no complains there, still there are little online materials and sources which I could use during the course, this is the same as you learn new stuff you have merging several sources,  the quiz with good and bad answer were good since there were some information and tips why was it the correct answer, what was NOT ok: the assestment is something which should either be changed, f.e. remove the scoring, there are diff people with diff skills where some might have some experience and some not at all, hence therefore its kinda not fair, the rate approval is also bad you have 2 weeks to complete the assestments, but its always depended on the number of active people, so I would remove this part. also there should be much more online materials available and also some book suggestion like the SRE Google book and workshop should be at fundamental part of this training or a prerequisite.
+The course gives the mixed impression. First, the explanation and the terms are very easy to grasp. But soon the examples and assessments start to be too software developer specific.Being not-programmer I had to urge all of my discipline not to quit the course, to understand the given topics and prepare the satisfactory results.It was mentioned in the other feedback that some of the users are trying to make it easier just to copy and paste the material, but the assesments made in such a way, that it will not bt the correct answer - you have to think and apply some efforts to make to the end.As the overal result the goal is achieved, I can participate in the discussions about SRE and even use the given approach to another realms.
+I can confidently say that after completing this course, I can work on designing SLO/SLIs for services in my organization. The assignments are very practical and depict real problems. The only issue I have is that the video lectures are very densely packed with theoretical statements and less examples making it hard to keep up with them and follow.
+The lectures and assignments are well made and structured. However, the grading and the students grading each other on such wide domain is not always fair or professional and it's not student to blame but the platform should find other way to evaluate the performance for such courses.
+The PostMortem task puzzled me the most, as it came a bit from nowhere, but I really enjoyed the overall course and learned a lot about reliability, risk analysis, and SLO, SLI and SLA. It improved my view on my tasks in professional life a lot! Great course!
+Great course overall. I would highly recommend it to my peers. As feedback, I would suggest elaborating a bit more on the expectations of the Risk Analysis Spreadsheet, it's a powerful tool but I think not enough time has been dedicated to introducing it.
+Great course, I like the idea of the peer reviews, however, I think the instructions on some assignments needed to be clearer. What would be a great addition is to also get feedback from the instructors on things to improve / think about.
+It's a very good course and I learned a lot. I'm only giving 4 stars because some of the quizes were  "rough around the edges" as far as being able to study enough to get the highest grade. Mabe this will get better in future iterations.
+This is must for all the team starting their SRE journey. With very simple Video and example you will get to know the details of the SRE concepts. The assessment will give you a good chance to implement the learning.
+The Couse was very good and informative . Only improvement needed I think should be the quality of the recording . It was very fast in some instance and voice quality was distorted
+Most of the course is very nice, just a couple of quiz are not well though. Is surely a very good resource for everyone try to understand and verify their SRE knowledge.
+Content is great. I mark course as 4/5 because it seems that teachers simply read text from paper and this really complicates understanding information.
+Fantastic course. Make many more in the DevOps area and make them regular to refresh the learning with new concepts that keep on changing.
+They need better instructors. Especially that bald big Asian guy. he was going super fast and was hard to follow.
+The course was informative and explained the process and language around SLI SLO methodology very well.
+Information and practical knowledge on this course provided was very helpful and understandable.
+Concepts clearly described in easy way with example driven approach. Sure is a good course
+Good Course. I would like to see a capstone project and more sample examples to work with
+This course is more realistic for support projects and it's very useful in BFSI sector.
+Pretty nice, homework helps me a lot to understand how to design an SLO and SLI.
+Very good introductory course on concepts of SRE with good graded assigments.
+Interesting things to know. Important concepts, not too difficult.
+liked the peer reviews, discussions and practical assesments
+Hope the SLI/SLO samples could cover more secenarios.
+Too Simplified explanation
+This course was the kickoff I needed on SRE. It was a really fast way of learning the ropes, and enough to get me super invested and love the free books. After going through the Course I saved money and bought the SRE book, the work book, and the Seeking SRE book.
+Super course very much interactive, it is not only course, but it will also help us to improve our skill in SRE, this really good and good course for day to day work on the production system and monitoring Good I am part this course
+The exercises for defining SLI and target SLOs were helpful in understanding the theory better. The videos run through the material rapidly and I had to typically review some critical ones more than twice. Well structured course.
+The course itself was great. It was a bit upsetting to see that many of the assignments submitted by our peers are mostly copy and paste from the lectures or direct copies from the examples...
+Really help me to understand how we apply SLIs and SLOs for services to enhance readabilities, use error budget and risk analyzing  to help the team to make decisions.
+This is a excellent course that covers the in depth topics on Site Reliability Engineering
+really help me to understand how to leverage SLI/SLA/SLO to improve my service reliability
+This course hits the bull's-eye without redundant content. recommended.
+Exercises were good and really made you think
+I recommend this course on Coursera
+what I liked:
+1. Knowledge check at every level - validates your understanding
+2. Course split into 4 weeks with timelines attached - Learn better with just enough push to keep the journey on track
+3. Peer-Graded Assignments - (Best thing) Helps you to think and apply the skill you learnt in the module, validate your understanding on the topic, and gain insights from other members.
+
+In-short, it's nothing less than an exam and you can only earn it by learning and giving your best.
+The course content was quite a bit more challenging that I expected.  In some cases, this challenge came from unfamiliar technical material that was not clearly called out as a prerequisite.  I am a Product Manager, not an SRE, and I was asked to take this course.  I managed to get through the course material, but it demonstrated that perhaps I was not truly the target audience for this course content.
+Very well structured course with 4 peer-graded exercises with the right level of difficulty to really solidify the theory into practice. Goes in-depth into the common SRE terminologies such as SLA/SLO/SLI and Error budget, with proven battle-tested examples from Google itself. Highly recommended.
+Excellent course. This course sets the right expectations on what an SRE is and the key focus areas. SRE is widely spoken of, but every one may have a different idea. I got clarity on what an SRE is actually supposed to concentrate on, and do. The assignments give more in-depth
+This is one of the most important course for any Systems engineer to take. It is intense and pushes you to the limit. But most importantly you will walk away with a very rare and important skill that only a few people in this world have. You can tell yourself  "I am an SRE"
+With this course, I was able to learn the core concepts of Site Reliability Engineering.I was also able to put those concepts into practice by completing the assignments.The assignments were very challenging but they are worth the effort!
+The course is well crafted in a sequence which guides one to understand how should one create and manage SLIs for SLO. Would recommend this for others to take this course and get to know about another dimension of Support.
+I found this training very engaging, the content was good and the tasks we were expected to complete reinforced the learning. Reliability is a feature and everyone has a responsibility to make our users happy!
+SRE is not 100% technical course like other cloud services  ( VM Instances, Storage , Compute ...etc) .   It is very well designed and explained .  Very very interactive and thought provoking
+Excellent course on SRE principles. Peer reviews are awkward due to lack of metric information, but they content attempts to re-enforce the principles and provide practical experience to the learner
+Very good Course work in a short span.. Very informational and provide thorough knowledge based on real world examples and assignments are reflective of real world scenarios is a boost
+It's really a very useful course related to SRE, especially how defining SLIs and SLO targets. The approach to analyzing risks based on SLOs is also a very good practice to be adopted.
+It is a very helpful course, you can understand concepts by practical examples, otherwise, the experience of trainers transmit confidence by each given explanation.
+Very useful course to introduce SRE concepts. In combination with the SRE book, it's the way to go to learn and start applying SRE in your project/company.
+This course is  top notch. I highly recommend this course for those who wants to learn about the fundamentals of sli, slo and error budgets and policy.
+Good overview of SRE and best part of the course are the hands on exercises which helped to understand how to frame the SLIs ,SLOs and error budgets.
+SRE: Measuring and Managing Reliability is a great opportunity to learn and practice SLI, SLO, error budget policy and focus in the user happiness.
+Amazing to who is trying to learn all the concepts around SRE and wants to figure out a way to start implementing them in their organization. =]
+Exceptional content... challenging homework and quizzes.  I learned a lot which is directly applicable to work i'm doing at my company.  Thanks!
+Fantastic course, as an SRE I learned a lot. Very informative, short and crisp videos are a big plus. Beautifully crafted and nicely structured.
+Excellent course. Videos, reading assignments, and exercises  were relevant, practical, and contributed to immediate applicability on the job.
+This course is awesome . Learned core concepts of SRE . All quizzes  and submissions are really helps to understand  and fix our mistakes .
+This was a great introduction to SRE and the course provided an hands-on and real-world learning that can be applied straight of the bat!
+Very interesting course spanning over a large variety of skills in the management of applications pubblished to large number of users
+Course is well organized allowing me to understand philosophy step by step and to understand roll out process step-by-step.Thank you
+Relevant and comprehensive. Would be nice if there were more samples for reference before learners to work on their assignments.
+Very good coverage. I am working as an SRE manager and this helps me draft out plan pretty well and get the desired SLAs
+An excellent course to understand the core concepts of Reliability in IT systems and apply the same practically.
+Very well done, videos are clear even for non-English people. For week3 and week4 assignments are challenging.
+Very interesting and thought-provoking course!  It gave me an appreciation of how tricky 99.95% is!
+Really i have enjoyed this course and learn new things which required in our current organisation.
+Training was excellent & well documented. This training will help me to complete my SRE journey.
+Google Cloud  SRE is a good course for the understanding of measuring and managing reliability
+This course is very well presented and enjoyable while learning great things along the way !
+This course was great and directly help my current position as a Site Reliability Engineer.
+Very interesting course.Please provide a way to download a full transcript of lessons.
+I learned a lot of valuable things to make sure I keep the customer always happy.
+A lot of interesting insights into how to measure reliability for your services.
+Excellent. Opportunity to learn and deploy Best Practices - Thanks to Google
+Very useful course on SRE and practical tips on establishing SLIs and SLOs
+Get a practical understanding of the concepts with this course. Good one!
+I really enjoyed learning SRE principles.  Nice and easy way to learn.
+A practical methodology to improve a system's quality with minor cost.
+Critical subject well explained... you can cruise through this course
+This is a truly informative course. I learned a lot about SLI & SLO.
+Effective course to get a good overview on Reliability Engineering
+Very informative and recommended for SREs and Management Teams
+Too good training with excellent assignments. Very useful !
+Excellent course to understand and practise SRE principles
+Great intro into SRE mindset and reliability perspective.
+Very methodological but interesting ideas and concepts.
+The Risk Analysis Module really helped me a lot.
+Great course for SRE to understand the need.
+Very Useful course and Clear explanation
+A good starting point to get into SRE.
+Thanks a lot for the excellent course.
+Very good course on SRE concepts.
+Very useful in my day at work
+Very useful and insightful.
+Great course and material
+great learning experince
+the best course of sre

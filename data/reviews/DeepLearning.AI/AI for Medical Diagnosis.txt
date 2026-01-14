@@ -1,0 +1,224 @@
+I have done several of AI courses including the TensorFlow. While the TensorFlow course, gives you a neat and excellent hands on on how to build a network from scratch or implement easily a CNN such as Inception V3, this course make you confused as what sort of aim it follows. Overall confusing and not useful. Though you find some good stuff in the videos but the design and strategy of the course is meaningless.
+IMO this is the weakest course offered by deeplearning.ai. It feels something more our of a medium blog than a full course that someone should pay money for. The good news is that you can sign up for a 7 day free trial and finish it before 7 days are over, so you're not out of any money, just your time. What do you learn? Some new metrics that are specific to medicine (specificity, sensitivity) and the concept of class imbalance (prevalence). The code assignments are designed by someone who understands the concepts well but is unable to teach some of them well (I'm being super critical here, coming from the viewpoint of someone who might spend $49 for a month on this).  At the end, I'm unsure what you can say you learned and if you can really demonstrate any concepts in a job interview at a healthcare (adjacent) job. There was some demonstration of segmentation, but a lot of it is really left up to the learner to experiment and learn from. You could talk about these things in a job interview, but a technical round would quickly discover that your knowledge is surface and not really in depth. My 2 cents (stars?). I apologize for being critical, but I've put 3 days into this course and not learned anything I couldn't have from a medium / towards data science blog. I do have higher expectations from courses coming from deeplearning.ai
+Too basic, I felt I learnt almost nothing. There are a lot of nice techniques there (for example GradCam), but the exercises focused on implementation details instead of algorithm comprehension. Sincerely, explaining U-NET and segmentation in less than 20 minutes is quite ridicolous, in general it feels a really rushed course, nice if you can finish it for free, but not for long term learning. It is marketed as a real data course, but actually noone of the problems of real data are actually presented, just quickly talked about in the videos. It feels really substandard compared to the others deeplearning.ai courses
+The course is consisted of only 3 weeks which is very little for such a diverse and complex subject. Most exercises were trivial and the automatic grader was working very poorly which made me lose a lot of time thinking my solution was incorrect when it wasn't. Some exercises were poorly written.
+Introduction to the data and problem space in the programming exercises is useful, though there is a ton of boilerplate and a lot of the time will be spent messing around with Python volume manipulation, nothing really to do with medicine at all.  Lectures are very brief and not very detailed.  The waving tiny cursor is always a distraction. Apparently deeplearning.ai is embracing Slack instead of the discussion forums, which in my opinion is a significant downgrade.  If you thought you had trouble finding information in the discussion threads before, you had no idea.  It's just an unstructured mess.  Also seems the mentors haven't really found their footing,yet.  Most of their interaction seems to consist of "DM me your code" but not adding insight or enhancing the learning.  Glad I finished the course during the 1 week free trial...it was worth it.
+Hard to say this course teaches a lot of practical or useful topics on AI for Medical Diagnosis. Other than introducing the medical concepts of specificity and sensitivity, the remaining medically oriented topics (such as algos for processing medical images, in particular RMI 3d data) were just glanced over. Concepts such as ROC were poorly explained in practice (I reviewed the content multiple times and couldn't find the answer for the quizz questions, having to resort to research the topic outside the class materials), while spending a lot of time in video and exercises implementing our own U-net, using time that would have been better spend focusing on medical related AI practices.
+I first took Deep Learning Specialization by Andrew and then took NLP specialization by Younes Mourri and then this course. One difference I noticed that Andrew explained all the stuff by himself in detailed 8-10 min video and here these in these two coursers, the two instructor explained concept in 1-2 min video and left the remaining concept to learned by ourselves through notebooks. Andrew put much more effort than these two guys.
+There is no reply or response to discussion forums from the instructors and assessment of the  assignments are always zero so I can not pass to week two even my assignment's outputs are matched with the correct ones .
+A far too brief overview of AI applications in medical diagnosis - only really covers image analysis and even then is cursory at best.  Disappointing as I have found the other deeplearning.ai courses quite helpful.
+Not useful. Probability distributions are not intuitive mostly.
+This course relays on "add one line" code too often.
+This is interesting topic and I learnt how these things are done in medicine. However, from technical point of view, there are many issues. Bugs, typos, unexplained terms (dear learner, now please calculate background ratio) make this course messy and leaves the taste of "rushed product of corona crisis".
+The course is very shallow. It explains in detail some simple concepts like Sensitivity and Specificity and then immediately touches complex topics like image recognition architectures, without much explanation. The course materials are unclear and the auto-grader is buggy.
+Instructions in the graded assignment did not have clear instructions. Sometimes, correct implementation was graded 'incorrect' by the grader. Also, videos of the ROC curve was not clear about why it is needed or what does it say about a model.
+Hi Sir/Madam, i took this course then realised it is beyond my understanding. I am a grade 12 student . please help me to cancel this ,so, i can take another course which can benefit me. i will appreciate your help.thanking you
+Too much task was given but less explanation. It was really hard to complete all the tasks. It would be better if easiest tasks are given or more explanation with huge explanation.
+Good instructor but concepts were not taught in-depth. The assignments gave only a superficial understanding of the subject and cannot prepare one for working in the industry.
+The course touches on several aspects of ML for medical. However, the content seems too little and narrow. Only a few cases and architectures are explored.
+Would like it if the projects were more in-depth. We should understand the end-to-end pipeline: from preprocessing to deploying in production
+Content is too shallow, could have gone deeper into some topics.
+The codes should have be explained ...
+Too general for practical usage
+good as an introduction
+Fairly shallow.
+Overall it is still a good course and worth doing but I won't expect to be able to clear a job interview in medical machine learning based on this course. It touches many nice topics such as what to do if data is unbalanced, different metrics about evaluating the models. However the part about MRI segmentation seems very rushed. I would consider this as a very basic course and the student would have to spend significant personal time exploring on his/her own to really understand the concepts presented in the class. It wasn't easy for me to get help on some programming assignments when I got stuck a. Moreover, when I didn't get a perfect score on the programming assignments, I don't know where I made the mistakes, which makes it impossible to correct them.
+As a Radiologist from the Philippines who has been desperately trying to find some kind of "grounded center" for all the AI/ML topics I've been studying online, this is a really great way to consolidate what I've learned so far especially for AI applied to Radiology. I've been training models for computer vision (based on free tutorials on-line) but this has definitely given me better insight as to how those  models actually work and how they come together from simple numpy arrays, to tensors, layers, and finally into compiled models.... giving me a better appreciation for how activation functions and convolutions actually fit into the development of convolutional neural networks. More power to the team.
+Overall, it is a good decision to take the course. Although it focuses on practical aspects of the AI in medicine, it falls short explaining the basic CNN architecture for image segmentation or classification.  That said if you wish to fully take advantage of the course, spend some time understanding some of the key functions available in the util.py scripts which can be accessed through the notebooks. There, you could benefit from the course and learn interesting implementation stuff if you feel like the assignments are too practical.
+This is an amazing course for people who know AI and want to know about it's applications in the healthcare industry. I had fun learning from the instructor Pranav who is concise and delivers lessons comprehensively. Overall an amazing course. Could have asked for more assignments and hands-on stuff, hence I'm being conservative on granting 4-stars only...
+Very good course on applying AI for image-based medical diagnosis. Some things that could be improved are : 1. adding content relevant to using AI in non-image based diagnosis 2. could be made more comprehensive with more applications, exercises and theoretical content by extending course duration to a longer time
+The video segments could be made longer to incorporate more information on how the modeling is done. A lot of new information was thrust into the weekly exercises. It would be better if the weekly exercises were a test of what we had learnt. A great course on the whole, anyway. The instructor was very clear.
+Introduces the fundamentals of using AI for medical diagnoses. Concepts are clearly explained and the assignments are well framed. More lectures regarding subtle concepts like MRI Image registration and calculation of confidence interval would have made the course more interesting and comprehensive
+The course serves as an introduction to AI applications on medical diagnosis. The assignments are easy. However, video lectures are missing some minor concepts that suddenly appear in the programming assignment.  It is recommended to take this course after you took Deep Learning Specialization.
+A very well structured course that covers most of the practical design challenges of deep learning applications in healthcare sector. A good foundation for people who want to pursue a career as a Machine Learning Engineer for medical diagnosis and/or computer vision.
+Great course! Although the coding exercises focus more on lower level details of matrix manipulation, and not on the parts for selecting a model, building and training it. Most of the model related code is provided if form of utility code or as pretrained weights.
+This was a great course for getting a high-level understanding of AI's applications in medical diagnosis.The only issue is that the assignments are auto-graded which, coupled with bugs, can make submitting assignments very frustrating.
+A good course to understand the use of Deep Learning and AI in Medical Diagnosis. In this course, you can understand different ways to segment and analyze the images of brain tumors and X-Rays.
+Use cases selected were really nice, Videos  should carry more detail technical aspects and could be bit more lengthy and Assignments should consider multiple options to solve given problem
+too hardtoo little explanation in the exercises,definitely not for beginner,this is an expert class course, even an experienced student, who's familiar with tensorflow might struggle a bit
+The assignments are extremely simple; mostly just implementing an equation in Python. The rest of the notebooks are basically readings. Maybe give a little more coding practice.
+The course is build in a way makes it easy to learn. I liked how the assignments had been built and the way of grading quizzesI think we need a special course for U Net
+Very abstracted and high level course, no "intution" presented compared to Machine Learning of Andrew Ng; Nevertheless, still a great course for AI in Healthcare
+This course is a good starter for applications on AI on medicine. I enjoyed. But I felt there can me little more explanations instead of a very short videos.
+The course content was great and all theoretical concepts were clearly explained but, the instructions in the programming assignments were a bit unclear.
+Nice course to learn basics of machine learning as well as get your hands dirty with application of artificial intelligence to medical diagnosis.
+it's good, I expected it to be richer, but I guess there's no much development in that area to teach currently, I hope it will evolve with time
+There were a lot of problems when I was completing the programming task in week 3. I Think that many points are not sufficiently explained.
+So nice and complete. May be some programming assignments need to be more clearer or explained, but over all; great course. Thank you.
+It is so much better than courses from NLP specialization. But still too many "translate well-known formulae to python code" tasks.
+last assignment of week 3 of this course is quite difficult to understand so I feel few more explanation should be mentioned
+More detailed skills like data converion would be desirable, but still good starting point for beginners. Thanks!
+Very interesting theory. It could be more in-depth, and the notebooks with autograder contain some bugs.
+great course But not For the Pharmacy Student because  You have to Know The Code Knowledge
+The last coding exercise is quite lengthy and difficult, and the videos are too short
+Liked this course. But some topics were not explained well. Like ROC curve
+Best course for AI for medical diagnosis please do the pre-requisite.
+it was better to have more detail of loss functions for segmentation
+As a case study for deep learning, this course helps us a lot.
+Need to more clarify the notebook content in videos.
+Really nice and well-explained
+Last assignment was insane.
+The problem is quite easy
+finally
+Perfect! I am a PhD student in neuroscience. I already made my master thesis in machine learning. Now my PhD thesis will also be in the field of AI in medicine. This course is great. It shares so many useful functions and food for thought for my own projects! Definitely not too easy but also not to difficult. Before taking this course make sure to have enough experience with python programming, some understanding of machine learning and best some understanding of typical problems in medicine research.
+The programming assignments are pretty engaging and well built as it analyzes MRI and x-rays, the lectures are also short and precise. As the course doesn't require any medical background , if you have general knowledge of machine learning and programming in python, this may be a exciting course for you to explore, learn and apply some wonderful examples of medical diagnosis using machine learning.
+A great review of how AI can be applied to the field of diagnostic medicine, with many of the practical issues that must be considered. Some prior experience with deep learning and using python and keras is advised, although the instructor(s) do all of the hard keras model development for you. I'm looking forward to the other courses in the specialization!
+This was a great practical course overall especially for deep learning models. I admire that proper metrics were used to evaluate the different models that were built into the assignment which is unique compared to other machine learning courses where the standard metric is used.
+Complex topics are explained in a simple and straight-forward manner. Really interesting real-life scenarios are used to keep the student interested throughout the whole course. 100% recommend it.
+Last assignment may be divided into two files... as it is becoming heavy to solve and even upload.Rest is fine. Congratulation on designing such a pin pointed course in Medical Diagnosis
+Excellent. Well structured for beginners, especially with the inclusion of evaluation metrics, methodology and their vast significance in the medical domain of AI.
+It was great experience visiting deeplearning.ai course, kudos to the team! Really helpful and a must for AI learner!
+Thank you Pranav Rajpurkar and Andrew Ng for this amazing specialization! Thank you deeplearning.ai! Thank you Coursera!This specialization covers application of AI algorithms for: medical diagnosis of patients using chest X-Rays and 3D MRI brain images; prognosis of patients using survival models; and medical treatment recommendation models.The lectures were brief and comprehensive, the quizzes included toy problems to test the grasp over the mathematical formulas, and the assignments were simple and covered implementation of most of the concepts taught in the courses.
+Pretty amazing course. The first-ever proper course on Medical Image Processing and modeling. Instructors do an amazing job in explaining the best practices which must be followed while dealing with medical data. Learning tasks like Classification & Segmentation, appropriate loss functions, and performance metrics are explained well. The lab module provides a solid hands-on for the concepts introduced in the theory session. A Highly recommended course and I'm thankful for the whole team for coming up with such solid content.
+I tried many courses before which were mostly like lengthy video lectures with no real-world implementations. But this course is exactly what we learners wanted to do. In this COVID lockdown. This course was really helpful for me to gain more knowledge about AI in medicine domain. I would like to thank Coursera for accepting my financial aid to help me get this one of my most valuable certificates. This course is really useful for people trying to move into AI in medicine like Bioinformatics and Healthcare informatics, etc.
+The course is great. It covers a lot of important concepts and it teaches really well.I would just comment on minor issues that I found. One is the Axial/Coronal planes when explaining the different MRI sequences in each channel.The other one is the definition of precision and recall in one of the notebooks. It says they are sensitivity and specificity, but actually they are positive predictive value and sensitivity.These minor issues in no way detract from the great course.
+This course is really-very tough for a non-programmer. Took me back and forth, with my minimal python basics. Always good to attempt the mini-assignment to grasp the final assignment what it is asking for. So do not skip the mini-assignment.  Also the AI in Medical Diagnosis (Diagnostics) is an eye-opening (at least for me).  AI and medicine will be breakthrough in years to come. Thanks deeplearning.ai and contributors.
+It was great learning curve and experience for me to have a knowledge and understanding of how AI can impact the Medical industries in near future. I really enjoyed the course content, quizzes and the programming assignments. Everything was designed in an easy and understandable way so that anyone can grab the shared knowledge. A lot thanks  to the whole team associated in the smooth conduct of this course.
+I knew it was going to be a difficult course, but its structure allowed me to follow along without too many issues! The assignments were fair and understandable, however, there were instances where I struggled a little bit (that might just be my own struggle...). Despite that, all in all a great course! I can now say with confidence that I am proficient (but not fluent) with TensorFlow.
+Really an outstanding course, very didactic and practical, and above all with cutting-edge material. It really takes you where it matters. It is highly recommended to introduce yourself to medical applications of artificial intelligence, and for anyone who wants to go deeper into artificial intelligence concepts. Thank you very much to the instructors. I really enjoyed it.
+This course gave me a good amount of knowledge for a deep understanding of Ai in medical imaging Diagnosis and Segmentation. It gave me a good way to evaluate model performances. I am recommending everyone who wants to do furthermore analysis and work in  AI in Medical Imaging. Thanks to every mentor and course creator for such an insightful course. Love you all guys.
+Course concept good. In fact one of the  first courses with direct practical application of AI. This and other 2 courses expect beginners knowledge of deep learning hence newcomers may find it tough. However sorely miss in depth theory of U Net and other advanced Algorithms . Videos are crisp, smart but inadequate.going to take the next 2 courses and complete them
+I learned a lot from this course. Each lab, assignments, and weekly quizzes enabled me to take a deeper dive into how these models and image processing work on medical images. It made me wear my thinking cap and think deeply into each parameters and features and what mathematical-statistical models are used for prediction and classification analysis!
+It was nice to attend this course, mostly due to clear examples, good visual representation of examples and a lot of practical exercises that served as nice preparation for assignments..
+This is the best course of the specialization. The instructor created one of the best models for chest X-ray diagnosis that was the first model that beat human radiologists in detecting pneumonia (now with COVID-19 that's more important than ever). The original CheXNet model is flawlessly and simply explained so that anyone could understand it with all details served literally on a plate requiring no additional work. This is my favorite course of all DeepLearning.ai specializations! Thanks Pranav & Andrew!
+Extremely well-written content/code and short but illuminating lectures and discussions. Good terse discussions of common metrics, issues with imbalanced datasets, and interesting ways of tackling those issues, U-Net architecture and loss functions for semantic segmentation, and exploration of medical datasets.
+Thanks for gathering all the useful material for using AI in medical imaging. I come from the medical imaging background, and I can't express how useful and precise were your teaching materials. I also would like to thank the Slack support system for all the useful hints on how to solve the assignments.
+Good course!! The clasification part is similar to classification in other courses (such as tensorflow course from DL.ai) but some medical basics. Good introductory and some good tips. The segmentation part is very explainatory as it's really what's needed to begin in real practice. Keep up! Recommended
+It is been my dream to apply AI in healthcare. This incredible course has given me the knowledge that I need to approach medical image data from preprocessing to model development, and prediction. I also learnt some radiological and medical jargons along the way.Thank you so much  Deeplearning.ai.
+The course teach me to consider some flaws that i had made back in the preprocessing step and is a good refresher of the metrics of clasification models.  Also, the brain mri image segmentation assignment was very special because it serves as a starting point for input a voxel in a neural net.
+It is really a great course on applying machine learning and deep learning to medical field. The video lectures are short and easy to follow. Assignments are so great. Really looking forward to take the following courses. Thank you deeplearning.ai and coursera for this amazing course.
+An excellent insight of Medical Image Processing, highly recommended for those who are working on Medical Images. Segmentation and boundary delineation was not covered in details, maybe in the follow up courses this aspect will be covered more deliberately. Thank you coursera .
+Overall courses is very good though the course is short with respect to video lecture and course material the assignments are bit lengthy and tough. It would be good to have assignment code walk through as we have refer multiple outside materials w.r.to python coding.
+Excellent well metered presentations and quizzes. The final quiz really made you think and understand the entire process. I tried not to use the discussions, however, as the final quiz submission was getting close, reached out to Mubashar. Zeroed in on my issue!
+Really good course for learning to train biased and complex image datasets. I was waiting for this course since it was first introduced on Youtube deeplearning.ai. Feeling really satisfied that the course was exactly the same level I was expecting it to be.
+Excellent course which introduces key concepts of AI in medical diagnosis. Concepts are explained in a clear and effective manner for both videos and labs. Videos are extremely bit-sized and to the point. Good for beginners. One of the best courses around.
+Awesome course. In such a short period of time, I got up and running on the medical image classification. Though, this is just scratching the surface, but hope to use this course base my experiments on. Thanks Andrew Ng & Pranav for starting this course.
+Though I'm not from a medical background, the ideas and concepts explained in this course were very insightful and relate to problems in my domain.  Great thanks to the deeplearning ai team and Coursera for putting together a wonderful course yet again.
+Very detailed yet elementary introduction of AI application in Healthcare. I have taken more advanced courses in the university, and I wish to know this course way before I have taken one.  I enjoyed it a lot and it helped me bridge the gap. Thank you!
+This course is well organized and have a good flow, that helps to understand all the facts. The assignments are also good and have a lot to learn. Thank you very much for providing a platform for students to learn this area, AI in medical applications.
+I came here to know and build model that actually help patients in detecting the diseases and i have got the skills . Coursera is a platform where you not only read, but it also give you the chances to interact with people who are expert in this field.
+This is an excellent course. It teaches advanced topics on two real projects. Homework notebooks are well prepared, and don't cause frustration. I copied all learning materials an will revisit them at depth as I read suggested papers. Great course.
+The Great Course with practical life case studies on Chest xray and MRI image segmentation.It will really helpful to explore another domain like Medical with implementation of AI.Thanks Pranav for the Guidance throughout the  course
+Nice course. It was fun cool with the applied applications that ML can be used for in medicine. Really like how they focused a week on metrics because it's super important to think about that in order to properly evaluate models.
+A great course that keeps the essential elements of a successful online course. It is really helpful for someone who has the ai knowledge but wants to get familiar with the concepts of medical image processing and analysis.
+The course consists of good assignments and concept clearing explanation. Just one problem which I faced is in the Week 3 assignment where the second last code cell didn't run due to kernel failure. Rest everything was good
+One of the best courses I have ever come across, and the fact being they give you code to practice makes the concept learning more easier, and the instructor is awesome, thank you deeplearning.ai for this amazing course.
+Would definitely recommend to take this course whoever wants to understand intersection of AI and Medicine. I am expecting improvements with additional tutorials and corrections in the assignments. Brilliant work!
+Overall a nice course from Pranav starting from the basics of Neural networks till segmentation using U Net architecture. Kudos to the instructor and the entire team for giving such a well-structured course.
+It was a nice course. Though it covers basics. A follow-up advanced specilization can be made. Overall, it's sufficient for beginner for an engineer trying to learn application of AI for medical field
+Throughout this course, I was able to understand the different medical and deep learning terminology used. Definitely a good course to understand the basic of image classification and segmentation!
+The course is awesome. This course has more assignments (including Ungraded), which is very helpful. Simply, I loved it. Looking more of such courses in future too. Thanks deeplearning,ai :)
+This course is very informative and the way of delivery of lecture was also excellent. Issues and solution for medical diagnosis were explained on a large data set in a very well mannered.
+I thought the course was really great. The videos are nice and straight to the point. It would be nice to see a course using advance features. As well as seeing techniques such as NLP.
+Best Online course for Medical Diagnosis with relevant citation for further skills and research. Direct to the point. Most for anyone interested in application of AI in Medicine.
+Amazing course with lot of insights in how AI can be useful in medical field. Kudos to Andrew Ng, Pranav Rajpurkar and the whole deeplearning.ai team for creating this course.
+The course suitable perfectly for the professional with some knowledge of the ML that want to get further experience particularly about image classification on medical area.
+Great course for implementing the concept of AI in the Medical Sector, with the proper guidance of the evaluation of a model for measuring the performance of the model.
+I absolutely enjoyed going through this course. Pranav and his team did a very good job in explaining the key concepts in how AI is being used for medical diagnosis.
+Such a great course on the cutting edge technology application with medical diagnosis. I would recommend every deep learning practitioner to enhance their knowledge.
+Amazing Course, the exercises are abit hard and not that completely explained in the examples but overall, I'd recommend this course aloooot.Thank you so much :)
+Very informative and practical. I learned so many things, It helps me to boost my confidence that I can apply these concepts in the field of medicine.
+Learned so much in this short course! Great lectures, study material, and assignments. Incredibly excited for the next course in this Specialization.
+Thanks a lot Pranav for this course, I am now able to understand the concept of sensitivity, specificity and roc like evaluation terms much better.
+Excellent course... there was no course available online which dedicates AI for biomedical domain. Huge thanks to Andrew Ng and Pranav Rajapurkar
+Very interesting. A lot of notion which requieres more than 3 weeks to be "digested". I will for sure come back on it for additionnal thinking.
+As a student and software developer, I really enjoyed this course. If you're interested at medical imaging and AI, you should join that course!
+This course really helps me a lot.  Who wants to jump in medical image classification or disease detection, they should enroll in this course.
+Excellent content. Thank you for putting this course together. Would love additional material on deep learning methods related to healthcare.
+a very well done course, the community is very helpful and the mentors are awesome, i like the events they organized throughout this course
+Great course. Prior knowledge of deep learning really help me. so i recommend to take basic deep learning course before this course.
+Learn a new methodology about image analysis of the medical dataset. I am interested to go for the next course in the same series
+In my option, this is such a very good online course about AI for Medical Diagnosis. Although still some difficulties in coding.
+Great course, straight to the point. As mentioned you should already have some knowledge about deep learning before enrolling.
+great course, perfectly organized and have a lot of infos about computer vision and how to tackle 3D images and segmentation
+Quite interesting topics to learn and the exercises are really good. It could have been better with lecture notes/ slides.
+Learned a lot about Segmentation and  nitty-gritty of how we can can leverage deep learning technique in medical industry
+It was an amazing experience for me, thank you for all the information! I am proud of a part of the deeplearning.ai team.
+Great real life examples. Explained in a very simple to understand way even for someone without any industry background.
+Very good one. However, it required intermediate python programming skill to fully understand and complete this course.
+Excellent introduction to AI in Medicine, with lots of good hands on exercises. Looking forward to Courses 2 and 3 now
+Good course. Would highly recommend as a starter course for people looking at getting started in AI for Medical field.
+Amazing course, I wish it was available a few years ago as it would help me a lot so far! Anyway, really worth taking.
+Amazing method to really learn a LOT! Enjoyed the scope and the application of AI. More like this specialization
+Awesome course and i learned a lot from this course related to medical image preprocessing and other techniques.
+Thanks for the great course, it gave me the well needed boost to start learning AI applications for Medicine.
+Interesting course with substantive descriptions in many aspects of hands on machine learning implementation.
+Excellent course, very useful to tackle practical aspects of deep learning application in real world models.
+Excellent Course for Medical Image analysis using CNN and U-net with simple formulae evaluation with code
+Very good and a step-by-step instruction and exercise is leading to a deeper and practical undersatnding.
+I really loved this course!!! I learnt a lot !!! Surely this course would help me to finish my project!!
+It was an amazing course and taught me how to implement deep learning concepts in the field of medicine.
+Awesome course! It is essential for those who want to learn about AI and it's applications in medicine.
+A great course, with many examples and excellents notebooks to learn image processing and segmentation
+Awesome course content and exercises lab for practice was the best part. Even slack community is best.
+This course was very useful for me . It helped me a lot in MRI segmentation task.Thank you very much
+Really great course, so new for me, I've really learned a lot and enjoyed it.Thanks (merci beaucoup)
+Important concepts of deep learning applications in medical imaging are explained is a simple way.
+Not only medical diagnosis, but also I have learned to implement the Keras original loss function.
+Excellent course. My only suggestion would be some optional videos walking you through the code.
+Excellent Course taught in pieces which makes it much easier to understand. Highly recommend it.
+This is one of the best online curses I have taken. Thanks a lot for all your shared knowledge!
+Excellent course, I learn many tips and tricks  apart from many free sources and books I found.
+Excellent course for those who are interested in Data Science for biomedical image analysis
+Excellent! I learned several fresh new concepts that I will use in my own research career.
+I enjoyed this course. The lessons are clear and the laboratories are very interesting.
+I highly recommend this course to people looking to enter the AI in healthcare domain.
+My area of research is Medical Image Processing. The course helped me to learn a lot.
+It was the course I was looking for expanding my knowledge in AI HelathCare thank you
+I needed this course. Thanks a lot. Learnt a lot and it will help a lot in my career.
+Wish to learn more and hopefully instructor teach us the code step by steps as well
+Great course. I especially like the metrics evaluation part of the course (week 2).
+Great course and specialization, organised well and contain really diverse topics.
+A good introductory course on getting started with applying AI in medical domain.
+This is a clear and engaging course to get started with AI and medical diagnosis.
+Very informative as a medical researcher with a background in cancer research
+Thank you for the great opportunity to learn and understand in a simple way
+First rate course. Sophisticated methods applied to real medical problems.
+Amazing course with lots of lab exercises and other useful materials.
+Really great course. Learned loss weights and metrics implementation.
+Fantastic course!!!And the most excellent part were the mentors!!
+very useful for working in medicine industry using AI technology!
+Good and start learning the practical aspects of AI in Medicine
+A well structured course for people interested in this domain.
+So helpful course for any one want to deal with medicine field
+Great course for learning learning medical image segmentation.
+Best Course ever if you want to learn AI for Medical treatment
+Very well structured course with a lot of practical knowledge.
+Great course, it would be better if there are more materials.
+Excellent to learn some examples application of AI in health!
+Very good course and good introduction to usage of pixel net.
+well laid out course. The instructors have done a great job!
+Great course. Loved the way how explained mri segmentation .
+very good course for those who look for applications of ai.
+It was really helpful course for me for my research work...
+Very useful course. Real problem solving skills developed.
+Good Introductory Course to AI Applications for Diagnosis
+Thank you very much for this compact and useful course.
+Wonderful Course to learn practical application of AI.
+Perfect for researchers interested in Medical Imaging!
+Very informative and well structured course as well.
+Best Course to gain knowledge in Biomedical Imaging
+It's a very nice for medical uses in deep learning
+BEST PRESENTATION WITH BEST ASSIGNMENT TO PRACTICE
+Very much informative with a clear explanation.
+very useful for my medical imaging project
+Great Course and very interesting topics!
+Very easy to follow and well structured
+Thanks a lot for such a great course!!!
+Very interesting and hands-on course.
+Very Hard and with good  information
+very good course , highly recommend
+Thanks for this wonderful course.
+Provide some hits in assignments
+nicely organized and explained!
+Crisp and relevant explanations
+Great course! learned a lot <3
+Great! We just have to learn!
+Excellent course taught well
+Very good course. thank you.
+Very well explained course.
+Very interesting projects
+Learn many skill in here
+Some Courses are good.
+The great course.
+Very good lesson!

@@ -1,0 +1,637 @@
+I just can't recommend this course. What should have been someone explaining you all ins and outs of how to make a computer from scratch is in fact someone showing you a brief introduction of what the section we will study is about, followed by a 'we are hiding information on purpose, do it yourself!'. The professors are trying just way too hard to hide any information about how to actually do what you are supposed to do in order to not give the answer away, that they're actually teaching absolutely nothing in practice, leaving you to go through hours and hours of google and forums search, letting you completely unprepared and with no idea on how to even start doing the project. It is just absolutely frustrating.What is supposed to be: "Hey, do you want to learn how to use our HDL language? Heres some exercises explained step by step all the ins and outs, the syntax, how to do this and that, how the chips integration works, how to actually link chips, some more examples, some more exercises, until you are comfortable enough to actually start doing the chips! Have any doubt on how to implement a specif chip? Don't worry, heres more explanation of this particular chip, followed by some more examples to get you really knowing the chip!" What you get: "Hey, here's our HDL language. The syntax is something like that, but we are hiding information on purpose, try it yourself. Ah, the project? You just need to implement X chip, it takes this in and outputs this output. And again, we will hide all information you might need so we don't give away the answer. Heres some documentation which will, again, hide the majority of information you might need. Good luck!"
+software doesn't work. Bad vibe on the forums.
+I submitted homework for week 1. I get an email telling me I did not submit. Then week two the course makes references to material not covered in week 1. it looks like a week is missing between week 1 and week 2?
+I dont  recomend this course. I think it promis you to touch the sky but is not true. So much bla, bla, bla.
+The link www.nand2tetris.org is down always . I can't download data from website.
+Boring course!
+The instructional videos for this class move way too quickly for a beginner.  I had to use lots of other sources to even begin to understand how to do the projects.  This class is not for beginners.
+The teacher with grey long hair talks to fast and seems like he gets nervous in front of the camera, its hard to follow what he says also because of his speed at talking and accent.
+For better or worse, this is a course designed to have the students work things out for themselves. Nearly all the non-trivial parts of the course were contained in the projects, so while the projects were interesting the video lectures were largely a waste of time. I found the hardware description language syntax difficult to pick up because there were so few real examples of how to use it. Finally, covering so much ground in six weeks inevitably means that many topics must be skipped or only briefly discussed, so if you're looking for a deep dive into digital design or computer architecture then this is not the course for you.
+Very interesting course for those who want to fully understand the inner workings of a computer.However, the utilities offered are a bit neglected. Be prepared to fight bugs on your own.
+The course is good. I just do not give five stars because we have to pay to atempt pass.
+easypeasyjapaneasy
+Pluses are :- Great Projects !!Like the saying "Simplicity is beauty", both the authors' presentations were very simpleI thoroughly enjoyed the course.Minuses are :- Justification for the behaviour of Half-Adders & Full-Adders was not covered.Magic of ALU control bits was not explicitly explained.In project6, since Assembler was not written in Binary language, the hardship of making a real assembler in machine language was not felt leaving the project a little unsatisfactory.Final Verdict :-Thank you so much for making this course. You guys have written, an Assembler, Hardware-emualtor, Cpu-emulator etc.And the graphics that comes with "Program & Data Flow" option is simply icing on the cake.And to top this, this entire course can be audited free of cost. This is a thankless service you guys have regardlessly rendered.Great Respect & Massive Gratitude i have for you guys. Thank you so much. Much appreciated
+Being a student of Electrical Engineering (with background in programming), this course helped me fill the gap between combinational/sequential digital circuits and a full-fledged computer that can run assembly programs. The instructors have put in a lot of effort in developing this course, and it shows in the course assignments (esp. the sheer amount of supporting software), the structure of the course, and most importantly the elegance of the computer architecture designed for this course. The assignments have a nice balance between being challenging yet completely do-able after just watching the lecture videos. I also liked the perspectives unit at the end of each week, though I wish they covered a bit more there. Maybe I'll start with Princeton's Computer Architecture course after this one.Things that can be improved: There was some overlap of content between week 4 and 6 and also within week 6 itself (unit 6.4 and 6.5 seem like basically the same thing said by different instructors). Also, maybe a bit more focus on electronics during the first few weeks wouldn't hurt. Concepts of delay (which ultimately govern clock frequencies) could have been covered while discussing sequential circuits.
+This course is amazing! I really enjoyed working on those projects and learning how to build a real computer. Even though I took Computer Organization course in the Open University, and knew most of the concepts taught in this course, it was really inspiring and exciting, to actually get to build the projects and get the feeling of building a real computer. Having said that, I believe the tooling provided, should be updated, to give a better user experience, and fix some of the UI glitches, that it has.
+Good starting point but very slim on the 'why's and the hardware is quite unlike anything you'd find in real life.  In addition, I feel they leave too much unsaid and rely on visual comprehension far too much.  I had to use the book to figure out the last two weeks.  Overall, I did learn the more practical sides of hardware that other textbooks failed to convey.  If they would add a Status register and break 'branching' into a separate instruction then I'd be happy with the CPU.
+The program takes you step by step into the development of a functional model of a computer. It delivers everything it promises and is very well integrated. I put 4 stars because 4 and half is not possible, and I feel that you need to be a little bit familiar with logic and computers in order to do progress at the rate the course requires, because although  every chapter is formidably explained, it can take much more time for anyone to fully understand the concepts.
+Took more work and effort than expected (except for the last project which was surprisingly easy going), and although there were (many) moments of frustration, there was always a sense of accomplishment at the end. Everything ties together in a very satisfying way. But I would prefer if the course provided more support than just the forum for questions and queries, because I found it hard to find help when I most needed it.
+Fantastic course. I found it challenging enough to keep me interested, but not so difficult that I got annoyed or frustrated. However, a lot of the material I found to be a re cap of concepts I was already vaguely familiar with having worked in IT for 20 years. A true beginner would most likely find some of the concepts difficult to start with - but keep at it!
+I loved this course. Some criticism though is that the course doesn't go into detail on the architecture of modern day computers. Also, some things were simplified in the course, which is a little disappointing. However, I did get to build my own computer, and I learned quite a lot from this course, so it was definitely worth spending time taking the course.
+Digital Design could have been included as a part of the curriculum which would have explained the inner workings of all the memory modules. A more deeper understanding of the clock could have been provided. The fact that we have a different clock for the the execution of the micro instructions could have also been explained.
+This course is amazing! just the fact that the teachers can explain something that is very difficult and make it feel that is easy, it's pretty impressive and helpful. The only reason why a don't give all starts is because the teachers sometimes repeat the same thing over and over and make the videos feel a little bit slow.
+The HDL syntax I felt was a bit fiddly, and sometimes hard to find the relevant technical details such as language definitions in the videos, but overall a very interesting and enjoyable course. Happy to pay for it despite it essentially being available free.
+I was skeptical of HDL at first, and wished that the course had used a more industry-friendly language. I'm glad the instructors addressed this in the course. The HDL language used in the course is simple enough that hardly any time is "wasted" learning it.
+A thoroughly enriching and illuminating tour of the fundamentals of computation. After completing this course I am now able to better understand how computers function which provides a tangible benefit when writing software.
+I've really enjoyed this course. It was a lot of fun and I'm looking forward to part 2.It can be a little tough to simply write HDL though and without the Nand Game (nandgame.com) I would have found this much more difficult.
+The course was very informative and interesting , I had a tough time doing the assignments but it was worth learning.Definitely a interesting insight into the  building blocks of a computer.
+Great course to know about the fundamentals about the hardware of the computer is built. Though most of it is abstracted out, you still get a better picture than just doing programming
+one of the best courses one can take to understand how computers are build from ground up The course is organized in such a way such that its very easy to understand and relate
+Fun course to take. Makes you realize how much we depend on abstraction in our world.  A few notes on documentation (your own code) and version-control would complete it...
+It is an amazing course for people at any level!! The instructors go right from basics, until the high level stuff. Definitely recommend the course!
+participation by the professors in the discussion forums , would in my opinion get this  5 star rating, overall a very innovative & fun course
+Good, but not very challenging. If you wanted to learn you could but if you were just doing it for the grade you could skate by.
+very interesting, constructed well and in escalating difficulty level.cons: hard to debug using the emulators
+I loved how you guys explain things and make them look very simple...that is awesome! Keep up the great work
+Good course, very challenging.  I find the resources to be a little bit outdated in their presentation.
+It will be free to send homework! in some parts of the course i can't send anywork
+The course is well-organized. Could be too elementary for advanced participants.
+Nice course, covers pretty much all the basics of computer architectures
+nice lecture to know someting about the elctronics ...thanks...
+Really good one. Would be 5 stars if there was better support.
+Great course to learn the fundamentals of a computer
+Having none prerequisite is quite surprising indeed.
+Had A lot to learn from this course ... Thanks
+Very good cource, but only first part of it
+One of my favorite courses...  period.
+I got principles of computer
+This was just a wonderful course - exciting, challenging, well organized, and a ton of fun. I really enjoyed every week of it and will recommend it to friends. Thanks so much to Shimon and Noam!
+A fascinating and incredibly well-made course. Check out my Medium article as to why you should be taking this course: https://medium.com/@seandlg/what-nand2tetris-has-taught-me-about-computers-and-more-importantly-about-learning-aebc84af3030
+Really good course. Great explanations of everything and the tools provided make it very easy to implement some very high levels ideas. Would recommend this to anyone interested in how a CPU works
+A very enjoyable class, which takes you from the basics of logic gates, through constructing larger logical units such as an ALU, through to machine code, and finally (the last, and definitely hardest section) writing your own assembler for the 'Hack' instruction set. Every stage has been carefully thought through by the instructors, and a lot of effort obviously went into finding forms which would be accessible for the beginner to construct (for example, every machine code instruction occupies exactly one 16 bit word, and the instructions themselves carefully designed to make the CPU control logic as easy as possible to implement). For an even lower level of computer construction, this course is complemented very well with the series of videos that Ben Eater is creating on YouTube - https://www.youtube.com/user/eaterbc/videos - detailed the construction of a very basic 8-Bit 'Simple As Possible' computer from discrete logic chips. He goes into a lot of detail about the construction of various Flip Flops, for example, whose existence and abilities are just assumed in this course. On the other hand, for a higher level look at computers, the natural followup to this course is Nand to Tetris Part II, which is also on Coursera.
+A wonderful course which covers the fundamentals of computers from scratch. The instructors have done an amazing job at explaining the basics, without any pre-requisite. The lectures were well-planned and the projects were crucial in strengthening the basics. It was an enlightening experience and I recommend it to anyone who is bewildered by the sheer complexity of today's computers. If you have the will to learn, go ahead and take this course!
+I really liked the course when I watched it at the University; it's concise and interesting I liked the Hardware development part specially, since the development of the assembler was full of bugs
+I graduated my university long time ago, and hard to experience very low level approach to computers in my field experiences. This course offers refreshing what I had learned very long time ago - the principles and mechanisms of computer designs and low level software development with opcodes and assemblers.I think this course is very helpful for current university students and everyone interested in computer designs and software development in very low level with assemblers because nowadays there is too small chances to work in such a low level environment.For both quite experienced people and new comers in computing, I dare recommend this course. Experienced people can refresh what they had learned very long time ago, and New comers can get well-designed knowledges and understandings for low level computing.
+After being a software engineer for about 4 years now , this course helped me to explore the mystery of how a computer works which we high level programmers take it for granted . I highly recommend this course to anyone who wants to work as a software engineer  , the course material is so well designed that I completed the course in two weeks without getting bored , now on to Part II .
+Really good course, made with care. I learned a lot.Learning and thinking all the steps to go from a NAnd gate (and a DFF) all the way to a CPU hardware.The best part for me the last project, where I coded a full Assembler that output machine language that I could run directly on the CPU i built!
+I recommend this course for anyone who's learning about digital design and computer architecture. Now when I look to other courses I understand the material very well and easier than before. It took me long time to understand this and when I took this course, everything since become more easier.
+Great course! The instructors make it sound really easy, and when you see the implementation working It really motivates you. The community is really great too, lots of people to help and assist you. No need for any background in Computer Science or Programming to attend and finish this course.
+Computer system internals, hardware and software architectures, concept of abstraction,  divide and conquer method, the fun of building hardware, and the fun of writing programs, all combined into this course, in an organised way, I can't think of a better course and a better teaching!
+A very helpful course to whom wishes to understand the
+underlying hardware of computers. Not too hard and not too easy. The difficulty
+is just suitable for non-professional enthusiasts. This incredible course can
+teach you how to build a computer from scratch in merely several weeks!
+This is an incredible  course, the best among my ever-took MOOCs. If you want to know how computer works at machine level, for example, how the memory is random accessible, how CPU fetch instructions from memory and execute it, you mustn't miss it.Sincere thanks to Noam and Shimon.
+Really Amazing Course! This course gives a proper insight of how things work on the most fundamental level!
+It's been a really nice course. I'm a EE undergrad and I did know most of it but it was a fun experience.
+Best Course Ever! Watch its Ted Talk for all you need to know about it. They deliver on their promise.
+It was really good. It gave me a very good understanding how a computer is built from scratch.
+any CS people should take this course. the way it delivers is just amazing.
+Great course to go over the basics of how a computer works up to the assembler. This is a great introduction to computer organization (hardware) as it goes through various logic gates and builds up to sequential circuits to be able to implement an ALU, memory which then can be used to build a CPU. The course goes over their own variation of HDL and assembly which is a great introduction to those who are not familiar with it. The assembly may look different from what some may be used to but it's designed to be simple for those without computer science background to be able to learn. In fact the entire course is designed to be simple for anyone with enough dedication to be able to build a computer. Therefore, there are some simplifications and "axioms" that are established (i.e. you don't learn about how transistors work in depth, nor are you expected to implement various flip flops and chips that may be a bit too complex).I particularly like this course as it helps refresh my memory of what I learned when I was in undergraduate. This is a project centered course which contrasts to my undergrad where it was more theoretical (though we did have lab components which was in some sense more in-depth on implementing certain chips). I never tried building a computer theoretically from what I learnt in University and the computer architecture we studied was either too complex or way too time consuming for the average student to implement virtually. This computer architecture was designed just right.
+At this point I don't think there's terribly much I could add to the many other stellar reviews this course has received. However, the development of this course is such a great accomplishment and participating in it such a joy that I feel compelled to further reinforce the opinions of most of the other reviewers here.The instructors have clearly put in a great deal of thought and effort into designing this course. This means not only writing a book and slides and recording hours of lectures, but also designing an entire computer architecture and corresponding machine language suitable for pedagogy as well as a a suite of software tools (hardware simulator, CPU emulator, etc.) and an automated grader to help students see the results of their efforts.I would advise anyone with even the slightest interest in understanding how computers work to go ahead and take this course. What's there to lose? There is certainly a good amount of work involved but for the most part, due to the detailed and helpful guiding explanations provided, the tasks are exercises in detailed and precise thinking (as one should expect when building a computer from elementary logic gates).This course is a model for what educators should strive for.
+Simply takes your breath away to learn how computers are built from the ground up. This is like an art appreciation course ... but for a crucial technology that permeates every moment of our modern lives.Starting with the simplest pieces and moving all the way up to a functioning computer you will build nearly all the pieces with your own hands. You will learn how hardware is designed in the real world by actually making your own gates as well as an ALU - an absolutely delightful experience. You will then get your hands dirty with some assembly language - seeing how symbols are translated into bits before moving on to put together your functioning computer.The course is great because there is very little yak-shaving for you to do ... most of the boring stuff is actually handled by the software provided in the course. You get to focus on the joyous acts of discovering things for yourself and putting together the pieces of the puzzle at every stage. Many thanks to the professors and their team for taking the time to put this course together and for making something that's very abstract for most of us into something that's concrete and accessible. Thank you!
+I love you guys, Noam Nisan and Shimon Schocken, for this tremendously successful course! I never thought I could acquire even a basic understanding of the inner computer structure in less than 6 weeks and honestly at first I had doubts if I would be able to finish it and now by your help we have created yet another computer!You are the brilliant example of how a proper education system can hugely intensify the students' learning abilities.I Surely recommend this course to everybody regardless of their study/educational background in order to "demystify" the computer in their minds.However, I need to remind others that the course sometimes really challenges you and you might need to think a bit hard to solve the projects. Nonetheless the teaching materials are extremely sufficient for resolving any kind of problem you might have, given you spend enough time on it!I am eagerly waiting for the second part of the course.My heartfelt thanks goes to everyone, Coursera and any other individual and instructors, who has made this wonderful course available to the world!
+If your want to understand how computers work THIS is the course you should take. I've started with programming about two years ago. Very often I have asked myself "How does this *magic* all work?"So I've looked at different programming languages (even read a bit about assembly) but nothing was able to enlighten me ass much as the nand2tetris course.I'd like to thank the two creators for offering this amazing trip from nand-gates to actually having a usable assembly language that the user even writes and assembler for. Just Wow!Side-note: Since the course consists of a lot of video material, I'd like to point out, that I watched the videos on 1.5x. By doing so you'll get through the information bits much quicker and for me it still wasn't an issue to follow, because there is always a lot of side material where you can look up stuff, once you get to the exercises.
+Quoting Richard Feynman - " What I cannot create, I do not understand"I have done 3 years of computer science in university. This has been better than most of those courses! Don't think twice about taking this course, definitely go for it. It begins from the very basics - building simple chips like AND, OR gates and slowly putting these parts together into a CPU, memory (ROM,RAM) and finally building an assembler. The course was indeed very satisfying. It summed up most things I've learned in college and putting it all together really gives you a feel of how 'real' it is. I have no complaints. The instructors are awesome. Unlike a few courses around here, answers aren't spoon-fed to learners. You will definitely enjoy building these components and watching them work. What are you waiting for?
+This course is incredibly interesting, and I would HIGHLY recommend it to anyone who's remotely interested in computers and technology (which must be the case if you're reading this!). I've been programming for a while and have built a rudimentary GameBoy emulator, so I had some level of familiarity with assembly and machine language going in to this course; but despite all this, the raw mechanics of how a computer works on a logic-gate level were basically indistinguishable from magic to me prior to taking this course. The course covers an impressively diverse array of topics, which serves not only to keep the course consistently fresh and engaging, but also to give the student solid foundations in many different areas on which they can later choose to build on (I know I will be).
+This course is an outstanding survey from logic gates through assembler.  At the end you will have the gate level design of an elementary CPU and RAM, and the mysteries of machine code will be revealed.  I am an older learner returning to computer science after a twenty-year absence.  I had previously been exposed to this material, so I was refreshing my knowledge.  It took me about 5-6 hours per week.  If someone is brand new to these concepts, the syllabus may move a bit fast for them, and they should expect to spend some additional time to absorb the material.  It is an outstanding survey course that together with part II will help you understand how all the hardware and software layers of a computer system fit together.  I recommend this course without reservation.
+I can't praise this course enough! It transforms your working knowledge of computer systems into a clear picture of what is happening behind the scenes. In this part 1 of the course, I learnt how basic gates are used to make more complex chips such as ALU, CPU and Memory. This helped me understand the application of Boolean Algebra in computer science. Next, I understood how instructions are executed on the computer and that computer architecture design is quite complex (although a simple one is presented here). Week 5 assignment is the toughest, in my opinion. Finally, the course ended with an assignment to write an assembler (something I have been wanting to do at least once in my life i.e writing translators). The satisfaction level for this course is a 10/10.
+While I'm already a software engineer and have taken introductory EE courses, I have never gotten the full picture of how software is interacting with the hardware. When you code, you usually think of branching as choosing to execute one segment of code or another. While this is true for a lot of jump executions, it was also really interesting to see how the hardware is constantly doing multiple execution paths at the same time when working with registers/ram addresses. It starts to paint a better picture of the under-the-hood performance and optimization, and gives an idea of how advanced CPU instructions like SSE might work. All of this is done in such an approachable way in this course. I feel like assembly is more approachable to me now, as well.
+This is an amazing course. You really get to build a (virtual) computer by yourself and step-by-step. They give you the necesary guidance, but still leave you room to think by yourself when completing each step of the project. It is amazing how they manage to strike this delicate balance. The conferences and slide presentations are really good, and also the software they provide. The computer you will build is a masterpiece of simplicity, yet a full-functioning universal computer. Its simplicity allows you to really understand the internal workings of any computer and truly grasp the real power of Boolean logic. Truly awesome.And the whole project of building this computer develops like a game: It´s realluy fun.I loved this course.
+Wow. What can I say except for the fact that this course was fantastic. I completed all 6 weeks as an auditor, and thoroughly enjoyed it. Although the design is simple compared to modern day computers, I feel like I have a solid foundation of how the hardware layer of a computer works and interacts. The difficulty level is about right and assumes no knowledge of programming - there is a no programming option for the final week project. I would recommend doing the programming version though. It's a great, rewarding challenge.Overall, the quality of the lecturing, as well as the tools provided, and the clear passion for the subject from Professors Schocken and Nisan make this a must take course for everyone interested in computers.
+One of the Most Amazing & Admiring Courses in Computer Science that raises a Curtain to take everyone " A Great Journey Inward into the Computer Science".  I always had a Zeal to learn how computer works and keen about what happens when a "Hello World" Program gets executed. This Course "Build a Modern Computer from First Principles" is a feast to the all enthusiasts to understand "Computer Architecture" in Practical.  Infact , I am Bowing to the Professors "Shimon Schocken and Noam Nisan" for their Outstanding Efforts in crafting this Wonderful Course and Practical Tools and aspiring Everyone and Teaching Complex things at ease. I believe you will too ... Kitos  Coursera !!!! for being Wonderful for such Maverick Courses.
+Very interesting and enjoyable course. It's pretty neat to go from a NAND gate all the way to an ALU and a CPU.One word of caution: The course says that no prior programming experience is required. And this is true. *But*, if you've never taken a programming course and never taken a math/logic course that covers boolean logic and such, you might struggle a bit. This is not to say it's overly hard, but without this type of background, expect to spend more time on the basics. (This is said from the point of view of someone with this type of background, and how I imagined people without it would do.)If you have a programming background, or have an interest/background in electronics, you should have no problem.
+From all courses that I took online, this is by far the best. While this is a subject which I particularly like, this is not the only factor for me to rate this course very high. The instructors are truly educated in the subject, and from the very first lectures it is clear that they put a lot of effort and time in the preparation of this course.This course opened my mind to the organization of computers, and from here, I was able to understand and do further research on other architectures and projects.In all, I strongly suggest that you take the time, put in the effort, and attend this course. It will dramatically increase your understanding of computer architecture.
+For anyone who's hesitating about this course - you should absolutely take it !As a working developer in web-development industry without specialized education, I always felt that i missed some core concepts of the computer architecture and i didn't know where should i start. Thanks god, i found this courseI should say this course opened my eyes on a lot of things going on inside the computer, now i understand what i do better and produce better results at my day-to-day job. During 2 month of studying this course, that was a wonderful journey, thanks to the best teachers Professor Shimon and Noam, thank you both for investing your efforts and time in this course!
+A truly wonderful course to learn how computers *actually* work from the fundamental level of digital logic circuits all the way up to assembly language, CPUs and RAM. You get to design your own circuits and programs, and test your designs using a wonderful set of free tools developed especially for this course.  I would recommended getting the textbook and studying the lecture notes in addition to the video lectures. This course is challenging but oh so rewarding! It is truly an accomplishment when you can figure out how to get something to work! It almost feels like you're actually building your computer system. I LOVE this class.  Looking forward to Part II :)
+I have bought the book and worked it along this course for the Part 1. Part 2 wasn't available, so I continued working the book and managed to create my own language, compiler (both layers) and quasi-OS.The amount of supporting facilities is unbelievable: several simulators, code validators, visualisation aids describing how data flows through the machine, etc... The authors are very down-to-earth lecturers who were able to create a simple yet powerful machine, explain to the audience and then make the audience recreate that very same machine themselves.I can freely say that this course, paired with the book, moved my understanding of computers the next level.
+It is the great course that explains how to build a computer starting from one simple logic element. Although in Institute, I learned how to create the combination and the sequential logic elements such as Mux, Dmux, ALU, Flip-Flop, Memory and other, and I self-learned how to program in assembler for processors kr580vm80 (i8080), Z80, x86, PIC and AVR controllers I did not know how to build the CPU and entire computer at all. Of course, this knowledge helped me passed the course faster than in six weeks, but after finishing it I have in my mind the entire picture of creating the computer. I thank the authors of the course for their great work.
+No other course could give me a basic understanding of computer architecture in just 6 weeks. This is one of the most creative computer science classes mainly because of the teaching approach. The faculty's combination of hands on assignments and software aids make this the easiest way to demystify the black box that are computers. The only challenge with the course is that the workload is heavy for newbie programmers and the student is advised to seek out YouTube videos to see real circuits in action. Even with the weaknesses in course design, I would rate this a 5 star and highly recommend it to those that can give 10-20 hours a week.
+This course is, in my opinion, of immense value for developers like me who are too busy learning how to use the latest commercial high-level languages and framework buzzwords. You end up forgetting about fundamentals once you're on the market trying to make a buck. If you are like me, someone who likes understanding how things work under the hood, and have special admiration for developers from the past and those who are capable of writing the tools we developers use (like compilers, OSs, programming languages, etc), then this course is for you. I already feel I'm a better developer now, and I've only done the 1st course ;)
+First Class Systems-approach Introduction to Computing! Together with the corresponding Textbook "Elements of Computing Systems: Building a Modern Computer from First Principles" published by MIT Press, this is probably THE BEST and most comprehensive course and Intro available - for both self-educated and degree-educated Knowledge-Seekers - into the vast subject of Computer-Science/Electrical-Engineering. Very practical and hands-on, but still conveying the relevant theory. A great second Computer-Science course, e.g after the traditional "Introduction to Computer Science" and before a dedicated Algorithms module.
+This course is THE best course that you can take online. That is if you are interested in understanding and mastering the fundamentals of a modern computer.  The course is organised in an excellent manner requiring no prior knowledge whatsoever. Though you do require a hunger to learn and persistence to do the exercises and projects. Simon and Noam are excellent teachers. They teach the concept in a such a manner that not only you understand the concept, they instill a desire to learn more. The teaching aid be it slides, tools and exercises are perfect. You will not go wrong if you take the course.
+Incredible course!! I still can't believe that I was able to design all these hardware chips, including a CPU in 6 weeks, knowing nothing about it in the first place. It was exactly what I was looking for, a good introduction to hardware without having to take a 6 month class on Computer Architecture. The material is extremely well done (book, lectures, assignment), the only part I liked less was the forum, mentors reply often by repeating what was said in the lecture which is not helpful. I learned a great deal, I understand more computer, and I believe I will help me writing better code.Thanks
+While it might be argued that this course is analogous to "building a computer" in a similar way that "painting by numbers" is creating art (meaning that the author's knowledge of computer architecture is akin to the printed and numbered cells; it obscures a level of complexity the student is exposed to, but not required to generate from first principles) there is plenty to learn (and do!) in this short course. It was fun to learn about how transistors help us execute modern life, and have a chance to 'discover' the layers of complexity between Nand-gates and high level programming languages.
+I would highly recommend this course for anyone interested in any level of abstraction between Computer Architecture to Logic gates.  I would highly recommend it to senior undergrad or first-year Masters Computer Science/Engineering students. Being a Masters student of Computer Engineering, I loved this course. The only problem is that we cannot use any industrial HDL (like Verilog) for most of the projects. The syntax for the HDL was a nightmare, especially the sub-bus parts. However, any programming language may be used to build the last project, Assembler. I did it in C++.
+Excellent course! I have an undergrad degree in Electrical and Computer Engineering and I still feel that I got a lot out of it. It was a great refresher on what goes into making a computer. I took a similar course to this one in college. My college course was a bit more technical but it didn't cover as much breadth or do nearly as good a job of making the connections between the layers of abstraction. I preferred this one much more. I especially appreciated the perspective section at the end of each unit. It always tied a lot together and answered any lingering questions.
+Thoroughly enjoyed learning how a computer and its hardware parts are built. The course content is very close to reality and one gets to develop a computer from Nand gates. This might sound outlandish but the beauty of this course is that it shows how a complex concept can be explained with sufficient details using hardware simulation. Of course a lot of details are ignored about the hardware world and focusing on such nitty-gritty isn't needed. Thanks Shimon and Noam for building this course! I recommend this course to everyone who works on software or hardware.
+By constructing a computer from its foundational components, this course demystifies how computers work. You gain insight into how your code is executed by the CPU, how the CPU manipulates memory, even how it works with additional hardware components such as your monitor and keyboard. After going through the first part of the course, you'll gain a deeper understanding of how the code you write runs on hardware. If you are the curious sort and enjoy peeling back layers in order to figure out how things work, you should definitely go through this course.
+Fantastic course. We build up a computer, starting from the NAND gate as the smallest unit, and building all further logic gates, computational units, storage units, input-output devices present in a basic computer. We learn to write assembly language, build hardware which runs on machine language (0s and 1s), and finally finish by writing an assembler to convert the assembly language into machine language. The assignments are hands-on through the use of multiple simulators which are pretty easy to work with, and I learned a lot through this course.
+I love this course, I think it's one of the best I did in the past few years, most of the content are material that I read over twenty years ago, but the style and projects in this course bring the subject to another level. The course is fun, and by the end of it I had a working virtual computer from the components I built, running machine code from the assembler I wrote. The course is fun, it's clear, simple to follow, and the instructor are great. The truth is I felt a little sad that the course ended :). Looking forward for the second part of it.
+This was a fantastic learning opportunity, even as someone with a degree in computer science and many years experience as a professional in the field. I loved the way this course taught from first principles and encouraged you to think about the abstraction layers behind a computer system. While the chip and assembler created here are somewhat primitive, the course leaves you understanding the principles behind more sophisticated hardware. Huge credit to the team for the thoughtful exercises: they caught me out repeatedly!
+Just the course I always wanted to take. I've been working for some 5 years in IT as a programmer with a background in mathematics. Since my education in university did not cover the low level details of how things really work deep down, I was always befuddled by the mystery of computers. This course helped to clear things out for me! There is a bit less mystery to it now, but even more admiration. Thank you very much Noam and Shimon for making things so accessible. I am looking forward to building a compiler in part II!
+Great course that teaches you the basics of the technology from which computers are built. The instructors carefully walk you through the concepts such that the problems feel relatively easy and simple compared to some other courses. If you like challenges, you might not like this approach, but I think it's appropriate for this course (as an introductory course) so that you can pick up the main points and not get frustrated from getting stuck on problems you don't have sufficient knowledge/experience to handle.
+I am eternally grateful for everything you both faculty Shimon Schocken, Noam Nisan taught me.Really before the commencement of course I was thinking that this course will be boring.But after I started watching videos, the ultimate guidance and effort done by all the members of this course inspired me a lot.The course content is awesome. I am very happy that I build the computer. It was really amazing experience.Once again millions of thanks to teaching and non teaching staff.Thank YouHimanshu Tiwari
+This introductory course to computer architecture is just excellent. It gives you a clean overview of the hardware and software architecture of a computer (albeit, a simple one). Everything you need is provided to you, the content (given in multiple forms) is clear and concise, the exercises give you just enough challenge to enjoy the reward of completing them. It just hits the mark between complexity, understanding and entertainment. Thousand thanks to the professors/authors for giving this course!
+This is a brilliant course for those who want to learn how computers really work. It takes a bottom up approach to build a computer all the way from logic gates to the CPU and the complete architecture. You get a tremendous sense of satisfaction running a program on a computer that you built.This course is especially useful for people interested in working in computer architecture or systems, but I would recommend it for everyone studying or working in computer science and engineering.
+This is one of the best CS courses I've taken so far. It's great to see how easy it is to build a simple yet powerful computer on your own, and it has given me for the first time the feeling of really understanding what's going on at the low level.The complete course is centered about the project of building a computer, so there are no quizzes and only few theoretical background lectures here. If you want a hands-on introduction to computer engineering, this is the way to go.
+I think this is the greatest course ever!Now, I can understand how the hardware layers play that divine role in our computers!I've understood how machine languages are designed with the hardware, and a lot more!Maybe the best thing this course introduces is: You conquer new obstacles every week which are totally new knowledge to you = you gain a lot of self confidence as well as this inner feeling that you are born to do something GREAT! Can't wait to start the 2nd part!
+This course was challenging. The project-oriented nature of the class is what made it interesting for me. I spent a few days learning Java (nothing like having a challenge to motivate me) so I could write the assembler, rather than just "translate by hand" assembly code. This helped solidify the connection between hardware and software by making me really think about what happens to all the bits in those A, C and L commands. I look forward to part 2 of the course.
+Simply awesome. By no means does this course teach you everything about building a computer but it introduces you to the subject better than any other course that I have ever come across. It gives a voluminous amount of detail about low-level computing but the instructors took great pains to do so in a very accessible and easy manner. Thereby, the magic of low-level computing is made available for everyone regardless of who they are. Beautiful.
+cool and understandable, however the heart of computer –– Data Flip-Flop –– I think is must to be explained. Without it, I couldn't get fundamentals, for which we're here. If you aren't going to lie for yourself, please spend time, it's one of the most important thing that runs computer. After really understanding this, the feeling of the computer system's greatness will hold you quite enough time.But many-many thanks. The course is awesome.
+I think this course is very well made from the ground up. Although it might be difficult for starters in the beginning, what you end up in the end is a computer that you could program anything on, which is very cool. This is a great course for starting out in the world of Computer Science, and is something different compared to other Programming 101 or Computer Science 101 courses. I would love to see how the second part of the course holds!
+I built my own computer and I really enjoyed it.They calculated every thing for you, you only need to put your hdl files through their suit programsand every thing is going to be okay.Project by project you will feel that you now now more about computers.I learnt Asm language, Computer Architecture, logic gates ,machine language , sequential logic and Combinational logic  gates .I'm really glad that I had the chance to take that course
+Honestly, Nand to Tetris is not just a course, it's a beautiful journey. Like a beautifully made game, it assumes nothing about the learner, teaches them the wise ways of playing the game, and delicately guides the player through an infinite world, never making it seem for once that you have no direction. I made my final submission with a heavy heart, but definitely look forward to embarking on this journey again with the second part.
+the best course for people who are interested in learning how computers work and their inner most workings. I wont lie and say that it is easy at the end since i took programming approach and completed the course but it was exciting,intersting and felt so damn good when i completed the course. I  will complete the part two of this course as well. I can't recommend this course enough just go for it; it is worth the struggle.
+I am a programmer without a background in computer science and the closest I have gotten to the machine has been compiled languages like Java. Because of this, everything that happened below the language I was using was a complete mystery and black box. This course clearly and concisely led me through all the steps of computing that were previously completely opaque to me. I cannot recommend this course enough. Cheers!
+The course is fantastic. The teachers are both very good at explaining the concepts and the project assignments. The experience of building a computer from basic logic gates is enlightening and the course material is very good and straightforward. I also bought their book (The Elements of Computing Systems) which is also very good and I recommend. It's a very rewarding experience. We really learn how computers *work*.
+This is an amazing class! The software and unitests provided worked seamlessly - just as described. The lectures excellent pedagogical expositions. The class has also made me appreciate the intellectual beauty of computer science; I used to think programming was somewhat boring and hack-ish, especially compared to mathematics. I'm looking forward to the second part. Also, the book is just as good as the lectures!
+This is an amazing course. I am halfway through my undergraduate degree in CS. I highly recommend it for people who know how to program in a high level language like java, python, js, etc, and feel like everything below the compiler/interpreter is witch craft. During this course, I also used logisim (http://www.cburch.com/logisim/) to help with the hardware design, and would highly recommend that route as well.
+This course is just great. I'm a third-year CS student, but I wanted to revise concepts I have seen and glue them together, because a lot of times we students have various assignatures for different "blocks of knowledge" but we don't actually connect them together, so they stay as isolated concepts. As a "midly-veteran" student, some parts of this course are basic for me, but I really liked the course overall.
+I cannot recommend this course enough! Although I have developed software professionally for almost 20 years, some areas beneath the high-level languages I create software with felt like dark mysteries. This course was extremely helpful in illuminating many of those areas. If you develop software professionally but did not graduate college with a computer science degree, I highly recommend this course to you.
+While I have multiple degrees in computer science, I have never felt I have a solid appreciation of how a computer works from the electrons up. This course is by far the best I have taken, and incredibly rewarding  to work through. I feel I now have a first principles level grasp of how a computer works from the logic gates all the way through to the operating system. I can't recommend this course enough.
+It is an excellent course.  I have a bachelors degree in Computer Science and I have done some portions of what has been taught in this course in our logic design lab and assembly programming lab, but bringing all together in a single project-centered course like this one is a novel and useful idea.  This course should be made compulsory in all bachelor degree courses in Computer Science and Engineering.
+I only audited the course due to shortage of time. A complex topic like computer hardware architecture can't be taught as simple and nice as like in this course..I took many moocs and this is one of the best. I also loved the end of the lectures named as "perspectives" which is about the questions of students mostly ask about the relevant week's topic. Thank you lecturers a lot and a lot and a lot..
+This is the best course I have ever taken. The professor Noam Nisan and Shimon Shocken are incredible. The lectures are well paced with helpful slides, and they explain concepts very clearly.The projects are challenging yet fun so in the end it's incredibly rewarding.I can't even begin to imagine the work and knowledge required to a course like this together.From the bottom of my heart thank you.
+Very comprehensive course that is both in-depth and broad in terms of its analysis of current computing architecture. It makes one understand how sublime modern computers are - for they complete tasks of astounding complexity despite having a much simpler internal architecture than one might suppose. Certainly, the feeling of satisfaction I felt upon finishing a task is nothing short of immense!
+I am a self learner with a non-computer background, but I am a programmer by profession. I have been looking for information of how a computer is built from the inside. I have read many theoretical books, but none matches your cross-section coverage from start (gates), abstracting away to the top (user programs). I have purchased your book too and would recommend others to get it. Thank you!
+Amazing course! I know how to code and stuff but the fundamentals of how things work in hardware was something I was unaware of. This course takes you from teaching about logic gates to making an assembler! Its pretty great and you will learn a lot (even if you know a thing or 2 about it). On top of this, the instructors (near the end of this course), also teach some good coding practices.
+Great course! It's not impossibly difficult, but you will want to spend some time thinking things through. In the first week, I wasn't sure that the lectures completely covered the material, but YouTube exists, so I was able to find some videos on digital algebra to fill in the gaps. Week 5 was the toughest, and if you have any experience programming in higher levels, week 6 is a breeze.
+This is without any doubt one of the best Coursera courses I've taken.I always wanted to know how the computer works on hardware level. I read a lot of stuff but none of them allowed to understand truly what's inside and how and why works.The materials and projects of the course are simply great and (from my point of view) makes you understand much more deeply the concepts of the videos.
+Very nice course on how to build a computer from elementary circuits up. It's a simplified computer, but gives you a good sense of how actual computer work. It has exercises that are good for retaining the contents and making sure you understand the concepts. I definitely recommend for someone that wants to understand what happens between the assembly language and the computer circuits.
+I really liked the comprehensive and bottom-up approach to this course. However, I would have liked a bit more instruction on how the schematics for the CPU and ALU were derived, as we were merely implementing it without having to understanding why the ALU and the CPU was the way it is. The same goes for the machine language.Nonetheless, an excellent course, and well worth your time.
+This is a great course that explained every thing from gates to actual PC very clearly. I'd recommend this course to any one who try to fresh up computer science basics. I only have a small suggestions, the four week taught about machine language, fifth week taught about the CPU-ROM-RAM architecture. From the first three weeks, (in my own opinion) I feel the order should be reversed.
+I have taken many physics and computer science classes, and this is by far the best one. Not only it explains in detail how computers actually work, it also gives you tools and knowledge to implement the computer yourself. Both the book and lectures are very good at explaining things and assignments, while not being too hard, concentrate on learning and understanding the principles.
+I would recommend this course and as well part 2 of the same to every computer science student no matter what year they are in. Gives a clarity how different layers are related and function together . And if the authors of this course are reading this comment then i am really grateful to you for putting in your effort in this phenomenal piece of art that you have created.Thank you .
+My first course on coursera. I had a blast taking it. It was challenging and fun. I had little programming background which was not an issue until the last project; building an assembler. It was optional to code it, so I decided to learn 'c'. I wish that I picked python instead. I spent the entire week on it. If you are dedicated and interested, I highly recommend this course
+Excellent introduction to building a modern computer with ample hands-on experience. Very fulfilling experience with all the programming assignments, especially the final one. To see my assembler taking any Hack assembly program and convert to a machine instruction is so satisfying. Appreciate the time that has been put in to make this course a challenging and rewarding one.
+Excellent. A really eye-opening course. I learnt a lot of things in the process of completing the projects that were assigned each week. It was a great way of learning the basics of how a computer works, and it made my more conscious on how a program is ran when you make one for a project or course. In conclusion, really good course with great instructors and great content.
+Really outstanding course. I learned a tremendous amount about how computers REALLY work, and got a glimpse behind the curtain to see and build some of the magic for myself.  Anyone with even a passing interest in computers should take this course!  The lectures are digestible, and the projects are very well designed. Only suggestion is --- WHERE IS PART TWO???? WE NEED IT!
+This course helped me to learn how a basic computer performs.My heartiest thanks to both of my beloved professors and mentors for helping me to understand the crux of computer design.I am looking for future courses offered by them with advanced difficulty level and related to computer architecture and design that covers more detailed parts of computers like ALU, CPU etc.
+Having now taken a number of different courses across both on Coursera and elsewhere, I can honestly say that this course is perhaps the best one I've taken -- it's comprehensive without being overly tedious, and the fact that the assignments are projects, rather than quizzes or exams, was both more engaging and helped me better understand (and appreciate) the material.
+The course is self-contained as advertised. The forum moderators are prompt and excellent at providing help. The projects were sufficiently challenging without being intimidating. Professors Nisan and Shocken deliver the knowledge in a very lucid manner. Overall a very nice course to take if you're interested in how a computer works by building one from the ground up.
+This class taught me things I was curious about for years, such as how lower levels of the computer work. It was so gratifying to make gates myself out of NAND and eventually build an ALU (hard project), then the CPU (really hard, but so satisfying!). Building the assembler was something that seemed always hard, but completed it in just a few hours. +1 for unittest!
+I learned a lot from this course. The journey of building a computer and an assembler using bottom-up approach was very exciting. Especially Project 4,5 and 6 kept me engaged with the course and most exciting part was building a computer and an assembler. I loved this course. Thank you, Noam and Shimon. Both of you are imparting quality education in the true sense.
+Great glass!  The assignments were well designed and a lot of effort was put in to making sure students could understand what they were supposed to do.  I've found that good assignments are were most other courses are very lacking.  Having good assignments is what really motivates me to finish a class, and it's what helps me verify I've actually learned something.
+Exceptionally well-designed course.  Taught me how to build a computer and assembler from the first principle and amazingly, I didn't have any outstanding questions at the end of the course. Everything made sense. This is an excellent course for understanding the basics of the inner workings of a computer without being too bogged down into engineering details.
+TL; DR - this course is brilliant.***When I started this course, it was so intriguing to see so many 5-star reviews. I could not find any flaws in the course. The material is dense and interesting. The course is fully polished, even shining.Dear Professor Shocken, Professor Nisan, thank You so much. This course is absolute brilliant. @NAnd2Tetris_Part_20; JMP
+Excellent course!! All the course materials and discussions forums were extremely helpful. All the tools and project files provided with the course worked without any difficulties. Also, it was a very shallow learning curve to get used to the new tools and hack language. Thanks Noam and Shimon for making such wonderful course. I am looking forward to part 2.
+I have never taken such a practical session like this. It was a challenge especially on the middle weeks , however I made it. I recommended for any one , needs to understand how the computer works, and increase the system design skills, this is the course to take. I recommended to take a full version (non-audit version) to enjoy the full power of the course
+This is the greatest course I ever came across. Together along with part 2 it connects all dots and goes beyond abstractions to show how a computer works. It is the best course that can teach an electronics or electrical engineer how the HWs and SWs interact in a machine. It indeed goes from building an nand gate to a fully functional primitive application.
+This is hands down one of the best courses I have ever done. It tears down the layers of abstraction between your programs and your computer's hardware. It's a project centred course meaning you get to build very cool things every week.I'm blown away that I just finished building a computer that can play pong... it has a display and keyboard inputs!
+This was an amazing learning experience that I enjoyed so much. I expanded my knowledge of computer science especially regarding logic gate construction, hardware descriptor language (HDL), and how to build a simple assembler. I would highly recommend this course to anyone who wants a better understanding of how computers work at the machine level.
+Very comprehensive! Well worth the hard work!I already had a vague idea about assemblers and machine code but I now understand how machine code actually controls the hardware in a CPU. The other mystery solved for me is how basic logic gates can be combined into ever more complex structures which are then combined into a CPU and a computer.
+It was a great course. It fulfilled its role in demystifying the internal parts of a computer. It was a excellent idea to present Digital Circuits through a Hardware Description Language (HDL). It was rewarding to get in touch with Assembly language in the processes of "building" the CPU as well as while coding the Assembler. Thank you!
+I had so much fun following the course and I actually feel I've learned a lot.Not only the course videos are helpful and easy to follow but also the "perspective units" were also very interesting that I watched all the videos.I definitely will move on to part 2 of this course and I am 100% sure that I will get all I want in part 2 also.
+Excellent course. Not one to take lightly as it involves plenty of hard work in order to understand the new concepts it introduces and complete the assignments. Ideal for self-learners who wish to take their skills to the next level.  It has done a great deal de-mystifying how computers work on a very low level. Definitely recommended.
+This is one of the best courses that I have come across. I had always wanted to learn computer science in a continuous fashion . I wanted to know how all the different subjects come together to make a computer. This course was a boon for me. It showed me how to connect the dots among various subjects. Iam looking forward to part 2 now.
+Has been a great course addressing a lot of basic questions. Very well-structured. However, I do feel that more light could have been shed upon how the instructions in 0's and 1's in the text file (here the .hack files) are actually given to a computer. Perhaps it could be addressed in one of the QA sessions at the end of each module.
+I learned much of this material in college 20 years ago, but back then it was only book knowledge and never tied to anything practical.  Doing this course has given me a much deeper understanding of how the bits and bytes of my program are handled at the lowest level.  I'm looking forward to taking the second course in the series.
+This is absolutely the best course on Coursera and by far the most unique. The instructors are engaging and clear with what they teach, the quality of the lectures are superb and the amount of supplementary material and resources made available are vast. I wish the instructors would create more courses. On to Part 2 of the course!
+This course was amazing. Despite being a computer science student, I had no real intuition as to how the different computer abstractions worked or how the simple AND,OR gates did everything the a computer could do. I've just finished the firsst part and am already amazed at how much I've learned. I look forward to the next part!
+This is an excellent course that is very well-designed to include all the essential details and exclude the inessential ones.  I recommend it very highly, especially to those who have some form of technical education, but may never have learned these topics in computer design that are needed to really get from logic gate to CPU.
+This was a fantastic course. I'd bought the textbook a few years ago after reading about it on HackerNews, but never had the motivation to work through it until I discovered this class on Coursera. I feel like I now have a much better grasp of what's going on inside of a computer, after having programmed for over thirty years!
+I have always wanted to know how a computer actually works. This course helped me to deep dive into the low level implementation of a computer. In the meanwhile, the projects are perfectly well organized for better understandings. Overall, I'd like to recommend this course to literally everyone who is interested in computers.
+One of the best courses I have ever been through. If you like learning along with getting hands-on experience and the joy of building something ground-up, this course is definitely for you. I like how the designs are so simple yet completely functional. Thoroughly enjoyed making all the projects especially week 6 (Assembler).
+Great course, but tough. I'd suggest reading the relevant chapters from the professors' book 'The Elements of Computing Systems' (chapters available for free on the professors' course website) in addition to listening to the lectures. I also read 'Code' by Charles Petzold as I took the course and found it a useful supplement.
+A wonderful course. The tasks are not very hard, but challenging enough for a student to get things working. Even for auditing students, they provide ways to verify the knowledge. I think they completely achieved their goal of demystifying how computers work and are built. Thank you for the opportunity to attend this course.
+While some of earlier topics were a bit rushed, Week 6 videos were just about explaining the assembler algorithm to the programmer, which is something programmer should invent himself, it takes away the fun, while providing no further insight into the topic. Overall great course, but it did not go very deep into some topics.
+A fantastic course that should be considered as a requirement for any one working as a software developer.  The tutors did an excellent job here, the course material was clear, and the assignments were fun and rewarding.I can honestly say I've now built my own computer from simple Nand gates and it was fun and educational.
+Excellent course, I could understand from a simple logic gate how a computer hardware is built. Very useful for both student and professionals in Computer field.The presentation was to the point very clear and crisp. Both the faculty did an amazing job in  presentng the material of the course as well as the assignments.
+This course was amazing.  I have been using computers, and programming, for 30 years (not full time).  Now I finally have a deep understanding of what is going on under the hood.  I have a new appreciation for the 1's and 0's that are machine language.  The instructors were fantastic.  I highly recommend this course.
+Even though I knew quite a bit about the later parts of the course, I still learned a lot from them. Not to mention that HDL and hardware parts thought me a lot as I lacked some knowledge on that front. Overall a great course that I would recommend to anyone who is interested in learning everything about computers.
+Excellent course! I have taken many in Coursera, and this one is by far the one I have enjoyed the most, not only because of the topic but also because of the professors. Both are great communicators and provided very well prepared classes and materials. 100% recommended, looking forward to starting part 2.
+It's an excellent practical approach to understand the inner workings of a computer at a very low level. The instructors teach at a comfortable pace and cover in great detail even the simplest of topics. More light could have been shone on how and why the control bits produce the desired output in the ALU.
+Absolutely superb course! It's was supremely satisfying to build an actual virtual working computer from scratch and see it play Pong! I commend the course creators for distilling something that's usually seen as mysterious and complicated into an accessible and tangible form. Can't wait to finish Part 2!
+Nice project and interesting . The learning curve is not too steep for a beginner and the course itself can be considered as a solid funding block for a programmer interested in low level programming. The project which is spread over the 6 modules is an on going application of the abstraction principle.
+Loved this course. Great progression from concept to concept. Huge feeling of accomplishment at each step of the way as you create a working, functioning 16-bit computer. Can't wait to do Part II. Fast, responsive help from the mentors as well. I was always able to get the answers to my questions.
+i highly recommand this course to all those machine enthusiasts out there! It teaches a lot. It also motivates and fills interest in exploring and learning fielsds associated with computer hardware , though mainly softwate. but his is what this course is for, Building computer from scratch.
+The professors do a great job.  The material is clearly presented.  It will clearly show how computers are built up from scratch.  The assignments help us learn.  The support for students in the forum helps with any problems understanding the material and/or completing the assignments.
+Course is very good and it is suitable for any person. Even if the person doesn't have any knowledge about computer science also can complete this course. For a computer science professional it connects the dots between the concepts and show how entire hardware works in computer.
+Amazing course, very interesting and simple approach to understand the low level of computer hardware. Its not my first time to deal with logic gates and flipflops, but its the first time i put this all together to build this monster. defiantly recommended, cant wait for part 2
+This is in my opinion the best course on computer hardware for beginners ever created anywhere, to date.  Get ready to think and work though.  It's not for lazy people that want it easy.Completing every module is a rewarding and satisfying experience and the teachers are great.
+Great course, would recommend it to anyone who wants to understand "how does computer works"Well structured, maintains amount of challenge on sufficient level to keep you interestedBtw I highly doubt if it's possible to complete it with 0% knowledge of any programming language
+Brilliant course! Very exciting. By my opinion, it could be better if it was more complicated to provide more challenges for experienced software developers, but this revision also is very good. Thanks to the authors. It was very interesting to fill this gap in my knowledge.
+Amazing course, I recommand it to anyone that wants an overview of all the hardware inside a computer, and more generally to any computer science student. You get to really look (and experience) what is under the hood, thanks to the great job done by this course's creators.
+This is the only course which has cleared all my doubts about how a computer can be constructed from the ground up. It was clear and detailed and provided a comprehensive picture of how a computer works. I'm really glad I took the course and look forward to taking part 2.
+This was one of the most thorough courses in computer architecture and digital design. It is very satisfying to create a computer from something as simple as a NAND gate. The entire process is very rewarding and I am exciting for the next part of the NAND2TETRIS course.
+Truly a great course if you want to learn about how computers work. If you don't have a CS degree and feel that there are some gaps in your knowledge to fill this course will definitely help you. But the most important thing: This course is great fun. Highly commended!
+This course provides a knowledge foundation and extensible vision to see how computing systems work. I have been following this course to develop a curriculum based on the vision of this course. Excellent contribution to the bring computational literacy to the masses.
+This class was fantastic! It was illuminating, well planned and extremely gratifying. I am a much more knowledgeable computer scientist as a result of taking this course. I highly recommend this to anyone who wants to truly understand how low-level computing operates.
+I did this course with my teen-age son.  We both were able to build a computer from basic logic components and program it in assembly language.  The instructors are clear, the assignments are the right size, and the tools make it so that you can check your own work.
+A very great course, had lots of fun with the first 5 projects, but sadly wasnt able to write a program for project 6, therefore did it by hand which wasnt that interesting. However, I learned a lot about the functioning of the CPU and the Memory, which is great.
+Awesome course, it give me understanding how everything works under the hood. I am grateful to the creators for their work, perfect explanations, interesting and exciting projects, awesome supported materials and software. It was an amazing adventure. Thank you.
+This class was truly exceptional. I felt like it did an excellent job on conveying abstract concepts and I came away with a working knowledge of very basic computer architecture. I recommend this class to anyone curious about the inner workings of a computer.
+Really I want to thank Coursera for providing such wonderful knowledge and high-quality course available. The course should be made mandatory to kids, students & engineers. The understanding of the computers is greatly enhanced after completing this course
+The most amazing online course. I love how it is project based. Everything you learn is straight away applied to building the project and it it made me look at so many things in life differently due to the way it breaks down the concept of abstraction.
+It was a really nice course with very good practical projects. What I really liked was the fact that in the end you will understand how all the electronic circuits inside the CPU will be translated into the lowest level of software inside a computer.
+I think this was an amazing course. Both profs really teach you well and clears your basic concepts about electronic and digital world. It was a great experience learning and building HACK computer which was a dream come true in 6 weeks. Thank you.
+I took this course out of curiosity and probably some nostalgic feelings. I really like the idea of making CS 101 course that builds your knowledge from ground up. And what can be more exciting than building a computer and writing your own game :)
+I'm totally overwhelmed by the power I have after taking this course. From 3 years the question "How computers work?"  was wondering in my mind. There is no space for this query in my mind anymore after building a computer from scratch on my own.
+This course provides a great and sight-opening introduction to the very basics of computing science. Going from basic parts and seeing the system build up step-by-step gives a sense of accomplishment and understanding that is hard to be matched.
+I always wanted such a course where I can learn each and every fundamentals of computer from scratch in small steps. This course is really a fantastic course and I suggest this for all those who are interested in learning how the computer work.
+What a great course! Very inspiring also in terms how one can scale a course using automated assignment checking. I would love to join a camp at a IC factory where one could build this for real. Let me know if somebody has a course like that.
+Excellent course. Instructors provide enough guidance for you to do most of the discovery and design on your own. The topics are covered in a logical order. It's a lot of work, but you'll learn a tremendous amount and feel quite accomplished.
+Awesome Course!! This instructors teach all the concepts on building a computer from ground zero and at a very decent pace. This course has greatly improved my understanding of how the different layers interact and work to build a computer.
+I was a computer science student, still I was not able to make much sense out the theory classes I attended. But this course gives extremely different experience and make it a piece of cake. Now I can correlate many things I have learned.
+One of the best courses I have taken. I am so excited about this course and the instructors are amazing.The journey in this first part of the course gave me a lot of intuition about how a computer works under the hood. 100% recommended!!
+I didn't know what to expect coming into this course but I was really blown away with the quality of the written content as well as the lectures. It really is the perfect course for any engineer wanting to know what goes into their baby
+Great design of course content and projects. Personally the class is a fulfilling journey in my exploration of career change. Highly recommend it to STEM background engineers and physicists interested in understanding modern computers.
+The projects/assignments are awesome. Lots of fun. Very clear lectures.One thing is reading how the Computer works from books/articles. The other is to actually build a working CPU/Computer from nothing but Nand gates. Can't beat that.
+This is far the best course I've ever taken part in!A lot of things that I've been thinking about computers are now clear, theoretical part are supported by practical part what is great.If I could I would rate this course on 10 stars!
+A very good and very carefully designed course. Not only you will get the knowledge of computer science, but also you will create a computer which is the most interesting thing about this course. Thanks sir for this excellent course.
+Fast paced but very interesting course. The teachers are brilliant and teach very clearly. I knew some digital electronics and programming, but this course helped me fill the gaps in my knowledge very well.Already enrolled in Part 2!
+This was a fantastic introduction to Computer Architecture. The explanations were just enough without delving into the low-level details. The projects were challenging yet fun and instructive. I thoroughly recommend this course.
+Absolutely wonderful. I'm a boot camp grad who's been working as a software engineer for about a year now and want to start learning fundamental computer science and this course has been a great help. Thanks for a great course!
+I am a mechanical engineer with zero experience in computer architecture. This course was far beyond my expectations. Strongly suggest to everyone who want to get into programming further than just knowing "Hello world" syntax.
+This class teaches some very important subject regarding computer hardware design and low level languages. I found it very challenging but not too challenging, except the 4th and 5th week which were very difficult to complete.
+Wonderful course! I'm hosting a reading group, the Los Gatos Reading Group, to go through the book chapter by chapter. I'm looking forward to the next half of the book and the planned FPGA additional material when it's ready.
+A great starting point for anyone with an interest in computer programming its easy to follow and well planned although the partner website could be a little cleaner but i found everything i needed fairly quickly. Thanks Guys
+Rank this course five stars just after first week. Very well designed in a way that beginners can completely understand. Combined with challenging but not impossible projects. I have a great time coding HDL in this course!
+Nand2tetris is the course I was searching for, beautifully constructed and explained. The course gives an in depth knowledge of how hardware works  and different layers present in it. Looking forward to the second part !!
+I did a CS degree in 1990.Wish I had done this course way back then. It has filled a lot of knowledge gaps.I have enjoyed it immensely.Thank you Noam and Shimon.Really looking forward to the the next half of the course.
+Something that I always wanted to do , this course allowed me to do something that I would have never been able to do otherwise . Cannot recommend it enough to the Computer science student as well as the IT professional
+One of the best courses I have ever taken. They really taught what they promised. Everything is nicely designed and well versed. Since its a project-centric course, I got to make so many things. This course is awesome.
+I absolutely loved this course. i am indebted to Prof. Shimon Schocken and Prof. Noam Nisan for their tremendously simplistic explanation of the course that made it enjoyable. Thank you coursera for having this course.
+This is a wonderful course. It is very detailed and through. It should be required for every Computer Science major. It not only teaches computer architecture but also how a computer works in an easy to understand way.
+This is a brilliant course. The information is presented in a structured and clear manner. The assignments are very interesting and really test your logical thinking.
+I am looking forward to studying the second part.
+Amazing! All the course is completely mindblowing. You can really understand what is the computer that you use, and how it really works inside as 0s and 1s. Thank you very much, Professor Noam and Professor Shimon!
+Finally I have the great vision of all those courses I had to take during my bachelor and which relations between them were not always so clear. Recommended, I'm going to start the 2nd party with joy and curiosity
+Really Awesome Course, loved it !!! Very thankful to the instructors for sharing their knowledge, passion, efforts and time. I learned a lot from the course and it helped clarify a lot of concepts. Thanks again.
+I have completed the course and I must say it is one of the best courses I have taken because it is very clear all the information. In addition, the development of the projects allow you to learn in a deep way.
+Amazing. As a self-taught software engineer, I didn't have an understanding of computer architecture and how code is actually run. This course demystifies all of that. Projects are challenging yet rewarding.
+This is an incredible course. I loved it 100%. I audited the course first, and then I just wanted to complete the assignments for a certificate. I enjoyed doing that a lot especially making the assembler!!!
+This is a great course with a well-written text book to go alongside it. The projects increase in difficulty at a pretty good rate. It was well worth the time and effort I put in. Looking forward to part 2.
+Great way of helping understanding everyone of how computer works internally from a nand gate to assembly language. It gave idea about the architecture as well. It was a great experience overall.Thank you.
+The very first course that was able to provide the practical knowledge of the working of a computer without any abstraction, apart from week 6 that had a bit of programming and text processing abstraction.
+Detailed explanation, step-by-step knowledge.  Perfect for novices.  
+Taking this course is a pleasure, not only to gain knowledge, but also 
+to build confidence in programming. Wonderful Course!!! (￣▽￣)"
+Fantastic! It is very interesting and projects are easy to finish. The most important thing is I've learned a lot about computer system concepts in a bigger picture. Thanks a lot, Prof.Noam & Prof.Shimon!
+nice course !! going to add this in my resume ! learned so many things and now computer is 1% more understandable than previous !juts kidding ! Now ,I really know some good basics of how computer works!
+The course is well structured, leading the learner through project based learning from one conceptual level to another.  It's completion was very satisfying and I look forward to From Nand to Tetris II.
+Great course and definitely improved my understanding on how a computer works! Love the videos and the assignments. The Q&A from their website is a gem! I wish I have them as my professor in my school!
+This course was really great and covered everything it aimed to. Noam and Shimon broke down concepts simply and made them easy to understand. I'm moving on right away to the second part of this course!
+An excellent course provided by phenomenal professors! Everything is broken down into simple, easily understandable portions, and leaves you with a clear idea how to proceed to solve a given problem.
+This was so much fun, so satisfying and I learned a lot. I'm a software engineer. We do so much work in high-level languages that it's great to be reminded how computing machinery gets the job done.
+this one of the most elegant courses a computer engineer can take in the early beginnings of his undergrad study, it will give him the overall view   of digital design and computer architecture.
+Lovely learning experience. Engaging and passionate lessons, well-explained concepts and fantastic pacing. The grading was also fantastic; this is the best way to conduct a course of this style.
+through this course I literally understand how to computer operates and how it is built from a simple chip Nand to a complex system with ROM/RAM/CPU. The course is great!  Highly recommend this!
+This is one of the best courses I've ever taken. Simplistic, easy to follow, takes you from Beginner to Advanced at a steady pace. Learned a ton! Thanks a lot for making such a beautiful course
+Incredible Course. I've never experienced such an learning experience. This course did not just teach me how computers work, more importantly it taught me how to learn and deal with complexity.
+The class is straightforward and the right level of detail to make you feel like you really understand the topics. Highly recommend to anyone wanting to understand how computer hardware works!
+Fantastic.  Quite difficult for me, but I learned the material along the way.  Fantastic way to train yourself to think logically and parsimoniously.  And the computer knowledge is invaluable.
+Crazy stuff, Literally opened my eyes to some of the abstractions of the real world we take for granted. This course is intellectually rigorous and satisfying. This is one of the cool stuff!
+fabulous , perfect education....it is took abaout fully a month of my life , but really it was worth it.thank you very much coursera and Shimon Schocken and  Noam Nisan.with all my respect .
+I had great fun with the projects! The materials illustrate how processors work clearly, without being overly complex. I think it is a nice introduction to computer architecture and systems.
+Excellently structured course. The projects really make you understand the material well. I can hardly believe you can learn the full architecture of a basic modern computer in one course!
+This course covers the fundamentals of computer architecture in a fun and engaging way. I cannot recommend it enough to anyone who has ever had any interest in how computers actually work.
+Gained a massive knowledge in fundamentals about Machine Language, Assembly Language and Hardware Descriptor Language. Thank you Prof. Nisan & Prof. Schocken for teaching all the sessions
+Definitely one of the better online courses I've taken. Struggled a little bit by the end, so I probably won't go on to part two anytime soon, but I appreciated all the work they've done.
+Very interesting subject. The course is very well organized and clearly explained. The projects are progressively challenging and all of them are engaging. I have learnt a lot of things.
+Great course! The instructors explains the inner workings of a computer in an easy to understand manner. Did not think it was possible to make this material so accessible. Astonishing!
+I loved this course it made me think and hade a lot of fun building my own computer.  just a hint the slides are on the site that the course send you too.  that will help with tables
+One of the best course.The first step for anyone interested in what computers are.Easy and can be done by anyone whether its a hobbyst  or a computer science/electronics enthusiast.
+This course is awesome and fun and very rewarding. I learned  so much about how computer memory works! Pointers make sense now that I understand the basics of lower level computing.
+The best course I have ever taken. The projects and lectures are so interesting, that I would sit the whole day finishing it. I have gained a lot of knowledge from this. Thank you.
+Very interesting and well-structured course. Manages to explain something very complex by splitting it into manageable sections. I am enrolling in the second part as soon as I can!
+Awesome course. I learned a lot! The projects were interesting and forced you to think a little differently: you can almost feels the synapses forming in your head by doing them.
+one of the best course i have ever done, thank you so much to the both course instructors noam and simon, they are awesome in the way they designed this course, simple and great
+Very insightful and awesome ....I am enjoying it !! Great work and efforts from both the professors ....respect ! Can't wait for the next course from NAND to Tetris II ...! :)
+Great course. Building a computer from first principles is an invaluable experience to truly understand how a computer works, and hence what it is capable of doing. Thanks.
+Very nice to be able to create a fully working computer simulation from scratch in just two weeks.  A little less in-depth than I would like, but very good content overall.
+Excellent resources with detailed explanation for everything made the course very easy to work on. The structure of the course also helped me understand everything clearly.
+A course  with a lot of practical exposure to how a computer works. I loved the syllabus a lot. Helped me put my computer architecture theoretical knowledge in to practice
+This is a very nice course for everyone who loves computer. I can easily recommend this course. Thanks to both the professors who worked really hard to make this possible.
+Absolutely fantastic course, quite simply the best one I've ever taken, Highly recommended for anyone who wants to embark on a journey of understanding how computers work.
+Fantastic depth and pacing. A tremendous amount of effort went into making this course, and I honestly can't think of many ways it could be improved. Very, very well done.
+Great course! Really beginner friendly and enjoyable. From my experience, I believe this course is also insightful for advanced learners who already have SE/EE experience.
+This is a great course. I have been programming for years, but I really feel that I understand how hardware works now. One of the most valuable class I have ever taken.
+A very intriguing journey indeed, learned a lot... Thanks a bunch for putting up a course like this, hopefully Ill be taking the second nand2tetris in my summer break ♥
+Very good material and fun course to do, specially the assignments! I implemented the assembler in C (since we're in a low level, right?) and it was very satisfying :)
+An Amazing Course which demystifies the hardware operation behind the computer...Well structured and Well Mentored and the fun part is that we implement it on our own
+Excellent excellent excellent, just so good. Especially if you only have a theoretical knowledge of computers and want to have some sort of practile knowladge in it.
+After watching this course I know understand how a computer actually works at the hardware level. Very informative and well explained; projects were lots of fun too.
+As the professor said at the last week's session, it helped to demystify the working process of the computer on the hardware level. Also had fun doing the exercises.
+Very easy to follow for programmer and non-programmers alike, when Computer Architecture is a new field for you. Highly recommended, very good project-base approach.
+Excellent,fun and highly very organised course. You'll be amazed just how quickly you "build" your very own computer, from the humble NAND gate to a working machine.
+I learned a lot from the course. It's incredible that this course is free. FYI, I would recommend learning the basics of boolean algebra before starting the course.
+I've always been wondering how people make circuits work the way they want it to, and now it no longer puzzles me! Thanks guys for your work on this great lecture!
+I have learned a lot of things about computer architecture. I've just a student, but this coursed too easy to understand. Thank you for teaching me. Best regards.
+The projects are interesting, some of them are quite challenging, but the knowledge outcome is invaluable! Overall, it was an excellent course, and well worth it!
+Excellent course, didactic and informative. Every step is natural and easy to understand. Recommended to anyone who wonder how they work this incredible machines.
+This course makes it possible to grasp to most import concepts in computer science in just 13 weeks. Amazing! Thank you for creating and publishing this course!
+I was so excited throughout the course. So looking forward to building something totally new on my own and explore the more magical world of computer science.
+Best MOOC ever! Every engineer working in computer science or EE disciplines would be able to find  some 'missing puzzles' of his skill set from this course.
+This course is really interesting and helpful, not only for computer science students but also for other students who are curious about the computation world
+Amazing course. Very well thought, well designed well planned! Kudos to instructors! I highly recommend this course to anyone who works in computer industry.
+Great course! Complex material is explained very simply and clearly. It helps understand the architecture of computer and even touch it with your own hands.
+Very good, complete, and well thought-out course. Enjoyed every lesson and task. Gives you an excellent overview of what a computer essentially is. 5 stars!
+I found the course to be really approachable, no matter your background. For me it filled in a few gaps and the weekly assignments concreted the knowledge.
+An excellent course for each CS student and everyone working with computers. The learning material is just brilliant, thanks to the most amazing teachers!
+This is the best MOOC I have ever taken & it competes with brick & mortar courses. It is a truly *amazing* MOOC and I cannot wait until Part II comes out.
+Really good course. You will learn how to actually build your own computer. The projects can take some time,yes .But its quite rewarding. Do check it out
+Great hands on course for beginners! Videos are very concise and thorough and the discussion forums are extremely helpful for getting through projects!
+One of the best courses I've ever taken. The way they teach you to virtually create a computer is magical. Make you feel like you can create anything.
+The course is excellent. great videos, enjoyable projects. Some little and negligible issues with the tools, but nothing really bad.Highly suggested
+Excellent course. Instructors are very clear and all material is absolutely a delight to read. The projects are fun and complement well the theory.
+Really interesting course with amazing content. Had a lot of fun during the 6 weeks of this first part and I'm looking forward doing the next part!
+This is the best course that I have ever taken. Every step of the way you are pushed further and further. Soon, you have been pushed to a computer.
+That was a very good course which helped a lot to understand how does exactly computer insides are working. Great starting point for any beginner.
+A Very useful and inciting course based on one of the great inventions by man. Got my curiosity related to computers satisified with this course.
+Amazing course, I really enjoyed it, I recommend to all who wish to understand better about the computational architecture from its foundation.
+I think this is one of the BEST class on coursera.Instructors use a very efficient and easy way to teach  the essence of computer architecture.
+Wow what an amazing course, very good lectures, very good curriculum. One of the best courses I've taken even including my 5 years at college.
+it is an execllent course, full of joy.and I recommed the author to develop a more deep courses cover a modern cpu design and a unix like os
+This is the best basic computer lessons I have ever entered. When I finished building a hack computer, I felt proud and exited. Thank you!
+As a seasoned programmer I took the course with my 16 years
+old son and we both got a deep low-level knowledge and an amazing experience.
+It was a great experience building a computer hardware from first principles. I am wondering if I can build this architecture on an FPGA@
+I had a great time and some sleepless nights in this course. I was able to refresh old knowledge and gain a lot of new detail knowledge.
+I learned a lot. from how a computer is built to actually making one myself. i hope i can learn more in the second course in the series.
+This is a concise overview of computer science. If you could only take one course in this whole field. This would be the course to take.
+Great course to understand how the computer "black box" works at a fundamental level.  Looking forward to the 2nd half of this course!
+A very challenging but rewarding course. Give you a hand-on experience about low level machine language and how they're all connected
+The course is excellent. Well structured, well paced. It taught someone who has been in the industry for many years some new tricks.
+Amazing course, with the perfect ratio between depth and abstraction. For me the computer is no longer a magic box that does tricks.
+Fantastic course. I recommend it to anyone who not only want to know how a computer works, but want to build one out of transistors.
+Excellent course. Highly recommended to anyone into Computers and wishing to gain a deeper understanding of how it 'does its thang'
+Awesome well explained course with super cool assignments! <3 it and will take the second part of the course as soon as I have time
+This course is magnificent! Got tons of fun and knowledge! It hard and challenging. I'll recommend this course to all, who learn CS
+This is one of the best courses that I have ever taken. The course will challenge you but you will at the same time learn so much!
+A very well put together course with excellent course materials. Thank you Noam, Shimon, and the team -- I learnt loads from this.
+Fantastic course! Everything you've ever wanted to know about the computer is taught here! Cannot wait to start the second part!!!
+Seeing what's going on under the hood makes life so much easier! This was an absolute godsend, thank you for putting it together.
+I can't describe how great this course was. For anyone wanting to learn how your computer actually works. This course is perfect.
+I loved this course, thanks to the instructors who paid great attention to details and made sure that every question is answered!
+I have learnt so much more about the about how computers understand our written code and how much work goes on behind the scenes.
+It is the best course i can think to know about computer from basics and how it works. I am thankful to the team of this course.
+I have never wondered building a computer by simple logical elements until I found this course! This course is simple and funny.
+This is a really good course even for professionals who have drifted away from internals in due course. A great way to refresh.
+Amazing course. The instructors are clear and have concise explanations. Must - do course for all aspiring software engineers!
+Great course, highly recommend it to get to know how computers work on a low level. It helped me become a better programmer.
+This has been a fantastic journey to the inside of the computer! Can't wait to get my hands dirty with the part 2. Thanks!
+I really loved this course, it helped me to get a better understanding of what's happening under the hood of the computer.
+Wow, super challenging and interesting.Loved it, now I understand the fundamental of computing ALU, RAM, ROM and Nand :)
+Best online technology-related course I've done. Brilliantly planned and executed. I'll be starting part two this week.
+This is by far the best course to study basics of digital logic, computer systems and processors. Thank you professors!
+Hands down the best computer course I have ever taken. I have a masters from a decent school, in IT, and this beats it.
+Very Touch homework but as soon as you go through it, you will have a very clear big picture about computer hierarchy.
+informational, and helped me gain better understanding about how hardaware working and basic understanding towards ISA
+A very good self-contained course which takes you from "knowing nothing" to "building your very own virtual computer".
+Excellent best online course ever, very didactic an fun. It motivates you to continue learning and complete the course
+Great course. One can build a working computer from nothing (well, almost) and without soldering. Highly recommended.
+This course was great fun. And I learnd so much. I recommend the course if you are interested in how a computer work.
+Amazing Course!!! Sums up one semester worth of engineering which actually helps you understand how a computer works.
+I would highly recommend this course to anyone wanting to challenge themselves to learn how computers _really_ work.
+A fun and interesting course that guides students through the workings of computers at the most fundamental levels.
+Very good course! I learned a lot. The assessments require some thought and are not just multiple choice questions.
+I couldn't find any better course this that to start learning what is inside a computer. Challenging but so great!
+a great course.makes you really understand the inside of the computer, and the how software controls the hardware.
+The instructors have done a fantastic job of coming up with the course material that is easy to follow.  No fluff!
+One of the best course on introduction to computer. Easy to follow. Well documented problem sets and instructions.
+Excellent Course ! one of the best here in Coursera. you can learn HDL, Assembly and CPU architecture in 6 weeks
+Excellent course with great projects and guidance. I learned everything I was hoping to and more in this course.
+I learned a lot from this course, about hardware and computers. It will really help me with future programming.
+A wonderful course. If you ever wondered "how does a computer work?" this course can help answer that question.
+Loved this course. The instructors are very knowledgeable and the material was fun, challenging, and engaging.
+Loved this course, would do it again and recommend to others. I learned quite a lot about how computers work.
+Straightforward, yet engaging and informative. Would be so cool to have it as curriculum in every highschool
+This is a course makes people learn what was actually happening in the computer. It inspires me profoundly.
+This was one of the most fascinating courses I've been taking during my entire carreer. Thank you so much!
+The best course available. I am so thankful to the instructor's who made this wonderful course. Thank you.
+Excellent course which will help you to stitch various undergraduate courses in computer science together.
+Excellent course for understanding the bottom up design of a computer without diving into too much depth.
+This course was really helpful, It helped in connecting all the dots of how everything is pieced together
+I would like to sincerely thank Shimon and Noam for this course which is a true masterpiece of education.
+Very fast paced overview of the computer hardware. Excellent material with a focus on the practical side.
+Such an amazing course. A joy to take it. The instructors are top-notch and their passion is infectious.
+learning from first principles is very good to me and also it is a project based to learn something new.
+Well-conceived and well-taught. Challenging for a beginner, yet all the necessary resources are there.
+This course is extremely satisfying! First took Part 2 and then couldn't resist myself taking Part 1.
+I read the book before, it was translated in Chinese. It's really a good book and in very good topic.
+A really helpful and amazing class ! It makes me having a clear understand of computer architecture.
+I loved it absolutely! I wanted to learn something useful, and this course has helped me achieve it.
+Really good fundamental course for anyone who wants to learn how computers work from the ground up.
+Fantastic course which gives a wonderful overall insight of how computers are built up and working!
+This course is worth every hour you spend on it, it is by far the most accomplishing course I took.
+Excellent! I have my degree in EE and thoroughly enjoyed this trip. I highly recommend this course.
+I am a chinese student. I still can't express my words in English freely , so I just say thank you.
+Great course, it gives me the total understanding of how a computer actually works under the hood.
+Exceptional course which delivers on all its promises. And I'm certainly moving on to the Part II.
+So well designed, I wish I had access to this course when I was studying to be computer engineer.
+Excellent introduction to how computer works.Looking forward to part 2 of the course on Coursera!
+Excellent course with a layer-by-layer explanation on how to go about building a modern computer.
+One of the best courses I've ever taken (online, in person, whatever). Looking forward to part 2
+The first part of this course gives excellent introduction to base computer hardware principles.
+Fascinating course that develops computer architecture understanding from grounds up. must do!
+It is really insteresting.Now I have complete picture about what happened underneath the hood.
+Excellent course, i liked so much the content and the way to acquire knowledge throw practice.
+I love this course! Incredible explainations and very simple view on hard things. Thank you!
+Just what I was looking for.  I was curious a computer actually worked, and now I know. :-)
+I would heartily like to thank our two course instructors very much for a wonderful course
+Very understandable course, strongly recommended for everyone, who wanna be a programmer))
+This course allowed me to understand the working of computers on the fundamental level!!
+This course is well structured, helps you understand many things about computers easily.
+An enriching and exciting experience! Content is wonderful! Would definitely recommend!
+Very informative and interesting ,besides these programming assignments are excellent !
+Very good course. Materials are well explained and projects are challenging but doable.
+Excellent course! Lot of learning accompanied by its usage while building the computer.
+An amazing course that gets you started with whats inside a computer, and how it works.
+great for beginning to build mental model of how hardware components in computer works
+amazing course! Thanks for your great subject design and project design, thanks again!
+Used this course to bolster my study group as we went thru the book. GREAT experience!
+Its a great course, I think It must be in every university or High school curriculum.
+Excellent way to really grasp the fundamental building blocks for how computers work.
+this is a very good course which makes the students to come in a  practical approach.
+Promises a lot, and delivers.  Requires a substantial effort, and worth every minute.
+Amazing and well structured course work. The end was challenging but it was worth it!
+One of the best course. I am so blessed that I enrolled in this course. Thank you :)
+Excellent course, I looked at computers in a whole new way after taking this course.
+Very great course and I took lots of useful info about how actually computers work
+Beautifully paced and constructed, challenging but accessible. Highly recommended.
+just few weeks investment gives you an in-depth understanding of computer hardware
+Best course to start career in semiconductor industry for building modern computer
+Excellent introductory coverage of a wide array of deep topics.  I learned a ton.
+It's been really helpful if you want to learn Computer Science! Excellent course!
+this course is awesome! I have been dreaming this type of course for a long time!
+Amazing course, I can actually build a computer from scratch. I love this course!
+One of the best course available in Internet. Changed my life thank you so much.
+Excellent, a bit time taking. Should be a part of introduction to digital logic
+Very nice course. You get to learn a lot that goes under the hood, so to speak.
+Great, very satisfying to understand what's going under the hood of a computer.
+It was really enlightening to build a simple architecture from scratch! Thanks!
+It was a really tough and exciting course .Thank you very much for this course
+Incredible course. It's rare to have all these topics linked together so well.
+A very useful and friendly introduction to computer hardware and architecture!
+Excellent course. In a very simple way we can understand how a computer works
+absolutely brilliant course! highly recommended to anyone interested in tech
+This course is taught exactly how any programming courses should be taught.
+By far the best course I've done not just in Coursera, but in my whole life
+Exceptional course, I wish I had that course back when I was in university.
+Best course I've ever taken online so far. Thanks for this amazing journey!
+fantastic course! a very helpful course to understand how a computer works.
+Building ALU, RAM based on Nand from scratch is a very educational process.
+Highly recommended course for anyone interested in understanding computers.
+Amazing course. It helps very much to get an idea of the computer hardware.
+This was my first guided project and it crossed above all my expectations.
+One of the best courses available on coursera. Looking forward for part 2
+Well designed course which makes understanding computer architecture easy
+Almost best into to CPU Architecture. Not the best Fetch&Execute stage ;)
+This is an excellent course for gaining understanding how computers work!
+Excellent course! I learned a ton and the challenge level was just right.
+Very nice course. I wish I could implement it using free VHDL tools now.
+Very clear and comprehensive explanation about computer hardware system.
+Best course i have taken in my life.....well explained easy to follow.
+Fabulous experience. Did it with my 10 year old son. We both loved it.
+Awful course. Difficulty increases every week. Totally project based.
+Can't believe how much I've learned in this first part of the course!
+Those projects are amazing, they walk you through the whole process.
+Amazing course! Thank you so much for making it :) now on to part 2!
+Challenging, Eye-Opening, Fun, Well made, Well run, and Well assesed
+Amazing course. Allowed me to deeply understand what is a computer.
+I think this course is mandatory for all people who build programs.
+If you want to know how computers work, this is THE COURSE to take.
+This help me learning some basic concepts in CS. It worths to take!
+They claim it is the best computer science course ever. It is true!
+The greatest lecture ever made for computer composition principles!
+I love this course. Thanks Shimon Schocken and Noam Nisan :)))))))
+One of the hardest but most self-rewarding classes I've ever taken
+Great job, thank you very much for providing this kind of courses.
+Great hands-on course with exhaustive and self sufficient material
+This is the funnest, most well constructed MOOC I have ever done.
+Great course, good teachers, everything is explained very clearly
+I have learned many new things thanks to the platform of Coursera
+Very good course and let me know the secret of cpu and computer.
+This course is one of the best ones I've ever taken on Coursera.
+Utterly, a lot of fun! I've learnt a ton throughout the course.
+Awesome course - well worth the time and such a fun experience!
+great confidence builder on understanding computer architecture
+Never had a more interesting and practical class, great class!!
+This is a very stimulating course, and satisfying to complete.
+this course really helps me and the instructors are very best
+best course if someone has to look what going under the hood.
+A very interesting perspective from the inside of a computer.
+learned a lot from the course.  this is a very useful course.
+11/10 On IGN; Must have for people who want to make computers
+Must take course for all technology and computer enthusiasts.
+A course Must for students in the field of Computer Science.
+One of the best courses I've ever taken! Highly recommended.
+A wonderful introduction to logical hardware design. Thanks!
+Brilliant! What a primer into the world of computer systems!
+Great course for understanding the bottom layer of computers
+Awesome, really demystifies some of the aspect of computers
+Every computer knowledge seeker must learn#learnfromscratch
+Amazing course. I finally understand how the machine works!
+Extremely helpful for the beginners who want to design CPUs
+This is an Amazing course !! A must take for cs enthusiasts
+If you love computers or programming, this course is  must.
+Very enjoyable course, looking forward to the second part.
+excellent. i really understood how computer works exactly.
+Excellent course! I'm extremely looking forward to part 2.
+Great Course, Great Teachers, Great feeling if completed!
+Awesome course, Will definitely enroll for it's 2nd part
+great working experience here, everything working fine .
+Brilliant introduction to how computers do what they do.
+Very good course.Really build the computer from scratch!
+Learned a lot of thing that I was previously unaware of.
+Excellent course. Great balance of theory and practice.
+Great course, content and instructors. Highly recommend
+I really liked learning about how computers are built.
+Simply amazing... one of the best courses ever done.
+Amazing course, thank you professor Shimon and Noam!
+Excellent course!!! I had so much fun doing it!!! :D
+By far the best course within CS that i took so far
+it was amazing and adorable . I enjoyed this course
+Very fun and with a lot of interesting information.
+Nice course about the basics of computer hardware.
+Best for learning and implementing hardware logics
+I just started Week 2, but this course is awesome!
+The best course who i have done, amazing teachers.
+This course helps me learn the fundamentals of CS.
+Great projects! I finally connected all the dots!
+Best online course of any type I have ever taken.
+one of the best courses here. highly recommended.
+Very well done! Challenging and I learned a lot!
+Excellent course with the brillian presentation.
+It very help full to learn basic about computer
+Every CS student should learn it in first year.
+Excellent intro to basic computer architecture.
+I really liked it and I'm going to take part II
+Plenty of resources for helping with lectures!
+Great course. Both simplified and interesting.
+A very amazing course for the computer system!
+you get really great intuition about how compu
+Was a great and interesting workout for brain
+It led me to the fantastic world of computer!
+Simple, elegant yet very enlightening course!
+Very interesting course to learn VHDL basics.
+This is the best course I've taken in my life
+The most interesting course i have ever seen
+The single best computer course I ever had.
+Great course! I had tons of fun. Thank you!
+Just wonderful. The best MOOC I have taken
+Wonderful and challenging! I learnt a lot.
+Perfect for understand basics of computers
+Its a very good course.Thank you Coursera.
+Best $49 training course I've ever had! ;)
+Fascinating course. Where is the part two?
+Excellent course! I thoroughly enjoyed it.
+Good course to apply Theory into Practice
+Undoubtedly the best course I have taken.
+One of the best course that is available.
+Very succinct. Not a lot of hand holding.
+Great instructors and engaging projects.
+this is the best class I have ever taken
+Very interesting and recommended course!
+Rather practical and interesting. Thanks
+Best Course I have even seen in my life.
+Very useful but I'm waiting for part 2.
+very interesting and simple but useful
+Amazing course, I strongly recommend!
+Excellent class, well worth the time.
+Really enthralling. Highly recommend.
+I really really enjoyed this course.
+A superb introduction into circuits!
+Best  didactics in computer science!
+One of the best CS courses out there
+The best way to learn is to make it.
+Awesome course. I've already recomme
+thank you for such a great course :D
+It's an amazing course, well done!
+Great course, thanks for your job!
+Very good course! Easy to follow.
+Amazing course. I learnt so much.
+It was fascinating!!!Thank you :)
+very good course  , i like it ...
+One of the best courses out there
+It's is very useful to every one.
+The best way to teach the course.
+Amazing couurse and very helpful
+Amazing Course and amazing book
+This course is truly amazing!!!
+A very fun and engaging course!
+Recommended for every engineer.
+THanks for this amazing course!
+The best course of this segment
+Excellent pace and instructors.
+best course by best professors
+simple and very understandable
+Best course I have ever taken!
+Great course, start to finish.
+Spectacular course. Loved it!
+Hugely fun and informative :D
+Great course! I recommend it!
+Nice teacher. You deserve it.
+Incredible style of teaching
+Simply an incredible course.
+The projects are to die for.
+Thank you, Noam and Shimon!
+This course is mindblowing!
+Great fun, very interesting
+Great, highly recommended.
+This is rather satisfying!
+Great course! Thanks a lot
+A truly incredible course
+It gets more and more fun
+Love the course. Thanks.
+I can't wait for part 2!
+Amazing and fun course!
+Learning by doing. Good
+This course is AMAZING!
+Hard, but worth trying.
+Very clear and simple.
+Its just awesome... <3
+Really great prepared,
+simple with challenges
+This course is a gem.
+this course is superb
+it helps a lot to me
+very fine Coursera.
+Highly recommended!
+Work like a charm.
+Great course!  :-D
+just what i wanted
+it's really amaze
+Good to explore!
+Very satisfied.
+The best ever~!
+Help me a lot!
+Good teachings
+Amazing Class!
+A classic :-)
+Addictive !!
+Really Fun!
+Tons of fun
+Perfect :)

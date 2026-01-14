@@ -1,0 +1,351 @@
+A 'not-so student friendly' course of all the courses I have done so far.  There is a big gap between the assignments and teachings. It took a lot of pain to study this
+The staff completely abandoned the students.  I'm so disappointed with this course.  I left 6 questions in discussion and no one answered.  Very poor.  Will not use University of Illinois again.
+Coursera sucks balls
+Very bad structured
+i don't like this course..it is not complete OOP not data structure not c++.. it is very disappoint...
+No Systematic Approchvery confusing for the beginners,
+Not recommend from the begining is an struggle, why dont make as simple to use VISUAL STUDIO instead of this amazon IDE that has request my payment INFO and know I cant access my account worst experience
+Not worth course
+First of all lets see all the pros and cons:-
+
+Pros:
+1)The week 1 & 2 lectures are pretty good.
+2)The assignments are tough and challenging.
+
+Cons:
+1)Using only one example to illustrate every C++ function,constructor and  everything else.
+2)The challenges are too tough to understand taking reference from the video lectures especially week 3 & 4.You will end up searching for the solution on the web.
+3)This course is very difficult for beginners.The week 4 assignment is just at another level.They expected too much for the beginners.
+
+In the end guys, I recommend you to clear your basics from youtube then enroll for this course
+Not good for beginners at all, I felt the same. You teach very fast!
+for a beginner this seems a bit tough and they usually get startled
+Your guide to setting up an C++ environment is garbage and I probably have spent the majority of my time trying to create an environment that works.
+The content was presented well. However, the assignments and quizzes were very simplistic and not very challenging. This course is ok if you're very new to programming concepts, but you'll want to skip it if you understand the basics.
+This course waffles between whether or not you should already have a deep understanding of C++ and computer programming and math or no previous experience at all. It is clear the instructor is working really hard to help all the students and respond to forum questions. I came into this having just taken object oriented c++ at the local community college and I got stuck in a few places where I just couldn't figure out the equations. (Challenge "Spotlight" problem).
+I was mainly taking this course to practice concepts specific to C++ (e.g. memory management, pointers, etc) as I am trying to pick up C++ while coming from Java\Python\MATLAB background, so I already had a good grasp of OOP, data structures, etc. I found walking through code examples explaining expected outputs the most useful part of the course (especially in Week 2 for me). But I think the lectures themselves were not explaining the more abstract material very well. I am glad there were pop-up clarifications throughout lectures when the professor would misspeak (like destructor\constructor confusion in Week 3), but I still think I would find the lectures very confusing if I wasn't already familiar with most concepts. So I wouldn't recommend this course as a first introduction to OOP, data structures, or C++, but it can work well for reinforcing\refreshing material you already know.
+No information regarding polymorphism, and several jargons related to OOP skipped which could've easily been mentioned. The exercises are very basic. If the scope doesn't permit to cover everything essential, at least references or just the name even for the topics could've been provided. If they are mentioned in the other courses of the specialisation then enrolling in just one course shouldn't be encouraged or even allowed.
+2 best things of the class. #1 the TA Eric Huber was really nice, patient, and helpful; #2 it teaches you to use AWS Cloud9 as the IDE for the project assignments. However, I still can't help to complain that C++ is pretty hard to pick up. I guess the professor wanted to show how computer and memory work, so he chose C++, but I really think the course should be updated to other more modern languages like Python or Java.
+Good introduction to c++, but I thought the assignments were way to simple and straightforward and hardly tested me knowledge of the concepts covered in the lectures. I hope the second 2 courses have more challenging assignments.
+As I already started reading C++ form other sources this course gives me additional knowledge about namespace use and its significance and memory management in C++
+I think  the order of the contents of the course makes you really confused. but the excercises was good and help you to better understand.
+Assignments are too easy as compared to course content. Hence,sufficient practice of content taught in the course is difficult
+The course provide a good introduction in object oriented programming and data structure foundation
+Final project was tough.But they said only basic and asked to do project
+i learnt so many things in this course.......
+Its a awesome platform to learn coding..!
+Not at all suitable for begineers...
+course was really beneficial
+it's a good course. it was pretty awesome until week 4. Things started to get difficult and hard what i was really upset about was the programming assignment in week 4, as I felt that it wasn't related to the topics were covered, we never talked about images in the course!!But the overall review that it was fairly good.
+Difficulty was not evenly distributed and the last project was unclear
+The course covers a lot of materials and practice problem. The challenging quizzes and projects are pretty challenging and may need more detailed illustration from the lecture videos. The course is overall great. But I think we'll need to know more fundamental concepts in C++ by reading some supplementary materials and practice more in coding problems in the future.
+I'm a relatively new programmer, and this was my first experience with any language other than Python.I was able to complete all assignments with 100% scores on time or early, and yet I don't really feel that I have a solid grasp of the concepts taught. At no point did I go into an assignment and say, "oh yes, I know exactly how to do this." I completed the assignments all with a lot of trial and error, which is fine and normal for learning programming I think, but because the assignments were often to edit a smaller portion of a larger, more complicated program, it meant I it was difficult to really understand where things were going wrong. I mostly just had to try and try until I got it right.  Some of the portions of the final project I actually felt fairly successful with, but others I struggled with in the same way. So ultimately I feel that this is a decent course for a fairly experienced programmer to get acquainted with the differences of a language they're not expert in, but for someone new it may go mostly over their head unless that have more outside help. I plan to do more self study before continuing to the next course so that I feel more solid in my basic skills.
+It helped me to learn the fundamentals of c++. Very clear and to the point.One thing that can be optimized in my opinion, is the way the IDE setup is taught. I worked from my own IDE and everything worked out fine, but I had never used make files before. I didn't know it was so simple from the terminal to run a make command with g++ installed. So I followed the whole tutorial to set up a AWS account and environment. Only to realize later that I just had to type: "make" and "make zip" in the terminal for my final assignment to work. Therefore I would suggest the following addition to make the course more smooth for people who are already familiar with their IDE, but not with make files:- In the beginning briefly explain what a make file is and how to run make from cmd/terminal or in Linux.This will be a help for people like me who already had some experience with an IDE but still find this course very useful.
+I am by no means a software guy but I do have a little bit of experience in python and I was able to get through this course. If you are somewhat familiar with basic object-oriented programming concepts you should be fine. If this is your first programming course I would recommend starting with a more simple language and one at a more basic level. Prof Wade goes through a ton of examples which is great. The only reason I am giving this course 4 stars instead of 5 is that I feel like there are still a lot of basic concepts that I don't completely understand (templates, namespaces, etc). Overall a great course and I look forward to taking the next course. Thanks Prof Wade!
+Overall, the course was good for me ( with BS/MS in Mechanical Eng with a lot of experience in coding numerical methods ). The material covered by the course (pointers, objects, etc) is great - basically, everything I wanted to see in this type of course. Material is presented in a rushy manner (this might be justified for an accelerated program).  Lastly, I feel like more programming assignments are needed to solidify our knowledge gained throughout the course (again, this might be justified for an accelerated program). Huge thanks, for providing the opportunity to learn CS fundamentals!!!
+The course is amazing in terms of content and tasks. I only have two comments one regarding the assignments submission system. I and a lot of people are very well familiar with visual studio as an IDE and it was so tiring to try to make it work with the assignments and the submission system, in addition to not having the ability to test the results without headache.The other comment is the instructor sometimes goes so fast in some parts of the video lectures that need slower and deeper explaining. Thanks a lot !
+As far as the knowledge I gained through this course is concerned; it was  much helpful for me in understanding the constructors part better. Also the assignments were pretty challenging that tested the usage of taught concepts. I personally felt that students would be more comfortable if they have much more clear instructions given while solving the project part as it took lot of trials for me to make in the changes with  the IDE I worked with as  per the project requirement.
+Pretty good class. Maybe I'd give it a 5 but I had difficulty with the final ImageTransform project. Has to be done in Linux (maybe theirs a way around it that I didn't find) and WSL (Microsoft Linux environment for a Windows box) does not support a GUI (least not straight away) and my old Linux box is very outdated I understand these issues were mine and not University of Illinois problems, but still creates hassle.Good starter class.
+It was good for me,  I learned a lot, but the final project is just too complicated for me,  and even with the Pdf, it's not clear at least for my level and I already took a OOP college course.  I did it all but the final I am just stuck and that is frustrating.  Despite the jumping in levels from video to video I did learn a lot so it is still a 4 star.  Teaching is a bit fast.
+Wow, it was descriptive and at the same time needed quite an effort in searching various contents at google. Overall, it would be hard for novice but they can get along with little more effort. Really, the advanced mechanism for checking our submissions and not requiring peer reviews which is often slow and unreliable is praiseworthy.
+Overall this course did a good job balancing sufficient levels of detail without losing the big picture with respect to OOP principles. The examples were good throughout. I thought the final image transform assignment was very interesting though not a particularly helpful indication of mastery of OOP principles.
+I believe the course videos and lectures are pretty good. The instructor explains pretty well and makes learning this course exciting. However I think that this course needs more projects, and to be more challenging. Possibly the instructors of this course rely on subsequent courses to cover more material.
+the course helped me solve problems more strategically. The instructor also helped me make use of patterns as way to optimize code and see a problem in a more practical manner. This truly helped me enhance my skills in C++ and Data structures but also in fundamental problem solving skills.
+Great course, engaging videos, and the end project was a pretty good summation of the material covered.  I would have liked an assignment each week that let me practice coding a bit more, as I'm new to c++ and the syntax is a bit weird, but overall great class.
+The instructor made a lot of mistakes during his lecture. The material is neither clear nor easy to understand. I wish he can put more explanation on details. I am giving four stars because the instructor's response in the forum is really quick.
+I have learned so many new things from this course. The Fundamentals Object-oriented programming, data types, memory allocations, classes, templates, and inheritance are the main topics covered. Thank you for giving me the opportunity to learn.
+When they say "accelerated" they mean it. I'm glad I took a beginner C++ class before taking this otherwise I would have been lost. Otherwise, this was a lot of fun. It made me really think and the final Week 4 project was challenging but fun.
+I like the beginning of the course more than the latter part of the course. I will I could have more practice with assignments and projects. It is not bad but I feel like towards the end the course rushes and left a lot of things unexplained.
+i think that the TA's should be more active in answering the doubts  because no one else is there to help the students out and it really gets frustrating because you are into the code but don't know whats wrong.else everything else is fine
+It is good quality and I like the pace. Since I had experience in programming, though not in C++, I could go over the material quickly and finish in a few days. Still, it feels like the contents need just a bit more polishing.
+the entire code should be shown while explaining so that it is easier for the learner to correlate and link and understand displaying of the code bit by bit in the form of snippets leads to confusion I urge you to change that
+Yes i found this course useful and also learned few new things but content wise i honestly felt need to increase and also add advanced OOP concepts like polymerphism, and few other. Overall it was good.. Thankyou..!!
+I liked the course very much especially the assignments. I really enjoyed coding for this course. But sometimes I felt lost because of mentioning thing that I was supposed to be knowing before and I did not.
+Great explanations by the professor, only reason I am giving 4 stars is due to less support from course staff. Although assignments are well designed, instructions for few are confusing.
+It could have been done in a better fashion, e.g., keeping the difficulty constant, but making some things easy and some things hard just makes the student wonder about their own skills.
+You learn a lot of important concepts very quickly. Assignments and test are fun and really evaluate your concepts. I'd love to have seen more of operator overloading.
+I think it's a bit too easy. I was expecting extensive knowledge and practices on C++ OOP like inheritance, abstract class, virtual functions, more advanced topics.
+Great course! It would be a bit better if there was more code-writing involved to reinforce the language, rather than directly quizzing language esoterica.
+Excellent but the support staff seems to have disappeared recently. Moreover the leap between the lecture material and assignments is a little too large.
+The skims through the topics. The explanation of the concepts is good but merely the overview. More projects with more difficulty would benefit more.
+Overall good course, with brainstorming practical exercises and challenges. A Medium to hard kind of course and student should "know" C++ language
+The course is very high level. Will like to see more detailed lectures and gradded assignements to get a better handle at pointers and classes.
+Helps me to understand basics of c++ but i would say u should know atleast any one other language to understand more  efficiently.
+In general i'm not sure C++ is the language i want to learn - hope the value will show up in the future. Eric is really helpful.
+I enjoyed the course, it had been years since taking anything C++ related. Was a good start to refreshing my knowledge there.
+it was very helpful in getting to know DS and really helped build up a great patience when solving the bugs in my code
+Computer-graded code is a nice change after waiting weeks for an assignment to be graded in some other courses.
+The course is great. Unfortunately, the final project is covering very little part of the course if any.
+The course is good. I gave it 4 out of 5 because the Tower of Hanoi lesson needs some improvements
+The language used by the instructor was a little complex and fast. It was difficult to catch up.
+Great course but too little explanation or help on the subjects we are learning about.
+It was a very good  course for the learners who want to learn data structure in c++ .
+great lecture for entering c++. however, instructor's q&a response is quite late...
+The last module was hurried. Project should have been more related to classes.
+Quite Quick and brisk course.Highly Recommended for brushing up the concepts.
+A good introduction to C++, and introduces you to key programming concepts.
+The assignments are tough. Better student redressal system required.
+Amazing course,though a little fast paced especially he pointer part
+Kind of difficult for a not well-experienced c++ learner
+Assignments challenging enough with clear instructions.
+Everything was great. I had fun in doing this course.
+One of the best course in Data Structures using CPP.
+Pretty good but could be little hard for beginners..
+Interesting course that cover the basic of the c++
+pretty useful and good intro to C++
+recomended course
+-Lectures were well made and very informative.-Instructors and staff were very knowledgeable and were able to answer all questions asked by the students in a timely manner.-Final project was very fun to work on and had a nice level of difficulty.-Thoroughly enjoyed this course!
+So well designed course! Should be named c++ made easy.  I specifically liked the challenge problem and Week 4 programming assignment. Thanks professor Wade Fagen-Ulmschneider and Eric!
+I was surprisingly pleased with this class.  This class does expect that you have general knowledge of programming, and ideally some basic knowledge of C++.  What it does well is explain the core knowledge needed to begin to take advantage of C++ OOP functionality.  I've taken a lot of online courses before, including some great Udemy courses and books, but found this teachers explanations and practice for pointers and reference to be the easiest to follow and gave me that 'aha' moment I've been looking for.  Some of the challenges were actually very challenging too and provided in a way that, though I was stumped, was laid out in a manner that I could use debugging techniques to figure out the answer, as opposed to fighting with cryptic unit-testing that Ive struggled with in my programming career and training.
+This is a course which when watched as a follow up after Prof. IRA Pohl's C++ for C programmers Part A & Part B would serve as a perfect set of skills such as C++ development on Linux environment, Memory model, modularisation through file linking system of C++, Classess, OOP's, recursion etc.
+I enjoyed this course so much! Explanations were very clear and now i feel like i can navigate c++ code much easier! It has made me eager to keep exploring this awesome language and data structures!
+I thoroughly enjoyed this course. I especially loved the way the lecturer presented the material with all example code made available as a git repo. The challenge with some of the other C++ course I have tried before is that they get into too much detail too soon, or never get into the more "C++" features such as classes and inheritance till much later in the course. This course on the other hand is perfectly paced. The material is easy to digest and the exercises are challenging without being daunting. I would definitely recommend this course to students who have a reasonable experience of programming in either C or Python, but who have never done C++ and are fascinated by it. I am definitely doing the remaining two courses in this specialization.
+Programming assignments for all the weeks were pretty easy and were totally derived from the lessons done. The final project was little hard and I had to spend more time trying to solve it than the time I spent on all the other assignments together. But in the end it was truly rewarding experience!.
+The teacher of this course is outstanding. He explains every topic carefully and it is motivated enough to motivate its students. It is a worth course if already know how to program in other language, and even if you know C, you can do this course and learn things aswell. Totally recommended.
+One of the best courses on Coursera. Well designed and hits all the right topics for those looking to get into fundamental topics in Computer Science. Engaging instructor who makes difficult concepts easy to understand. Easy set up with AWS Console + starter code (complete with Makefiles).
+Honestly, this is a great crash course in OOP for C++ (though the ideas can be applied to any language). Previous experience with C++ is almost a necessity, the lessons can be complicated for novices.
+A truly well structured course, that knows when to guide you, but also when to let you learn the hard way. Clearest explanations of memory, c++, and object oriented design anywhere online.
+Very well constructed course, gives a very concise and clear run-through of a lot of fundamental concepts in computer science and how those concepts are expressed in the C++ language.
+Very good course for getting around objects and classes in C++. If you are only new to the topic, this is a must. If you had any previous experience, I should give it a try as well.
+This is a very intuitive course and great to review all C/C++ knowledge. Thank Professor.
+Superb course. Starts off with an in depth analysis of the different types of memory storage in C++ (and how they are used by a computer in general). After this detailed start, using very minimal but precise code, It then rapidly starts developing the all the other fundamental data structures in C++, moving at quite a fast pace until one has a nice broad overview. It then culminates in a substantial project, where the requirement is not so much to add a large amount of new code, but instead to assimilate the code base and use very precise logic to implement the functions.The course develops a rigorous approached to coding based on unit test/test frameworks. The multiple choice quiz questions are challenging and very well thought out, such that you will really have to think carefully about them, and in so doing will consolidate your knowledge.Overall, I've really enjoyed this first course in the Specialization and look forward to progressing onward through the rest of it.If you have no prior coding experience, or are new to Computer Science, you will probably find this course tough going, so I'd advise you perhaps do a couple of easier introductory courses first.The fact that this course is based on C++ is a major PLUS in my view, as far too many courses are now dominated by Python, yet C++ is an industry standard language used for serious software engineering projects and major systems due to its extreme power and performance. (This does come at a price in terms of complexity, however!).
+This course provided a great learning experience and really helped open up my understanding of data structures. This is a very good course for someone who is not too easily frustrated and is willing to persist despite not feeling total mastery after the first exposure to the material. There were many times that I reviewed a video 10+ times or looked up C++ syntax, lexis, and concepts in other references, but in the end, I was always able to puzzle out the problems when they came up. I was stumped for a couple of days on one aspect of the final task, but eventually I was able to work my way through. It was a nice feeling of accomplishment when my functions finally passed all the tests -- felt like I'd finally 'beat the level'.Anyway, many thanks to the development team and instructor(s). This has convinced me that I'm capable of moving forward with my CS learning -- a great outcome!
+This is a really amazing course. I have been a hardware engineer for nearly 18 years. The last time I coded in C++ was in college. As I had a background in Python and Perl, it was a really good refresher. The professor is really the best. I was very skeptic when I started the course. I could complete the course in about 10 days. Never expected this. The fact that this course does not need addition books is really true. I did get a few books from the library just to refer but really one can complete this without any additional material. The assignments are also really good. They make you go back to the notes and slides. If I meet professor Wade Fagen-Ulmschneider, I will really thank him for this. The discussion forums are also a good source of information. It helps reading what others have asked and learn from their mistakes.
+It was a darn hard few weeks, which granted me a great understanding of how C++ works in terms of Data structures and Object-Oriented programming. The professor is great, the material is well constructed and meaningful, I had much fun during learning everything and exploring C++ language. Although I want to mention, I had a few moments when I felt really stuck and I had to revisit lectures 5+ times to grasp the concept. Thus, I consider this is one of the hardest courses I've taken so far, but even more, it is the satisfaction feeling of it accomplishing and learning all new stuff. Thank you for your work! Looking forward to meet again on Coursera.
+I already had a basic understanding of C++ with if-else, functions. But I was struggling with OOP part of C++ with use of Classes, constructors, destructors etc. I am a Computer Engineering student with background in hardware hence I have had little experience in the OOP aspect of C++. I really liked the fact the course focuses directly on the OOP rather than starting from absolute basics which saved a lot of time for me as compared to other projects. Thanks to this course I am able to understand the syntax of much complex C++ code for my research. Thanks Prof. Wade :)
+Associate Professor Fagen-Ulmschneider's lectures are clear, concise and interesting. Neither too dense or light, too brief or too long. The assessment infrastructure for the quizzes and submission of challenges worked flawlessly. The instructions that came with challenges made it clear what was required and how to submit the finished work.My only suggestion would be to add optional, 'stretch' challenges for those who want to be further challenged to apply the course material without making it too hard for the other learners.
+It was a great learning and an eye opener to various ways of thinking while coding in a language. Unlike almost all other programming courses where only the syntax is the main focus, this course introduces a lot of compiler / memory related concepts which really take you into the crux of C++ and how to think in the language. Same method, if followed for other languages like Java/Python, would provide great insights into computer science languages and how computers actually operate! Great work! Thanks a lot for this course.
+Extremely useful and satisfying course. Great in depth explanations of the concepts and in the same time demanding quizes and assignments. You can easily let yourself spend hours on single questions and you will end up with a deep understanding of each one of them. A great introduction to object oriented programming for someone with little background on the field (although necessary). Just do yourself the favor and install the linux compatible environment instead of trying with the windows MinGW versions.
+I have been studying programming in c++ recently just for a hobby. And, oh boy, wasn't this challenging! I think what I learned the most in this course was perseverance. If you really want to learn how to program, you do not need to be a genius nor have a degree in CS. You gotta try and never give up, eve when things are hard. The solution to the program you are trying to solve is somewhere in your mind, but the only way to access it is by thinking harder and harder and never stop until you get there.
+The instructor has put lots of efforts in the assignemnts to make things easier to operate. I really appciate it as a beginner in C++ (my previous experience with programming was limited to Python). The course is marked as intermediate but it would really help if you've already had some experience with basic C++ syntax. I spent some time in week one to go through as much C++ basics as possible to make the following materials more sensible to myself.
+Excellent course!The lecture is well-organized and clearly expressed. The homework is well-organized. There is only one thing that may not satisfy one's expectation, that is the homework project requires more reading than coding, comparing with projects in my university that we need to do as much coding as reading. However, you could take this as an advantage, since it saves you time on coding parts unrelated to the algorithm's key point.
+It wasn't tough but really helped me in building a strong understanding of how the memory works and could be controlled by using pointers and other operators along with how is it managed by the system inside. Also, surely the knowledge I'd gained through this course will help me learn Data structures  & Algorithms more easily ! All in all it was a great experience and the last project was kinda fun !
+It was a very nice course to refresh and touch important topics related to Object Oriented Programming in Modern C++. I especially liked the instructor's way of teaching that included both theory and practical in a concise, intuitive manner. Course content was both fun and easy to absorb compared to most C++ courses found online. I highly recommend this course to anyone interested in C++!
+This is a great course for those who have programming experience and want to learn something about C++, especially suitable for the engineering students not majoring in Computer Science but be willing to study the basic idea about C++. I hope that instructor could extend the course, add more programming problems, and cover the topic of polymorphism, which is very important in my opinion.
+I really like the course material emphasizing very minute details of C++ programming concepts.  I enjoyed the quizzes and problem challenges which reinforce the understanding of a topic. One improvement if I may suggest for future is, sometime I found instructor's talking pace too rapid which may take couple of iterations through video lectures for someone to grasp a new concept.
+This course does an excellent job of highlighting the fundamental information for learning C++. I appreciated that it was at the intermediate level, because it didn't spend too much time on the more basic topics that I had already learned. It is definitely a good option for anyone looking to get a head start on learning this language prior to a more strenuous university course.
+Great intesive course! Everything is explained very clear and getting to the point. I should highlight that there are some exercises test a first glance seem to be a little bit complicated compared to how simple the lessons are. But these excercises are thoroughly explained and adapted to the difficulty of the course, so they end up being a perfect complement for the course.
+Excellent course if you already know a little bit of C programming and you want to learn C++. Really good explanation about the memory model. The codebase provided with the course is terrific. One can learn a lot through these simple lessons. The reading section is also very helpful. The quizzes are topical and helps one understand the content of the lessons thoroughly.
+Covers accelerated C++ concepts.  Not for new programmers, but those interested in learning C++ concepts and library API.  Note people have had trouble with the difficulty with the final project but it's not too bad if you have programming experience.  Recommended even if you are familiar with C++ because there are gold nuggets of new info everywhere (at least for me).
+Really great explanations and well written source code. I am still not confidant about my understanding about Tower of Hanoi. I am planning to spend more time into it. Would the instructors suggest a way for me to give a better way to understand the concepts ? Or is it a matter of lack of higher aptitude ? This feedback will help me to improve myself . Thank you.
+Really good course, and I will now continue to complete the other two courses to complete the specialisation. One comment is that I wasn't too much of a fan of seeing an extra paywall (using an Amazon product) when I've already paid for the Coursera course. I used my own bash and VSC for all the exercises on a Windows machine, so no (unsolvable) problems there.
+Had coded in python and java previously; was a great intro course and the final project provided a nice set of methods to test out coding skills learned. The instructor provides an efficient overview of the main concepts. Suggestion for minor improvement: pointers and memory are not immediately straightforward so more focus on them would be nice.
+Course is focused on a fast-paced learning and it is expected to have at least some previous experience with strong-typed programming languages. I think it's great for anyone who wants to start with C++ faster than reading books or taking other kind of courses.If you are total beginner this program is NOT for you and can lead to frustration.
+great course for those who already have intermediate background in OOP like java, glad you guys emphasized c++ specific things like .h/.cpp interaction, pointers, heap, and other smaller things and not things people know like loops and if statements. feel like it was a good use of my time, as it was concise, effective, and interactive.
+Course is very solid at teaching some fundamentals of C++ and having you apply those fundamentals. It's certainly helpful if you come in with some basic understanding of C++ syntax, as the difficulty/complexity level hops around a bit, but overall it's a great course to kick of the Accelerated CS Fundamentals specialization.
+Great course with a great lecture from the professor. I thought this course gonna be difficult with a hard vocabulary, turns out this course provides with a simple explanation and easy vocabulary. So it makes student like me which English is not my native language, is easier to understand the lecture. Thanks, Professor.
+An excellent introduction to C++! The course content and the delivery of the professor is great. Although I felt a lack of enough exercise problems to work on. My only suggestion to the course team is to provide a set of optional problems to solve, which you don't necessarily need to complete to get the certificate.
+This course and the 2 that follow in the specialization are exactly what I needed to fill in gaps in my understanding and knowledge between a BSEE and a MSCS.  The instructor goes quickly through the material, though not excessively so.  Plus, there are enough pointers (pun intended) to get further help if needed.
+Obviously, this is not a friendly course for a novice of C++. And setting up the programming environment, like VScode and Ubuntu, also take a tons of time. But, if you succeed in completing this fist course in the sequence, you will be definitely allowed to say that at least you know a little bit about C++.
+Great introduction to C++. One of the best explanations of the memory model I have ever seen. I recommend it to any computer science student or siftware engineer, even if your main programming language is not C++. If you ask yourself question like "What's heap vs stack", this course will greatly help.
+This is a really good course. I took it twice. The instructor is so enthusiastic and knowledgeable. The course quizzes are challenging yet incredibly relevant to the lecture materials. I liked the final project a lot -- it was a great demo of C++ as a S.W.E. tool even in the most mundane scenarios.
+This course is Super Awesome for someone who intermediate level of knowledge in C++ or is just a beginner, both. I learnt a lot from this course. The quality is super brilliant, whether it's content, tutorial, assignments or efforts put in. Everything about this course is a benchmark and amazing.
+The most well-laid out and documented course I have ever done on Coursera. Skips the essential basics of programming, and jumps right to the important content. Extremely valuable course to do. Great job by the instructors! Will pursue the entire specialization definitely.
+Great course. If you're brand new to programming, expect to use outside resources. That's just how programming is, if you don't like that aspect, you're not going to like programming. Overall the content is well written, and automatic scoring of assignments works well.
+One of the best courses on C++ I have ever taken. Technically advanced topics was discussed in a concise and clear explanation with reinforcing the concepts through quizzes and assignments. I thought the whole teaching approach was very efficient and effective format.
+This course has been really a great help for my C++ programming skills. Coming from a mechanical background i have really developed a interest in C++ programming after this course. Video lectures, quiz and assignment projects are good and easy to understand.
+Very nice illustration of memory management, passing by reference, by pointer, by values etc. Coming from a Python programming background, the key idea is not hard to grasp and the assignments are not hard to complete, but overall the introduction was great.
+I would initially feel that the weekly challenges were too advanced vs. the course material itself but if you really put in the needed effort and go through the videos/readings with attention to detail you soon realize the course is structured perfectly.
+I would say excellent content! I already have some experience in programming still had problems in C++. The course address the topics important for the professional development in C++. We need more great and amazing learning experiences. Thankyou again..
+Even for someone with some background in C and Python, I've learnt tons! The Professor/ instructors' explanations were clear and concise. This course is highly recommended to facilitate a solid foundation for a rather complex programming language.
+It's was a great experience that I finished this course. I love this course about everything. this course was well designed. almost every problem was challenging for me I learn so much from here. Thanks professor Wade Fagen-Ulmschneider and Eric!
+Good teaching and course structure. I would recommend for people who already have coding experience (not necessarily in C++, I've been doing most of my stuff in C), otherwise it would definitely take more time to go through the assignments.
+Excellent course. The lectures are well prepared. I especially appreciated the emphasis on the c++ memory model. My only complaint is the environment setup for being able to do the programming projects. Overall, highly recommended.
+I find this course very complete and elaborate. It's nicely explained. However, I think that the assignment could be a bit more complicated in a way that would allow those concepts that presented in the quiz to be put to practise.
+This course is well structured and is paced with a faster teaching style without the unnecessary interruption from other students that should not be there in the first place.Do not take this course if you never programmed before.
+The teaching in this course was excellent.  It certainly helped improve my understanding of C++, even though I already utilized it for app development previously.   The problems were just right, providing a challenge yet doable.
+There is a small jump between week 3 and week 4. It could be worthy that the example of Hanoi tower in week 4 is divided and explained. The part of the c++ building as the logic is very well explained.Good training to initiate!
+This is an exceptionally well-presented course. Since you always have the code at your disposal, you can fiddle around and learn more. This course is for anyone who has struggled with Pointers and memory allocation in C++
+Highly recommended course for those new to computer programming, or for experienced programmers getting introduced to C++. Challenging exercises that reflect all course contents taught from course materials. 5 stars!!
+Very good course for refreshing the concepts. I think that it could be difficult for people who are new to programming. The assignments are reasonably challenging for the level of the course. Definitely worth doing.
+Objective, concise and worth it! I think that learning a little bit of C++ before the course is a good rule of thumb, so that you can focus (almost) entirely on the content itself. You will learn a lot anyway.
+This course provided one of the best primers on C++ I've ever experienced. I learned more about pointers, references, and memory management from this course than from any previous course or book. Thank you!
+The instructor is clearly passionate about the subject and is able to explain key concepts in a clear and concise manner. I would highly recommend this course for learning the basics of object-oriented C++.
+Course materials are sufficiently detailed yet understandable, and provide a good introduction to OOP. Help provided in the discussion forums to familiarize students with C++ is also timely and responsive.
+Very detailed introduction to C++. Pace is quick but appropriate for someone with prior experience programming. Exercises and quizzes did a good job of reinforcing the concepts presented in the videos.
+Excellent : in my case, it is the right level to start again with C++. All C++ content is backed up by simple examples that are clearly explained and there is a continuity in their presentation.
+I felt this mini-course was well-organized and to the point. Prof. Fagen-Ulmschneider covered all the necessary details with great emphasis. I appreciate Prof. F's enthusiasm for the topic.
+This is one of the best crash courses in OOP you can possibly take. Note it does help move things along easier if you have some fundamental background in programming beforehand.
+Amazing course! I have been working on C++ for a couple of years and yet learned so much.And prof. Wade Fagen-Ulmschneider is phenomenal, makes everything easy to understand.
+There are an infinite number of courses, books, videos, web pages, etc., but , professor Wade Fagen-Ulmschneider of C ++ and David Beazley of Python are best int the world. .
+Top-notch! Great instructor and course structure. A must-take course for people who already have exposure to C and C++. Although, the final project is a bit too complicated.
+It was very helpful, Especially week 4 where we were taught Towers of Hanoi problem. Very well organized and Calculatively Executed! Would surely recommend This Course
+Courses is nice but they lock my course and i have reset my deadline but nothing happens now I'm trying to restet my deadline something even wrong problem is coming
+It was fun and super easy to follow and complete the assignments and earn this certificate. Well designed course even for a person just getting started. Thank you.
+A very clear and concise introduction to classes and memory allocation in C++. Prerequisite knowledge about programming concepts and syntax in C++ is useful here.
+Very good course to learn basics of object oriented programming and to brush up the knowledge of data structure and concept related to memory allocation in C++.
+Loved the course. The pace of the course was ideal and exercises/problems were good allowing application of the concepts. Prof. Wade is a very good instructor.
+The  questions itself will make up for the amount of effort you have to put in this course, the instructor is superb and you will have lots of fun doing this
+Does require a basic working knowledge in C++, but the course does all that it is supposed to. If you're on the fence about joining it, I'd say you join it!
+Great course covering a lot of ground and tricky topics (I have 5+ years of Java and JavaScript experience and found this pretty helpful). Would recommend!
+Good challenge, learned a lot. I come from a Python background and found this course really enlightening. I am going to continue with the next two courses.
+I've been having a really hard time dealing with C++ pointer and reference. But for some reason, it all just clicked after a few exercises in this course.
+Very nice course to boost up a little bit your general programming, plus the knowledge of hard to learn C++ advanced features like pointers, classes etc.
+The course is fun, challenging and fast paced. Its amazing how much of C++ is covered in such a short duration without compromising the importance of it.
+From Little or no idea about OOP to having enough confidence to write about 200 lines of code, that's where this course took me.Thanks to Wade Fagen.
+Great course, I was able to go through the basics up to an intermediate knowledge of the C++ language. It has a great theoretical/practical approach.
+Learning a difficult language like C++ is really boring, but the Professor really made it interesting and easy to understand. Thanks for the course.
+awesome course! Its a really good introduction to OOP. Assignments were okay. The lectures and examples are well defined, 100% recomended to anyone!
+I really love how this course is organized a punch of well-chosen topics instructed by brilliant professor filled a lot of gaps in my understanding
+An Excellent Teacher, An Excellent Syllabus, An Excellent Course!!! Thank you dear Professor Wade Fagen Ulmschneider. It was an amazing experience!
+Excellent course! The way the course instructor presents the material is very engaging, and the teaching staff are extremely helpful and proactive.
+Relatively easy if you have any experience with C++, but good and straightforward introduction to basic concepts and lecture videos are well-made.
+A little outdated on the C++ side, but the content was great. The lab assignment in Week 4 is especially great, don't forget to have fun with it!
+Great course and instructor. It covered lots of important C++ topics in an easy to understand way.I had fun while learning new things! Thank you!
+I liked it a lot. If you want to learn OOP within exploring how to make own Datatypes and use them, this course is just for you. Thank you uiuc!
+It was a lot of fun, and challenging -- but not too challenging! :) I would recommend taking the course if it is made available to the public.
+Excellent beginning of the specialization, lots of areas to ponder and explore apart from the coursework, not for absolute beginners though
+Good concise explanation of underlying concepts, easy review of theories. Only issue maybe with the issue of clearing doubts on the forums
+This course  helped me  personally to overcome all my poor C++ knowledge I really appreciate the course !!!THANK YOU SO MUCH coursera.
+Fantastic lecture ! If you already have a programming background and want to refresh your C++ basics, this course is perfect for you.
+I genuinely loved the course , the course and the included assignments build a good foundation of  Object Oriented C++ programming .
+Loved the course as it was refresher for me. Very nicely explained c++ concepts and structured. Also, the assignments and the quiz.
+Very practical and enjoyable course that I recommend to every person that want an accelerate way of leanring C++ and Data Structure
+Eric is really nice and patient, explaining things in an extremely clear way, and I've learnt a lot from this course！Thanks UIUC!
+Very well organized and communicated. Quiz and assignment difficulty were well inline with material contents. A great c++ primer.
+I am able to gain a sysmatic understanding of object-oriented data structure in C++ and it will certainly help in my daily work.
+This is the best way someone has ever explained about how the memory and pointers work, that too in such a simple language.
+material along with the assignments was challenging and insight to the language that was hidden to me before just opened up
+The difficulty jump for the final assignment is a little too steep. Excellent course nonetheless. Good introduction to C++
+The instructor was very clear while communicating the ideas. The assignments were documented with comprehensive details.
+if you are restarting to study C++ after sometime without contact it is a great course for that . Really good didactic.
+The course was simple , easy to understand and had very specific contents to create a good knowlegede for a beginner.
+This course is amazing, the explanation is clear and easy to follow yet still provide advanced details on the topics.
+Really enjoyed this course. At the beginning I couldn't code at all in C++, I had only used python before. Thank you!
+Rather fast-paced course but certain important parts (such as  memory allocation) were explained in good details.
+A really nice course teaching us fundamentals of C++ which we often ignore doing data structures and algorithms.
+This course is wonderful. The professor is excellent and explains all the key concepts so clearly and precisely.
+This is an ideal course who has some programming experience and wants to learn C++ in a practical and quick way.
+great course ,the explanation was easy and simple. easy to digest short videos. highly recommend this course.
+Very good and effective course. Exposure and examples are really clear and the provided material is excellent
+Excellent, Coursera delivers again. Thank you very much to the Coursera team and the University of Illinois.
+It was a great course, but if more programming problems were given it would improve the learning experience.
+The programming assignments are challenging enough to be engaging without seeming trivial or code-by-number.
+Helpful introduction to C++.  Provides enough information to get started and links to plenty of resources.
+Wade is so fun! Nice to take a small peek under the hood of a powerful lower-level language (than Python).
+A great experience! I learned a lot and gained a better understanding of the material. I would recommend.
+The course and the projects are really helpful.I have got all my doubts cleared regarding dynamic memory.
+loved it especially the compiler generated functions part it was so complicated before i took this course
+Challenging and helpful assignments. The TA is very good in responding to questions posted at the forums.
+It was a very good course and this made me understand about the Object Oriented data structures in C++.
+Good course. The material is well presented. The most challenging course I've taken since Harvard CS50.
+Great course to get grip on Cpp Object oriented programming, data structures and memory understanding.
+Very informative introduction to the C++ coding interface and language.  I really enjoyed this course.
+This course was the highlight of my life. I particularly liked the instructor's chipper demeanor.
+It was fun learning this course.Instructor was  good in explaining and illustrating the lectures.
+A very good course to begin with data structures and learning different aspects of C++ language.
+It was fun learning this course.Instructor was good in explaining and illustrating the lectures.
+Its hard, but worth it. It does not spoon feed you and forces you to learn. Highly recommend it.
+Great intermediate level course, examples are good, videos are introductory and detailed enough.
+The course is designed beautifully and the last assignment took my whole brains out to solve it
+Great course with challenging quizzes and assignments. I learned a lot, thanks to the creators!
+This course lays a good foundation for me to program in C++ and develop wonderful applications.
+Could have been harder ;) but the final project was fun, since I've never worked with images.
+Good content but can be challenging for students without previous C++ programming knowledge.
+Great introductory course - well structured with outstanding TA support (thank you, Eric!)
+Very good course, The Instructor is Amazing, and I almost learnt everything from this.
+The best course to lean C++ for people which alredy have some programming background.
+Well done. Accelerated fundamentals is very apt. Fundamental but not for beginners.
+Very well made course, a lot of effort is put into the problem sets and quizzes
+Great intro to C++ language. Only wish the challenge questions have more hints.
+Wonderful experience.Such  an interesting challenges and quizzes.Just loved it
+I thought learning C++ would be impossible until I signed up for this course.
+If you really want to learn the depth of the OOP, you are at the right place!
+Very good introductory course into beautiful world of data structures in C++.
+Professor explained segfault very well. The coding exercise is well defined.
+i found this course helpful and learned classes and objects in brief detail.
+This Is very helpful to learn.And the assignment push myself to  hard work
+Best Professor I have come across who teaches C++ in a comprehensible way.
+Very clear and concise materials, definitely a good course for OOP in C++.
+Course material is fair. Not too difficult or easy. The lecturers are good
+Very clear and concise materials, definitely a good course for OOP in c++
+Thank you for offering this course. It was an extraordinary experience.
+IT IS A VERY USEFUL COURSE FOR THOSE WHO ARE INTERESTED IN OOP CONSEPT
+Good review for someone who mostly does C and Java and hardly see C++.
+Excellent primer on C++ with a very useful applied project at the end!
+I really learned a lot about C++, and I'm eager to learn more. Thanks!
+Such an elaborate and informative couse... Loved doing the course...
+Excellent course! Really gratifying to work on the Machine Problems.
+I've audited this course. It was useful for me. Thank you very much.
+Excellent way to learn some C++ fundamental or refresh your memory.
+Content was focused and exactly what I was looking for in a course.
+It's a clear and straight forward introduction to C++. I liked it!.
+Very Difficult without being familiar with a high level language!
+I really enjoyed this course, a good explanation of the material.
+Great learing experience, got to learn many new concepts easily!
+I learned a lot from the course;especially by doing assignments.
+This cours is very usefull, thanks for  coursera for this cours.
+Awesome, especially enjoyed the project on image transformation.
+Nice way to teach the students with less experience of coding
+After learning this course, I gain more knowledge about c++.
+it's very nice course to gain the knowledge of c++ language
+A very good course and made my fundamental "crystal clear".
+It was very helpful to me to hone my c++ programming skills
+The course is well designed and super friendly to students.
+good course, but the final project is not the best choice.
+Really informative! Know deeper about the data structure.
+Fast paced, practical introduction for programmer to C++.
+Great intro to C++ variables, pointers, classes and OOP!
+One of the best courses I've taken on courseraNot easy.
+Professor made it so easy! I just admire his style! :)
+Very well explained. A very good course for beginners.
+great course if u have prior basic knowledge about c++
+Very Patient Instruction and useful knowledge as well.
+Great course with clear explanations and example code.
+Great, great course. Great prof. Great school. Hearts
+Great intro level class for people who want learn C++
+Great course. The course videos are great. Thank you.
+very good course, content is clear and to the point.
+A great course to get started in the domain of C++.
+The assignment is challenging but very interesting!
+very good course!!! easy to follow and learn a lot!
+Well planned assessments and great course content!
+Productive sessions and well designed assessment!
+very neat explanation of pointer, stack and heap.
+By far... the best online course I've ever taken.
+it is a really benificial  course  for everyone
+Really great, palatable introduction to C++.
+Very good course. Assignments are very good.
+nice teaching and last project was amazing.
+Very understandable, I learned a great deal
+Really enjoyed working on the final project
+Nice course, learned a bunch of C++ skill
+Great course for a quick c++ refresher!!
+A simple but yet very informative course
+project was challenging but enjoyed it.
+explanation of instructor is excellent
+Good but the final activity is brutal
+For beginner, this course is the best
+Very good and fluent teaching style.
+It was very good course for begineer
+Awesome Course for beginners for C++
+good content and excellent teaching
+A wonderful course for a beginner!
+it was very helpful and i had fun.
+Great Instructor and Great course
+It is very useful platform for me
+It was super fun and educational.
+The final project was incredible!
+Nice presentation of the topics!!
+An excellent base for a begginer.
+The course was really amazing...
+Great, concise and to the point.
+Great course! Great methodology
+great course and to the point.
+Very nicely structured course
+Got to learn OOP, C++ and DS
+Very nice teaching approach
+a very well planned course
+Good pace; nice instructor
+Very good for new learner!
+A whole new level of C++.
+Very well crafted course.
+very good course in c++!!
+Good approch to tech c++
+pretty good intro to c++
+lectures are very clear
+complete and insightful
+very helpful! Thanks!
+Good course for OOP
+The course is Fun
+BEST C++ COURSER

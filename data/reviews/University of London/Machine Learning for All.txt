@@ -1,0 +1,421 @@
+Too basic Course. Even if you are a beginner it's not going to add much to your knowledge. if you just want a certificate to put the course in resume, then only go for it. I will compare the whole course with watching a single good video on Youtube. It's just waste of time.
+it could describe as briefly introduction ML 101 no coding requrie
+u can learn more than this on u tube for free
+Literally dissapointed .Very bad course
+not that much as expected
+This course just like introduction to get a basic idea of what is machine learning .MY suggestion It is not mean for CSE groupBetter go through other courses.......
+Very very very basic course for someone who don't even know the terms used in ML.
+It is helpful to learn Machine learning thank you
+Not much to experiment of the real world.
+This is a really small course and can be completed in a day or two. All I can say about this is that now I know some basics of Machine learning and atleast I can have an argument/discussion about Machine Learning with someone and be confident but there is a long way to do now.
+It was a bit too easy for me and the assignments were not that challenging. But it's good for someone who has zero experience on this topic and wants to cover it for the very first time. But i would not recommend this to someone with a CS background.
+The Course mainly focused on Image Classifier using plugin build by them. Instead it would be nice if focused more on own Classifier building using appropriate features and algorithm.
+If you want the basic information how machine learning works, you can enroll but if you want tolearn the coding part, Sorry.
+There is no coding included. It just tells what is basically Machine Learning is and it's advantages and dangerous.
+The course is nice but the details about ml algorithms are not explained here. You can learn all the basics of ml.
+It is very very basic course ,not happy with course content. There some good courses on course era .
+Better if more guided exercises are included as some are clueless on what to do based on the forums.
+this course doesnt mentiones how to do a project but wsaid about collecting datasets
+At least a little bit of depth on the subject would have been better.
+the assignments are graded by peers , which is the worst thing .
+In this cource you wil only have theory part not the coding part
+Not upto the mark.taught just the basics and fundamentals of ML
+Didn't teach to code it in python,but got other information
+It's quiet good experience with this learning program.
+It was very insightful and very easily to understand.
+Image Classifier haven't work, and I couldn't use it!
+Not much informative, easy to understand though
+Good course to start with the concepts of ML
+very basic yet good stuff
+content is not enough
+Good course for beginners.Section on boolean data is probably useless.Thank you Marco & Colleagues!
+I think this course was awesome. For someone who knew absolutely nothing about machine learning, this gave me the background to understand how computers work with machine learning and where they are used in our everyday lives. The reason I give this course a 4 instead of a 5 is because this course makes you want to continue to do machine learning, but does not give you recommendations on how to do so. Although there are further resources to learn about machine learning which is GREAT, there is no clear direction on how to do it on your own computer or how to download software that could do machine learning. If this was improved, I would recommend this course to the highest degree for everyone.
+Excellent course, well understandable also for not English mother tongues, with clear explanations of the pros and the possible cons of Machine Learning and in general of AI.Maybe some explanations on the hw/sw requirements for using the ML plugin would help: I had some problems with the exercises (my company pc is too armoured to let the ML plugin run), until I managed to login and run on an iMac of my own, where the power of the ML gave an impressive proof, although I made an extremely reduced dataset (a pity that the ML plugin only allows for 3 classes and cannot be embedded in some applications, it would be a real help in classifying!).Well done, anyway!
+This course is very easy and it explains what is machine learning, it's applications and also its disadvantages. We can get a clear idea about image recognition but this course is not suitable for those who wanted to create their own models because here they don't teach us about how to create a model or programming associated with it.
+The professor, his presentation, language, subject knowledge everything is awesome. Content could be extended in such a way that students will learn a classifier other than image classifiers. The interview section is a good idea. By the way, I got a strong base on machine learning. Thank you, professor, Thank you Coursera.
+First of all thank you Marco Gillies, for making basic understanding about machine learning. I entered this course with little knowledge, but after completed this course it gave me some understanding regarding the what are features, what data we have to chose, where you do mistakes etc.
+It is a superb course for beginners or just anybody who wants to get a simple idea of what machine learning actually is or does. Those coming from any background can take this course. I am so satisfied in the path the course took me through and so glad I chose to enroll! ^_^
+I would like to had the opportunity to talk about  my questions and ideas with the tutor at least one time. This was good course but its still missing the human element.Also, writing comments to other students does not work at all as no-one is really monitoring the answers.
+A well tailored course to suit students from various field of education. It explains the importance why   non technical people need to understand a how humans can contribute towards making a better society with training robots in a more ethical an moral way.
+Sir machine learning very helpful for me  lerned so many things  but my question is I complete the course but I didn't get certificate I enrolld free certificate course but it asking payment what I made mistake
+This course is very much helpful for the beginners of machine learning. It helped me very much to learn the basics of machine learning and it is very useful for doing the advanced courses of machine learning.
+Very nice course that allows you to understand the ML and AI, how they work and what's the rol that we, the humans, have in all this new schema of living. Congratulations Marcos you did a very good job
+It's a beginner course but they should introduce python programming or something like that can give direction to a student that how to get into the real programming of the machine leaning.
+Good overview of machine learning, its fundamentals and there are some hands-on exercises to do. Overall useful course for anyone who wants to know about machine learning =
+this course is great for the beginners ,even for non-computer-science background people. it was good time to spent on learning and understanding machine learning better...
+Course is very good and very informative..but adding some more data along with that would be awesome.Like, about detailed description of supervised and unsupervised, etc.
+This machine learning course is overall a good course for the students who have keen interest in learning the machine learning module.
+its really awesome after learning about ML via this course gives me a clear cut idea in ML and enhance me to create a model in ML
+This course is for who all are want to enter into the computer science field, anyone can learn this course for basic knowledge
+A very good n interesting course for beginners and a very vast knowledge about the respective courses with more information.
+It is basic course helpfull in understanding about machine learning. If you are aware of basic this course is not recomended
+its very well planned course . it will be much more effective if some algorithms at the background also be demonstrated
+A good basic beginner level Machine learning course,which will help everyone to get an overview about Machine learning.
+Your topics was good.But i didn't like your presentation method as  i don't find it as a good method to teach by online
+It was a great experience while learning about  machine learning,also understood about the skills of machine learning.
+It was interesting and very good course for a beginner and clearly will be able to understand the classification
+It was really good experience. Learned about machine learning in a very easy way . Thanks to the instructor.
+it would be better if some more practical based assignments and more basic models were given for students...
+the course is very simple to follow, but might also be too "introductory" for anyone with engineering degree
+It was really a great course. Having no prior knowledge of machine learning, still I understood everything.
+I enjoyed the course and learnt many things about machine learning.But the quizzes should be a bit longer.
+Good course for beginners.this course should touch deep learning that is also a part of machine learning
+It is  good course for me .i iearned so much about machine learning in the project . It is interesting
+It is really a good course for a beginner to learn something about ML and to use it's applications.
+Very good. Gives you a good start in the subject, specially if you don't have coding background.
+Very well explanation and easily understood by all educational background not just engineering.
+If you don't want too much to read and practically know how ML works, this course is for you.
+Course was good for beginner lvl. The final peer graded assignment took 8 days to be graded.
+Very nice course for beginners u will get the clearly understanding of the machine learning
+The course gives basic idea of what is machine learning and classifiers of machine learning
+If you are a beginner then this will be the best start for you in machine learning field.
+its is joy to do this course! interesting, and the instructor has an important role in it
+It is a very informative course for beginners who are just stepping in Machine Learning.
+Good for understanding classification algorithms for basic and getting starter guys.
+It just covers the basic understanding on the topic what is ML, there is no coding.
+Its a good intro to ML. More like a theory section with some example assignments.
+Good to use image classifier plug-in to classify images through machine learning.
+This is one of the best platform to learn and earn a certificate through online.
+Good and it is a non-technical course. Learned a lot about machine learning.
+Not that much good. Instructor should add more  details on ML algorithm.
+Got a very good overview of what Machine Learning is and how it works.
+Very good overview with interesting peaks in real world applications.
+Great course for learning ml without any code for absolute beginners
+Best if youre just enterring the field. Its the best for begginers
+Very Interesting course for beginners but topics should be updated
+I think this course is good to start from somewhere. Thanks a lot
+I had a doubt that,we have to pay the money to get certification?
+It is a great course teaching the essence of machine learning.
+Nice Tutorial but expect to give more practical details in ML
+I LEARNED THE BASIC OF MACHINE LEARNING AND ITS APPLICATION.
+A good introductory course to the machine learning topic.
+Quite helpful if want to proceed in machine learning
+Great Course. I found it very useful and interesting
+Interesting for a first view on machine learning
+A good course for beginners on machine learning.
+Good cource for learn basics of machine learning
+The course was very basic and well structured.
+Good course to Lear the process of getting job
+The course was good for basic understanding.
+It was interesting curse i had have benfited
+Nice course since it has project work.
+good platform for learning new skills
+the very basics of machine learning
+It can be made more knowledgeable.
+It was  Informative and Educative
+good course.It was really helful.
+Good to understand for beginners!
+Great Course with Freat teaching
+Good course designed for all  .
+I REALLY ENJOYED THIS JOURNEY.
+Good from introductory level
+too small course, but great
+Very nice for beginners
+Lrarnt many things
+its full of basics
+I had no prior experience whatsoever in ML/Data analysis and I have found this course very accessible ( it is for ALL, as the title suggests!) I have very much enjoyed learning the basics of ML and would recommend it to a total newbie as me; assignments easy to complete and possibility for discussions with peers in forums
+I loved how this course explained Machine learning from the base. This is a course that literally anyone can do. I also liked how they explained Binary numbers and all those things in the 2nd week although I mostly skimmed through it as I already knew all of it as I'm an Engineering student. Loved the course though.
+This course was absolutely informative and quite interesting! Since the first video I've been hooked completely learning something new with each video. The interview of a panel of experts was really educative and I got to know about various hands-on projects.
+This course should touch deep learning that is also a part of machine learning
+An wonderful course with basics on Machine Learning. Neatly done. Learned a lot and did some practical exercise too. Those who are interested in Machine Learning  good to begin with this course.
+Very good course that simple and interactive explanation provides you with insight into machine learning world. After this you can confidently start more advanced courses on the topic.Thank You!
+This course is perfect for the beginners who want to grasp the basics of ML. I,absolutely enjoyed this course. Dr.Mario Gilles made the basics of ML very fun and interesting.
+This course is basic without any discussion on different machine learning algorithms or any mathematical concepts like linear regression ,multiple regression ,etc.Nevertheless this course really helped me to understand the basic concepts involved in machine learning and what type of datasets to be collected for getting accurate results.In short,if you are new to machine learning,this course will enable you understand how ML actually works.
+This was an easy to follow class that introduced us to the basic concepts of ML. It progressed lightly over key topics all example with weekly quizzes to cement these ideas. The course kept us in touch with real life experts and allowed us a peek into their world, pains & gains. The final project thrusted us into a real life example of ML of our choosing and make it all worth the while. Excellent class for beginners!
+If you are beginner In ML from a different domain or even computer science and want to have a quick and short exposure to ML with a great teacher i will recommend to take this course .
+The course  is very excellent. I learnt many nuances in the machine learning.I really thank the professor for explaining very clearly and in the standard terminology.
+Brilliantly designed and well structured. Perfect for all beginners! Enjoyed the mini project and exercises.
+Well structured, clear and with a very good assignment at the end of the course.
+The courase aims to provide the main aspects of Machine Learning, the problems of mis-implementations and finally answer to some eithical issues around AI and ML.This course is mainly theoretical, in terms that, if you want to gain some general knowledge and you do not want to go into technical hands on paradigms (no-matter the technical background or even if you do not have much time), then it's an excellent course. surprisingly, it is offered an application for train an algorithm and create a model without writing a sigle line of code. And that is the reason for recommended it.On the other side, if you want to deep dive into technical issues and learn technical skills (like coding ML), then probably this course is not suitable for you.
+A Fantastic course that made me understand the basics of Machine Learning very clear. The course also let me overcome the misconceptions that I had on a few intricacies of Artificial Network.I thank the team, University, and the professor to design a powerful course with a simplistic approach which made learning really fun.I will always cherish being part of this course and learn from you.Thanks and good wishes Jitendra
+THIS COURSE REALLY REALLY FOUND HELPFUL.AND THIS IS A PERFECT COURSE FOR A BEGINNER.REALLY GAINED AN INSIGHT INTO MACHINE LEARNING.BENEFITS AND DANGERS .AND THE INSTRUCTOR IS TOO TOO GOOD.LOTS OF LOVE
+it was a very interesting course, i am very glad i took it, i found the content very instructive and the practical part very useful and fun.thanks to all the docents that participated in it
+It is an awesome course for everyone who are willing to go ahead in the field of machine learning.The instructor is excellent and the course content is very good.
+Nice intro to Machine Learning! Got me excited to continue learning. I am now going through the Machine Learning course from Stanford. Cheers!
+Nice course and good content
+Very clear, well organized.
+At first, I thought it was difficult for me to follow as I come from a different background other than computer science. As I began to progress, the context became clear and I found myself engaging in this more. The teaching style is good, the exercises with examples are amazing. Overall I learnt the basics of Machine learning perfectly, As this topic is so wide there is a lot for me to cover and I am proud that I started my journey from this course. I was also able to complete this course within two weeks as it was very easy to understand. Thank you.
+It's a really one of the best course who wants to start their career in the Machine Learning, The Instructor Explained in very well manner about how the data is important for Machine Learning models, In this course the 3 -4 machine learning models also he made ,so we learner can understand it it quickly and completly. I want to say Thank You who made this course available to us and Good Luck for the batchmeats who learned along with me. Thank you once again to all....!!!
+Very inspiring and well-organized course for beginners to learn about machine learning. Truly appreciated the precise and concise course materials, and the illustrative animation and examples. Also enjoyed the valuable sharing by different experts in the field. The one thing I like most about this course was the "Machine Learning Project" that I found the experiential learning insightful. Overall, highly recommended to those who are interested in machine learning
+I have never completed a course like this before & i cannot express how great the instructor was & the overall content of machine learning.This course explained the very basic concepts of machine learning in a simple way.I had no prior experience in ML but i have enjoyed this course a lot and did the practical exercises too.This is an awesome course for a beginner. Simple ,short & precise way of explaining the concepts.
+Excellent introduction to Machine Learning, especially if you're not interested in programming per se. In my case I wanted to have an appreciation for it without having to write Python code, and the course delivered.Videos were almost always worthwhile, especially the panel discussions.It would be nice for the Coursera platform to allow me to easily find my previous comments on a particular week.
+For someone who does not have Computer Science background, but eager to learn about technology especially Machine Learning, this is the right course for me. i enjoy the practical experience, final assignment, and reviewing peer submissions.  Was it hard? i might be struggle a little bit to understand some topics, but that is part of learning experience right?. I highly recommend this course.
+The Course on "Machine Learning for All" was simple and knowledgeable. The learning approach of Videos, reading, discussions, quizzes, assignments and project has provided a seamless process in understanding the basics of Machine learning. I would certainly recommend this course for engineers and non engineers who would like to learn about ML and AI to take up this online course.
+Good course for beginners who wants to get an overview on ML.Instructor is very knowledgeable and instructions are concise and clear.Practice interface is easy to use and project is helpful. I liked that this course also covered other important aspects of data collection, dangers of ML and its practical applications. The forum with ML experts is interesting. Highly recommended.
+The best machine learning beginner course which is suitable for all types of learners irrespective of their fields!! The course also has a mini - project in the end which is very useful for beginners to explore how machine learning works for a certain problem and learners get opportunity to implement their project ideas here..
+This course is designed in such a way where anyone can learn machine learning in a best way. Also interview sessions was awesome and useful with the people who are masters in Machine Learning. Contents are best which grows your knowledge if you are understanding it properly. Thanks to the tutor and team for your contribution.
+Really Good Course.Gives a good start for a career in Machine Learning.Excellent course for an amateur with no machine learning background.Nudges you in the direction of Data Science.Especially,loved the interviews with Machine Learning Experts who gave really good insights into their machine learning experiences.
+I totally loved this course. It make me realise that machine learning is not that hard as it seems, and its a lot more interesting if you go deeper in. The best part was testing. Our teacher of this course is amazing and i would recommend learners to go through this course if youre interested in Machine Learning
+An amazing course for an intro to ML for people from any background. The best part is you get do small assignment of your own and have fellow learners give you feedback over it. This, with getting to review other people's assignments adds so much to the understanding of the content the course emphasizes on.
+It is a good course for beginners like me. The course creates motivation for Machine Learnings challenges.I congratulate the idea and the way Professor Marco Gillies has guided this course. In my opinion, the panel of experts was an interesting exchange of ideas and one of the best parts of the course.
+Thank You ...I found  this course very interesting and informative.This course gave me insight of machine learning and covered important basic  concepts of machine learning.There is so much to learn from assignments,quiz and final project which improved my thinking in Machine Learning.
+The course is a wonderful introduction to machine learning for beginners. It covers the basic and terminology and has an amazing ML browser plugin which allows you to dive right into putting it to practice. Highly recommended for anyone who wants to know what machine learning is.
+This course is very helpful and has given me an insight into what machine learning actually is!A very good course to start with at the foundation level without programming. It taught me how to train and test my model and increase its efficiency by experimenting with data.
+It is very good for beginners for machine learning. As well I'll strongly recommend  others to do this course. They take different activities to understand better as well provide articles related to machine learning. I'm very happy with this course. THANK YOU.
+Simply an excellent course !! I got to learn very valuable insights in Machine Learning and also got a chance to work on hands-on project...my first in ML. Thanks a lot to Dr. Marco Gillies & Coursera for offering such a knowledgeable course... :-)
+Great course and really for everyone with no pre-skills needed. The teacher was pedagogical. The course was intuitive, structured, and easy to follow. The course covered all the basics that helps you get a better understanding of machine learning.
+Very good beginnners´course, the teacher is good and the interviews with experts sharing their experiences and advice was definitely a plus! Also the possibility to simulate tests and create your own project was really useful and exciting!
+The course is outstanding for beginners. I have come with zero knowledge on computer science and machine learning. Right now I have a idea of ML and also keenly waiting to apply it in daily life. Thank you so much for offering this course
+A very interesting course, with a very good approach, it's really exciting to be able to put the theory into practice so quickly, thanks to a really well done tool. The interviews also make this course very lively, congratulations!
+This course is very useful. I learnt how machine learning work in this course. I want to thank Dr. Marco Gillies for teaching such amazing course. I look forward to learn how to code such type of image classifier in the future.
+It's a great course for anyone who wants to get the fundamentals of machine learning and artificial intellignce. The practical excersize is just great as it allows you to play with your own data and see whether machine learns!
+Very nice course. I would really thankful to the instructor who makes this course impressive. This one is the first course that I took on Coursera. I am hopeful that this course will help me a lot in the future. thank you!
+Provides an excellent explanation of the roots of machine learning without any technical details. Would definitely recommend for people who want to learn ML, Deep Learning and other exciting fields in Computer science!
+Very nice introductory course. This course gives you an overview about Machine Learning and its applications. We will also use an ML classifier in Week 4. Those who got fascinated with this ML then can further explore.
+Before following this code I had very blurred image about machine learning. Actually this is a very good course for beginners. This course is capable of turning you to right direction in the field of machine learning.
+An incredibly good tutorial for machine learning beginners. I learned a lot. Especially the application parts helped me understand the subject better.I would like to thank everyone who contributed.Best regards.
+This course covers the basics of machine learning and it is very good for beginners. The instructor explains the course very well. Thank you, Dr. Macro Gillies, and thanks Coursera for providing the platform.
+Really helpful in understanding the basics without destroying ones interest. The course uses interactive platform to make us understand what machine learning really is. Thanks to the instructors and Coursera
+Awesome course, teaches the concepts of machine learning to anyone regardless of previous knowledge. I suggest anyone who just wants to understand how machine learning works to enroll in this course!
+An wonderful course with basics on Machine Learning. Neatly done. Learned a lot and did some practical exercise too. Those who are interested in Machine Learning good to begin with this course.
+This course is very useful for beginners. I learned so many things about Machine Learning. Learned about different projects from experts , what they have done. It's a good course for everyone.
+I really loved this course. The lessons were very clear, for someone who wants to understand what machine learning is this course is perfect. I do recommend it. Thanks a lot to the professor!
+Excellent introductory concept to Machine Learning. The course is easy-to-follow and clear to understand. The quiz at the end of each chapter also serves as a good recap to the understanding.
+A great course!  This is my first step towards machine learning ! Learned alot. Loved the course and the way the professor taught us! ❣️Thanks to coursera and University of London ❣️
+It was a great time to learn new things from this course. This course has helped me understanding the fundamentals of Machine Learning. Due to this Course I am clear about the ideas.
+Very engaging and I learned a lot. I had absolutely no background prior to this, and now I'm excited to delve into machine learning. The teacher is very nice and good at explaining.
+Very gentle, but clear introduction to Machine Learning. Touches upon the basic fundamentals of ML. Excellent short course to take for people wondering what ML is and how it works!
+I enjoyed this course. The best thing about this course is it is for every one i.e any one can easily enroll and learn this course without having much of a computer background.
+Awesome explanations and so simple ways used by instructor and the entire team. Its beautiful to be able to learn specially in these times of difficulties. Thank you Coursera
+This course is good for beginners. It gives knowledge about AI , ML and how to actually use this in our daily life. I will surely look forward on learning ML in detail.
+this course is extremely useful and important, thank you to the professor Mr Marco Gillies and their teams who comes up with the masterpiece in the form of course.
+It's a course for all who want to know what machine learning is...For a beginner I will assure you that you will get a pretty good idea about ML after the class...
+Machine learning is a part of artificial intelligence.. I have learned something new skills of machine learning ...its a very usefull course of machine learning.
+It was a very nice course for beginners as I am. Thanks to the instructor for well explanation. I learned a lot . And hope it will be useful for other learners.
+The nice and simple explanation for beginners. The language was easy to understand and The instructor did not go in-depth as it is a very large topic. Thank you
+A very good introductory course to Machine Learning. The course instructors gave very clear training accompanied by well presented videos and course materials.
+I think this is a great course of Machine Learning for beginners, i would highly recommend this course if you want to go deeper intro Machine Learning or AI
+This course is wonderful for anyone who wants to start studying Machine Learning. This course gives a good foundation in Machine Learning for beginners.
+Best course for beginners. Well explained by the Professor and Interview sessions gave more insight in to industry oriented side of machine learning.
+its osm learning about mi info is in  detailed  way with theoritical and practical by solving the problems based on the prsent and the future senario
+The course an idea about the capabilities of ML. it is designed so that it is simple and able to follow for those from non-engineering backgrounds.
+It helps me to understand ML with a more structured approach, especially by using simulation data traning and testing data using image datasets
+Dr Marco Gilliesyou are simply superb trainer. You were  providing practical knowledge too. It was really enjoying doing the course.Thank you..
+I enjoyed myself the course, It's well estructured, easy learning and practical. Content is suitable for everybody whom wants to learn about AI
+This the best course to begin with before taking this course i did not know much about machine learning but now i can surely raise my hands up
+I have Learning lots about machine learning .that how to collect data set what is modulehow machine work on algorithmssuch as great experience
+Clear overview on machine learning world, with focus on images, very interesting. It helps to understand why all people should known about AI
+This course was fantastic as a starting course in Machine Learning, if you're interested in starting this career this is the perfect course
+A good course for beginners. Instructor is very good. May try to improbe the assignment part and also include a topic on algorithms for ML.
+I enjoyed studying this course. It was very helpful and knowledgeable and it helped me to gain the basic knowledge about Machine Learning.
+Please improve the plugin for machine learning exercise. This course excellent but in this course i I am not able to perform exercises.
+It was simple and easy to understand. it his highly recommended for beginners who want to learn about the basics of machine learning.
+The ML course was very good ,all the basic to advanced topics were covered ,and i hope the project submited by me will be fruitful.
+The course was very helpful in understanding the basic concepts of Machine Learning. The videos were very helpful and informative.
+A very good base course for non computer background. I really liked the combination of theory and the Machine Learning assigments!
+I was a beginner for machine learning and learnt alot from this course. I very big thanks for the instructor. Thank You very much
+Really great course to understand the very basics of ML. Very well explained by Mr. Gillies. Thank you for this wonderful course!
+Excellent course. Introduces you to different concepts of machine learning. All the assignments are interactive and informative.
+It was an awesome experience to learn machine learning. i made my first ever machine learning model. m so happy to achieve this
+The course was excellent. Very interesting ans so well explained also for those, like me, with no computer science background.
+Helps me a lot in my research. Next time I like to learn about various types of classifiers and their role in current research
+Idea assignments, projects and panel of interview  of machine learning was extraordinary and very much lively, interactive.
+FIRST OF ALL THANKING YOU TO GET CERTIFICATE WITH GOOD SCORE (97.5%) NEED TO ADD TWO MORE DISCUSSION IN INTERVIEW SCHEDULED
+It is a wonderful course for getting yourself introduced to Machine learning. I highly recommend it for all the beginners.
+It had a lot of information for Beginners' course. Well designed. Instructors had covered major points in precise manner.
+It was amazing learning course. I am from biological background but I didn't any face problem. Course were well taught.
+Really good explanation done by Dr Macro Gillies. I really liked the Machine Learning Model for interactive learning.
+A Very Nice Course for Beginners. This course gives the basic Understanding of Machine Learning and its applications.
+Awesome , I really enjoyed doing this course . I liked the way they conveyed the content about the topic. Thank you.
+Machine Learning is made easy and interesting in the course. The project session and its evaluation was awesome.....
+Even though my background is not computer science, but I have learned comfortably. Very good lecture, I liked it.
+The course was extremely good and was well ordered. Also the instructor was very knowledgeable and supportive.
+It was really a great experience learning this course.  It has a very good combination of theory and practice.
+It was an insightful course for someone like me. Definitely a great introductory course for Machine Learning!
+Course instructor was best and I am biggner so I learn basic of ML in this course in a good,entertaining way
+i thought the class was interesting and the instructor did a  great job making it mire informative thankyou
+An introduction to the world of Machine Learning, how to create our project, load our data and evaluate it.
+its a very good course .It is best for beginners in machine learning or who want to start machine learning
+This course is the Basics of ML, people who want start from scratch can take this it's a wonderful course.
+Excellent course for beginners. It gives a global and precise idea of the meaning of machine learning.
+It was good opportunity to have the course.Overall syllabus was easy and anyone get get the glimpse.
+Very good introductory course to the concepts behind ML. Thanks to the team that created the course!
+I gained basic knowledge and better knowledge about machine learning in today's technological world
+This is actually a good course for the newbies, they will get a good idea about machine learning.
+it is very interesting for beginners to learn basics of ML by getting enrolled into this course.
+I found the course very practical and helpful to increase my basic knowledge of Machine learning
+An overall good course with balanced readings and practical implementations of machine learning
+It's best specially for those who does not know anything about ML and starting it from scratch.
+This is very good course by which you will do your own machine learning project .Really Awesome
+It is an extraordinary course for those who want to learn machine learning. Awesome course!!
+This course gives you an overall idea of machine learning and the projects are really good.
+So good. I did not have any idea about machine learning but i have more knowledge about it!
+Great course for beginners. Provided all the basic knowledge required for Machine Learning.
+it is the best first step one can take to journey to machine world,cant wait to learn more,
+the course was very informative and the expert's talk on machine learning was very helpful.
+It is an extremely well defined course for beginners to get the concept of Machine Learning
+This couse is very good if you want to get yourself introduced with ML for the first time.
+it is an excellent platform to learn advance courses and encouraging to learn more courses
+Very clear and concise Course lectures.  Excellent, Very well organised Best Course ever.
+Liked it very much.Laid a strong foundation on the topics of Machine Learning.Thank you.
+Wonderful course! Thank you for introducing the concept of machine learning so clearly.
+I loved learning  now I might go on to learn more of the courses to develop my skills .
+Really Good Course. It give well introduction about Machine Learning and its Practices
+Exceptionally good learning course by Dr. Marco. Would like to say thank you to him.🙂
+I had a great experience with coursera's ML course and its implementation .Fantastic
+It was amazing experience doing this course . Learnt a lot about Machine Learning .
+even though it's not a one-to-one approach,I found the teaching really interesting!
+It was an amazing journey by side of 8university of London through Coursera with me
+This is very useful for the beginners like me . The prof is very good at explaining
+Its good, i didn't just learn i enjoyed working with classifiers its just perfect.
+A very good course. The approach of teaching was something which I liked the most.
+It is probably the best course for beginners, who want to explore Machine Learning
+Great course for starters who are completely new to the field of Machine learning.
+This course is very usefullBut maintain some algorithms regarding machine learning
+Very interesting course. Even a beginner without subject background can be learnt
+Excellent course for beginners understood all the basic concepts of M.L very well
+Undoubtedly one of the best course for beginning the journey of Machine learning.
+Very well done, covered the basics which was very helpful for beginners like me.
+This course is really help for those   people who understanding machine learning
+Thank you, sir, for this great Machine learning course you explain it very well.
+very good and  gotten idea on machine learning. Understand about ML applications
+Course is fulfill with information. get a good knowledge about machine learning
+excellent course , easy to understand even without any knowledge in cs field.
+I'm very much interested in machine learning.These lectures made my interest
+The perfect course for machine learning beginners irrespective of the field.
+It's important to get the basics right, and this course really helped me.
+This course really gave me a view of my own .It's perfect for beginners .
+It is very good course in machine learning thanks to university of london
+A really good course to get the basic understanding of machine learning.
+An amazing course Very impactful and to the pointVery important nowadys
+you can learn perfect basics for ml. i hope u can enjoy this course...
+A most useful course for the people who are starting Machine Learning.
+For people that don't know anything of ML, it's a really good course.
+Interesting course it was,  and will be helpful for our FYP selection
+It was great to learn and even experience this opportunity.thank you.
+This course is best for beginner who wants to learn Machine learning
+Very clean explanation along with a good panel for panel discussion.
+Good option to the first contact with the world of Machine learning
+course is very exciting and  create my interest in machine learning
+Great Opportunity to learn and get Certificate FREEly. Thanking you
+it is a very good platform for machine learning in beginner level
+It was extremely good. I could learn many things..Thank you :-)
+i have learned how machine learning is working on AI technology
+It has very good notes and contents but try to make it awesome.
+Really a good start for everyone interested on machine learning
+Great course and instructor! easily to understand to beginners
+This course it's excellent and very helpful for your project.
+I had much Fun while
+learning about Machine Learning and AI.
+All you need for a beginner to learn about machine learning
+this lecture is very helpful for student projects thank you
+Great Experience with this Course to learn a lot of things.
+great course changed the way I think about machine learning
+very very important and perfect to learn for all student .
+Wonderful Course. Wonderful experience. Thank you so much.
+A Great course for a beginner of machine learning student.
+Thank You Sir for such a precious explanation and knowlege
+Very nice good input and start for beginner in this field
+Superb course for learning machine basics.. As well as AI
+It help me to understand the concept of machine learning
+it gave a complete overview of what Machine Learning is
+Love you Dr. Marco. Hope to meet you in person someday!
+Wonderful introduction to the world of Machine Learning
+good course conduction for absolute begineers. good job
+EXCELLENT COURSE AND  GOT A LOT OF KNOWLEDGE ABOUT ML
+it's very useful and even interesting .just go for it
+Good explanation and easy to understand the material
+It was a great session in fact it will be our future
+very good course curriculum and very good instructor
+a perfect place for gainig better advanced knowledge
+It is a nice course and enjoyed being a part of it.
+Starting point for every machine learning beginner.
+It's really a great course for any beginner in ML.
+Excellent course for Beginners in Machine Learning
+excellent course for beginners of machine learning
+Very good Foundation for the Ai who wants to learn
+It is good course to start with machine learning.
+I'm very happy with this course. I learned a lot
+The instructor is quite calm and not in a hurry.
+Very helpful background explanation of ML and AI
+Machine learning is the one of the good course.
+it was great course experience about the basics
+Great Course, great teacher, great experience.
+great experience by learning ml. Thanks a lot!
+Very informative course ,learnt a lotThank you
+This is the best course....and very helpful...
+Simple and Useful. Would like to go through it
+It was an amazing experience. Good course! :)
+It's really useful and I found it interesting
+this is very helpful for me and easy to learn
+It is best for beginners from any discipline.
+very interesting and beneficial for beginners
+Very Good explanation of a difficult topic!!!
+this course helped me to start my ML journey
+It was a good experience learning from you.
+This course was really useful and excellent
+Very useful! Everything is said precisely!
+Really interesting and easy to understand
+Superb Course. Specially the interviews.
+excellent content and very good teaching
+Good....But need practical Example more
+Very informative and interesting course
+easy to understand ... but too short :(
+Very interactive and interesting course
+Uunderstand clearly it is very awesome
+Best course to start Machine learning
+It was awesome learning with coursera
+A well learned about machine learning
+Very intuitive course for beginners.
+very useful course. it is the future
+Best way to start  machine learning.
+I learnt alot about machine learning
+Best way to learn the basics deeply.
+very good course for  basic learners
+Nice explaination by giving examples
+good course contents and structure.
+Excellent Course for the beginners.
+Very lovely and informative course.
+an outstanding course for beginners
+Amazing Course and learned a lot .
+Very useful and beneficial course
+Very well understood the Concept
+This experience was really good.
+Good introduction course for all
+super course on machine learning
+Very good explanation by expert.
+It is really good for beginners.
+Thank u so much for this course
+Very good course For starting!!
+fantastic course for biggniers.
+very good and use full to learn
+That was excellent instructions
+Very good and excellent course
+For beginner i'll this course.
+Nice course to introducing ML
+very beginner friendly course
+Thank you, sir....Nice course
+enjoyed doing this course!!!
+Nice course for beginners...
+really a good starting point
+it was a nice experience...
+one of he nececsary coarse
+THE teaching was excellent
+good course  for beginners
+Over all it was amazing..
+I really enjoyed doing it
+Very interesting subject.
+It's very useful to learn
+nice to learn from here
+Machine learning course
+Very intersting course
+Learned so much. Nice.
+very useful i loved it
+It's good for learning
+Thanks for the Course
+nice traning session
+Un enroll the course
+EASY TO UNDERSTAND
+amazing teacher..
+good start on ML
+Funtastic course
+Amazing, Thanks!
+Cool to learn...
+Good course....
+It's was good
+Good course .
+More helpful
+great sir...
+Great Work.
+Enjoyed :)
+Awsome!!!

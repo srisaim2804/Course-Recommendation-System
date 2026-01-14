@@ -1,0 +1,73 @@
+i am giving this note because they read theirs textes. it is not a teaching method. ı could read myself as well. i don't' understand why they do like this. in addition, the project is not well planned.
+Not much details were covered
+Mathematics taught is very abstract. Not many practice examples and linkage to practical side. Not much guidance on guided projects.
+K Mean algorimth need to be explained in more detail with 2 to 3 examples
+Good introduction to k-means clustering using Python. Easy for follow.
+It's a good course but data cleaning should also be included...
+Good course.. But self study also needed...
+The course was well until the last week.
+This course starts from fundamental level. The instructors clearly explains statistical methods such as mean, variance, standard deviation, variance etc with python source code on a simple data set. Then they have explained plotting with labels and finally how to apply k-means clustering on bank note authentication dataset.
+It was not fully explained how to use Python, therefore I should have looked for the more information through internet by myself.However, it was quite interesting to understand why data science could be important and how to use with K-means clustering.
+Overall what you get for the price is about right. Sometimes there are glaring gaps in the presentation of concepts, and how sections fit together. In the end it served its purpose to me - to see if I want to continue exploring data science a a field.
+I would highly recommend this course for any beginners. it simply suits both the first timers and people who wish to further existing knowledge and understanding of Python and data science to another level. enjoyable homebased learning.
+The lessons based on maths had a lot of text; it would have been better to base it more on graphics or imagery, since it was confusing to follow speech and text on video at the same time.
+It is a very detailed and well planned course. However, there could have been a few lectures at the end on training set, testing set etc.
+Very good course to help you understand the basics of data science, the videos are short so will not cover everything you need
+It was a great journey to get through it. Thanks a lot to all the instructors for their valuable job and effort :)
+Good intro into K-means clustering. Some great introductory math tutorials and basic python programming.
+It is a good one for the beginner who is ready to give dedicated time.
+More time should be given in the coding part.
+Very good if new to data science
+Nice course for New learner
+This course gives us a good balance between theory and practice. I wish there was an intermediate or advanced level to continue.
+The course was very well layed out and divided into short lessons. Things were explained and I found them easy to follow. There was also plenty of focus on practice. Assignments were peer reviews which made the process quite fast. The assignment made me understand the bigger picture and pushed me to do further reading/research. I very much enjoyed the experience The only problem I had was with the app. I could not use it to upload, submit quizzes or properly view peer's work or my own feedback.
+I felt that the instructors were passionate about the subject and it made me want to learn more. The course assumes that you don't know any python, which was good for me as that was exactly my situation when I started. However, if students did have a more advanced knowledge of data science concepts and python they could show this off in the assignments.
+This is a very good and useful course for learning about the basics of data science. I highly recommend it if you want to start learning about this field. Basics skills of coding are recommended
+184/5000Conferences of very good quality, and the platform for practices is really useful to put the theory into practice. I recommend this course if you want to start in data science.
+I liked it, very usefull and objective guide to implemt the algorithm, I also liked the format, many short videos wich is great to keep concentration
+Excellent course! It was well distributed, videos and theorical content, and then, practical videos and cases. Recommended!
+This course is at right level for a beginner (python and analytics) while going into details around K means clustering
+It is a very apt course for beginners. All the concepts have been taught and discussed properly
+Great introduction to clustering. Week 5 material could be improved - not as good as 1-4.
+Really enjoyable and well thought through. As someone new to data science I learnt a lot!
+Thanks for this course. It was good experience and content of course was also very nice.
+Started from scratch and excellent progression! The sad part is that we only learnt K-means, would like to learn more topics via this structure :) Discussion forum commmunty was also super helpful! But, of course, you might have a different experience. Had to find some code on my own, yes, that's how it is in real life, but I'm lucky that I had generous and communicative peers who were open to sharing their code! I shared too - here's my link: https://www.coursera.org/learn/data-science-k-means-clustering-python/discussions/weeks/5/threads/MtHzBf6_EeqUdwo2TDNrdw Also, took a while for my assignments to get graded, I don't know why, but you can trade peer reviews with your peers in the forums (i.e. grade their submission in return for them reviewing yours) :)
+Learned much from this course thanks to all great instructors. It will be better if learners have some basic Python knowledge otherwise may have some difficulty in the coding of the assignments. As with all MOOC there are always rooms  for improvement. For this course my thinking is that some sections need to be revised for better clarity e.g. the Mathematical explanation on Euclidean distance where it can be overwhelming and the learners may find it difficult to relate it relevance to K-Means amongst all the mathematical jargon.  Overall this course provides good insight for beginners into understanding K-Means using Python, and an overview of performing proper data science project.
+Excellent and very well designed course. The way the course exponentially takes you from the very basics of the topic to a certain level of mastery is commendable. If you know the basics of data science and Python programming, this course can easily be completed in less than a week. The peer reviews can be more productive if fellow learners actively participate more often and leave valuable feedback, rather than only responding to mandatory radio buttons for feedback.
+I would highly recommend the course to those who have no background in Data Science. I started without any knowledge about Python and upgraded it with the help of this course. Videos are short and informative. Assignments are short and related to the videos discussed before. It's easy to finish the course before deadlines.The only drawback is that the course doesn't have any Financial Aid.
+The course content is great. I especially enjoyed Week 4—the lecturer was concise and engaging. There are lots of people plagiarising others' work by screenshotting their charts though and re-submitting their work which is sad. This course would benefit from a summary at the end of week 5 explaining what conclusions we might or should have come to.
+This is a perfect course for those who just dove into the ocean of data science. This course teaches you with the very beginning and you can easily tackle everything even you don't know anything about data science. I highly recommend everyone to start with this foundation level course if you want to excel in the field fo Data Science.
+I think this is a very good course for beginners in Data Science and Python. I know how to implement K-means algorithm but wanted to learn Python, so I took this course. It is well organized, and videos are short and concise. I am looking forward to more intermediate / advanced courses of this.
+Great course. It involves a lot of independent work but that is the nature of learning to programme in any language.  Once you get down to doing the work the course is enjoyable and the learning curve is steep and therefore productive. Time well invested
+I love this course as it gives me the foundations of learning the Python coding program and relevant statistical methods that used for data analysis.  It's really interesting course to attend to.
+A well presented and interesting course.  It would have been good to have some more complex examples with the thinking behind them - the exploratory bit/intelligent bit of the process.
+Highly recommended to anyone who wants to delve into data science. The instruuctors, the universities and Coursera team are well dedicated and the course is of high quality.
+Very interesting course! The lecturers explain concepts thoroughly which makes the concepts easy to understand even for people without much knowledge in Data Science
+It was a well-taught course. I felt that during the final project-making, students were not spoon-fed, instead, pushed us to become more creative.
+Amazing Course. I got the basic understanding of K-means clustering also assignments are very good and tricky also
+It gives you a really complete first glimpse into the clustering and data analysis world! Great teachers too!
+It's a good introductory course that actually makes you start thinking about the subject of data science.
+I learned a more about Data Science K-Mean Clustering. very good design and practical.
+Found the course to be concise and informative; kept my interest going till the end
+Nice introduction to Data science. It gives you a glimpse into the possibilities.
+Well organised and the flow of information is superb, meets the objective by far.
+100% Recommended, Is a good tool if you do not know anything about Python (as me)
+This course its good if you want to learn about data science K-Means Clustering
+Excellent instructors, easy to learn and good quality course design.
+This is a great course to get started with Data Science and Python.
+Excellent course, very well explained all topics, thanks a lot!!
+Excellent!. Very well explained. Step by Step. Great Instructors
+A good introduction to Data Science and Statistical thinking
+Loved the Python and the Mathematical explanations.
+It is a very useful course. 
+I can only recommend.
+Everything is good for a beginner in this course.
+was well explained and a good insight provided.
+I hope there will be another  AI-curse
+Excellent course, really enjoyed it !
+Very useful for foundation knowledge.
+great course, i 've learned a lot.
+Very good course for beginners!!!
+learned a lot ,thanks!!
+everything was perfect
+Very good quality.

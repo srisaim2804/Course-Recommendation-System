@@ -1,0 +1,84 @@
+To lessons are shallow, exercises to repetitive.
+It is the worst course on deeplearning.ai ever. It is too simple for those who already took DL specialization and too difficult for new ones. The 'lectures' are too superficial and you will barely understand a thing. But tasks are huge -- a lot of spaghetti code with few levels of enclosed IF's, with constructions like A[i][j:k][l+1]. You will spend your time doing the bad implementation of 100K times implemented things that will not provide you with enlightenment on how they are implemented because of a lack of the theory.  And nobody will teach you to use standard tools on simple and understandable examples.
+Too simple. The practical assignment is more not about learning embeddings, but about running about forward and backward pass on the shallow network.
+Viterbi algorithm could be explained better and Week 4 seemed very rushed with lots of details just glossed over. The assignment of week 4 compared to previous weeks seemed pretty easy.
+Lots of Quality Control issues.  using paid customers as proofreaders is tacky.
+Nice course, but assignments in this course are less practical than in the first course of this specialization. The last assignment in this course was implementing the word embeddings generation using your own neural network. The whole process of writing your own neural network is nice except the resulting word embeddings that look very bad and ungrouped on the plot and the text in the notebook says: "You can see that woman and queen are next to each other. However, we have to be careful with the interpretation of this projected word vectors" without an explanation of what's wrong with the results. So I think that the last assignment should be reworked by the reviewers to have illustrative results at the end, not just "Word embeddings at the end are bad. Bye-Bye, see you in the next course"
+Although the content is great but the way of teaching is lacking relative to how Andrew teaches in Deep Learning specialization. More interactive teaching with a pen tablet would be more engaging. The whole course seems like a recital of the slides. And the intructor's voice is a little bit irritating to listen to over longer durations. Otherwise the course provides a lot of learning if you can bear it.
+It was a good course to introduce on AutoCorrect, AutoComplete, and Create your own Word Embeddings. However, I feel that the instructor focused too much on the implementation details. The concepts of why the pioneers are able to formulate the solution or train of thought for the different algorithms is lost. Although it taught me a little bit of implementation, but for me the implementation is just cherry on top as these things can easily be googled. So, It would have a better impact if it also teaches the concepts/thinking behind these algorithm so that I can re-use its underlying idea. Overall, it is good course to get started.
+Too many gaps in the course. Many concepts not covered in the mathematical sense basic Grad. Desc. math would have been helpful. Also if you want to omit it totally you should have atleast one lab on how one would do it in real life using which library? Pytorch? Keras? What? Rest of the course is okay. Younous is great in explanation.
+Too many autograder issues. For instance in week 4 even if all code is correct, you get incorrect error messages about results being expected a completely incorrect type. Also, some minor maths errors and missing deeper insights concerning maths and motivations.
+well I did deep learning specialization earlier things are mathematical, but here they don't go much into maths, and please make some concept chart, to link different algorithms.
+This was an okay okay course
+Not much useful
+This course is more mature than the first one. Materials are very interesting and provide nice intuition for the probabilistic models. One can study the basics of auto-correction, Markov and Hidden Markov Models as well as the N-gram models and very important approach - Word2Vec, which is the essential part of the modern deep learning algorithms. I really enjoyed this part. However, there are some minor suggestions: 1. Lectures duration could be longer - it will help to provide more depth in materials in both math and code side. I know that this is a simple version of real academic course, but in order to increase the quality you should consider the increasing duration;2.  Programming assignments are not balanced and there are still some minor ambiguities. For instance, the first and HMM assignments are tough, whereas the last one is a piece of cake.3. The course can be enhanced with the additional part dedicated to Probability Theory, maybe a few lectures more.I recommend this course to everyone interested in NLP. Note, you should read and study the additional resources to reinforce  your knowledge, here is just the starting point for a good researcher. Keep going, guys!
+Homework is too easy. The answers are pretty much given to us.
+This second course like the first feels like a first or second year university course. Sometimes the explanations are weak or missing. There was no explanation for why the Viterbi algorithm works, no explanation for how to decide which embedding extraction method (W1 columns, W2 rows, or average of the two) method to use. There seemed to be little or no TA support. Many people were posting questions and not receiving answers from TAs. I posted the mistakes I identified in the course content, but I don't think anyone is going to act on this. It would have been good if the last exercise were repeated in Tensorflow. Also it would have been good to actually use the embeddings for something in the last exercise. From the PCA graph, the embeddings looked pretty poor.
+Course was very insightful about the latest enhancements in the field of NLP. The exercises designed was very hands on and I loved that. However I felt a bit incomplete as I didn't see any large dataset in action, maybe my expectation was wrong. I was also wondering if I can get to see some more applications of these language model and word embeddings in the course.
+Good for the basics of NLP. Good mix of examples from classical NLP (e.g. n-grams) and neural nets (e.g. embeddings). As usual from deeplearning.ai, great motivating examples such as autocorrect and autocomplete to help us understand the materials. The neural net examples could do with more equations as in other deeplearning.ai courses.
+I found the course really helped to reinforce my understanding about importants concepts like n-grams, HMMs and word embeddings. The labs are pretty well spread out, and by the time you get to the week-ending assignments, you have all the info you need to complete.
+Good course, but the lecture notes in week 2 can be much more improved. Understanding Viterbi algorithm without visuals and animations was very difficult. Apart from that, great course!
+The course is exceptional in its own way by bringing people to the understanding of probabilistic models. Crisp & Clear. But one need to explore & practise more to gain expertise.
+The Viterbi algorithm introduction is a bit hard for us to follow. Probably some writings may help guiding through each steps.
+Sone Quiz should also be there. Assignments can be solved by python knowledge an following the instruction
+Assignments were incorrect. Lot of content was squeezed in the last week. Even spread would be ideal
+I love the way the instructor teach and the course design which is made to be simple but effective
+This is a good course but I would like to see more emphasis on the mathematics.
+A great course indeed! However, it would be even nicer to have the lecture videos in a slower pace, maybe go through the examples in more detail. Sometimes it felt too quick to jump directly through the theory to examples.
+Great teacher, good pace in lectures and assignments. There are of course some redundancies wrt the previous specializations but it's nice to feel that you understand the content a bit better every time. Didn't find the forums (internal & slack) very useful, could be better structured. Can't wait for the next 2 courses.
+Excellent! I know this course is the beginning of my NLP journey, but I can't expect more than this . The ungraded labs are very useful to practice and then apply it to the assignment. I am giving 5 star because There is only 5.
+Brilliant course!!!! love it every aspect of the course. i am really grateful to the deeplearning.ai team for such amazing courses. they are easy to digest and provide sufficient math knowledge to understand the models.
+Professor Younes really makes easier for me to go along the lectures and to be focus. The structure of the course helped me a lot to constantly review the same concepts as I went further in order to learn new things.
+I have a wonderful experience. Try not to look at the hints, resolve yourself, it is excellent course for getting the in depth knowledge of how the black boxes work. Happy learning.
+This course is great. Actually the NLP specialization so far has been really good. The lectures are short and interesting and you get a good grasp on the concepts.
+A great course in the very spirit of the original Andrew Ng's ML course with lots of details and explanations of fundamental approaches and techniques.
+Thanks for sharing your knowledge. I am happy during the course and I also leave a couple of feedback for minor improvement. All the best.
+I enjoyed Younes's teaching style and the specializations course structure of asking the quizzes in between the lectures. Also the ungraded programming notebooks give grounding and hints while allowing the graded work to be challenging and not completely obvious. Thanks to all the coursera team for sharing such deep knowledge so universally and easily. This knowledge sharing to all that seek it, is what I think is the hope for AI to stay relevant and not get lost in hype.
+Greta Course, Nice Contents from basic to advance NLP...coverage of topics about word embedding,POS, Auto Completion was very good, assignments are challenging one but learn lot of things by hand son practice, hints are useful ..looking forward to complete remaining courses from this NLP specialization...Thanks to all instructors
+Great course to learn word embeddings, the instructors are excellent at explaining key concepts in a very clear and concise way and the accompanying assignments and labs serve their purpose in getting hands-on experience with implementing many of these NLP models
+The overall contents are very much interesting & also helpful. But week2 & 3 was a little bit harder for me. So I think, those contents can be little bit more informative so that anyone can go through the week's assignment more clearly.
+Excellent course, the explanations given by Professor Younes were very clear. It allowed me to learn more about how natural language processing is done on the inside. Thank you to all the teachers for sharing their knowledge!
+A good course that covers several important probabilistic models in NLP. Very good balance between challenging and easy. There are also some interesting software concepts like dynamic programming discussed. A fun course!
+This course goes hand in hand with the Daniel Jurafsky's introduction to NLP (Speech and Language Processing) and provides the knowhow for hands on implementation of simple but powerful probabilistic methods.
+Very good course! helped me clearly learn about Autocorrect, edit distance, Markov chains, n grams, perplexity, backoff, interpolation, word embeddings, CBOW. This was very helpful!
+This is one of the best courses i have taken. I have learned a lot from this course. Assignments were great and challenging. Thank you deeplearning.ai team for this amazing course.
+This course is very good introduction to NLP Probabilistic models such as Hidden Markov model, N-Gram Language model, and Word2Vec with Python programming assignments.
+Totally enjoyed it. I took a Deep Learning course a couple of years ago and in some respect, it was a great refreshment form two years ago. Thank you!
+More fun if it would have  more ungraded coding problem to solve ,It would be optional so that who wants to do more practice can be benefitted.
+A bit light on the math vs. some other ML courses I have taken, but the good news is that this lets the focus be on the NLP-specific material.
+The course content was really engaging. This really helped in understanding many of the basic foundational models for pivotal tasks of NLP.
+Excellent course, although the last assignment is very straight-forward and may be good to have a more in depth coding of the loss.
+now we are talking, i really enjoyed this one, this gives you a pass to the first course as i didn't enjoy it at all :D, good job!
+Amazing how you make it look so so easy and explain straight to the point. Loved the implementation details and the notebooks
+All my doubts about word2vec models were cleared, after taking up this course. The instructor's diction was easy to follow.
+Loved it! The lectures as short and concise and the ungraded labs are a bonus which helped me learn a lot!
+Great overview! Includes building of a neural network from the fundamental building blocks with numpy.
+The course content and exercises cover state of the art NLP applications and their implementations
+This was another great course that provides a lot of chances for hands on coding experience.
+I got refreshed on NLP with the courses,  great lecture and the coding are very friendly
+I am satisfied with the instructor and the materials offered| Thanks deeplearning.ai
+Fantastic course. I had so much fun learning about these important concepts in NLP.
+Really great content and exercise implementing all calculations to Model training.
+In my opinion, the section about Hidden Markov Models needs more detailed videos.
+Practical approach to real-world examples, best alive online course about NLP!
+exceptional course, will be able to apply some of these learnings to my job :)
+Great course, learned a lot. In particular,I learned some new NLP algorithms
+Lucid explanations. Looking forward to other courses in the specialization!
+it is very well structured and explain and in the short time is really goog
+A really great and highly practical Natural Language Processing course.
+Well explained course. Covers all the details you will ever need
+It's more difficult than I expected and I enjoyed it.
+It was really exciting for me!Thanks, deeplearning.ai
+This is really helpful. Thanks to all contributors!
+As i had told before,this specialization is amazing
+Great quality! Very clear on word embeddings.
+This course was a little more challenging
+It's really good and useful for me.
+Very challenging but rewarding.
+useful including probability
+Really great course for NLP
+Very Good and useful!
+Intermediate friendly
+I liked the course.
+AWESOME COURSE!!!
+That's great!!!

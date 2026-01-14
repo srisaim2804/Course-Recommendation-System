@@ -1,0 +1,1015 @@
+The caliber of questions in the quizzes is quite advanced.  I would be fine with that, as the challenge of writing correct html5 is a good challenge. However much of these questions were not covered in the lectures or the required and optional reading. Learning the correct html tag syntax is not intuitive--one has to be shown examples.  If no examples have been covered, how can a quiz-taker be expected to create the proper tags?  This strikes me as bad pedagogy.  In order to answer the questions and prepare the requested page of html tags, it became necessary for a beginner such as me to research elsewhere in order to answer the questions.  In that case, I began wondering why I was taking this course, rather than just reviewing the many free html5 explanations on the Internet.  Further the very general response to the submitted page of html gives me no help when I am simply told something isn't right and I should review the lessons--again.   I expected better feedback.I found this course to be fascinating from the lecture point of view, but "abusive" in terms of quiz expectations.  I was going to take the CSS3 course from the series, but now I plan on looking for this education elsewhere.
+This is absolutely NOT for beginners.  There is no way you can possibly do this class in under 10 hours a week.  The presentations are sloppy and vague.  There is absolutely no support, unless you count snark from the aids who check into the message boards once and a while to tell you your question is stupid. This woman chatters on way to fast and if you use the slower speed setting on the videos, it crashes every time.   I am not happy that I wasted money on this class.  It offers nothing to prepare you to actually do any real life HTML coding.  I highly recommend either purchasing a book to learn on your own or take a class elsewhere.  The Coursera platform is garbage.  The app crashes and it doesn't seem to cooperate well with Safari so I have to lug around my laptop in order to get through this nonsense.
+The teacher is good, and her material is great, but a lot of work needs to be done on the tests. They incorrectly mark a lot of answers as wrong that shouldn't be. I took this course to see if it was worth recommending to a friend who is interested in learning HTML, I've been a software engineer for about five years, and if I'm unable to get a perfect score (despite all my answers being correct), obviously something needs to be improved.That said, Colleen is obviously a great teacher, and I enjoyed watching the lectures. I just think that perhaps a bit more work needs to be put into the quizzes, to make sure users of the platform can learn as well from her as they likely would in an in-person lecture!
+I signed up to learn how to write good code, but I don't feel like I learned much. I passed the exam by writing an HTML document that was syntactically and semantically correct, but I don't know why it was more correct than what I've been doing on my own and cannot be sure I'll will write better code in the future as a result. I did learn a lot about the internet in general though. I feel like I would have learned more and paid less money taking a course somewhere else or buying a book.
+If there had been a working autograder for the last final project this course would have been worth it somehow.What does that mean?- The lectures provided valuable information.- The quizzes generally made sense (in relation to the lectures).- Learning how to code wasn't really possible.Why is that?- There is only one programming assignment.- The autograder doesn't give any feedback at all why resp. where things go wrong. That's everything but good style (for software as well as for learning).- Code snippets can't be tested individually. That's very bad behavior in programming.- At the end working code that meets the teached rules is marked as wrong. You are lost without any clue.So probably you can learn something. Unfortunately you can't possibly finish the course with a feeling of success.
+The lectures get you through the basics in a clear, understandable way.But the auto-grader was really a bad idea, that got the lecturer into a lot of trouble for very little gain if any.It seems to me that peer-reviewed assessments, with proper instructions, are better suited. Apart from being more reliable and less frustrating, I think the learner can really get more out of it.
+The course is good for beginners, thats true, but there is no operative support with technical issues. I wasted 3 days waiting for "Final Quiz" from 3 week of HTML course will be available to complete because images of the quiz questions were not visible at all.
+More interactive assignments using the parser would have been great.  As it stands, the quizzes had mostly relevant content, but the lessons were anything but engaging.  Having Colleen talk at the camera for 5-12 minutes per video got tedious really quick.
+It may be a 5 weeks course with a more slow learning, because we see some tags in a second and it passes. And the autograder works really bad. I do not know where I fail but I failed all the questions. A peer grader would be nice for the final project.
+Thank you for you time and for everything you did.  As an introduction, I did not find that there's need to talk about the hosting and the other things related to this topic. It would be better if the instructor went deeper into the HTML5.
+The teacher is excellent. This is excellent but poor introduction to HTML. The course, which is part of specialization should be much more detailed. With much more axamples. I think it is not worth  49$.
+This course was clearly not ready.  The autograder for the final project was.. a complete fail.  It was not a fun experience trying to change around my code to figure out what the autograder wanted.
+The lectures and assignments questions are more about the history of the internet and HTML. although I've finished the course but it wasn't as good as i thought.
+Extremely basic, yet some of the concepts and their applications weren't well explained in the videos. I found the accompanying text to be dense and unclear.
+Not very clear in some parts and the videos stopping for that style of questioning is annoying. The optional reading was much more useful than the required.
+Didnt like a lot of theory and less coding, when it comes to coding, you have to dig yourself for data, so so
+Unlike the HTML course which precedes it, this course was lacking information and structure.
+its a bit boring and too much not useful stuff is there in videos about history etec
+The Courses could be more practical oriented rather than theory and theory.
+this course was not helpful on focusing on things that actually matter.
+It was very informative for website developers in beginners.
+A lot of useless information and nothing really special
+I do not want to continue this course anymore. Sorry.
+Could be better spread out over a longer duration.
+clear teaching but too much basilar introduction
+It's great .Nice to learn and improve skill.
+so much less example and more of lecture
+Could have been more useful
+Not as expected. Not so disappointed, but at the same time, not satisfied.I joined this course mainly because of two things :1. Course description said it focused on beginners2. Prof. Charles (Chuck) was one of the instructorsAs I progressed, I realised that both above things were not as specified.Yaa, it has beginner concepts, but all topics are just rushed in a hurry always telling us to try ourselves.Really disappointed as Chuck wasn't taking this course, I came here mainly to experience his lectures.Also as the course was offered by Michigan University, I blindly dived in. Prior to this, I have taken 3 courses offered by Michigan University, out of which 2 were taken by Chuck. I was satisfied in those 3 courses and extremely satisfied on 2 of them taken by Chuck.Here, the main drawback I noticed is that the focus shifts away from Html5 basics to accessibility sort of topics, which was a bit weird. Also the graded quiz was poor, like they wanted us to have knowledge from nowhere. Completion of course depended on the final project, which is absolutely fine. But it's grading is completely depends on peer review, which is also kind of weird.  Anyways, I wont be continuing on with this specialisation. Sorry, no offense.
+I am not satisfied with this course. The instructor doesn't seem to know  what she is teaching. The annoying part is, as she talks she reads every word from the screen next to the camera. You can see her eyes rolling from left to right and her reading is poor and not fluent. She recorded the course unprepared. Sometimes she confuses the words.  I think everyone can do that. I have seen online instructors who do not read text behind camera, they talk and code at the same time. Most of the time she recorded herself talking.  I would not want to see her talking, I would want to see her screen, and some code as she explains. It would be better if she didn't show herself this much. it is hard to focus on what she is saying because you see the instructor sitting there and reading us the book or something.
+The lectures did go by very quickly, but over all the entire course was easy to follow. With some note taking, and utilizing the provided external resources, I have enough basic knowledge to hack my way through webpage building. The only caveat in my opinion, was the lack of assignments. All of our coding was editing, or piece by piece. The only time you are asked to build a webpage is for the final, an endeavor that you are asked to undertake with convoluted instructions and no margin for error. In the lecture slides it says that there used to be a practice test preceding the final; my biggest suggestion would be to bring that back and/or implement more involved assignments.
+In the past few years I have taken a number of HTML courses and I know the basics quite well. This is a 'beginner's course' but the final coding project was next to impossible to pass. There was a quiz that would allow you to pass the course without having your code correct.   Although my code validated before I submitted it , I got it wrong on the quiz three times and it never did go through correctly!!.  I did pass the course with a final grade of 94% but I don't feel confident in my  coding ability at all.   It would be fine if  I had received some feedback showing where the problems were. Without it I have no idea what went wrong. Very frustrating.
+There are lots of typos in the course materials as well as and more critically in the final assignment review questions. For example, for Favorite Foods section, in order for the page to look right as expected by the instructor, you will need to use the unordered list. However, in the peer review criteria / question, it asks "was the ordered list used?" instead of "was the unordered list used?". Because of this incorrect peer assignment question, one of my reviewers took a point off. Please review your course materials and fix all typos!
+While I was disappointed that HTML forms weren't discussed, this course provided very solid information. A lot of slide and code typos were distracting though and it felt like the instructor was talking less to me (and more reading from a hidden screen), which dampened the overall experience a bit. But the way the instructor explained the course material was very approachable and easy for a beginner like me to understand. After taking this course, I feel like I'm one step closer to thoroughly understanding HTML5.
+Everytime the thing i hate about any course on coursera is the late peer review of the assignments. It takes too long to get your assignment reviewed. No matter how fast you complete your assignments, no matter how many assignment you review, in return you only have to wait for your own to get reviewed. Really it sucks. Sorry for such words but this is really frustrating. Better there must be machine reviewing instead of humans review as there can be no one doing that particular course alongside you.
+Bright course with nice values, but I kinda disliked the logic and the order of the information given. Something was amiss. Also it's very basic. I doubt I would've completed it without any problems or complaints if I didn't have a distant background in HTML. Maybe, though! The best thing about the course is the resources that you are given, I find. Code validators, html testing tools, a whole other website with a whole other html tutorial, etcDon't regret taking it but I'm on the fence
+While the textbook used in this course provide a lot of useful background to the Internet, it's history and trends...etc All good knowledge. I am not sure it's the best teaching tool for this course. It lacks the structure to build up a solid foundation of HTML. If the course stops here, the text may be a good reference for students to explore on their own. With CSS and javascript later in the series, I felt a stronger (both in depth and coverage) HTML proficiency is needed.
+The most weak part is automatical grading. When structure and semantics are essential, text inside tag is not, guessing if exists space between elements isn't  acceptable as well. Also it's difficult to check when long code snippets should be pasted as plan text in short text field. Better to use file uploading with required snippet. For me also not enough accent was on html 5 features with dedicated examples how use new tags and attributes.
+There is a lot of really great information in the course but without an effective way to practice directly on Coursera.com. Without any knowledge of coding I was at a loss at how to practice so I am also doing codeacademy as well. Code Academy is light on terminology and heavy on real life examples so the courses compliment each other well but honestly I don't think I could have completed this course without codeacademy.
+This is not a self paced course. The material is presented in a confusing way, some of it's outdated, there are many typos and some of the questions on the quizzes are hard to decipher. This has been the most frustrating learning experience I've ever had. Because so much emphasis is placed on "mistakes", I've had to apply more time and effort into understanding how it's done right. Not cool when deadlines are imposed.
+Videos were OK, practice quizzes somewhat helpful.  However, the final autograder quiz was extremely temperamental and gave no usable feedback.  This resulted in frustration and made what should have been a good experience a very bad one. Updated course to three stars since a change was made to be able to pass the final quiz without needing to pass the autograder submission.
+The course probably should be a bit longer to go into more detail on certain things. I have HTML experience, but no HTML5, figured this would be a good beginners course. Felt the final coding assignment was a bit vague as far as instructions and the video. I can use different tags to make the page look similar to the professors layout, and not be exact in what's required.
+If you are looking a general HTML Course, this is for you. This provide general knowledge to create simple web pages, some basic HTML tags and a few practices.  My expectation was to have a deeper knowledge of HTML5, spend more time reviewing difference between HTML5 version and the last ones but, I didn't get it, this why I'm giving just 3 starts
+The only issue I had was with the program testing our codes for the final exam. I don't think it should be used until it can grade the code correctly and tell us our issue. I matched the example perfectly, took the exam twice and only failed that part of it and I don't know what I missed since the program doesn't tell you.
+Overall the course was good, the videos contained some errors, some of the quiz questions also contained some errors within the answers that were impactful to selecting the wrong answer, as well as some of the text based information in the course had typos and errors.  Overall, these should be better proof read and fixed.
+From my point of view this course was too simple and short. I would have liked the course to go into as much detail as the recommended online textbook book did. Although this is true for me, someone who has never worked with computers or any programming languages will genuinely get a basic understanding of HTML.
+Very excellent course for beginners. Hope that the next courses will be at the same level!Two main problems, though: first, the autograder is very bad, should be much more flexible. Second, in my opinion, the homework should be more code-based, just like the final project.
+Great videos. Teacher awesome.But the course needs, in order to be better, more practical activities and i got a little bit upset when I worked hard in final project and later I saw that it´s not necessary at all.....Instead, I should just did a final quiz.
+This course in okay. But if you want to know much more about Html you should take Class on Fullstack Web Development by The Hong Kong university of Science and Technology which I liked more than this. That course is wonderful and interesting too.
+Could be the best course on HTML5, but autograder is a pure nightmare. There's a good chance to fail your final project because of technical 
+issues. So, 5 stars for the content, 0 stars for the autograder, 3 stars
+ as a final mark.
+What could have been a great introduciton to HTML it was pretty basic, something were not explained properly. Could be better since you're paying for it. I hope the whole package of web development is better as a whole.
+This course is very good for those who wants to learns html5. I enjoyed here but in final project my work was depended on other students and rejected three times because of wrong reviews and this should be fixed.
+I was looking for a course which is more practical centric as it will help more but this course is also good but not so practical based this is more theoretical they had provided a book from which i have read
+Its a decent course. I wish that there was more 'required' coding moments where they make you type the code by yourself without reference and give you a couple tries. I think that would be gre
+Clear and very interesting. But I don't think this course is adapted for people who never heard about coding.I liked you speak about accessibility and enjoyed making the quizz. Congrats !
+Too much focus on things we know like it should be accessible to the disabled, I really wanted more content on what attributes to be given to a tag and how to structure content well.
+Decent introduction.  The code submission auto-checker is became a game of getting formatting (whitespace, returns etc) to match perfectly vs. actually submitting working code.
+The syllabus is nice for three weeks course.But you have missed many more important topics like forms etc.please try to include them in future.Anyways , teaching is good.
+Good one. I think they should start a specialization or a mid level course which has detail basics,tags and good hands on work . All the best peers.  thanks to coursera.
+The answers of the quizzes are automatically proving themselves wrong. I think UM has to review some of  the quizzes to get assured that nothing is wrong there.
+The course should include more attributes and tags,Also it should teach more about classes.Else the course is good.Intructor is quite motivating.
+I liked the topics. However, i've liked this course to review the concepts of forms and the types associated: radio buttons, combobox, etc.
+good intro to the very basics.  emphasis on good standards. not enough in-depth analysis or practices.  maybe for the next upcoming series.
+The course material is good and the exercises are challenging. The course instructor could be more organised and concise in the videos
+The weakest part of this coursera - are quizes - full of question, which check detailed facts from lecture instead of testing skills
+I prefer more vedios with more number of tags. It is useful to students if you upload practical vedios using different tags.
+It was good but little bit too fast, and not obvious, i suppose it would be better it was over 6weeks for HTML5 things only.
+The class was good. The instructor is great and she is very knowledgeable. I just wish there were more content in the class.
+very very bad text size of quiz.mam teaching us acessability and himself providing very small text size for answer.
+Nothing about new tags and features. It shouldn't be named Introduction to HTML 5. It's just Introduction to HTML.
+very simple . assignments are ok. I would prefer it if the assignments would be all applications and programming.
+it was good but more importance should be given on the coding rather than on software or history of the subject
+I think It's too little amount of material. It is very shame, that there aren't any exercise after each week.
+This course is good but not as good as I expected but surely much better than other HTML courses on Coursera
+Would have liked an exercise between lessons. Would have liked clearer instructions for final assignment.
+It's a good course for introducing students to html. it gives a broad intro but you have to take it slow
+Respected sir/madam,All things are good the teacher was very good and more content are needed to learn.
+The course is very good and useful and I benefited a lot but should focus more on the practical side
+It wasn't very good. Even the W3Schools web site is better than the training. Very very basic info.
+Instructor is very good. but i think there is lake of code running in lecture for students
+This course is a bit out of date and has a good amount of typos and mistakes throughout.
+It's a good start but needs more examples within the course and more projects to work on
+there should be more coding practice for this course, quizzes are fairly good enough
+This is a very easy course, i would definitely recommend it to any beginner in HTML.
+The teacher did a great job but I was hoping the video content had more programming
+Good and succinct lecture, but project is quite easy. Not worthy to pay for it.
+A good introduction in general.However, more practical exercises are required.
+Discussion of few more tags are required means a bit more e of explanations.
+Would be better to have more interactive lessons to better learn material.
+i did not find the instructor teaching much she doesnot explain anything
+Comparing to "Learn HTML5 from W3C" from edx this course is fairly weak.
+the course is easy to understand as well designed for the fresh learner
+It was a good course but very few of the tags were taught how to use.
+I have give 3 star bcz there is less assigment or practice test
+The organization of the lessons sometimes feels out of place.
+It was an easy entry for HTML5, I wish it was more in depth.
+It is a good course which really help me in basics of html
+Interesting course, but recommended only for beginners.
+course is too slow and the videos need some corrections
+A very basic introduction. Good for anyone new to HTML
+I really like this course!!very helpful for beginers
+not explained more tags, but only unnecessary theory
+Good and skillful learning to HTML5 with web design
+Fairly good, very good teacher, but too incompete.
+I thought the teacher was going waaay too fast.
+I don't think this is for absolute beginner!!!
+Hate auto grading. Overall good basic course.
+Basic skills learned but wish its deeper.
+I learned some creative codings in html 5
+Its a good course and like the materials
+I have learned this course. I like it.
+More aspects of HTML5 could be added.
+I think you can do still more better
+I learned many things i  this course
+It was very easy but interesting.
+Material are not user friendly
+It is like a theory class...
+not for ones who can google
+Long videos and boring too
+PDF Course (Like a school)
+The material is too easy.
+Not at all a good course
+It very enjoyable course
+A little bit too simple.
+I want more practice!!!!
+It was nice and easy
+Very easy course and very knowledgeable too. The instructor(Colleen) is brilliant. She helps at every step and makes the course very easy.
+The final project is a great learning point. To get the most out of the class you definitely need to take what you've learned, as well as using the resources offered, and keeping practicing coding with html5.
+should be more practical and include more application of tags
+Faculty teach excellent.
+Would be better if included more live examples
+it is very helpful course for beginners
+This website is helpful for us to learn .
+When I started this course, my only experience with HTML was <b> bold</b>, <i> italic</i>,  and <u>underline</u>.  After this course I have a much clearer understanding of what HTML is, and how it works, and I am able to now use it to a much greater extent than I was before. The professor did an excellent job of explaining most things, but I did find that on occasion I had to stop the video and go back several times to understand what she'd said or to take notes, despite having slowed the video down as much as possible. (In my opinion, one should be able to slow the video down more than is currently possible, especially for those for whom English is not their native tongue.) With me, it wasn't that I didn't understand what she said so much as I didn't have time to take in what she meant before she'd gone on to something else.I understand that Coursera is able to do what it does because of its method, which is basically independent study; one watches the videos, and reads whatever resources are listed, and goes on from there. If there is a question, it is not the professor in the videos that the question is asked of, but  people hired as "teaching aides". These are the people (other than fellow students) who answer your questions, and they do not always answer in a 'timely' fashion. While this method works well for some people, I am quite sure there are others unable to learn with this method, especially if the subject turns out to be a more complicated, intensive one. Some people need to have a little more than just videos which they can only repeat over and over with the same information, hoping to learn something new from it. The only other thing I have a problem with is the lack of oversight/security. There's no way of knowing if the person who 'earns' a certificate is the person they claim to be, or if they earned the scores given. All in all, I think Coursera is a great tool, and well worth the low prices charged;  I am sure there are plenty of courses still remaining (after the 'purge') that I would love to take.
+The course was great. If you read all the information, watch the lectures, read up on the information again, including the small things that you didn't quite get, you are actually at the end of class ready to make a decent HTML5 webpage. The information Collen introduces for us is important and she is to the point. And as she stresses herself, it is important to play around with HTML while you are learning it. That said, there is a reason the class gets 4 and not more stars. There are spelling mistakes on the slides she uses. Some she mentions and others she does not. I don't mind a word or two being misspelled, but when code is missing it is a little more serious. Why? Because we write down the slides, and if we are not careful, and we don't remember everything after a long period away from HTML, those slides with HTML code where things are missing is not a helper. There is also some contradiction between what her slides say and the book she recommends. That one you will find out when you are taking a quiz and don't know the answer, because you have two authorities telling you conflicting information. The quizzes have some mistakes in them, which means if you are like me and want to get a 100% score, that test will have to taken a few times. I see students have reacted on this for at least a year, but this is not corrected. It might be difficult now that everything is in place and can't be changed, but one could certainly give a heads up notice. Point being, going over all the slides and all before the course was put online, was not  done. The last part I want to mention is that the final project is too easy. Much more assignments could have been given in this part. I mean, we are here to learn. And the questions which are mostly yes and no questions your peers, which are correcting the final project can't detail, means you can pass with flying colors without knowing HTML very good. But all in all, it is definitely worth 4 stars.
+'Introduction to HTML5' course is a very general introduction to HTML5 for beginners. The professor doesn't assume you know anything about Web development or even how files are uploaded to a host website. The course covers a brief history of the Web, basic HTML5 elements, URL terminology, Accessibility, Semantics, and basic FTP & Web hosting software like C-Panel. Forms and other advanced topics are not covered. The class is presented in a laid back style and uses non-technical language which is easy to understand. The quality of the video and audio are excellent. Supplemental books (pdf) and links to Youtube videos are provided and are useful. The duration of some of the lectures seemed too long, even when using 2X playback speed. With some of the quizzes, the professor expected you to read her mind and were worded in a subjective manner.The Accessibility section seemed a little too preachy for me. Also, the final project was convoluted and the instructions were vague. The final project really ended up being a 9 or 10 question quiz that gave you hints on how to code the final project. In summary, take this course if you are a complete beginner. Otherwise, you won't learn much if you have more than 2 months of experience in front end Web development.
+I thought this course, for the most part, was very thorough. I feel confident that I can create an HTML file. However, I wish the instructor would have spent less time on validating the code and more time on uploading the html file online. When I tried to use cyberduck, it was a little different than what the instructor showed. That made me feel a bit frustrated. I basically kinda had to teach myself how to put the html file on the web (so that the url started with http instead of file:///). Because I found that part to be the most difficult part of the course, I wish the final project required you to put it on the web for the public to see instead of just submitting your html file. I was very proud of myself when I figured out how to do this and I am glad that I took an extra step and tried to figure this out even though it's not required. Overall, I thought the course was pretty thorough and and easy to follow. I like the Coursera courses through the University of Michigan and this one did not disappoint. I don't love the University of Michigan (I went to ND for undergrad :) go Irish) but I have a lot of respect and appreciation for their Coursera courses.
+Overall, I think this is a pretty good course. It is specifically geared for complete newbies, and due to peer grading, it does feel like a virtual classroom environment.I docked a point because I felt that there are some quirks. The lectures themselves are fine -- however, I don't think the quizzes and projects match up completely with the lecture material. Some things, you are just expected to know by reading the online textbook and are thus not taught them in the lectures. The same pitfall I found in offline courses, which I feel is a bit unnecessary in online courses which don't have the same time constraints vs. the amount of material that has to be covered. But I'd hate to end this review on a bad note, because I really liked the course. It had a very positive and encouraging vibe, Dr. van Lent was very nice, friendly, and very clear in her lectures. She broke down CODE of all things into easily understood ideas. The chunks of material per week were just the right amounts to be encouraging and informative at the same time. I am registered for her CSS course and look forward to learning more from her!
+I'd give it a 3.5, but it's not possible so I'm leaning more towards a 4 than a 3.The most positive thing about the course was Prof. van Lent who really knows her stuff. She also has a calm, soothing manner of explaining things and moves with it at the right pace.  The content was easy to follow and quizzes were useful.  Final assignment was messed up and they really should fix that, but  the additional eight questions were basically a transcript of the code itself, and if you did your own code, you shouldn't have had any problem distinguishing the bad code from the good one.  Extra stuff for those who successfully finished the course was a nice touch. The real downside of it all was the 'staff'. I got my question answered nine days after I posted it, when I had already finished. I've also seen some rude and condescending yet sparse answers to other students. Similar (but worse) things happen in CSS3 course as well. I don't know who those people are and how they got their jobs, but they should be replaced. Or sent to professional conduct and time management class.
+I would have given this course 5 stars if not for the final exam, which is to look at a jpeg and then write code to make a web page look exactly like the jpeg. The issue is that there are many ways to get a page to look like the image and you will still fail the exam. The course creators have realized this and you now have supporting questions that you can pass the course on even if your page code is not validated as correct. In my opinion there are so many better ways this final exam could have been handled, for instance i would have like to have seen a few more questions in the exam, and once passed you could see a forum area open up for us all to paste our code in or link to a page where we could discuss with teachers and moderators etc. personally I believe that sort of approach would add more value.The above being said the content of the course is excellent for beginners with an eye opening focus on accessibility and good content on the DOM structure. The course will provide you with a good set of tools to get a basic page up on the internet.
+I enjoyed the instructor's style, information, and pace.While there was discussion up front regarding "coding along with me during the lecture video" there was never a moment when I felt like the instructor set up or encouraged an actual simultaneous project or assignment during the lectures. It's sort of left up to the student to figure out when and how they will jump into things. I would have enjoyed a hand being reached out in that manner.I do think I learned more just doing the reading.I thought there were several quiz questions that were worded or coded quite unfamiliarly. After paying close attention to a lecture video, doing all the readings, and even practicing, it is very frustrating to go through a quiz question where the question material is completely unfamiliar.I enjoyed the challenge of the final project, and was proud of finishing it with perfect marks. The instructor's candidness and encouragement was a big factor in that.
+So far I really like the structure and pedagogical paradigm of this course. The video lectures are also quite good, although I do wonder if there should be just a few more visual examples for some of the more "theoretical" content in some of the video lectures (ideally very quick and visually clear). It is noted that some examples of this nature are already present, and they are appreciated. The main reason the course is just shy of perfect for me is that it is just a little bit rough around the edges: A few of the videos and at least 1 quiz needs to be updated, and better integration of and reminders for readings are needed. Right now all the readings for the first 2 weeks are just dumped at the beginning of week 1 with nearly no context, and then not mentioned again even though questions about the reading appear on the quiz!Overall very good, just needs a tune-up.
+Good intro to HTML5. I rated it 4 stars because I feel the instructor spent too much time on accessibility and validation. Although important, 1 video might have been enough. As a web designer/developer I worked for several major international companies and accessibility/validation was never a high priority with them. I had to go to the mat at times to get them to change their standards. When the instructor did discuss accessibility, she should have provided examples of what a reader looks like and how they are used.   Also, there were several quiz questions about the info in some of the OPTIONAL readings. If it is optional, they should not have been included in the quizzes. The final test HTML should have included a simple table and not the <display> tag. The display tag is rarely used, yet tables are very important.
+Overall I learned a lot. The course covered the topic of HTML 5 and the concepts behind the internet (hosting, protocols, DNS, etc.)I like that it was purely quiz/project based and no grading was done as peer review. However, occasionally (about 1/20) some of the quiz problems were just plain wrong. Also, the final project was a bit too strict and needed more fuzzy logic for the parser. One could produce visually identical and 100% valid results and still not get a perfect score. That seems a bit flawed to me. However, if you really want to labor on it, you can just give the quiz what it wants and eventually get a full score.All-in-all, I would recommend the course.
+It was a very good course. I understood everything. My only complaint is that the tests questions were repetitive and so it would be easy to cheat on a second or third attempt and also the final quiz should have been more about writing your own code. I think what should have been tested was the end product by the autograder rather than the exact code. I'm not sure how that would work but it would result in a more precise grade rather than the 87.5% everyone gets and also help the student write his/her own code rather than proofreading and selecting others. I did thoroughly enjoy the course and am looking forward to Course two of the series on CSS3.
+A brief but interesting introduction to
+HTML. Very few practical examples and exercises, but it does cover the basics like: syntax, semantics, what to pay attention to while creating own website. Love the way the material is presented by Mrs.
+Lent and will finish all three remaining courses.Combined with the HTML & CSS course at
+CODECADEMY I have the ability to write simple html, read somebody else's
+code and find resources necessary
+to get me started with my own page. Till now I always thought HTML and web design was boring, well not anymore! I would recommend this course to somebody who is
+only starting to learn HTML.
+I love Colleen's style of presenting and teaching. It's refreshing! She looks like she's a great teacher who thoroughly enjoys sharing her knowledge with others. Her students at UMich are very fortunate indeed. As to the course content: it's very well structured, with clear explanations and quizzes/assignments that help understand and apply the course material. Maybe one flaw: it was such a brief introduction, it left me wanting for more. But I guess that's also a good sign, right? So if you have little time and you really want to get the basics to start working on web development, look no further than this course.
+I liked the course, but I have to mention that i got pretty furious over that last quiz. I had no idea how to get these progress-bars the right way to look. So I spent hours on trying to figure it out, only being left with an unsatisfied answer, which is that i gotta use CSS. I'd have really loved to find out if i can recreate these bars using only HTML. Anyways, The course was great though and explained a variety of things like website-hosting and accessibility. If there was one thing I'd change about the course it would be, more practical use of the mentioned tags. Thanks for the journey.
+I like this course and I've learned quite a lot. Still, I think some questions in the tests are not very useful. For example I have learnt that css was first made available for the public in 1996 and that HTML version 2.3 (or so) offered more options for - I can't remember what exactly ;) but my point is that these are important basic facts one must have heard about. But in my opinion they don't necessarily need to be asked in a test.Still, all in all I'm very happy that I did this course and I would definitely recommend it for beginners of HTML. You definitely get to know all the basics.
+Great course for beginners who have absolutely no idea about coding! Huge thanks to Prof. Colleen who used very simple language to make the course easier to understand. All the important aspects of basic HTML5 were covered. Assignments were challenging and fun! I can proudly say that I created my own 'First' webpage with the help of this course. One star less just because I felt that some topics like images and especially multimedia usage can be confusing and could have been explained more in detail. Overall a very informative course...highly recommended!!
+This is a very nice introductory course.  Although I have experience with HTML, I appreciate the fact that it assumes no previous knowledge and takes the time to show beginners how to create and save an HTML file for the first time, as well as some of the editors that are available.  Three weeks is a bit short, in my opinion.  I would have liked to see forms being covered a bit, even if the actual handling is postponed until JavaScript is covered.  I was also expecting for the canvas tag to at least be mentioned.Overall, an excellent course for beginners!
+Overall, this course is pretty good. Colleen explains the concepts very well and also directs to other resources that can be helpful. However, it will be more effective if there are more coding exercises especially, in week 2 where there is a lot of discussion on "tags". Lastly, the only part which I did not find very useful was the "peer reviewed final project" and the reason behind that is that for some people like me who are going through the course very rapidly, have to wait until someone reviews your course and that takes some time to be completed.
+It's a good course and the instructions were really good. but i wanted to learn a lot more. specially, i had the impression that after doing this course, ill be able to design a full website using html5. but unfortunately i couldnt get much of practical knowledge needed for that. i had to eventually take help from youtube for the final project. so from the practical perspective, the course wasnt so satisfying but as a introduction to the language and from the theoretical perspective, the course was overall good.
+Really enjoyed this course. I had completed a basic overview of HTML prior to this, but Colleen provides a great overview for complete beginners, and I love her focus on accessibility. A lot of those pieces were new to me and not covered in many introductory courses.One note is to be careful when taking quizzes or reading homework assignments. There are typos or unclear requirements at times, so it is helpful to watch the optional videos on the assignments when available for additional clarity.
+Lectures are great. Colleen sounds very amiable. She has great tips.Downside: You're only required to do some coding for the final project. I think this course would be better if they'll add an in-browser editor so students could play with code after a lecture.Yes, I do play with code after the lecture to get around it, but I think the way the lectures are presented tempt the students not to. So any additional prompts such as in-browser editor - for in-lecture quizzes - definitely will help.
+Everything was easy to understand the teacher really tried to have a slow pace so everybody could follow along. However, it was a little too slow for me. I took this course to get a basic, but profound knowledge about html5. I know a lot of tags and best practices now, but do not have a clue why I would use <footer> and <header> instead of <section>, except for "SEO reasons". How does it influence my ranking? What does it help with? Those questions were not answered.
+A good intro to the HTML material, which is an entry level into coding in itself. Since its intro it doesn't cover the vast array of of available tricks accessible within the language and there may be instances where you have to seek tips elsewhere on the internet. By the end of it all you should be able to build some basic HTML elements. With that, there are still some tidbits about the basics of HTML (tags) that I still have questions regarding importance/use of.
+Thanks for this course. I think it's a pretty good introduction to HTML. I learned a bit about the history of the internet. I've already had some knowledge about html and web developement, so I found this course rather too basic for me, but, as it's mentioned in the introduction, it's aimed at those who had no idea what HTML. I think it's a nice way to get start in the world of web development. I enjoyed the part about accessibility. Cheers.
+Five stars for emphasis on accessibility, explanation and detail of semantic elements.Three stars for course content testing prior to publication and for omission of Linux. I use sftp on a command-line interface and did not learn in this course how to use mput for putting multiple HTML files and web assets onto my live site. There is no hyphen in "meta-data", nor are there two hyphens in "local area network.
+Could have a bit harder assignments towards the end, but everything is explained well, and videos are the perfect length.   Also the hosting part was difficult for me to follow and I never actually figured it out.  I will try and go back when I have something worth hosting, but it didn't seem worth spending hours trying to figure it out when all I know how to do it write a short HTML document.
+Thank you for the course! It was challenging in some way and VERY interesting. Besides, it is really stimulating in terms of self-learning as some aspects are mentioned but briefly. Personally I had some trouble with navigation, which made me spent a lot of time browsing the Internet for some information. But as they say no pains, no gains:)Thank you, Colleen! Looking forward to CSS course.
+I enjoyed the pace of this class however, I was not too keen on the way code is graded, e.g. for the final project of the 3rd week, although my code validated and the resulting page was identical to the instructor's mockup, it was still marked incorrect in the quiz and there was no way to determine exactly what the issue was.  There has to be a better way to grade coding assignments.
+Overall excellent course. I felt, maybe wrongly, that some of the terminology and information given expected you to grasp immediately and this slowed my progress somewhat as I had to re-watch or go online to 'simplify' what I was being told/asked.Otherwise an excellent course which I would highly recommend for others looking to begin their journey in to HTML5 and CSS3.
+Really basic course, great for everyone who haven't seen or written any code in their whole life. Teacher is surely likeable and content is easy to follow even during busy, full of work week. It teaches mostly about tags and how to put them together in proper way. I really liked constant reminders about accessibility, that definitely helps with making good habits.
+I thought the class was good -- lectures and reading materials were very helpful. I would have enjoyed a slightly longer format with more assignments to try different things out and work with the other students.  I've been experimenting on my own though so it's worked out.  I've signed up for CSS and look forward to continuing forward with this course of study.
+It was a great course overall but this course will leave you with a little knowledge of HTML 5 together with some doubts on how to use some tags (few) and where to use them. But it gave the idea of finding our solution by ourselves because doing research on your doubts teaches you a lot. In a nutshell this course was excellent and I recommend this course.
+It's a good course for beginner, lots of HTML elements are covered in detail during the classes and you will get a good knowledge about HTML.  If you code along the course and do all the assignments to practice in the end of the course you will have solid foundation for continued learning and programming in HTML5. It is course that I recommend to enroll.
+This Course Is very suitable for absolute beginners as in this course they provided vary deep knowledge from scratch(start) . They give knowledge about the web also give knowledge of web when web , browser, html and other things invented,I mentioned some of the key topics below*WWW, Html invention*Browser Wars*Accessability*Hosting and Domains
+The information provided by this course is good, let me undesrtand better the behaibor of a WEB page, Thanks !!!PS. Please if is possible to you when a question apper in the middle of a video and the trainee doesn´t find the rigth ansewr after serveral attemps, it could be a good a idea get  the answer by some option, just to fix the doubt.
+Clear lectures. Good information. The instructor made clear the difference between mandatory elements and suggestions for good code. Downside: sometimes the extra readings were difficult to find, since links were provided at the beginning of the course, but without describing when certain chapters should be read before which quiz.
+For me, the actual coding came too late. I suggest coding bits directly after instruction videos, instead of at the end. Also, I suggest recreating a larger website. The final assignment was very interesting. I only learnt about the <section> tag during that assignment. In all, not bad. I especially liked the big final puzzle.
+It was a very nice course overall. The explanations are all crisp and examples are ample. Instructor speaks at a nice pace and explains concepts sensibly. The only thing that could've been better is more practise assignments and hands-on for students. I am grateful to Coursera and UMich for allowing me to pursue this course.
+Overall, good course. I learned a lot about html tags, the need for understanding semantics, syntax, and accessibility. Only issue I had was that some of the questions for quiz and grading rubric need to be corrected. Other students mentioned the need for corrections in the forums. Thanks for having this course available.
+Excellent course for someone who has NO plans to be web-developer but knows that internal operations of modern web needs understanding to communicate with technical/customer community if/when issues arise. Or other other opportunities are ;possible to exploit the web-knowledge for future applications - especially 5G/IoT.
+Good course! Teaches necessary HTML skills and gives awareness about the various HTML tags of different categories along with providing references for additional information. The course also stresses on accessibility issues and helps learners build well accessible webpages along with ensuring that their codes are valid.
+Nice course! The take on accessibility is what I found the most interesting one. Whenever I had been through any introductory materials on web design or any designs, I had not even encountered accessibility as a topic. Thank you for getting me into thinking about not only building workable websites, but accessible ones.
+This course builds the fundamentals about HTML5. What I like about this course is that the instructor explains everything clearly in details. This course is perfect for designers like myself who need basic knowledge about coding and people who are interested in web development. I am going to continue to study CSS3.
+Excellent, clear and to the point. It is good to see a focus on both standards compliance and accessibility, that latter al too often being ignored. Covers a fair amount of ground in three weeks but has fairly narrow ambitions; to make the most of this one needs to view it in the context of the full specialisation.
+The topics are greatly explained with proper study materials being available. Quiz and regular assessments are highly helpful in keeping track of your learning. Overall a good and well balanced course for beginners. The final project also helps you to revisit the important concepts taught throughout the course.
+It was a great learning experience. It would have been better if the videos were more and the reading material was less. Also, it would have been better if the instructor coded in front of us and not just display the code she had previously written, although it would have increased the length of the videos.
+This course is good step for one who is new in web developing field and wants to explore html5 tags.While i am hoping to be a developer by taking this course  and this takes me in right direction to be  a developer .Assignments and project are well scheduled for assessment of course and very well planned.
+I like this course very much. Some of the tags I wasn't familiar with, so I have to go to another website to learn what the tags are about. I am still learning how to use the tags correctly and put them in the correct setting. I would like everyone to enroll in this course to know the basics of HTML5.
+I thought the course was great! I understood the lectures well and was able to get coding quickly and efficiently. I also appreciated the emphasis on accessibility. The only note: one of the lectures of validation is actually after already have done some validation, but might be more useful before it.
+Excellent teacher and material.  The course felt a bit short and I wish there were more assessments and opportunities to actually code, which is where I learned the most.  After completing this course, though, the world of coding does not seem so scary and I have the confidence to go further into it.
+Excellent Course and Instructor! I would highly recommend this course to any new student interested in learning more about HTML and web development. The course is designed to provide the student with an introductory knowledge of HTML coding and introduces concepts in a very easy to understand manner.
+It is very unsatisfying that the most important part of the course - the final coding practice - works the way it does. I suppose it is crucial for every student to have his or her work validated somehow. And the situation when your work is either completely right or completely wrong surprised me.
+It made me know many things I didn't knew before and wanted to know. The course design was really so good to make sure you learn in the best possible way. But I must tell ya that those readings took much more time for me than mentioned, but once I did'em everything was on its place, making sense.
+A lot of repetitive information here, throughout each lesson. I was expecting a bit more coding opportunities. However, I'm not new to HTML and think this is still a good introduction for brand-brand new coders (like ages 12-15). Good refresher for those out of it for a decade or so (like me).
+I learned a lot of new things, although I am not a beginner. But I think for a newbie this course is a little tough. It would have been great if I got something to share about my accomplishment in the free version too. But may be that's asking too much! On the whole I am happy with the course.
+It was very interesting and easy to learn the course. I highly recommend this course for those people who want to learn web development but are a complete beginner. I have a suggestion though if it's possible can we have one more lesson above the most commonly used tags and its attributes.
+Basic introduction to HTML5. Though there were some issues with final project submission etc. but it was a good start in the world of HTML5. Also, when coupled with the other two courses of CSS3 and Javascript, it would really be a  dangerous combination. Looking forward for other courses.
+I think it was a good overview of the subject and instilled good practices. I feel like the instructor should have involved the student with a little more hands-on coding throughout the course to get a better feel for it. Otherwise it was very informative and I learned some good things.
+Amazing course for beginners just starting their web development journey. Though I do feel that if you are already familiar with HTML and looking for an intermediate level of understanding then I personally feel that the book mentioned in the course is better that the course itself :)
+Overall I found the course to do exactly what it said.  Give you the very basics of HTML and allow you to put something out there.  For someone that has zero experience with programming or creating web pages I would recommend, otherwise it will definitely be a little too beginner.
+More hands-on practice, more exercises like the one on Week #2 where we(the students) follow the professor's step by step instruction into coding, and not so much lecture (though lecture its understandable as we need to learn all these definitions and what we are actually doing).
+This is one of the best Introduction to HTML5 courses you can find on web. The instructor explains the proper way to use however one thing is missing from this course that is it has very few graded assignments so you have to practice on your own. other than that this is great.
+The course is a great introductory to HTML5, with practical tips and references, in addition to accessibility  in mind, not to mention the great lecturer :) .The only thing, I guess, could improve the course is taking <tables> and <forms> in more details.Thanks a lot.
+The course is paced very well. The feedback that I mainly have is regarding the final project. I got the final project wrong, but passed all the questions. It would be great if I was able to find out what I did wrong in the html code, even though I passed the course.
+Great beginning course to avoid being overwhelmed.  I had no experience in writing code or how it worked, but I got to the "final" and realized how much I actually loved writing code!  And, I do it well, which makes me want to work on it more and learn to do more.
+The instructor is very good, material covered is very good as well. Some quiz questions were based on textbook material that was not thoroughly covered in the lectures, with no indication of a reading assignment—confusing. Still, I think the course is worthwhile.
+The contents are well tailored especially for beginners with not prior knowledge in html5 and also the course presenter is superb in passing on the message.I believe in have learned a lot from you.Thanks to Team Coursera and DSTI for making this course available
+The whole class is well organized and clean and clear. But most times, the teacher is just taking and talking. Well I like to hear more about the rules, syntax et al. But most of the time showing coding screen so that we learn directly from code is more fun.
+Great overview of the fundamentals.  The final project was very useful.  The only recommendation would be to include more hands-on exercises like the final project.  A similar assignment each week of the course.  Perhaps extending the course to 4 or 5 weeks.
+It is a good COurse but everything was very short and week 2 is very complicated as it becomes hard to figure out the difference between a semantic tag and normal tags. Week 3 was a bit relaxing. try to make this course a bit longer and more knowledgeable.
+A great course. You can learn a lot if you're willing to dive in yourself beyond the lectures.  My only fault is that some of the quiz questions didn't really seem relevant to useful material learned in the course (ie, what year html was implemented etc.)
+I want to request the instructors to please put on a video about how to connect to the server and everything about hosting in detail. The major topic was completely extracted rather it's a 2 day long procedure when students have to do it by themselves.
+Content was organized in a good, easy-to-understand way. The course moved a bit slow at some points, though to be fair the instructor did mention that the course was for those with little to no prior programming experience. Overall, I learned a lot!
+A good introduction to HTML5 with a nice emphasis on accessibility. I think it is a great idea to focus on design with best practice in mind, so you are more aware of bad habbits that would otherwise creep into your own developing style unnoticed.
+Very good basic introduction.  The final project was a little challenging because some of the questions used coding that wasn't reviewed in either the textbook or in the lectures.  The lectures were otherwise very informative and well-structured.
+I loved the course, everything was just fine. And now i am excited to go and learn the other remaining material of the course. However, i also wanted the topics like, forms to be covered. No issues, i will do it by myself. Good luck everyone.
+Couple hiccups with the autograder, but otherwise this course was very good. After messing around with HTML for years, it was about time I learned what the deal with HTML5 is. Just the right length, and definitely an Easy level of difficulty.
+It would be really helpful, if the explanation of each concept, like hyperlinks, multimedia would have done by writing the code, basically showing a demonstration of syntax and all.So that we can code side by side on the editor and learn it.
+I like the course, but I'd like to have deeper information about HTML5 and more exercises for learning and practicing. Also, there's few info about hosting and managing your website. Hope i'll find it in sooner courses of this university.
+a very well constructed course for everyone who wants to get hands on expertise in dealing with Html 5.i enjoyed every single lecture and the most important of all is you get your understanding of html 5 tested through a Final Project.
+Really helpful course. It is indeed the basics of the basics, but it definitely settled up a starting background for those that wish to develop a website. I would definitely recommend to a friend with no experience in the field at all.
+It was a nice course for the beginner. But Dr.Chuck is an illusion in this course. Instead of watching her videos i would recommend to study about tags through W3schools.com (save your time). Watch week 3 videos they are informative
+Overall this is a very good course. I had some experience with HTML5, but this course showed me the nuances of standard practice that I was otherwise missing. The instructor was very articulate and offered example with every topic.
+In very lucid language, i have understood Intro to HTML5 using this course. Not only that this course also made me to get knowledge about how the internet works and about GitHub. Thanks to Coursera for making these courses for us.
+It was good especially if you are a complete beginner.it covers many important parts other than the tag like domain,hosting,cpanel,GitHub pages and more.so if you are a beginner and want to be a web developer this is a good start.
+Thanks to everyone, thanks to Coursera for the opportunity of learn and for supporting me, because I do not have the economic resources and education in my country is not a priority. Thanks. Sincerily . Javier Díaz Sánchez (MX)
+A very well designed course.  May want to consider the accessibility of the Final Project, as someone relying on a screen reader would not be able to interpret the screen shot in order to replicate the design into HTML code.
+I really like the way that Colleen presented the materials. A lot of histories and related information. Since I have some experience in coding, I can follow along. But I think the course will be difficult for fresh starters.
+This is a complete HTML5 course of which students can learn and practice since this skill is very useful in today's programming market. Highly Recommended for begnners, intermediate, advanced, and professional programmers.
+This course give  a simple guide how to start learn HTML. The instructor even teached and spoke rapidly but she teached me with in honest way. She have given many tips and advices about how to start learning HTML. Nice!
+Great beginner course.   The only reason I did not give 5 stars is the annoying amount of typos, especially in the quizzes.   Other than that, Colleen van Lent did an excellent job getting us starting in this subject.
+This is decent course which would be recommended if you want a certificate with knowledge. You would definitely learn some new things which would rather very important if you plan on pursuing web development further.
+It is an informative course. But there's a tip who all are starting it- there's no spoon-feeding in here you gotta be determined and feel free to go over documentations and read and learn. That's the key. Good luck.
+TestHi. Thank you for your lessons. I could tell you that those very useful for me.  However, I would like to recommend that there are tests with 30 questions, It is too much for this course I think.Thank youDaniel
+So, It's for very very beginner .. I'm don't enjoy this course because I'm an advanced beginner .. I work before with HTML and CSS .. So, I recommended this course for anyone who have no experience with HTML ... :D
+A well organised course for introduction to HTML5!! However, the content can be improved to give a more in depth knowledge of the topic since I feel that this course is not enough to get you started with HTML.
+The lecture was easy to follow and understand and the supplementary reading was also helpful. it would also have been nice if there were a reference book to buy or lookup, Thanks for the wonderful experience.
+The overall work on basics and concepts is great . I just wish there were more example web pages given to the learner for reference.But overall,a great learning experience.Strongly recommended for a beginner.
+Nice course! really easy to follow the instructions and there are a lot of extra links to useful materials.Would be a great to go more over more tags of HTML5 and also include some more practical exercises.
+Two instances of typos (advised multiple times in comments by different users over many months) but not fixed.<ul> / <ol> mixed up<nav> / <nag> mixedCauses confusion on final projectContent otherwise great
+Autograder on final project is very frustrating - no feedback on the code to know what it didn't like.  Other than that, everything else was very helpful and straightforward for this novice.  Thank you!
+Very informative course. Although I feel this was just a small step into html, I believe now that I'm capable of diving as much deeper as I can into this subject by using the basis that I learned here.
+I really enjoyed everything about this course. I thought the exercises/quizzes were fair and the instructor showed me many things that will serve me well going forward. Great course, great instructor!
+teacher is good,but i hope you can describe the tags by code,that can make us profound influence.and we can understand directly.more examples are better than introduce.thanks a lot for your curriculum
+Great course for an overview of what HTML5 is like! I would have preferred it, however, if there still was a kind of instant autograder, like a parser or something. The lecturer is quite good as well!
+This was at a self learning pace that allowed me to succeed. Colleen van Lent does a great job in the videos where they are short enough to not lose interest, yet enough information to easily learn.
+Its an amazing course . But in week 2, i felt that the lecturer was going fast in some videos , where she can show some example , it was just theory . Other than that , It was good for me.Thank you
+it was my first experience of taking lectures online but i must say it was very helpful for me to know many new and vital details on this topic..thank you so much for assisting me with this course☺
+The course is a good starter, but it could do with more material allowing you to practice the skills presented each week rather than the self-driven approach, which could be done without the class.
+She was an exceptional teacher throughout but I believe that some tags weren't explained thoroughly like the navigation tag she just told us about it and so I had to search around on how to use it.
+The class was very informative and great at teaching the basics of HTML5. If you go the extra mile and read the online textbook or order a physical copy, you can learn a little CSS like I did too.
+Great course! Wonderful teaching by Colleen! However, there is not so much practice within this course, that I expected. Thanks a lot to Colleen for creating this specialization! It's amazing!
+The course is wonderfully structured, and Colleen van Lent is such an engaging teacher! The only problem is that sometimes there are errors in the test which affects our (students') grade :(
+I like the course it was very simple and easy to follow. I only thing I didn't like was the final. When your code was wrong it could at least give you a hint about what needs to be addressed
+It's a good course for beginner! A lot of knowledges about hosting, domains etc. But not so much about directly HTML5. I would be better to extend this course for 4 weeks!Thank you, Colleen!
+This course is perfect for learning the very basics of html. The instructor also explains basic concepts beyond the code itself, including how to use editors, validators, and hosting sites.
+Well this course let me to learn the new way of using HTML5 for the webpages.Also it sharpens me on how to host my own webpage.Thanks a lot to coursera and mam from university of michigan
+This is good course for learning basics of HTML5 .we now know in this course what is tags and attributes and how use it.This is one of the best software for web developers and designers.
+The instructor is very good. The course could use a litle more practical assignments, but the concepts explained are still very good and useful, even if the course is mostly theoretical.
+She focused a little more on theory and little less on the exercises.She discussed all the possible errors which would occur and also taught well.It was a good start to web development.
+Its a really good place to learn about HTML and the lectures are going in a very good way that it creates an  interest in me to learn  more about the concepts of HTML,CSS & JavaScripts.
+Best course for beginners. Here you learn basic html5 and also build a webpage by using html5. This course lot of help me. So I suggest to all if you beginner then you take this course.
+The course was really good , however I was expecting more final projects for practice. Also, for practice, there should have been some links where we can find sample pages to create.
+Good course. Covers a lot of ground. Only recommendation, is to slow down a little bit in the middle to explain concepts more and let user get more practice. Otherwise very thorough!
+I like the course because I have a lot of things from activities such as how to put an opening and closing tag. Although, it needs more challenging activities.But I like the course.
+I wanted to get an understanding of the fundamentals of html and this was a great course. It doesn't babysit you so you have to get interactive with the coding to actually learn it.
+It is kind of confusing but not bad! I am more confused on how this works like it says enroll on the separate courses? I really hope I don't have to pay for each of those seprately
+Fantastic course. only gave it 4 stars because I feel like some things (especially the last part) could have been elaborated a bit more. but otherwise, wonderful course, thank you.
+This course is very useful for the beginners. They can learn the basics of web designing and hot publish your website. But some tags and attributes should be added in the course.
+Little confusing at times, and the last test/ project was jacked up. Turning in the project did not help and the test was definitely created to confuse. But i guess it was needed
+This was one of the wonderful tutorial where  everything was explained in clear and conceptual manner. If hands on coding can be included then it would have been very effective.
+It is a great course for a beginner like me. The professor is very good. She taught us very well.One suggestion from my side is that there should be more practice videos.Thanks.
+I was expecting more coding exercises and the major task was only the demo page which I completed and validated, but somehow I always failed  that answer wrong in the final quiz
+This course is very useful for beginners. The teaching style was good.The quizzes can be better but overall course was very helpful in learning new concepts about use of HTML.
+It gives the basic of the basic of HTML5. I would recommend to either merge this course with other courses that have more about web stuff or to add some JS stuff to the course
+This course is good and but you can't full dependent on the instructor only. You have to do something for your self too.Rest this course is good for beginners. Best of Luck!!
+I had thought that it will only give me knowledge about basics but after doing this course i get to know about each and every important elements of html5 . Thanks for this.
+It was good, but it was too short in my opinion. I think there should be more practical examples of how to use HTML5 - more assignments and exercises (probably optional).
+This course is clearly informative and it helps the beginners a lot.Everybody can start coding after this course but all the semantic tags weren't covered in the course.
+Typos in  training, quiz and finals materials were frustrating.  But overall, appreciated the training, learned a lot and really liked the additional resources.  Thanks!
+Got over my fear of reading through HTML code! Some of the Colleen's videos are challenging to follow, make sure you go through the reading material as well. Good luck!
+It is a great course and the instructor has such a great way to teach that it's very easy to understand the content. Theres is only one thing left... more excercises.
+A very well structured course, introducing HTML. What could be better, would be to provide more input on the new features of HTML5 compared to the previous versions.
+very good start point for absolute beginners, so many thanks for discussing Accessibility Issues. considering them is a must for any web page designer and developer.
+I am very happy to coursera and very much thankful to my instuctor who helped me in learning HTML5.THANKYOU Coursera whole family for providing me free this course.
+It was an awesome experience to complete this course.The lectures are well planned and with the pop-ups regarding any changes helped a lot in gathering information.
+I feel like I learned a lot and the teacher was great. Unfortunately,  there are some misleading typos in the quizzes and tests/graders that are pretty frustrating.
+Highly recommend to someone who is a zero background beginner like me. I just wish there were more subtitle choices. Other than that, this 3-week course is great!
+A good start if you know absolutely nothing about HTML. If you are perfectly comfortable with basic HTML tags then this is not the course you need. Onward to CSS.
+good....but marking by autograder is very strict.....i created the exact same page, i run it and it was perfect but i did not get 1 point for that in quiz....
+Pretty nice course with strong focus on accessibility and correct semantics of HTML5 code. Found it useful but a little bit limited in terms of real practice.
+Good introduction to HTML 5, I like the way it explains about disabilities.But the final test, was just a battle to pass the parser more than the code itself.
+This course is amazing! I have learned about HTML5 since the beginning and even I don't have much background knowledges, I still can understand it very well.
+She was a great instructor. Thanks, ma'am for making the course easy to understand. A lot of information was covered. She made the approach easy to follow.
+This is an Wounder Full course its very sad that i can afford it for certificate but if YOU can u should go for it. Don`t wait  don`t think Just go For it
+I enjoyed this course. I had absolutly no experience before taking this course and I found it has given me the basics.Too many typos in the tests though.
+The course content was presented at steady pace and the videos were clear and direct.However, the auto-grader was really confusing for the final project.
+The glitches with the autograder at the end were the only reason I didn't give this five stars. Otherwise, great course! Looking forward to joining CSS3.
+I love my lecturer and how she takes time to explain the details of the basics you need to quickly understand the advanced material. Thumb up COURSERA!!
+The material should be more comprehensive and cover more material in HTML.Right now, it isn't enough. The focus on accessibility is good and refreshing.
+I found the final assignment a bit frustrating but got there in the end! Very enjoyable first experience using Coursera for my professional development.
+as promised provided basic informatio about HTML.found videos too lengthy to grasp but everything was illustrated by examples which was very beneficial
+Only gave it 4 stars because they miss out a lot of stuff and then just refer you to an outside website to study on your own.Teachers is great though.
+Good basics . Do th3e CSS course after it asap :) . they both are a very good combo . Instructor is good , i haven't much used the discussion forums
+This is an exceptional course. I learned lots of new things and I would recommend it to anyone who wants to dive into front end web development.
+The Course was good and full of useful informations, thanks a lot to Colleen van Lent, But I think if it had more coding, in it would be better.
+The method of teaching and understanding was lucid and precise. More focus on self-learning was given than that of spoon-feeding. It was awesome
+The course is great. One of the best course where a person can learn about basic details and concepts.It totally changed my perspective for HTML
+i very happy to have skill that make web page so i very happy thanks all teachers taking my lessons and all coursera teachers thanks all of you
+As an introduction course, It gives a very good explanation of concepts. However it's absolutely not enough for ones who want to practice more.
+This course was very informative for me ,I got to know the  basics of HTML5 .I'm looking forward to create and practise more in web designing.
+This is a good course for te basic understanding of HTML5. Very good for a beginner.You can learn to make your own webpages via this course !
+Extremely useful, glad I participated. Unfortunately too little coding but I hope you will make it up to in CSS course. Would recommend 9/10.
+The class was really informative and easy to follow, but it may be a bit too slow for anyone who has any kind of background in these topics.
+Colleen goes through every concept with proper attention to detail while keeping it fun. Overall, I had a lot of takeaways from this course!
+It's good for beginners and also who already has pieces of information about html5! I learned a lot of interesting things here. Thank you.
+My very first online course. In a foreign language moreover... I loved it because I really learned a lot of new things. Thank you Colleen!
+Maybe making more chapter to chapter assigments, will help to keep the rythim during the course. However It is a great course! Thank you!
+This course help me to learn basic things and what actually happens in an html and some technical terms like IP address and URL.thank you
+Great professor wonderful introduction to computer science/coding-1 start due to some confusion with updates to the final exam assignment
+Very well prepared content to get enough knowledge on basic HTML5. It definitely help the beginners to expand their knowledge on HTML5.
+Makes learning HTML feel easy. Creates a solid foundation for learning web design on. Loved the accessibility angel. It opened my eyes.
+Good introductory course to HTML and creating Web pages. Professor van Lent is a good teacher has passion for her subject and students.
+It's really nice of you all that giving everybody the opportunity to learn this course. Thank you very much and keep up your good work.
+Great Class !!   Challenging for beginner as we didn't make deadline but got the learning and want to upload our final Exam for credit.
+A very nice course to learn in an well  mannered way.their as well nice project including very nerdy quizes. over all very good course
+The way of teaching by Collen mam is awesome. The course is very easy to understand and more engage me to do the course successfully.
+I was familiar with HTML language.But this course was helpful in many ways. Got to know about WEB ACCESSIBILITY and how a URL works!
+Great course. Clear so many concepts like DNS, IP address, hosting. Only this course should have contained more practical knowledge.
+A lot of the lectures seemed kind of pointless. I ended up learning how to actually write html myself while doing the final project.
+The quizzes can be made more conceptual or application oriented, rather than memorization based. Otherwise, the course is excellent.
+If you want to learn HTML alone, this is a good course. Although you have to do external research to find out about new tags to use.
+I really enjoyed doing this course it was fun i learned the technique how to write the code in a proper way and how to test it too.
+Easy to follow and well explained. I would have liked though that there was more time to explain some tags, and with more examples.
+The tutor is excellent who teaches us entire courses with an easy example and concept which is understandable for beginner itself.
+This course helped me a lot to learn about coding based on different browsers etc. HTML5 is required for any front-end based jobs.
+Excellent course in order to get all the fundamental concepts that allow to code and understand what's done in html5! I recommend
+With this course you can move onto the right direction. You'll get the right Basics of Web Development & Design with this Course.
+The course was presented at a decent pace. I would like to see more live coding though. Thanks, learning from you was enjoyable.
+I enjoyed the course.  The best part for me was learning how to get my webpages up and running using a website hosting service.
+More material about tags and their usage should have been introduced in optional reading. The course is pretty good and simple.
+Teach very basic knowledge for beginners. For us who has some experience on previous version of html, it's quite easy to learn.
+Great intro for the beginner, or for someone who is returning to web site creation after working in a previous version of html.
+A great course for beginners to dive into the field of web development. Be prepared to do a bit of extra learning on your own!
+Great ideas about how to incorporate creativity in the classroom – particularly enjoyed the poetry carousel and HTML5 project.
+Great introduction to HTML. Defiinitely have to try it out yourself. Videos are easy to follow and encourage lots of practice.
+Course is taught really well.Lots of space to practice before really going to the next concept.Request  more solving sessions
+Very Good Course and contents. Colleen has explained every concept very deeply and descriptively.I have enjoyed the learning.
+The course has teached me more about HTML5 and the semantic tags.The course schedule was very informative and easy to learn.
+It was interesting doing the course with Mrs. Colleen van Lent. I wish her to be more productive and successful in her life.
+Somewhat basic, and lacking more directed exercises. Otherwise a pretty decent introduction to HTML5 and its most used tags.
+This Course is very good for someone don't have any knowledge in HTML The explanation is very clear  and easy to understand.
+Good for those who have nothing about html.You will get some knowledge about cPanel and SFTP.But this doesn't include forms
+Loved it. Really helpul for those who are just starting out with HTML and want to prosper in the world of web development.
+Its really beginner friendly and its recommened for absolute beginners, if you have some experience may  pass on this one.
+it was more of a theoretical course rather than practical. But still it's good for beginners. Will recommend this course.
+If I didn't already study some HTML it would be kind of hard to complete this course and understand all the aspects of it
+Covers all basic concept of HTML. More contents such as form and other details have to be updated. Teaching is very good.
+This is a good course for an introduction to HTML (some parts of HTML5).  This course does not have details about HTML5 !
+Good lecturer and presentation. Some additional contents and details would be good, but this was a good start into HTML5
+Excellent course with a very likeable teaching style. I just thought that more should have been covered in the course.
+I think this course is nice for beginners but in some areas they have taken it too fast which takes time to understand
+The course is good for beginners. The HTML portion is great but it doesn't provide you with in-depth knowledge of CSS.
+Shoud have big project that covers most of the new tags in HTML5However the lectures are awesome. Thanks for sharing..
+Not just HTML5, but it also teaches us other things that are important to web designing but we may not get to learn..
+I really liked this course however I would rather to have more help in the FTP or Cpanel part and more coding aswell.
+Intended for beginners, I think people who have never programmed or written any web pages before get a good overview.
+coursera is really helpful. i enjoyed my lectures and study materials. And also the method of teaching and learning.
+An amazing tutor who made me think about a major factor that is the accessibility of the webpage by different people
+Nice course.Could focus a little bit more on coding, rather than ask some informational-only question in the quizzes
+there are little mistakes in the quiz section which is making us get confused!else the course was great!thank you!!
+Loved it and compared to other online platforms the learning environment is great, almost like being in classroom..
+Thanks for sharing with us and it is easy to understand and it was very interesting and thank you so much Coursera
+As a introductory course, this is very good. The Instructor teaches the relevant topics with optimal explanations.
+This is very ossom and helpful course for web designer b'coz HTML is the first key for any web developing process
+Nice very beginning start to understand what is HTML, however more coding would have been useful... Thanks Coleen
+Its a good opportunity to learn latest technologies.And resources that you are providing to learn are really good
+Ma'am can you please give some practice content. and and some practical examples for students to solve with you.
+It was very good experience to learn HTML here and I am very thankful Coursera and Dr. Colleen Van Lent as well.
+The Basics of the Language are explained Beautifully and many resources have been provided to help the learner.
+It's good but it will be much better if the course have assignments in per week .... In other ways it's good...
+It was an amazing journey while learning this course. I got to learn alot from this course. Thankyou Coursera!
+Good introduction to HTML5. Doesn't go very far but points you the right direction by providing useful links.
+For beginners this is a good course to start with. I don't recommend this course for experienced programmers.
+a very good and a basic course for beginner it will really help you to understand the basic concepts of html
+Even If you are a begginer you can start it and a little practice actually leads to completion of the course
+The best course on wed development it will teach u from basic even for the people who dont know programming
+week 1 and 2 were very well and systematic but week 3 was a little confusing, otherwise a very good course.
+This was a great course that has helped me feel much more comfortable working on my web development skills.
+Great intro, though it was too slow at first then too fast toward the end. Could have used some  more work.
+It was really good experience to learn html5 from colleen mam and thank you coursera for this opportunity.
+its really good and easy too......its my first time to learn online i also learn many things.....Thank You
+Overall, it is very helpful, though there are some typos in the slides, and more practice would be better.
+Good course to get started with HTML ! Thanking the professors for developing such a good specialization.
+This course really helped me a lot in learning HTML and basics of web development Thanks for this course.
+Fast and effective. I do wish they went into Forms a bit more but that could be saved for later courses.
+Nice course. But there are several videos where video an audio are out of sync which is very displeasing
+Course covers the important basics and is an excellent starting point for people who want to learn HTML5
+the course had a unique feel to it and the author took her time to explain some core concepts of HTML 5
+I learned lot of things here and i am happy that coursera provide me such type of courses thanks a lot
+The course is very good for the introduction to learn HTML 5 tags and course content is well designed.
+Video Delivered info very well....just lacks a lack of contents in video which is required to be read
+content was good but there is less no. of  coding videos  i want practical videos have to be incresed
+The instructor, Colleen van Gent was great! Great material for the beginner. I highly recommend this.
+this course was good for the beginners and the instructor  was amazing with great teaching abilities
+Its a great basic course for learning HTML 5. Its help you to motivate to learning more about this.
+It was mostly invaluable, but I thought it might be better if  this source contained more practice.
+Was fine. It should pick up pace a bit on how challenging it is though. Quizzes were also painful.
+The instructions provided and the notes provided are very clear and understandable and very nice.
+i have learned all the basic concepts of html and learned to create the websites only using html.
+It's my first step to Coursera and it's very good content and exams. Thanks for a great platform.
+A very good course for beginners who want to learn about web development and HTML5 in particular.
+It is very interesting to learn this course it was fun and i really want to create our own page.
+Good One. But, you have to study more on tags from external source.Except that rest all is good.
+It should be little more elaborative with codes, syntaxes etc instead of non-html related stuffs
+it's very usefull course and good presentaion , they are try to understand easy way to students
+This course helped me to know about html syntactic grammar  and the precedence rules in html...
+Basic but very helpful course! I highly recommend for those who just begin to learn web design.
+The instructor was too good.The way she explained the concepts was awesome .Totally loved it !
+Great course for beginners. Lecturer motivated me to finaly start coding on my own. And I did.
+You will know about the basic of HTML and Safety of your website. This course really help me.
+The course was good but I think little bit more explanation and examples should be presented.
+Thanks to all the instructors  and administrators of this course especially Professor Coollen
+There were a couple of confusing mistakes in the written course material but nothing too bad.
+Colleen, the instructor, was very good. The autograder was not good and wasted people's time.
+EVERYTHING IS GOOD but if there is more explanation on different tags may make me more happy
+The way of teaching is really great and giving assignments every week added a benefit to me.
+Course is really nice, but there is less code writing work which may confuse in many places,
+I think this course is easy to understand and also covers interessting topics for beginners.
+Not so information about html tags and implimentation of codesbut it is good foor begginers
+This course was great gave me a great insight on web accessibility and semantics, thank you
+Could have done with more coding but a well-conducted course to get you interested in HTML.
+during the course there should be exercises to do such as the python for everybody course
+A lot of really good information in this class.thank you, I learned a lot and enjoyed it.
+Would be absolutely perfect if there could be a live discussion, at least one per course!
+Great course, with a good speed and information to start your journey to create websites.
+I really liked the accesibility aproach. It would be nice to add more practice sections.
+The course was excellent. However it lacks some informations such as creating forms etc.
+introduction to html is pretty well. Its better to improve the topics or content of html
+It is really a great start course for learning HTML. It is neat with practical examples.
+some quizzes would not work on my mobile and the final test was VERY hard. But overall a
+Thank you but it is a non credit course so how do I get my MOOCS point on my college  ?
+If you're new to web design this is a great start.  This is pure HTML and nothing else.
+Good course. More example or practice should have benefited us and improved the course.
+learn lot about HTML5 and it's  validation and correctness , it's really great course .
+Things could have been made a little more interesting. But good work and great content!
+The course itself is very concise. Go to the textbook if you want to look up something.
+The final project is quite difficult, some points not covered in the previous lectures.
+It's really a honor to take this course. Thanks for giving this wonderful opportunity.
+Great course but needs more content CSS and bootstrap could have been covered as well.
+It is a great course because it starts from the basics and assumes no prior knowledge.
+This couurse Is very Useful For Beginner in Web Desgin I Really Enjoy With Studying it
+Rich of great resourcesGreat Instructor with up-to-date knowledge and huge experience
+ITS GOOD BUT IN QUIZ ITS ASKING FOR SOME QUESTION WHICH WAS NOT TAUGHT IN THAT MODULE
+Great course. I will recommend it to everyone that wants to learn the basics of HTML.
+Great course! Overall probably a little too basic but definitely a good introduction.
+Great course for beginners, if you have programming background you will find it easy!
+Good for beginner, but I think it would be better to add more practice in the course.
+Very Good course...The reading material provided and the video lectures are amazing.
+It would have been very helpful if a small tutorial about sublime text was included.
+It was great to have interaction with this course. It was great to be taught by you.
+Great course for beginners. Each step is explained with its respective significance.
+I liked this course and the professor was good, just wished they gave an extra week.
+Awesome. I've learned lots of things. I really appreciate this course to beginners.
+its an awesome course ...i definately learnt something which i thought not gonna do
+Everthing was good. Class was able to understand and now I am able to write a code.
+Various misspellings were confusing, especially within quizzes and grading rubrics.
+I wish i could make affort to complete this course and get a course certificate  :(
+I have learnt a lot of things in this course........It truly means a lot to me....
+Great for beginning students who have no history of HTML. Easy to follow lectures.
+The course is  basic, for introducing the HTML5, which suit for absolute beginner.
+The final quiz is a bear but if you leave enough time, you should get through it.
+This course is very helpful for a new learner. I have learnt a lot of new things.
+Not sure what was going on the final week, but I learned a lot in the first two!
+I am so grateful to you Coursera family for affording me this great opportunity.
+The course is very useful for designing a best o proper website within few time.
+It was great learning with you.  Suggested such courses to my friends.Thank You!
+This course was quick, easy and fun, plus giving best practice pointers. Thanks!
+Very good course but more assignments should be included except the quizzes ....
+Overall good educational course. Didn't care for the format of that final quiz.
+It's cool. Just for us francophonist the learning is not in french but english.
+Loved the class. Feel like i definitely got what I needed to in order to learn.
+thank you so much colleen van lent for this gift of courseit is the better one
+Very interesting and good and simplified teaching. Great work and thank you
+This course is very best for learners who are beginner in Web Design field.
+It is very good for person has knowledge in programming or computer science
+slow paced but very informativemore hosting/domain options would be helpful
+I loved it so much.Collen is a good lecturer and all she said i understood.
+Good course but also refer to HTML tutorials from W3schools.com alongside.
+good patform and easily accesisble bot requires more teacher interactive .
+The faculty explains in a very neat and understandable way. She's amazing!
+So Happy to Learn this course and it is basic step for building a web site
+person who wants to start from basics then this course would be very good.
+Very interesting course, but some of the material is for complete novices.
+Presentation style seemed a tad monotonous, but material is well explained
+it was exceptional,very interesting the way faculty covered the resource.
+Cleared all my basics requited for using HTML for making basic web pages.
+Colleen has explained the content pretty well for beginners.Great course.
+A well structured course for learning HTML5 with good Practical projects.
+Excellent course for beginners in HTML. The instructor is very motivated.
+its was really nice and beneficial...i got to learn a lot about HTML5 (Y)
+it is easy to learn. i think every student try and learning in this way.
+very good course easy to learn.and staff were really very well to teach.
+A good precise course for brushing up basics and gives a good kick start
+easy to learn and save a lot of time for studying how to build web page.
+The Course was very good and the Instructor delivered its content well.
+I really enjoyed about this course.Thank you very much for this course.
+Simple to understand, step by step approach is very good for beginners.
+A very concise introducton to HTML, has helped me imensly with my work.
+very good course for the beginners, but the coding can be more better.
+The course was overall nice and easy to learn. Hope the same continues
+This course has helped me a lot in understading HTML and it's History.
+It was really a good experience. I loved it and had improve my skills.
+good. Its is better to understand all concept in a single prograamme.
+Very happy with this course. Now I have more confidence towards HTML5
+Very informative and worth taking, even if you have prior knowledge.
+Really enjoyed this course.  Another quality Coursera course via UM.
+NICE EXPLANATION . USEFUL INFORMATION AND GREAT LEARNING EXPERIENCE
+Great course!! But more examples on tags could be given as practice
+i learned a lot really its a great course to enter in coding feild
+Very good course for learning the basics and developing web pages.
+I wish there were more practical examples of coding and tag usage.
+Very descriptive class. Thanks Coursera and University of Michigan
+Good course and I learned the basics. Some how it could be better.
+Very good teacher. More coding exercises would improve the course.
+faculty having a great experience! Nice way teaching...thank you!
+very well explained in a small amount of time and very effective.
+Great instructor :-) Just wished to have learned a bit more tags.
+Good course, great teacher, slightly fast-paced. Would recommend.
+very simple and easy . the lectures are nice and understandable.
+Good Content, Easy to Understand. Keep Practicing to learn well.
+Good Course...will teach you to make a very basic plane web page
+A decent non-overwhelming course to start front-end development.
+A good course for programming beginners and it was taught well.
+It was a beautiful experience to join and complete this course.
+It's Really helpful for career and also increasing my knowledge
+Get to know a lot of new things about HTML5 and its validation.
+This course is good for a beginner but it must be more examples
+thank you for giving students a wonderful opportunity.very nice
+It would be better if she has taught us a bit more in practise.
+Nice explanation of basic tools of Html language and structure.
+Great course with great instructor. Straightforward and direct.
+Thanks for helping us build a foundation right with the basics.
+This course is very useful , and the lecturer is very friendly
+I really enjoyed learning html and I am excited to learn more.
+Nice course. It would be better if there is more project work.
+It is really good. It boosts you to explore things on your own
+good course but they should also teach the syntax of more tags
+I would like that the course propose more practical exercises.
+it would be the best html5 course if you have html forms also
+I'd recommend this course to anyone who is brand new to html.
+It is a really good introductory course for Web development.
+Good instructor, good video quality, good reading materials.
+overall it was good but i think maximum tags should be cover
+It was pretty good, just that the instructor talks too much.
+simple, lucid and organized instruction. great for beginners
+A very useful course for learning HTML5! Learn many things.
+It was great. learnt HTML from a very different prespective
+Thanks to her guidance I was able to learn basic html5 code
+It would be better if there are more interactive practices.
+It was great although I expected a bit more of coding touch
+A basic intro to HTML5, well structured and easy to follow.
+Very Good Course For Understanding HTML 5 from very basic.
+Good basic HTML5 course. Very clear and practice oriented.
+I give it a 4 out of 5 . It way what i imagined it to be..
+Really great for a beginner with no prior HTML experience.
+GREAT ,THE MOST HELPFUL THING WAS ABOUT GIT HUB TUTORIALS
+I am very happy to complete by html5 course thank you mam
+Such a nice course.  Very good for an introductory course
+Some topics are not properly eloborated mainly in week 3
+I love how they teach the real basics and fundamentals !
+But its better to introduce more assignments to practice
+It can be a good start if you are new to web development
+Good Course for a beginner. Nice explanation. Good work.
+It was a great experience to learn about web development
+thank you for giving opportunity to improving our skills
+Could have been good if there is a practical assignment.
+Not all topics of html included like forms, frames,etc.
+I hope you are added more practice and more explanation
+viedos are quite good but not very much effective......
+Overall journey is really good just completed in 2 days
+Faculty was great and makes things easy to understand .
+It was very good doing this course , i enjoed throughly
+Too much focus on accessibility. Otherwise good course!
+A very well-structured and simple to understand course.
+good course but need to add more Operationally examples
+Learn a lot of new things.  Great Course to learn HTML.
+Very fine teaching , the professor is good at teaching
+REALLY HELPED ME TO GAIN MUCH KNOWLEDGE ABOUT HTML5!:)
+This course help me alot each topic  is well explained
+It was quite good... helpful for my life.. Thank you..
+it was nice to learn Introduction to HTML5 on coursera
+I wish this course have more language to other people.
+Nice introduction to the topic. Too easy thus 4 stars.
+Properly structured and well explained all the topics.
+new things learnt validation & accessibility specially
+I was an Amazing Experience Learning through COURSERA
+Very Good course for beginners and is very effective.
+Awesome lecture really enjoyed it thank you very much
+Good class. Covers the basics well. Great instructor.
+Very good course. Looking forward to go to next level
+This course is so useful to learn HTML from scratch.
+Good course for beginners to learn about the subject
+It's really an awsome course for absolute beginners.
+It's really good for my to learn HTML by myself. Tks
+It's easy for us to know in a general view about web
+the greate course of all learning students ,faculty
+Learned a lot and feeling very safe with html5 now.
+Great Course. Learnt a lot about web accessibility.
+It was awesome!! I learned a lot with my own pace!!
+I like it and understood thanks for helping me out
+it helped me lot to understand things more clearly
+Loved it, very well explained and brilliant guides
+Theoretical course, must recommended for beginners
+some more graded assignments can be really helpful
+i am very happy for this courses..thanku so much..
+Quite helpful in getting back in touch with html5.
+i'm glad to joint this course thanks miss colleen.
+more informative and implementive would be better
+Basics and most importan toword the web developer
+Thank you so much to launch this wonderful course
+The last assigment Is not specific enough for me.
+A very comprehensive course for coding beginners.
+It is a very good course to start learning Html.
+great course for beginners to learn basic coding
+Good and inreactive course. helping a lot. thnx.
+Very informative and helpful intro. I did learn.
+Very nice to learn basics of web page designing
+thanks you to all the instructors who guided us
+This, course was very usefull to the beginners.
+i think u can provide more assignments on html5
+Very good course with an a progressive learning
+This course is so easy to understand I enjoy it
+Great course, great teacher. I liked all a lot!
+good course for the begginers.................
+I get to know so many things from this course.
+very nice app,it is helped me a lot.Thank you.
+Teacher was nice and i like the way she teach.
+very nice course able to understand completely
+this is a very good course need more examples.
+Great course for introduction to HTML5, thanks
+Good course, but weird final evaluation check.
+learned differnrt html tags and how to use it
+I am satisfied with the content in the course
+i am very happy to learn html5 in  easy way..
+The course is very good to begin with HTML 5.
+Great course.  Perfect start to a new career.
+i think it's good and boring at the same time
+had fun with ur studies thank you for helping
+Please try and add some more Hands on Videos
+Amazing course for web developer beginners!!
+This is one of the best course for beginners
+great teacher with excellent teaching skills
+Explanation behind every concept was amazing
+BIg Thanks to coursera and Colleen van Lent
+Great for beginners..!! Thank you coursea..
+This course seems to be great for beginners
+The course is really nice and helpful to me
+The course should contain more information.
+Good For Learning Basic Concepts OF HTML 5.
+Basic but quite concise and well-structured
+Great course to start with web development.
+Very nice explanatory videos and readings.
+i loved this course and the way of explain
+An introductory course for very beginners.
+Nice course for beginners. Well explained.
+easy to understand the basics of html page
+This course made me comfortable to work on
+simple but also full of useful information
+great course has helped me a lot thank you
+Great introductory course - learned a lot!
+Great course, have a importamt information
+i have completed this coursera in one day.
+Great start for an initial dive into HTML.
+Got to learn Cool new concept and tags. :)
+course is good  and  comfortable to learn
+Very basics content.Helpful for beginners
+Just want to say thank you to Professor !
+Great course, clear and straight content.
+Precise and helpful introduction to HTML5
+Great introduction to HTML ...very clear!
+Fast paced and hands on. Totally awesome!
+I liked the course, I'm glad, Thank you!
+TO GET I LEARN SO MUCH FROM THESE COURSE
+Learn the basic idea about HTML 5 Tags .
+a fine introductory course for newcomers
+Very clear, it definitely worked for me.
+Good,but I think somewhere is not clear.
+very good course for absolute biggeners
+good course and helpful during exams!!!
+awesome course to understand from basic
+It's an amazing start with web coding .
+Better, some issues validating the code
+cool and usefull courseI recommand it !
+great course with a great instructor :)
+Was a good course to review the themes
+I have learned a lot from this course.
+very good course and learn many things
+Nice and easy flow of contents to grab
+course was really good for a beginner.
+Good Course. Basics covered very well.
+Great course for just getting started.
+Good introduction to working with HTML
+This course is helpful to learn HTML.
+This is a foundation course for HTML.
+I miss more exercices and programming
+quite suitable for new beginners !>.<
+Excellent course! Highly recommended!
+Ideal for people who starts with HTML
+Great course for beginersss!!!!!!!!!
+good course for html 5 for beginners
+informative approach was very useful
+yes it's very helpful for a new user
+Thank you for such wonderful course.
+Just a good course..Thanks Coursera.
+It was do good ..and interesting!!!!
+I learn many thing from this course.
+Nice encouraging ofthe students.....
+A good head-start to learning HTML5.
+This course is useful for beginners
+Was pretty good but and I liked it.
+Great and very informative course!!
+There could have been more content.
+This course is ok for the beginner.
+This course is best for a beginner
+Many tags should be explained more
+It's a great course for beginners.
+good to give an idea to a beginner
+Very basic and easy to understand.
+the quiz is not properly organised
+This is the most effective course.
+Good introduction to HTML5 coding.
+Nice course, but felt very anemic.
+3th week final assignment has bugs
+Overall a good and superb course.
+good course to learnfrom scratch.
+Very Good Course for the Beginner
+best, but the video make me bored
+Great experience, learning HTML 5
+able to learn your course in time
+Awesome video lecture and content
+Should have more exams and tests.
+A very good course to begin with.
+glad that i joined this course .
+Great Course for basic concepts.
+Great Instruction, Learned a lot
+It is a good course for beginner
+It's very good, but nor perfect.
+Very good. I have learned a lot.
+for the beginner it is excellent
+Course is good but it is small.
+A good cousre for the begineers
+Excellent platform for learning
+i can not do this course, sorry
+It was a very informative class
+simple course for  beginnersrs
+Not as much learned I expected
+its good cousrse for everyone.
+Great course, clears concepts.
+best course for learning Html5
+It was very beginner friendly.
+Amazing course for beginners.
+very flexible to learn Html5.
+great course for the beginner
+Thanks, coursera lot to learn
+It is really about the basics
+Explains everything very well
+this course is really helpful
+Truly enjoyed learning HTML 5
+A good introduction to HTML5.
+Easy, but can get kinda slow
+AWSOME COURSE GREAT LECTURER
+i loved the way of teaching.
+there is no arabic translate
+Nice And Informative course
+Basic understanding of HTML
+Good course for beginners )
+Overall good experience....
+teaching was very effective
+i had an awesome experience
+good course to learn html5
+Nice classes learned a lot
+great streamlined process
+It was a Great course.I l
+very good course material
+i like the way you teach
+Its really helpful to me
+It is good for beginners
+it is best course for me
+No custom parsers please
+I learned the  basics to
+Well presented lectures!
+very informative.   I le
+Make it more practical
+it was a good course!!
+Its too Good Course...
+A very good one!!!!!!
+a very helpful course
+was a good experience
+I love this course :)
+A great introduction.
+It's great learning.
+Good as a first step
+It improve my skills
+I loved this Course!
+it was very usefull
+Every thing is goog
+Great basic course!
+great intro course!
+quite easy to learn
+Thanks very much💚
+very good teacher.
+This was awesome !
+good for the staRT
+It was really nice
+Awesome course 😊
+Yeah it's good 😊
+best html course
+Was overall Good
+Nice this course
+Perfect lectures
+intensive coding
+Is a good course
+Ok but too easy!
+teacher is good
+IT IS HEPLFUL
+it's great!!!
+Pretty good!
+Pretty Nice
+it's  great
+petty good
+loved It!!
+Good introduction to web development.  The teacher (Colleen van Lent) has great attitude and seems interested in getting students themselves interested... she explained the intro topics very clearly.
+Exceptional course, taught by a friendly, talented teacher.  Perfect introduction to HTML.  While the course seems to be still under development (there is the odd typo or the like) it's a great start.
+I really enjoyed everything about this course. I thought the exercises/quizzes were fair and the instructor showed me many things that will serve me well going forward. Great course, great instructor!
+I didn't know about making my web pages accessible till this course. But now I know how important it is for my web pages to be accessible to all, for my html to validate and be semantically correct.
+Excellent communication for those who are truly beginner. Valuable information and clear explanation of the good practice in writing code and the key for how to create web pages with accessibility
+This course was very interesting and helpful in the initialization of web development also the course instructor is very good she delivers her knowledge up to maximum possibilities and also motivates.
+It' s a great course if you wanna pursue web development and it explains all the basic concepts that everyone needs to know in web development and the teachers are great and they will show you  all the practicals according to the machine you are working on and she teaches very smoothly and also add the relevant details if she misses something in the video. Overall I can say that go for it, this course will develop your interest in web development and you will love this course.Thanks Mam (Collen Van Lent)RegardsSaurav Chamoli
+A very well adjusted course which will help new programmers to understand and practice HTML5 and it's many component. No better course to take when you're starting web designing. Thank you very much.
+The best course for beginners
+Thanks to Colleen who taught so well about html5
+I like this course a lot. The overall instruction is step by step, very structural, very clear, informative and not overwhelming. Prof Colleen is very good teacher. I highly recommend this course,
+Very basic, but gives a fundamental understanding of HTML5 doc structure, tags, and proper accessibility coding.  Just enough challenge to be interesting, but no overwhelming.  The more you invest on your own to experiment and read outside of the assignments, the more you will get out of this course.
+I thought HTML was about just writing working code. I was wrong. HTML is all about writing semantically working code.
+it's really was from scratch.. very useful course
+Well organized, good/clean/detail course.
+Thank you to the outstanding trainer for this wonderful course. Thank you to the staff of the Coursera platform and the scholarship staff. It was a very useful course
+I've taken numerous HTML courses through the Internet.  They were all free, so I can't complain, but I have to say that I learned so much more from this course.  For example, I finally mastered the difference between coding the image (img) and link (href) tags - something I've been struggling with for a long time.  I couldn't write either tag on my own; I had to copy and paste from someplace else and then tweak it to fit.  I now can write it on my own because I understand the parts - something that wasn't clear before.  Colleen makes the basics very clear in a way that you can really understand.  I am so grateful for this class and so excited to code!  I feel much more confident about my HTML skills, and that's a great feeling!!  Thank you!!
+This course has really alot of things to learn along with code and the most important that we miss usually is accecabilty well done mam Thank you for porviding apportunity for us to learn what is best
+Overall a solid course that can teach almost anyone who is willing the basics of HTML, which is the basis for web design. If you are interested in Web Design or just want to know more on how webpages work and how they function, then this is the course for you. The concepts may be tricky at first, but the instructor really makes it easy to understand the wide world of HTML. She knows her stuff and provides multiple resources and software recommendations for the topics covered. The whole course is organized and it is easy to manage what you need to do. The workload is manageable but be aware that you may struggle if you are simply watching videos, as the quizzes do test your knowledge on not only the topics covered in the videos, but textbook readings as well. My only issue is that there are some sections that are not available, or have changed and have yet to be updated or removed. It's a small issue but I thought I'd mention it.Overall though, solid course, solid instructor, and you will learn alot!
+I got to learn HTML from a very different perspective, with the focus being on accessibility, something which is not usually taught to us. I will always remember to add that point in all my future projects, to make them as user-friendly as possible.
+Through this Course i had learned how to create a basic web page and many more thing. I would like to thank my instructor for providing me such great material and methods to learn.thank you madam
+enjoyed the course. learnt a lot. beginner friendly..
+He not allow two quiz examination
+This is the best course for a complete beginner. The presentation of the course material is very friendly, the instructor was really great and the quizzes were perfect. The only thing I would like to suggest is adding more coding exercises. But as it stands now, it is still fantastic!I see some people have complained about the final project auto-grader of this course. But you should know that the final project now has additional quizzes (related to the project) and even though the auto-grader sometimes makes mistakes, you can compensate that by answering the project quizzes correctly. If you are a beginner in web development, "Introduction to HTML5" is the best start you can possibly have. Most importantly this course will give you the confidence to take more advanced courses in future.
+Excellent course on HTML5. Covers the basic tags and actually teaches you to do something. Some of the optional material helps you learn much more about the web and its history. I like the focus on semantics and accessibility. Semantics helps us to build a better internet, where machines can better understand the meaning behind our pages to build a smarter web, which will help AI and humans as well to better use the knowledge that we put out there. Accessibility in this course is always mentioned and it helps us to build a better internet for everyone, a more inclusive web.Those two aspects, Accessibility, and semantics make this course different. I will really suggest anyone interested in learning the basics to take it. (excuse any spelling errors, English is not my primary language).
+I can't say enough about the instructor Colleen Van Lent . I wish she taught every course on Coursera. She's that amazing.  Some people just have an extraordinary gift for teaching. The other programs on Coursera could use her expertise to be honest. I took 3 different Coursera classes this month, and the HTML5 course was the absolute star. The lectures are laid out perfectly. Colleen's expertise and personality shine through in every video, making HTML5 fun. Yes, I said FUN! Not only that, she provides excellent resources for further education and for completing assignments. Why isn't she famous?The web design/html5 program will be the only program I wish to continue on Coursera. Why? Because it is actually effective! You feel like you are well on your way to becoming a developer.
+I've really enjoyed this course. It was a completely new thing for me to try and the lectures and quizzes were all very accessible. Colleen has been a great and very pleasant teacher and I would certainly like to do more. The only thing stopping me from doing the CSS course is time, because it is so important to be able to spend time experimenting with what you've learnt.  This is something that I've struggled with, but I'm hoping that in the near future, I will find time to dedicate to another course.I look at the web in a different way now, and the people behind it - the history and ethos of the industry, I found particularly interesting.Thank you for creating such an accessible and thorough introductory course.
+Very helpful for absolutely beginners. The content is well-organized and materials are carefully picked to provide concise, easy-to-read information for learners. Lectures are clear, well-presented, just-right informative; accompanied by the great public speaking skill of the instructor, they are hence not intimidating or boring at all. Another plus point is the instructor constantly urging learners to go beyond "the passing point" and learn more on their own, which is a very key mindset to keep up with the fast, ever-changing landscape of Information Technologies. Don't feel lost or scared, since she'll provide you with great resources for further learning and references!
+I definitely Recommend this class to anyone who wants to learn about the basics of web design, HTML5, and coding. The way this course is setup is perfect for beginners with its extremely helpful and insightful readings along with the course lecture video s. The professor has really done an amazing job of teaching and engaging students through the videos while also giving helpful resources and tips for students to venture on their own and investigate the topics further. I highly recommend to follow along, especially with the coding, when the professor suggest it. It will really help out in the long run and help you become familiar with the process.
+Challenging at some points, but if you push through it is well worth the hard work and effort. Dr. van Lent seems very passionate about the topic and it shows through in the lecture and assignment videos. Even if you're already familiar with HTML4.01, this course is worth taking to quickly brush up on the changes in HTML5, as well as learning accessibility features for users who may have one or more disabilities. I learned so much in this course even though I already knew the basics of coding and HTML4.01 Strict. This course got me interested in learning more about UMich's programs and enrolling in more courses with Dr. van Lent. Highly recommend!
+The instructor is fantastic. Her videos are very easy to watch (never painfully awkward or difficult to understand), and I appreciated how personable she was for a computer science MOOC teacher. She's great at covering this material for those who have absolutely no experience with HTML. I've been working with HTML for about a year, now, but since I am self-taught, starting at square one was helpful because I learned a lot of little details I'd missed before, and I was able to connect the dots on "why" we were doing things in a certain way. My overall understanding of and confidence with HTML was definitely increased by this course.
+I have little to no background in programming. After this course, I feel confident in proper designing a basic web page. I never thought too much about how web pages look, now I have an appreciation for the skills and thought that go into designing a page. Dr. Colleen van Lent is a wonderful professor, explains even the most complex topic in a way that I could understand knowing nothing about html5. I felt motivated to start coding. I thought about how accesible pages need to be, and how to incorporate this into my code. If you don't know anything about programming or are interested in web design, this course is for you.
+Although I had already some html-knowledge from other courses, I enjoyed the repetition of the basics and I learned many necessary subjects for the first time (accessibility, how to put your websites online, the most frequent mistakes and how to solve them, the interesting history of html etc.).The lecturer made a great selection of topics that give you a quick but good basic to start exploring the possibilities of html5. She taught it in a very accessible way, but it was mostly her humorous and energetic personality that kept me highly motivated throughout the course.Many thanks to the developers of this course!
+Colleen van Lent is an excellent teacher.  Professors of all stripes, particularly those in STEM domains would do well to adopt her teaching style. She explains concepts clearly and succinctly, and she does it without reading from a script like so many teachers on Coursera do.  She speaks naturally and has a sense of humor.  Her teaching style is that of a real human being sitting beside you, showing you how things work.  After taking this class, I'm absolutely confident of my ability to write correct HTML5 code that is semantically correct and accessible to those with impairments or disabilities.
+This course was amazing! Back in undergraduate, I struggled through the programming prerequisite in my Psychology program. Had to take it 3 times and hated it by the end. This course sparked a whole new interest and passion for programming that I never believed I could have. I thought, I'm not smart enough or technical enough for programming...until now. This course gave me the foundational skills I need, as well as the confidence to pursue web development (and possible app development) as a career. Thank you van Lent for presenting this material in such an approachable and incremental manner!
+I am a CS undergrad, in my first year i know a lot about programming but i was uncomfortable with even trying to make a web page that will be made how i choose it to be. With this course, i not only learned how to add content of my choice, but also adding video and audio to the page and images too! The thing that differs this course from online pages is that this course emphasizes on accessibility, i believe that is something that creates a line between those who learn by adding colors and seeing the output and one who dissects the core foundation of the product. I'm glad i took this course.
+One of the best online courses on HTML5. The course syllabus was quite vivid, wide-based, and detailed, ranging from scratch to the best! Besides, the Course Instructor, Colleen van Lent  was outstanding as she guided through all the hooks and corners of HTML5 and discussed even the points where students can stumble upon or make flaws! Being a beginner with zero knowledge about web designing, this course is simply a boon to rely upon! I am whole-heartedly satisfied and have gathered much confidence up till now to explore more in the domain of Web Designing. The experience was simply Great!
+The good: This course really shows how to code in the 'right' way both syntax and semantics, so the theory is covered better than in other courses. There are good explanations on how to host your site, whch is not less important than learning coding.The bad: More examples and practice are needed, it's hard to get everything so quickly. I had some initial background so i handeld that ok, but for total newbies it might be too frustrating. The final assignment should be changed imo to peer review, the quiz is not the right way to do it imo.Thanks, learned alot.
+Very well rounded and informative introductory course to HTML5. I was able to learn a lot from both a standpoint of basic knowledge and in considerations about accessibility, validation, and peer to peer interactions in coding in order to ensure that I'm able to construct the best possible code that I can as I continue practicing and improving my web development skills. Many thanks to Dr. Colleen van Lent and the staff at the University of Michigan for offering this course on Coursera. I look forward to taking the next courses in this specialization!
+This course is not about learning more, but learning better. And this will definitely leave you knowing more and better at the same time. Amazing introductory course. Straight to the point, teaches you valuable practices and guidelines to write HTML5 that not only works, but works correctly and is accessible for everyone. I recomend it not only for HTML beginners, but for anyone who likes to learn effectively.
+ Thank you and congratulations to the amazing Lecturer of this course and anyone that has helped putting this course together.
+Great course! I enjoyed it thoroughly  . Anyone who is looking forward to learn something new, can opt for this course. The quizzes and reading materials are really informative and well organized. The instructions are very clear. Well,the videos could be more elaborate about the concept but they are straight into concept.All the basics are very well covered but I feel more could be taught in the videos. The teacher seemed to be very interactive and possessed good teaching skills. Anyone who is interested can go ahead and enroll.
+Very easy to follow the video guides and assignment instructions. The professor is very clear in her explanations. In fact, I found her candidness when making mistakes one of the most helpful aspects of this learning experience. While I had a background in basic HTML before taking this course, I feel like all of the content that was covered in the lessons reinforced my knowledge and I now feel more confident in my ability to look at other webpages (with the browser inspect tool) and actually understand how the page is organized.
+An excellent course by a Computer Scientist (PhD)! The course was very well presented, at a steady pace and in a lovely, clear voice (pity some courses online aren't so professionally clear).The assessments, and especially the final one, ensure that one focuses and aims for perfect, syntactic and semantic code - which is what all developers should be striving for now. I'm very pleased that I achieved 100%! Great job, **Colleen Van Lent** ... now I'm interested in the second course in the series, "Introduction to CSS3".
+This was one of the best online courses I enjoyed. I am really happy with  the  instructor for she is not teaching for money but trying to make best web developers around the world. She is teaching to show that she can teach, I really respect her for that .She is one of the greats!I fully recommend this to those who are struggling on how and where to begin their journey in web development careers. Thank you very much to Michigan University and my Instructor for course, and I can't wait to join you in the next course.
+The course is clear and well-paced for someone who is beginner like me. The instructor was great. Even if you've worked with earlier versions of HTML, this is a good update to HTML5 and how to code cleanly, with good syntax. The coding along lessons are both fun and challenging, so download Sublime or a text editor right away and try things out in your first lesson if you want to get the most out of it. Overall, this was a really good course. I am excited to continue taking the rest of the Web Design certificate .
+This course was incredible!  I had the most fun learning and competing with myself to make the deadlines.  The information and level of the course is exactly what I was looking for.  With this information I believe it will be possible for me to continue learning about html without other courses even though I'm really  looking forward to completing the 'web design for everybody' specialization as well as other specializations ( In particular courses on computer programming and other web design specializations ).
+After trying many paid and free platorms /sites I have found this one to be one of the best in terms of learning the subject matter from a complete beginners perspective. The instructor was clear, articulate, cognizant of the issues and thoughts that may be running through the head of a newbie like me, and most imortantly, passionate! I also liked how I was pointed towards different resources which I can continue to go back to, to refresh and build upon what has been learnt. Looking forward to learning more.
+I thoroughly enjoyed the content shared within this course.
+I do feel as though I have a basic understanding of HTML5. I also became
+familiar with resources that I will always be able to utilize should I have
+questions or need to review in the upcoming weeks as I continue learning. I am
+proud of my first “ugly” web page and look forward to incorporating CSS to liven
+my work. There were also great takeaways regarding various accessibility features.
+I look forward to beginning my next course with Coursera.
+Great first course for anyone - even those without any coding background. This is truly HTML for people who are 100% new to web design, so if you already know the basics, then you might want to play the videos on fast and take notes for anything that sounds new - then move onto the CSS course for styling. If you know nothing, absorb as much as you can and practice, practice, practice. This instructor is excellent at providing detail and ample resources to get your journey as web designer started!
+This was a great course! Prior to taking this course, I was petrified of coding. However in order to expand my experiences as a graphic designer, it makes sense to at least dip my big toe in the coding pond. Professor van Lent's video lectures are easy to comprehend and follow. She also encourages trial, error and failure as part of learning, and expects new students to do so. That teaching style provides a relaxed feeling and helps alleviate the anxieties of learning to code. Thanks Professor!
+This is a great introductionary course with some useful points on how to pick up when the course ends or how can you further develop yourself on with HTML. Pretty straight forward and teaches you the importance of accessibility and semantic values as you go along to pick your tags to build your own website. I especially loved the teacher because even though this is a MOOC she's really trying to push you forward to teach you something. Well done Michigan University and Miss Colleen Van Lent!
+Great course for an absolute beginner wanting to learn about HTML.  Even for someone who is somewhat familiar with HTML like me, it is still very useful to start from the very beginning.  Colleen's emphasis on designing a webpage that is valid on many browsers and accessible to a wide range of audience is very good.  Overall, I enjoyed taking this course and looking forward to learning about the next one in the Web Design Specialisation.  Thanks very much to Colleen and the teaching staff.
+The course was beyond my expectations. Even if the videos belong to 2016 they are still doing a great job.First of all lecturer is really supportive, transparent and has a sense of humor. <Especially sense of humor is a really great asset for a lecturer :)>She condems "helicopter parenting" but she is doing "helicopter lecturing". (I am using this term in a positive way of course!) As if she is watching you, she warns about all the mistakes you will make. Take your precautions and enjoy.
+I have been in the web dev field for almost a year. The intro says that this course is not for beginners, but I still took it, since I want to learn HTML systematically. My original plan was to skim through most contents and focuses on those I don't know before. This course goes beyond by expectation and is very useful to me. I feel getting systematic  knowledge from it.In addition to the course content, the professor conducts the lecturers in a very clear way. I like her teaching style.
+The best part of the course is all the resources they provide throughout. It doesn't matter if you learn better from a teacher or from reading a well-written textbook with examples because they provide both options. The teachers are likable, thorough and knowledgeable. The quizzes end exams are perfect. You do have to read and pay attention to the lectures but the quizzes are not designed to make it impossible for you. I would definitely recommend it for a total beginner like I WAS.
+I would highly recommend this particular intro into HTML course as the instructor is especially thorough in walking you through the "rules" so-to-speak. I've taken several MOOCs, as I'm studying to be a Front End Developer. The UofM tutorial is by far the best I've completed, as she "filled in the gaps" others failed to cover. I've since enrolled in their CSS & JS courses; the CSS (I'm finding) is produced similarly and has already been an worthwhile investment of my valuable time.
+This course is really good for beginners. It helped me a lot to understand the basics of HTML5 and few other topics like web hosting and validating sites and accessibility. The project and quizzes are super beneficial as it improves your confidence and knowledge on HTML5.Peer graded assignment enabled me to witness and review other people's web pages and their reviews on my web pages. I would highly recommend this course for people who want to get started with web development.
+I really appreciate Dr. Colleen spends lots of time introducing the foundations of how the web works, how code works in a certain way. I did other courses before, lots of them only focus on teaching you writing something seems work, but at the end of the day, I still didn't understand why and got stuck on writing my own code.  This course is different, it teaches you the fundamental things, that even web technology or language changes, you will still understand the core.
+Thanks so much! A great course and a fantastic teacher! :)Before this course I was a total beginner and now I know the basics of html5. I can write a working code and know what to do with it.It starts with an overview on the history of the Internet and its developments, until html5. Explains how to create a basic webpage, writing a HTML code. And it ends explaining how to eventually send the page to the web. In a very easy, interesting, efficient and understandable way.
+I knew about HTML since my schooling but never knew meaning behind those tags and wondered why are there so many tags if one can use the other which looks similar.By learning this course i was able to understand Semantics i.e. where exactly each tag is to be used and why it is so important to use them as intended. I whole heartedly thank Madam Colleen van Lent of University of Michigan for providing the best learning experience online.Best Regards, Ashwin P NairIndia
+I recommend this course as a beginner in web developer/designer!The course contains materials that help you understand and use HTML5. I think it was a good course to get to know what HTML5 and coding is. I really liked the lecture since the professor tried to explain it in an easy way. It took me exactly 2-4 hours/week, so I think it's a reasonable amount of time to begin!If you're hesitating because you don't have any background or afraid to start, I'd say go ahead!
+If your starting from the ground up, this is a very good course to learn proper HTML5.Being an IT pro for many years (Sr. Systems Engineer), there were a few parts which I had to fast-forward, but that's not a problem for me.I had the chance to re-learn my old HTML skills the HTML5 way.Coleen does a good job to make the course feel light, easy and achievable.I will do other, related courses, that will build on top of this one.It took me there evenings to run through.
+I am a third year I.T student and took this course just to freshen up on my HTML knowledge. this course even covers some content (e.g. accessibility) that is not covered in my lecture slides and seminars. very good course. covers everything that my university taught us. for those of you who are not going the degree route, this course is an excellent start. for those of you like myself who already know HTML but haven't touched it in a while, this is a good refresher.
+Firstly, I would like to thank Professor Colleen van Lent for being such an amazing mentor. She covered all the necessary topics related to HTML5 in the best possible way. Its only because of her that I was able to host my first ever website and understood the difference between various tags. The course also helped me understand that we need to use only the required tags and elements while designing a page and keeping in mind the rules of syntax and semantics.
+The course was very nicely organized for absolute beginners. I had done Web Development a long time back and was completely new to HTML5. Listening to the Video lectures and referring the suggested textbook "Missing Link An Introduction to Web Development and Programming" was very helpful. The quizzes were tricky. I recommend this course to anyone who is completely new to web development and who likes to learn the concepts and best practices in coding.
+I have taken HTML throughout the years with the goal of learning design and finally putting my own stamp on work I have been asked to do.  I always left frustrated and doubting whether I would ever be able to do it.  This has given me back some confidence that it is possible to learn. the instructor comes off friendly, clear and supportive.  The materials really have me doing and seeing where my mistakes are and I really like that.Thanks!
+This course is exactly as advertised, a stand alone course in a series of courses that introduces web design to the novice, non-computer science major. This course introduces the processes that are the foundation for well designed, accessible websites. This course is exactly what I was looking for. I leave this course the foundational understandings and skills to explore the HTML on webpages that I like and to practice coding on my own.
+I genuinely loved the course. It is very well structured and you learn a lot, especially with the help of quizzes and practice. There were, however, some things which you need to look up yourself or which may be explained later. Personally for me, it was hard to completely understand a part about hosting your website as it was very succinct. BUT I did learn all the basics and want to continue learning. The only advice is PRACTICE MORE!
+Even though I knew a few HTML tags from before, this course helped me grab the concept of semantics, understand history and evolution of HTML, and also the very important concepts of validation and accessibility. In the end, I got to practice all these on a project that was required to do at the end, and it was very satisfying. Thanks for this course. I hope for an exciting journey in the next courses of specialization too. Regards.
+Thank you! It was a clear explanation. Especially i liked the part where you explained how to create a html file in the folder step by step. (open this, save it like  that and etc.) and the part about how to make my file work in the internet for everybody's seeing. And actually i still struggle with making my connections work in WinSCP. I'd like you to put more stress to that, because it's not always going smoothly. Thank you again!
+Before I joined this course, I tried some online courses but could not complete them because the subjects were boring and sometimes the explanation was not clear. I would like to say this is my first course to join and complete, because the way of the explanation was very clear, as the course contained a lot of very good information, If you are looking to start your journey in web-developer trust me you are at the right place
+I was always waiting for a course like this. I was a student without knowledge of HTML after completing the course I have reached the basic level of knowledge in HTML5 and now I have the opportunity to improve my learning and increase my level. I love HTML5. Thanks to Colleen van Lent and the University of Michigan to create the Specialized Program - Web Design for Everyone and especially to Coursera for making this happen.
+Excellent!  I've taken a handful of HTML5 courses on Udemy but I learned so much more from this course.  The Instructor speaks clearly, and the course is informative, detailed, and easy to follow.  She is well organized and manages to cover all that one needs in reasonable time.  This course helped bring me up to speed on some more modern techniques and I used it to great success in redoing some of my old sites. Thanks!
+Absolutely loved this course! The course instructor started from the very basics and taught us everything from how a webpage works to how to create and put up our own webpages on the internet for everyone to see. A lot of focus was put on accessibility. This course really dives into how we can make our web page accessible to more and more people. This is a great course if you want an introduction to the world of HTML5.
+This course is really informative and interesting. You will get to know the core principles of web development and html5. You will know the websites, and tools to validate your code and making sure that it is accessible to everyone even disabled persons like hearing, vision, and arms.Mam has a great sense of humor and a brilliant methodology of conveying the message. I really love this course and recommend it to all.
+Just finished the final quiz! Feeling so great!I really love this course cause I've learned a lot about HTML. Also, the Instructor put a lot of emphasis on accessibility, which I think is really important.One thing a little bit frustrating, though, the codes in the quizzes look like mess when viewed on my phone and it really gave me a lot of trouble. Perhaps this courser would offer better support for mobile phones?
+It was an amazing experience to learn basics of HTML5 from Michigan university.I am working with web design and development for past 2 years but in this course I got to know a new thing that I should take care of and that's accessibility and also got some tips on how to master the skill of making amazing web structure using html5 and I highly recommend beginners to take this course its worth doing this course.....
+I really enjoyed this course.  It is not the simplest task to provide an environment in which an online student can consistently learn to write code and be accurately assessed in his or her coding profiency.  I am a beginning programming student yet I didn't need more than windows 10, a dell inspiron 1500 laptop, and the will to learn HTML5.  Everything else was provided within the course and I finished quickly.
+Great first course for anyone. Especially for who are (completely) new to HTML. As a newbie I found the course easy to follow. The instructor does a great job and is really passionate about coding. The course has a focus on learning the tags, the syntax and semantics of HTML5. The course gives you guidelines to code correctly. You also learn about the impact of the code on the accessibility of Web pages.
+The teacher and the course it self was pretty much what started me on this Coding game and as a Sales funnel Builder that is just adding snippets is more than enough to not only understand whats going on on your websites or funnels but the leaning a new language to talk to real programmers haha or just the ability to I made this cool website myself and is my pride:  https://harv.gilbertsimpson.com/soip
+This course is an excellent beginner's resource. The examples and detailed PowerPoints are a great step-by-step walk-through into the basics of HTML programming. I am a little frustrated with coursera's attempts to extract money from students auditing courses, but that is not this particular course's fault. Overall, I am a big fan of the UMichigan courses. The Python course is also great for beginners.
+This course was the first online course I've ever taken and as a novice it really shows me the magic of web developpement and especially HTML5.I can't wait to enroll in more classes now.Also , I really want to thank Dr.Collen van Lent for her simple and fruitful way of giving the information and  her encouraging words as well.finally ,I thank the University of MICHIGAN and Coursera for the great work.
+This course Introduction to HTML5 is really informative as well as designed Innovatively,Videos are quite a lot informative, as well as  reading links provided are also informative.After learning from this course I learnt a lot about HTML5, yet more to learn.Thanks for providing this Amazing Course .The reviews are also justifying the quality and quantity of knowledge provided in this Course.Thank You
+An absolutely ideal introduction to HTML5 – exactly the type of introduction that I wish I had when I started learning HTML5 several years ago. I took this course as a refresher on HTML5, and found Dr van Lent's style to be friendly and engaging: she covered all the essential elements of HTML5 in an understandable manner. Highly recommended for beginners, or as a refresher for more advanced learners.
+It was an amazing experience. Now, I'm able to continue learning more about HTML myself because I was well introduced to its basics and got familiar with. And I'm also ready to know be introduced to CSS 3 to style my future Web pages. I liked everything in this course : the lectures, the additional material and the assessment. I would recommend it to every newbie who wants to become a web developer.
+The course is great! Colleen made it really clear and easy to understand. To be honest, this is the first ever course that I have sticked around till the very end and successfully completed it. I would never expect that my first completed course is an HTML5 course. I loved the course and enjoyed it. I am going to continue learning web design with Colleen. Thank you Colleen for the awesome course!
+My experience with this course and with the professor was really good . I got to learn a wide range of skills and knowledge from both of them i.e., coursera and professor. I really want to thank them for sharing their piece of experience and knowledge with me , that has surely helped me in increasing my knowledge in the field of web Development and changed my vision towards web development .
+I learned a lot more than just HTML in this class. It covered some history and basic info on the internet and how things work as well. It gave me a better understanding of how HTML fits into everything. The teacher also feels quite strongly about accessibility and talked about the whys and hows for that too. That's something that wasn't taught when I first learned HTML and I appreciated it.
+Thank you! I didn't think I could do it. Completing this course was something I was putting off because I didn't believe I could do it.  It has allowed me to be present and engaged in learning. I think I'm hooked on Coursera. The University of Michigan professor was eloquent and provided many ways/medias to connect to the curriculum.  Accessibility to text was very important in my success.
+I found this class to be immensely helpful to someone starting out.  I was so proud of myself for writing code and seeing it show up on my browser.  I couldn't stop telling and showing my friends and family about it.  Thanks goes to the professor that made it approachable.  I wish I could take a class with her in person as her personality is conducive for learning successfully.  Thank you!
+This course is a great one. My first Coursera course! It covered enough ground which I'd wish should be there in any online course, because too much of details may make online learning experience boring and too less of it means you haven't learned much. Whereas the amount of material covered in this course was having right balance. I'd recommend this course to every wanna be web-developer!
+Well, I was already a bit experienced with HTML but this course has information which i did not come across before starting this course. One such thing is the accessibility of web pages. This course is worth taking only if you intend to practice and do lots of reading. The reading materials they provide is very helpful for beginners. The instructor also has an amazing style of teaching.
+Really nice course to learn, use and code the basics of HTML 5. The professor explains really well each topic and motive you to code and keep learning by yourself. An interesting thing is that the professor focus too in how to code your website and make it accessible for everybody (people with any kind of disabilities, people who use screen readers, etc). Highly recommended this course.
+I really enjoyed this course because it did not go too fast for my academic ability. I really liked that the course took it slow and did not overload us with too many concepts all at once. I was looking to learn the basic building blocks of HTML5 and it is exactly what I got, so I now have the confidence to continue learning more about HTML5 on my own, as well as through future courses.
+I was really intimidated when i wanted to learn this subject so i kept putting it off. however, once i took a leap and joined the class and i am so happy i did! I really enjoyed the course and wish it was longer, I know I have a ways to go and lots to learn however, after completing this course, I am much closer to making my dream career of becoming a web designer a reality. thank you!
+Thanks for an excellent course! The instructor, Colleen is very clear in her teaching and brings us through HTML5 step by step.  My only comment is that since this course started in 2016, there are probably new HTML5 tools since then, hence this can be considered in the next course update.  I am very glad to have completed this course as I will be teaching basic HTML very soon at work.
+Well presented and explained. Covered good fundamental areas required to understand the web and HTML pages. One feedback is that the reading project to Shay Howe was marked for a few hours, while it took many days to complete delaying the overall schedule. So unsure whether I did that part right or not - so maybe instructions for that could be recast to make it clearer. Thank you.
+It was good for an introduction to the HTML5 concepts and beyond since they explain the evolution of the browsers as well as the evolution of HTML. There were some concepts that I have forgotten or maybe I was so used to use them that I forgot why I do that in the way that I do. So I enjoyed the course and last but not least, the teacher is good explaining, clear and to the point!
+It's an ideal course for newbies who want to start their career as a web developer or web designer. However, it is very helpful for those web developers who find some gap, flaw or weakness in the core concepts of web development. The teaching style of Professor colleen is fabulous and she is the top most instructor in coursera. I have enjoyed greatly while studying in this course.
+Dr. Lent has been absolutely amazing!  I love this course!  I have always dabbled with html in the past but I had no clue how much has changed or SIMPLIFIED with the creation of HTML5!  Dr. Lent has an awesome no-nonsense way of getting straight to the material without all the extra fluff that just wastes your time.  She's very personable and informative.  Thank you, Dr. Lent!
+I really
+liked it, it was what I was looking for in many ways. I wanted a course that
+was practical and direct to the point, only involving those key concepts necessary
+to understand how a webpage working a broad way. I ended up learning so much
+more, like accessibility and CEO positioning. Even when this is not my field
+study I might start digging in deeper know. Thank you.
+Great course, The lecturer is very clear in terms of explaining concepts, and the pace that she went through the course is rather too perfect...i was a bit intimidated when i initially enrolled for the course but after 2/3 videos i knew i had everything under control because of the way the lecturer structured her videos. Great course, great lecturer...i really learned alot!
+I really love Dr Colleen. She is a very passionate, wise and an amazing teacher. I am glad I enrolled for this course. Even though I am a dentist, having coded only in high school, I now love HTML5 and find it easy and so understandable, all because of her. I have a completely new understanding and perspective towards the language and computer sciences as a whole. Cheers!
+This course is totally perfect for newbie of programming! I am a designer and I am learning programming by myself and I have tried code.org, codacademy.com, and even meet-up for studying. But these didn't contribute to improve my programming skill a lot. Finally, I found this course and it worked! I got essential fundamental knowledge as well as practical and useful tips!
+Since every learner will have his/her own expectations , this course have met my expectations , it was simple and smooth the way introductory courses should be , and for me I have learned many new things, what made me delighted most of all is the part of hosting your site and cPanel , because i rarely saw that in web design mooc courses, looking forward to the CSS course.
+Dear Colleen and everyone who participated in the creation of this course,I want to say that it was not an easy course for me. Before that, I had never been involved in information technology. Your course is the starting point in the world of computer science. Your material is detailed and available for beginners. Thank you very much for everything  Best regards,Valinur.
+Very clear and easy to follow course, the emphasis on semantics and accessibility is not something I joined the course for, but an element I was grateful to learn about - makes the course feel professional and like it knows what it's talking about. Also found the initial foundation stuff very useful, as it is a tough subject to know where to look to learn about initially
+This is an excellent introduction to the world of web design. I knew absolutely nothing about HTML before, but after the course I have found an interest in coding that I never realised I had. Great teacher, and good course structure that is easy to understand and follow. I am looking forward to learning more in the next course in this Introduction to Web Design series.
+Good introduction. Helped my brush up my rusty XHTML and HTML 4.01 knowledge. Real beginner's really have to pay attention, when it is said, that one needs to dive into the many online HTML ressources themselves. A course can only hint and guide, where to go. We have to walk the way ourselves.In the end, I think, I know HTML5 in a nutshell. A good start. Way to go!
+This was an excellent course to learn the foundations for html5 as a complete novice. I had zero knowledge of web design but now I have the courage to dive further into the subject. Great lectures and readings to help understand the topics. Lots of helpful resources to practice outside of the course. Prof. Colleen van Lent is awesome and thank you for this course.
+Excelent! the courses from this teacher are very well put together and clear even if you have never done any serious web development/design! I would recomend this to anyone who wants to make a start in professional webdevelopment/design! im very happy i took this course its worth it! i even got a certificate from the University of Michichan! this is good on my CV!
+A little basic for me. But it was mentioned this was meant for the absolute beginner. Nonetheless, as a developer that never dabbled in HTML, this dipped my curiosity for HTML5. It's a solid start, better than reading about it somewhere in the internet.Definitely use split screen or a separate device to follow along with the coding. Even if it seems too easy.
+Excellent introduction. Good pacing and interesting content, not an overwhelming technical presentation. As an experienced designer, I was having trouble getting started on coding. Needed to have a better understanding of web mechanics and dynamics and a friendly introduction to coding. Finally have a good foundation on which to build thanks to this course.
+One of the best online courses i have taken (all thanks to the instructor) the way she teaches us makes things easier, i will recommend this course for beginners and  i can assure you will not be disappointed .  this course teaches the basics of html 5 and gives information of how web works and also teaches us how to host a website and check for errors  .
+I had a really great time during the course. I learnt this at High School, when I was 16 and didn't pay much attention so I'd forgotten everything about it. Now, 5 years later, I'm learning it again, and I am very happy with my results. I also think that all the information on the videos is very well explained, and the complementary texts super usefull.
+The course was well organised and structured also i learnt html from basics to advanced in this course also the instructor was quite good and she explained well . i want to thank the instructor and the coursera team for making this course and giving me this opportunity to learn and explore the world of HTML 5 keep making these types of courses .Thanks!
+Very good intro to basic HTML.  I wasn't happy with the autograding of the final project; they admit that it's a bit too picky.  Essentially it is very difficult, at best, to get credit for the HTML that you write.  The autograder needs to be reworked or removed.  That said, the code is only 1 point on your final grade so it's not the end of the world.
+This was my first course from Coursera and it was so good. The teacher, Ms Colleen van Lent was so good and she explained everything so fine. I'm thankful to Coursera and the University Of Michigan for providing me with this course. I look forward to becoming a good Web Developer in the future and this course definitely will help me in achieving that.
+This Course is best way for any student to understand the basics of HTML and starting student in the path of website designing.The video lectures are well-defined and structured with clear content description.The amount of hard work put into designing of those lectures is just mind-blowing.Thank you for getting me started for journey of web designing.
+Great course! The professor explains things really well and the textbook has the CodePen feature which really helps me to see exactly how the code translates onto the webpage. This is the first course I've actually stuck with because the structure and level of hands-on practice and accountability with quizzes was fantastic. Well worth the investment.
+It is really helpful and useful course and informative as well.And teacher explains really well.But what bothered me is final project and quizes.it was not right quiz to do in my opinion.Cuz  lectures does not cover what quiz have.Not matching it is like you have to find online.At least you could show those tugs before taking the quiz.Thanks anyway.a
+I am very happy with this course! I chose to go with this course with the University of Michigan due to being able to focus with the professor. I have a hard time learning due to not having a good mentor. The professor was great and I was able to learn from the very beginning! I am so happy that I have a certification in HTML5. Thank you so much!!!
+This course is a great introduction into constructing a webpage. With this professor you don't have to fear literally covering all the basics of the language in 1 week, like other 3 week programming course professors do. The professor spaces out the material over the class so it's not overwhelming while covering background knowledge on web design.
+A direct and honest introduction to the essentials of HTML5. The focus on acessibility and validation is very interesting, because you are aware of these practices from de beginning. Prof. van Lent is a great teacher and she appers to know the next question we have. The quizzes, tests and project have a realistic, simple and productive approach.
+I really liked this course and I learnt a lot even taking the audit version of it. Every thing Colleen explained and sketched , she did in a great way. I have been working with HTML on and off with me clients and every time I reach the success level I thank Coursera and Colleen for designing this great piece for us. Thanks again!All the Best,MM
+I found this course very helpful and interesting. Ma'am Colleen van lent made this course very easy for us. Teaching, learning and step by step advancing everything is handled perfectly. I always found HTML a little bit fuzzy but after this course I know the core of html. I would prefer every novice or new-ones to start html from this course.
+I have taken many courses in HTML/Web Design though none of them are this thorough when it comes to HTML, especially the syntactic, semantics and accessibility. Most of the courses do not ever touch on sections, figure, alt text, special entities, meter, progress tags etc. The instructor was very clear, precise, and definitely knew her stuff.
+Really happy I did this course. As a newbie to any kind of coding/scripting I found the course easy to follow and informative. As a short introductory course I feel like I have accomplished something that will be beneficial, and it's not taken me long at all to do it. I will be moving on to start the introduction to CSS course with enthusiasm
+I recommend this course for both beginners and HTML5 experts, because the teacher provides excellent guidance during the course of the 3 weeks, and recommends useful websites to improve our development. In addition, it was very useful specifically week 3, where the teacher explains the fundamentals for developing websites with accessibility.
+A really engaging course that was simple to keep up with. I loved the emphasis on practicing code (which as a newbie developer I hesitate in) and on accessibility, which I feel is a topic that is not usually delved upon properly in university classes. Colleen is a fantastic intructor. 10/10 would recommend this course if you're starting out.
+Thank you so much for the course. I was a complete beginner in HTML and had little if no knowledge about it. Thanks to your lectures that were so well-designed and easy to understand, I was excited to learn throughout the whole course. You have motivated me and I am on my way to the next course in CSS! Good luck in all your future endeavors!
+Very informative class. Teaches a lot about accessibility and good practices when designing the structure of a website. The teacher is good and encourages you to try coding on your own. Since it's a html class, you won't make 'pretty' webpages but the teacher still goes through all the basics like hosting your own site and getting it online.
+I was scared before of HTML and anything related to coding, however after seeing this course I became very confident and I have desire to learn more. I'd recommend to anyone to see this course. The teacher is amazing also the information that you can get. You will learn a lot in short time and it's explained in a very understandable way.
+This course opened the gate to a whole new world of opportunities in learning Web Development. The history, background and the reasons for following best practices are the key highlights of this course. Credit should go to Lecturer for touching the fundamentals and leaving us room to learn more on our own. Thank you Colleen and Coursera.
+I really liked the course, I had some notions of html and css but learning the most basic things broadens my panorama. I also learned about accessibility issues that are emphasized in the course, it is very interesting, from now on I will use the tags and html attributes with greater awareness of their meaning. Thanks, Colleen van Lent.
+It a beautifully designed course containing the knowledge and content you cannot find in any other youtube video or website so neatly and effectively. It is focused on semantics and even tells us the platforms for hosting our site nicely, even guides us to develop an optimised website with a good SEO. Thank you Ms./Mrs. Collin van Lent.
+This course is very easy to understand and very informative to beginners. It gives a very basic introduction to the basic html5 tags and the accessibility aspect of the webpage. This course will take you to your first step towards your web page designing dream, but the actual web designing skill can be only developed through practice.
+this course is really helping me to understand the basics of HTML, the course is really straight to the point. I recommending this course for those who really want to do something in web designing. I am very happy with this course. Thanks, Coursera for providing this course online and I want to say thanks to the University of Michigan
+It's a wonderful course to learn HTML5. Professor Colleen has taught me right from the basics and I'm very happy to learn this course and today I feel happy that I have completed HTML5 and will continue my learning towards web development. I thank my Professor wholeheartedly and will make use of this course in making my own website.
+A great course explaining html5 in a clear and practical way. The course also addresses several important points such as the semantics and accessibility of the web page. Apply semantics correctly to the context of the content and always focus on accessibility to make the content of the page accessible to as many people as possible.
+Great teacher who can explain concepts in easy to digest manner. Retaking some brush-up courses so I played this in the background while I was working, completed a quiz and continued the lessons. This class is also great for giving beginners a background of the web and the history of coding and web design. Really fun to listen to.
+The course contributed a lot to a better understanding of HTML5. I found it very interesting to approach accessibility as it is a factor that most businesses do not care about when they will make a website or web application. Congratulations on the great content, I hope to have the opportunity to participate in more courses here.
+Excellent course! Best HTML course I have taken anywhere. Instructor does an excellent job of explaining concepts with a consistent focus on writing semantic code that is accessible to everyone. Looking forward to continuing the Specialization with the CSS3 course! Thank you University of Michigan for offering such a fine course!
+I always like courses from University of Michigan and this course is not an exception. Even though I'm a programmer many stuffs in this course prove to be very helpful. I especially love the history part of HTML. I have recommended this course to a friend who wants to learn about web design. Thank you very much professor Colleen
+Excellent course! Great introduction of the most functional and useful elements of HTML5. The final project was excellent because it required the distillation of the information taught into a practical web page.Text reference materials could be improved to provide more thorough examples of HTML tags, elements and attributes.
+Coleen is an incredible teacher, fully human, clever and accessible that helped me demystify the cloudy land of HTML for a beginner. I've learned a lot, and I just wanna thank everyone in UMICH for always making great, easy to understand courses. Sign up if you don't have a CLUE, you'll end up with good ground to go forward.
+This course was an interesting introduction of what is going behind the scenes of the internet. It was a great way to invite us to get through this world of internet. As a stranger to programming, being capable of success in this subject is proof of great delivery and mastery Prof. Collen van Lent showcases in this course.
+Thank you so such for coursera for conducting online certificate courses.And i learned a lot  at starting i started with the no knowledge of HTML 5 code but after completion of my course i can develop a web page by own.And i also thank Colleen van Lent, PhD. mam  who taught me the  course from  the University of Michigan.
+Brilliant Course! The instructor has crafted this course with utmost clarity and patience. For a beginner like me, this course gave the much needed confidence and provoked interest in wanting to  learn more about web design. I really recommend this to anyone willing to learn HTML5 and dwell into the world of web design.
+Nice HTML course for beginners. HTML basics taught in a clear and precise way, the teacher shows a little bit of HTML hisotry, shows many useful tags and how to implement them. She also shows all the necessary and useful tools for writing the code and publishing it. Had lots of fun and can't wait to start a new course.
+It's  great experience to learn new things on coursera.It's very helpul for beginners as well as for experienced to gain programming fundamentals on coursera.It's develop our thinking potential by solving assignments.It's great pleasure to learn html concepts  from ma'm.Thank you very much for such a valuable Guidance.
+As a beginner, I recommend this course for those who have a passion to learn and it is the first step in web design.lecture was fantastic and you cant feel bore while you are taking up the course. I personally very thankful to the university and coursera for providing a wonderful platform for the learnersthanking you!!
+This was one of the best classes I have taken on Coursera!!! The instructor was GREAT. She made it easy to understand the lessons and she actually showed you what happens when you make mistakes and how to fix them. I give this class all the credit for my desire to continue learning more about coding and website design.
+Honestly, it's a course that covers most important aspects yet the required knowledge and consideration for accessibility. Unlike other resources it broadly focuses on everything related to HTML5, like from evolution to the modern day that actually builds the interest and basics at the same time . I really enjoyed it,
+First I want to say many many thanks for Coursera for amazing opportunities. We are in different part of the world but many possibilities to learn, obtain new skills and knowledge. This course was very useful for me because I can understand computer better now. I am very grateful for wonderful knowledge that i obtain.
+Great course! I had no background in web design, but this course taught me how to understand HTML5 in general, how to structure HTML5 code, and many commonly used tags. In addition, Dr. van Lent provided great resources for looking up tags in the future, validating the syntax, and validating the accessibility of code.
+I loved this course! Colleen made HTML accessible and enjoyable to learn - something I've been struggling to understand for a while. I highly recommend this course to anyone who has had either no exposure, or some exposure to HTML. It serves as a very solid foundation on which to build futher knowledge of the content.
+This is an introductory course on HTML5. However, it goes into good depths, and teaches how to write syntactically and semantically "correct" programs. It also teaches validation and accessibility which I find very important to learn, but many courses often miss out on these topics. Great course and great instructor!
+This course is great. Fullproof. Literally everybody can join in, and its a great jump-start. I've done the PY4E specialization as well, and I'm really greatfull for all the work that's invested into thes courses. A lot of free for everyone material, great content and a lot of love for what they do. Thanks very much!
+This course is really great and I really liked it. It touches all the foundations that allow you to be comfortable with coding in HTML. It touches the foundations, as well as some of real-life techniques used by professionals. I think this course with some googling can make a difference in your HTML learning journey.
+Dr. Van Lent is great!  I would totally take another class where she is a featured video lecturer (or live lecturer).  Very personable, down-to-earth, and video-friendly.  The course was a great review for me as I brush off some of the dust from my HTML and CSS experiences of the past.  Glad I enrolled and completed!
+The instructor knows what she is talking about. She speaks very clear and goes directly to the point without boring you.You can tell that she really took the time to organize the content she is exposing in the videos and she's not improvising at all. I really appreciate that because it shows a lot of professionalism.
+I really want to thank Colleen van Lent for taking the pains to prepare such effective lectures. I didn't have any knowledge about coding whatsoever before doing this course, thanks to Coursera I've got a hang of it. Lectures are very easy to understand, short and effective. Would recommend it to anybody interested.
+Collen Mam, I've Became a huge fan of yours as you have fantastic explaining skills as well as immense knowledge which makes you super-super Intelligent and love the way you smile while teaching. Now, as this course is completed all my basics are back on track and would love to continue with the CSS course shortly.
+The Instructor was very helpful and tries very hard to push the learners through the material. But as others may have said before, some of the information in the lessons is outdated a bit and/or the videos have outdated information. However,  the Instructor did a good job in mentioning that in the videos and such.
+This is a super beginner's level course--perfect for the super beginner. I recommend it.  Also, I had taken some other intro-level web design courses previously, and I found that this course still taught me useful tips that I didn't know before. I recommend it for those who want to cement their knowledge of HTML5.
+I couldn't thank enough for this course. It has taught me the base of web development very well and I feel very confident. No tree is firm enough if its roots aren't strong and I am sure my basic knowledge of web development through this course has made to stronger to pursue more courses on this topic. Thank you!
+This was a very helpful intro class.  I appreciate that Colleen spoke to me as a beginner without making me feel like an idiot.  I felt like she had faith in me that I could figure out next steps without reading the book to me, but she took time to explain the details.  I really enjoyed and appreciate this class.
+this course is awesome for a beginner. As a beginner here I have learned many things from what is URL to semantic tag and its use and its online validation. this course also guides about how to host your site and share your code online on a different platform. investing time and money in this course is worth it.

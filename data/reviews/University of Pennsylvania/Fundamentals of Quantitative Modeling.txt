@@ -1,0 +1,1071 @@
+Not a practical course. A lot of theory but very little practice. Quantitative modelling requires the application of data and usage of data sets. This course has none of that. Not for beginners when it comes to solving quizzes.
+I do not intend this to be mean, but I could not listen to Richard Waterman. I am British and I understand that Richard was born in the UK but spent a great many years in the US. If he had a BritiI really struggled to listen to him as his accent crosses the Atlantic several times a sentence. I found I couldn't listen to WHAT he was saying because I was so distracted by HOW he was saying it. I am sorry, there is probably nothing that he can do about it and the course looked very interesting but I simply could not bring myself to continue.
+Beware of Coursera and the $49 charges.  I found that I am being charged $49 per month for each class that I signed up for.  The $49 charges continue FOREVER, long the classes have been completed.  When the credit card expired, I was kicked out of the class that I was in the middle of without warning.  I am unable to reach anyone at Coursera to attempt to resolve the problems.
+This is pure statistics, not exactly financial modeling like the course it belongs to. Also, the lecturer speeds through concepts. You should already be familiar with statistics so that you don't have to rely on the speaker's explanations.
+The course is poor. Exams are too easy, video lessons are boring and not engaging. Content is poor too. Did not like the course.
+I thought that course was more specific. I will expect more applications examples.
+It's too easy ... I can learn this on google.
+boring, it doesn't like other quants course.
+worst app for studying
+it was trivial
+the course is mere naming of concepts used in modeling with no actual way of learning how to practise the things taught in the course :(
+Needs more interaction from the teacher. Use animations to make the math more understandable or dynamic. Consider adding practice problems as a check to see if students are understanding the concepts.
+Content is good. But the overall course could have been designed better with some hands on exercises.
+The student needed to have a good foundation of statistics and high levels of math to be able to follow the class. I have not taken statistics or trigonometry in many years so I struggled. I would have benefited greatly if there were more examples of how to calculate the models, including the calculations part of it. The professor did not do that and that got me wondering (not knowing) how to calculate the formulas. I think if I had seen a few examples, it would have been enough to understand and keep up. So, more step-by-step instructions on the mechanics of formulas, would be my biggest recommendation. But the professor did a superb job explaining the concepts, and showcasing some industry applications of the models. Thank you for asking.
+Great explanations provided by Prof. Waterman, however for the price of this course (in my view quite expensive) the materials available are quite poor (e.g. the formulas shown in the pdf slides are a mess, not a mathematical summary, etc), and the level of the quizzes is very basic. I would have expected much more from a course coming from Whaton.
+I liked the course because of its format and material. Basically it was comprehensive.I did not like the presentation and lack of practical examples. I had to force myself to concentrate at times and search other sources for more detailed insight.
+Its good for the starters but touches very few and very basic concepts. No offense, but the professor could have made it much more interaction by making the better slights he would just read values without even using markers
+I love this subject, but the way it was taught here was extremely boring and hard to follow/focus. I took it this class at NYU for grad school (higher level), so I was just looking to refresh and almost died.
+Really superficial overview, I suppose it's good for just familiarizing oneself with assigning the appropriate model, but to shallow for any real carry over to the real world.
+It is very easy and somehow less impacting on real business problem. I hope this Microdegree will get into some kind of complexity otherwise will remain high school level.
+If you have taken a statistics course in the past, this course is not super useful besides understanding which models are used for specific business problems.
+Explanations not clear. Difficult to follow equations in slides (variables and equations are not repeated from slide to slide).
+Personally, did not like the pace of the course. The course can be a bit more interesting with real-life case studies.
+Just the basics. No concrete explanations of models. You have to study them on your own.
+Very basic and the lectures are short in duration. Not what I expected from this course.
+Too difficult for a beginner, lecture fails to reach to the main point directly
+at some point it was a little bit complicated for me
+A first year undergraduate student can pass this
+Really theoretical and not detailed
+Course is very boring. No instruction regarding how to use the spreed-sheet or R to calculate those linear regression results. The results are just there. In some other fundamental that I took on coursera, those instructor gave some basic idea about how to use the tools/software.  I was hoping for some very basic instruction about how to use R or excel at the very minimum.
+Fairly straightforward and provided good content, but intros and summaries were often unnecessary and it seemed that a low percentage of the content was new material being learned. Still enjoyed it and learned useful terminology
+Felt like it could have been a little more plain....less theory, more application.
+I liked Professor Waterman; he is clear, gives examples, and doesn't just drone over the slides like my statistics professor did in college. However, the course itself felt a little too simplified. For example, when I arrived at the topic of multiple regression, concepts like collinearity and omitted variable bias, which are crucial to understand the fitness of your model, were not mentioned. This was a bit concerning because most business operations, I would assume, have multiple variables in play and would seem more practical to have a more in-depth focus on models reflecting that characteristic.
+The materials in this course were great, but some of the math was not properly explained enough for the individuals to be able to see how the formulas were derived - especially some of the basic calculus and the regression materials. I believe it would have only added 5-10 more minutes in one or two modules to do so since there were so few examples given (This could be covered in subsequent courses within the specialization - I am not sure yet as I will be taking course #2 in the specialization starting next week). Otherwise, this course was a great overview of the types of models used.
+ContentThis is essentially a statistics course couched in business terms, with a smattering of finance. The term quantitative modelling' is just how 'stats' has been 'rebranded' in the modern era. That is not a criticism from my point of view, but worth mentioning.Difficulty levelUltra-challenging for non-mathematician 'analysts'. The material is also structured sub-optimally. More cohesion would aid understanding. But the course is often rivetting and informative in ways that other groundings in stats fail to be, in my experience.ConclusionDifficult, but well worth the effort.
+The content as dry as it is was well presented.  No problems there just be sure to have a good night sleep lest you find nodding in the middle of a module.The reason for the three starts is a knock on Coursera for not letting me submit my last quiz on the last day of my paid subscription.  I finished the content at 10:00 CST but I was not allowed to submit my last quiz.  I had to pay for the next course in the certificate to get the completion certificate.
+The course was a good exposure to the theoretical concepts of Fundamentals of the Quanititative modelling. However, I would have found it more useful if the course had more practical applications that the I could work on myself. to help me understand the applications of the theoretical concepts better. Also, would have preferred the course to take through at least the basic of modelling these important models using some trial data set.
+Much of this course requires some previous knowledge of calculus and economic thinking. I found that much of this course was a mixture between my business calculus course and intermediate micro economics course that I have taken at college. I think it is unreasonable to call this a beginner level course given that I recognize a lot of the information from intermediate college level coursework.
+A good introductory course but it would have been nice to see a bit more of the math behind the models. I don't think the assessments were worth upgrading to the paid version of the course though. They were basically memorization and regurgitation directly from the lecture videos with very little, if any, thinking required. A bit disappointing from an institution like Wharton.
+The lecture is clear, but it's a fundamental lesson which could not learn many things, just theories. Furthermore, I suggest that there should be solution hints for Quiz, because students will be frustrated by not knowing the answers and not knowing how to fix them. In addition, the discussion broad is a little bit cold and lack of mentors to help students.
+The theory part is good but it is not explained with how the equation or graph is created, only meaning is explained which makes the course less dynamic as at the end of the course one feel that the knowledge is incomplete and have to go back and reunderstand when I will understand the logic and how those equation or graph is developed.
+The course was helpful to understand key statistical concepts but I hope it would have been worked on a little bit more to make it less boring. I do understand it's rather difficult to make quantitative courses interesting but this is just my feedback to the makers of the course so they can take it into account as and if they desire.
+This course was a good refresher of mathematical and statistical concepts. I found the mathematical and statistical concepts applied to modelling interesting. I never knew that what I learned in high school in the past can actually be used to come up with models to solve business problems. Some videos were a bit long though.
+I thought this course was going to talk more about quantitative investment model, there's going to be more finance knowledge, but it's totally mathematical models, and I had actually learnt these mathematical models in other courses. I don't think the name of the lecture and introduction perfactly matches the contentIs.
+This is a quick run-through different types of distributions. I found it useful as a recap of things I learned in high school (!) and there were some additional insights. However, I think this course might be hard if you never did any more advanced (high school) math.
+Good Course but the lecturer misses a lot of details and assumes the target students understand most of the basic math such as logarithms. Without further researching those concepts, the equations are a bit difficult to understand and interpret in a practical way.
+I believe this was a very good course for beginners. However, from Wharton, I would have expected more realistic examples.  I would have also liked some hands-on assignments. But, otherwise.. Great, great course from a beginners point-of-view! Thank you so much!
+The performance of the teacher was excellent, he is very communicative and you could watch him teach for hours, the reading material though should be more helpful, more available sources for further reading and any book chapters or hall books would be ideal
+It would have been nice to have some of the back work for some of the numbers provided in the RMSE, or R squared numbers. To better understand how those were calculated... instead of just taking someone's word for it.
+The course covers a variety of concepts regarding the quantitative modelling which is good, but the description is very shallow. It would have been even better had it described concepts in more detail.
+I found this course a beginner level plus as it's one of the modules of Business and financial modelling I prefer to have some practical education in this module to how to use these in a spreadsheet.
+Very basic stuff, not sure if it really helped me learn new things, just a bunch of terminology. Very well explain, perhaps I didn't fit the target audience (then again I'm just a student right now).
+Maths level required is really low while in the mean time explaining technical aspect but not digging in. Explanation are sometimes not enough to understand what the calculation steps really are.
+Course is helpful as a refresher to econ and business students who took some statistics in college. Someone who has never taken such courses will probably find this course much less helpful.
+A good course, but I had to use a lot of outside resources to wrap my head around the math. This course requires substantially more mathematical knowledge to move forward than it suggests.
+the questions, even though the niveau is quite low but you don't really get any great insight and may be wrong if you didn't hear or read a word., Even though you've understood it.
+Useful Fundamentals, basic but helped to refresh college contents.Coherent exams.Could go deeper on the mathematical concepts and examples for better understanding.
+It would be great to give student a list of exercises to practice before the quizzes. It will help understand the content (specially the calculations) better.
+More exercises after each concept, and more specifically non-similar to the example exercises might be very helpful in cementing the concept
+The Explanation was a little too technical for me. Also I wasn't satisfied with the examples. Other than that, everything was solid.
+Really helpful in understanding the different models but if you wish to learn a bit more depth of modelling go to the next course.
+Introduction to various topics is good but I would want to see many more examples where they are applied in real world scenarios
+It could've gone deeper into the topic. Although it's called Fundamentals of quantitative modeling it don't got to be to basic.
+This Course is very good for beginners who have absolutely no knowledge of Modelling. For Professionals, it is not of much use.
+I was expecting the course to provide insight on how to use spread sheet and its respective formulae in mathematical modelling.
+Well put together, however, if you have had a reasonable high school math education, most of the content will be known to you.
+It would have been much more helpful to have practice opportunities besides the exam and exampled. I wanted to try it myself!
+The instructor is good. Course material is very basic. However, it is not for someone having no knowledge of statistics.
+As a guy from Machine Learning field, its models and concepts are so easy and simple for me, so it's lack of challenge.
+More concrete exercises would have helped to anchor some principles. This was mostly a succession of videos and a quiz
+This subject is totally numerical based, There should be more focus on numerical instead of theoretical knowledge.
+I felt that there were insufficient examples to help us gain a better understanding of the concepts being taught
+Many of the fundamentals are not explained. For example in Week 4 it is not explained how to calculate R2 or r
+Assignments should be evaluated for all users (unpaid ones as well) like it is done for other Wharton courses.
+Perhaps I was expecting too much given the reputation of the institution, but this is a course for beginners.
+Could come a bit deeper in more complex examples at the end of the course. Most of them were too simple.
+General description of the modeling, need further work or pre-understandings for some of the contents.
+Felt a little rudimentary until the last week. I hope the specialization picks up after this point.
+Not enough about formulas or real world application.  Was hoping to see examples applied in Excel.
+Nice primer for modeling, but wish there were more workable problems to help hit the point home.
+Too descriptive for a quantitative course. Would've preferred more problem solving exercises.
+-no explanation on errors-too theoretical and abstract with lack of examples and own practice
+Could have been more advanced from the perspective of practical use-cases of data modeling.
+The course is a bit too introductory for me. I'm looking for more challenging material.
+most contents are explicit on ppt, it is sometimes not necessary to view the lectures.
+Lots of information, not much opportunity to apply practical usage to the theories
+Content is good but the teacher is extremely boring. Had to struggle to finish it.
+My name was spelled incorrectly on my certificate, how to do I correct this?
+I would have liked the quizzes to explain why an answer was right or wrong.
+good course, quizzes should not be locked though...disappointed with that.
+I think the contents of this course can be more difficult and challenging.
+It was an interesting module, however, not sure how I will apply this in
+Very basic things that any person with a stats background should know
+Not that enjoyable. Decent information but pretty boring to watch.
+It should be more rigorous. I completed this course in three days.
+a bit too simple, I would have expected more practical excersises
+Nice, course - could spend more time on practice and examples.
+too easy. not enough practical skills or tools teaching
+There should be lab or hands one calculation exercise.
+It was theoretical but provided an apt understanding.
+Questions with actual raw data would be helpful.
+More reading about theory than actual doing.
+Too fundamental, too easy. No depth in math
+I already knew most of the topics taught.
+Could have added more about monte carlo
+please improve hand-out for self study.
+Good and nice Analysis of each model
+A little too basic, but still good.
+Review of simple high school math
+the lecturer is kind of boring
+This course is for beginners
+Basic but informative
+Good but too easy
+This course has the right approach to the beginner. I thoroughly enjoyed the course. I learned the basics of how can we relate a quantitative models in real world business.
+The information in the course seems appropriate for an introductory level class and is presented clearly and in an understandable manner; the theoretical portion of the course is solid. Having said that, the course could do with more exercises and practice tests in which you can apply and understand the formulas, how they are used, and why. The arithmetic component of the course felt glossed over and while that was not the focus of the course a few extra exercises could make things clearer and would not be a burden.
+
+Fundamental knowledge of probability/statistics will help you better understand some of the concepts in the course, so if you have the time you could try checking those subjects before, or even while, studying this course.Didactically, looking at the instructor's face for long periods of time gets tedious after a while, but this is just a minor issue.
+I'd give 5 stars if only we can see answers & explanations after finishing the quiz. I understand why answers aren't shown, probably because it's to prevent people from memorising answers before re-attempt the quiz to get pass. However, this can be circumvented by showing answers to people who have passed for the first time - and not record scores after that. I've been frustrating with not knowing where I got wrong. Although I can ask in Forum, it's hard for me to replicate what the selected/unselected choices are.
+The content was very useful. The instructor is great and his presentations are very helpful. I rank this course with 4-stars because during the tests i couldn't see the explanations of my wrong answers. I have sent a ticket for an explanation but i haven't received an answer yet. Lastly, we haven't been tough how to transform back a log regression and i believe that you should add an extra presentation for math problems like this. Thank you for the knowledge, i am looking forward for the next course.
+The course is informative and does its job of introducing the approach to modeling pretty nicely. It could be made more rigorous by going in-depth about probabilistic models, particularly the Monte Carlo simulations and the Markov models. I would like to thank Prof. Richard Waterman and the Coursera team for making this course available. Prof. Waterman is precise and to the point. Those who find the video lectures to be slow paced (which includes me as well ) can watch it at 1.5-2X speed.
+The instructor is very good at explaining a wide range of notions used in business modeling, statistics and probability theory. Would have liked to get a bit more in-depth insight into certain topics but this course is called "Fundamentals of Quantitative Modeling" and does very good what is supposed to do.The reason I am not giving it a perfect score is because I felt like the assignments were too easy and the videos were a bit too long relative to the amount of information provided.
+Course provides a sound foundation in quantitative modeling. Instructor is clear and provides real world examples. I like that I could download the course powerpoint which allowed me to take notes while watching the videos. I feel confident about proceeding to the next course and hopefully through the entire specialization. The only reason I didn't give the course 5 stars is because I think there could be better tie-in with the e-book. I found the e-book to be marginally helpful.
+Good course content however the course doesn't go in to the depth that I was expecting. This is a survey course for people who want a very high level introduction into the subject. If you are expecting something closer to a graduate level course then this course is not for you. If you want to simply familiarize yourself with the fundamentals to then further understand your gaps and further opportunities to improve in a particular subject then this is a good course.
+The is an excellent course.  However, in the event someone takes the quiz and passes with only 1-3 questions incorrect, that the answers be displayed so that the student can rework the questions in their own time.  Please note that the answers will only populate if the quiz is passed. That way those who fail will have to go back to their notes and review, without having the correct answers provided to them.
+Great course if you want to go deep into quantitive modeling. I personally would have appreciated more examples and more interactive exercises to fully understand how to put all the theory (which is a lot) in practice, making it useful for the real world and to solve business decisions. Overall is good, estimate to dedicate 50% more time of what the course last, at least that is my experience.
+An interesting introduction into the quantitative modelling which served as a good platform for reviewing the basic modelling techniques widely employed. A grasp of applied mathematical concepts is valuable as the course does not go into depths on calculations however I expect those who continue on with the successive modules will have the chance to apply their knowledge to real life studies.
+Course content is great, give a nice overview of the entire modeling process which I lacked in school. Only thing (quite annoying though) is the speaking style of the professor, just wasn't for me. Feels like I hurried to complete the course just to saving myself from that voice. Definitely recommend the course though, since the content is great and seems like a good specialization series.
+actually, theres something i would like to askin the assignment part if you guys could provide the answer with solution later after clearing the test so that answers which are wrong or we couldn't do , we could get the concept and answer of italso the assignment of module 3 and content doesnot match with each otherapart from the examples delivered no other examples of real life is clear
+This was a very informative course. I personally would have liked the course to be a bit more intensive on the math side, but I can understand that the entire  target audience may not necessarily feel the same. I think that the course could have gone in depth for other kind of models such a monte carlo, markov chains, probability trees as well. Apart from that the course was quite good.
+Very good course which provides of an overview of what fundamental of quantitative modeling is.  The professor gives a practical examples in how to apply in real life the modeling.  I think he is an excellent lecturer in this subject.  I have seen these topics many years ago and now I have to review them and study to apply in my job and make my life easier and practical.  Thanks!
+Course is overall nice and is essential if you want to have a strong base in financial concepts but I think log - log model is a little advanced and difficult for beginner I mean the other concepts are been explained so well that a beginner can try hands on  in modelling , but I want to say I m grateful that I attended this course because it had made my roots way strong.
+Helpful course in that it introduced the baseline topics in quantitative modeling. I would have liked to see two things improve, however. First, this course doesn't give any refresher or examples on how to calculate set up and calculate some of the models and summaries presented. Second, I would like more assignments rather than a simple multiple choice exam.
+Great course but the exams really need to have explanations for the answers to each question. Very frustrating to get things wrong and not know what the right answer is and why. Also, sometimes the exam marks you wrong when the answer is  right! I had to email the actual professor of this course to confirm that an answer on the test was marked incorrectly.
+The course was a good introductory course in quantitative modeling.  I would have liked if the course required more problems to be done to gain some skills and a better and deeper understanding of the subject.  I would say though that it was presented very clearly and was approachable, even for someone that hasn't taken calculus or statistics in 25 years.
+The instructor presented the lessons well and explained the ideas and uses behind the models thoroughly, but it felt like this course brushed over some of the equations in the later modules without breaking them down enough for the novice. Without a background in Probability and Statistics, the math was doable, but difficult to grasp in a meaningful way.
+This is a very concise yet informative course. Ideal for people who can't dedicate a lot of time to learn about modeling, regression, etc and don't want to get into the rigorous mathematical aspects behind these concepts. Being an introductory course, this course satisfactorily provides a cursory glance at the content matter. All in all a Good course
+I was a bit apprehensive about this course, based primarily on its title.The professor's lecturing style made learning very easy.The quizzes achieved a near perfect balance between theory and equations.The final module was rather complex and might have benefited from a little bit more explanation.Overall an excellent course
+the course is well designed , from basic to a higher level and. Even though I knew the math functions , I learnt how useful and suitable in financial world. Only suggestion: add more examples so that attempting the assignments becomes even better. examples  are appreciated in pdf form if not included in the lecture videos.
+This course gives a good overview of different models and when you'd use them. It's pretty basic so if you've ever done economics or finance before, you'll find this repetitive. That being said, I found it to be a decent refresher course. The instructor is a bit dry, but it's rare to find a finance professor who's not.
+It is a useful course to help orient and introduce statistical concepts and refresh the toolkits priorly received on college or university studies, however, it should include material for refreshing calculus and other required techniques that are used in this topics to complement the reading/practice part of the week.
+Very useful course from a fundamental perspective. It really teaches you the base of all the models and why and how they're formed. It could have been even better if some problems would have been given for practice as after a certain period of time it becomes difficult to recollect the formulas and their applications.
+Good course. The professor provided some good explanations and insight. However, I believe it could use a couple more walk-through's of the example problems along with more chances to practice. I think it should also show/explain incorrect answers after quizzes as to deepen the understanding of the person testing.
+The instructor is exceptional at taking complex concepts and using examples to make them understandable. There is  a lot of information so reviewing the videos within the different modules may be necessary. You will get a lot of good information and understand how to practically apply it. Very useful.
+This was a great refresher course into math that I haven't thought about in a really long time.  I wish there were more examples through the slides so that I could fully wrap my head around it, especially in relation to the quizzes, but overall, the course was great and did what it was supposed to.
+Pros: This is a very good course to start with the quantitative modelling concepts, the professor explains every concept with well defined and structured examples. definitely recommendable to the beginners.Cons: The professor could use some more practical examples/scenarios to explain better.
+it's really a pleasure to get the certificate from such of great university by the deserve and knowledge ...i thanks to all the teachers who help us to achieve and understand the course , i mean it's was really good experience and the lecture that i got we'll help me in my professional life
+It could have been more interactive. They should try incorporating a few practice exercises, or ask us to work out solutions to a few problems before the actual assessment.Other than that, it is a really well explained lecture, and trains you in the fundamentals of quantitative modeling
+The course is relatively easy if you have taken economics, linear algebra, and probability and statistics in college. It's more like a review. This entire specialization does not applies more broadly to any quantitative models than just a DCF model that investment bankers would use.
+Should have short sets of practice problems to work through between the lecture and the quiz. While I can often go back and just find the answer from my notes, drilling is the best way to learn stuff like this imo, and at least optional problem sets would be hugely helpful.
+It was great learning. This kind of subject matter has always been difficult for me to understand, and it still was to a certain extend. However, in this course complex concepts are broken down into more easily digestable chunks illustrated by clear examples. Great course.
+Course content was good, however I feel that the concepts should be explained with examples having large data. There should be database based assignments for practice and evaluations. This would bring in more confidence while using these concepts in the real world.
+It is a great course but the way of instruction could be more innovative and incorporate more interativeness. Also please develop a prerequisite knolwedge section as for many, the mathematical concepts or the knowledge thereof seems alien like or long forgotten!
+Good overview of fundamentals of Quantitative model, yet most is theoretical and lack the part where it shows some actual practice. this would be detailing software used for each methodology. So that it gives a glimpse of what other skills one needs to develop,
+This course is really good, but it would be nice of the professor would explain a little bit better the formulas of the course. I did buy the book written by the professor but still find it hard to solve some of the problems in the tests. Overall, great course!
+While the theory was explained very well, it would have been useful if some of the examples could have been solved by using Excel or some other tool, and if there was a way to show how these concepts could be solved in real life through some software/tools.
+Thought the content was very well explained and the course was very well organized. Only complaint was that the quizzes were a little too easy/low level. However, I do understand why it is hard to ask more complex/difficult questions. Overall, very good!
+The content of the course is clearly explained by the instructor. I would say it is a nice introduction to the topics, but lacks practical exercises on spreadsheets. Overall is a good course, that allowed me to refresh some concepts about modelling.
+More practice problems could have been incorporated for students apart from quizzes. Apart from this, my experience with the course was good. The instructor was precise in delivering the content and was able to explain all the concepts effectively.
+it was a brief but useful introduction to data modeling techniques and interpretation.  The structure and course materials was easy to follow and the video tutorials were excellent.  clear for non native english speakers to also follow.  Thank you.
+The course is well-structured to have clear understanding of Quantitative modeling fundamentals. Learned the implementation of Probability distribution, Linear & multiple regression analysis & some others very crucial Financial analytical tools.
+This is a good course that gives you an idea of how to use basic modeling ideas in a business setting.  It does not get very deep into the mathematical concepts, but is still very useful and should help you perform the skills it teaches at work.
+suitable for beginners and people who wants to revise what they have learned in quantitative modeling. I took a level further maths and Ive learnt something quite similar before so this course wasnt very hard for me. Spent 6 days to complete it
+Using numerous examples and theories to explain probability and statistical models. Very intuitive and helpful for understanding basic quantitative models, the purpose of using them and what should be noted during the process of building them.
+would like a suggestion of reference books and some more solved examples to master the technique. Amazing videos, very interesting and won't let you turn away for a second. Overall a very good course for finance learning aspirants.
+The course is informative, however, I would like to see the answers to the questions I get incorrect on the quizzes (after I pass of course), or at least a note telling me which video to review to find the correct answer.
+Quite interesting to improve your skills to modeling financial information using proper skills. It is a bit theoretical, but hopefully will be the ground for using excel for proper modeling in next phases of the course.
+Highly effective course for someone who is trying to understand the quantitative aspect of the decision making from historical data points. The financial aspects are explained well through the quantitative frameworks.
+Very practical and clear explanation of statistical and modeling concepts. Would be great to include some practice problems aside from the quizzes, but as a low-intensity, accessible introduction this course is great.
+Just like the title, this course mainly teach you about the fundamentals. It's enough for you to learn the basic, and leave you curious for more. Although I think this course could teach a bit deeper about the basic
+The material is very simple to follow. I hope to get more hands-on practice in using the concepts introduced so that I can more easily relate them to everyday life but also further internalize and understand them.
+For me who has not studied math in the uni, some of the equations are bit difficult to apply to the cases, therefore lost the points in the followed up quiz. Overall, it's a very interesting experience for me.
+It was a great course for beginners like myself, though in Week 3 and 4 I would have preferred if the videos were longer, and would have had a more dynamic style of teaching especially while solving equations.
+Very good refresher for fundamentals of statistics and probabilities. M.Waterman is a great lecturer who is able to explain complex concepts in simple terms and give good intuitions for quantitative models.
+This course has a great over view of these subjects. I the course as a refresher as well as additional insight into regression topics. I liked the course and I would advise this to somebody else as well.
+The lecturer is awesome. The content and the assignment of the course is too easy. It will be better to add some details of these modeling approach. For example, more mathematic materials will be good.
+This is business and financial modeling. There were not enough examples of business related content. THis hindered my ability to comprehend function and modeling concepts as well as I would have liked.
+A good course for all the beginners to analyze various aspects before starting any business. The course digs deep into the application of various economic aspects to help us forecast various things.
+The Course was easy to understand and pretty demonstrative as well. Although if the mathematics behind the equations derived were squeezed into the course briefly, it would have been of great value.
+The material is very helpful to get you up to speed quickly. If there could be more emphasis on walking one through the calculations and giving more examples, the course would be a perfect 5 stars.
+Course was very interesting, However I wish there were easier ways to explain to details also the instruction , I would recommend to grab the students attention more to make it more understandable.
+A good course to have an overview of the fundamentals for Financial Modeling, I think it is intended just to refresh your previous knowledge about these topics because there is no deeper content.
+Just finished the course.Well designed and explained.The explanation of some equation could make it more understandable. I would have given it 5star if there was some exercise for practice.
+Regression could be taken to a little more depth, for example explaining how to read regression output from excel. (Since it was suggested that regression is now done through spreadsheets)
+Good use of applicable examples. Strengthened my understanding of the mathematics behind the models without going to far in depth. Would be useful to see how to create the models in Excel.
+All in all course is fine, and i nam very thankful for the coursera for their support.  I would suggest to add some more examples of models  and more real professsionally practiced models
+It's a very light introductory course, which does not go into the fine details of the modeling. However it does give a good survey of the fundamentals for quantitative business modeling.
+The course was very similar to a statistics class I had taken in school. Great explanations and examples by the instructor. My biggest suggestion would be to add more practice examples.
+I am exactly looking for this course since 7-8 months recently i come across and immedietly registered . I am going through the concepts covered here. Nice and elaborative. Thank you Dr
+Pretty good explanations of the regression model. I had no knowledge about it. Had some basic prior knowledge of the other topics though. Enjoyed the course anyway. Needed to paitient.
+Great course if you already have background and exposure to statistical modeling.  I could be challenging to pick up material quickly if you lack sufficient stats or quant background.
+Great professor! I enjoyed this course very much! The only reason I'm giving 4/5 stars is because it wasn't as challenging as I would've thought. It was too simplified in my opinion.
+The course provides basics for modelling understanding, it gives you several instruments that are to be developed further. You as a learner know what areas are to be deep dived into
+It would be good if we have better slides in terms of animation where we switch from one graph to another or when we describe a particular point in pictures for clear understanding
+The course is extremely well crafted but brief, Don't expect a Full Fledged Analytics Deep dive rather a hawk eye understanding of the analytical business modelling methodologies.
+Thorough introductions on Fundamental concepts  is provided that builds upon further advanced applications with practical examples. All in all, a very useful start to the course !
+The overall course content is very well structured. Just one small suggestion - The presentation slides are not interactive. These should be in video mode and not in still mode.
+More examples from real life should have been incorporated for learning. However, very compact course and awful presentations and instructor rightly modeled for this course.
+For a short program, the professor was able to introduce in an easy way some key information about the subject with mastery. Awesome fundamentals. Can wait to go deeper now.
+It would be nice if you could incorporate problem solving in this course. It will compliment the theory and would also teach students how to use different statistical tools.
+In-depth explanation of the theory. However, the class could've been more engaging/practical. The quizzes should provide case studies instead of regurgitation of the theory.
+I found the course very interesting. My only regret is that the course was only four weeks long, as I found myself wanting to dig further into the different types of models.
+It was surprisingly simplified, the graphical illustrations and citing real examples helped to understand the equations better. It was a great learning experience for me.
+Overall good high-level explanation of the material. The only thing that I dislike is that there is no "homework" or problem set with which we can test our understanding.
+Enjoyed the course.  GREAT INSTRUCTION.  Course material matched expectations on the exam.  Overall, the course provided a solid introduction to Quantitative Modeling.
+I knew nothing about modeling until I took this course. Upon completion, I definitely know more now and am looking forward to taking other classes in this discipline.
+Quite a nice introduction though definitions of the various compenents contained within all of the formulas could be more clearly defined and displayed on the slides.
+Good beginner / refresher course on statistics and probability but does not involve any modeling.  Likely a good class for those that need more work on math concepts.
+In depth explanations are provided with a great reference to real life illustrations which helps a lot in understanding concept/methods with a much simpler approach.
+Lacks explanations. I.e. Log-log model - how it was transformed and back-transformed is unclear. Similarly, Monte Carlo simulation is in fact not explained at all.
+I studied Econ a long time ago, and this course was to be a helpful go over of econometrics. I just wish It had more supplemental materials and exercise to study.
+This course is nice and the professor is great however lack of several explanation. Perhaps simple and better explanation and method will improve this course.
+Course was excellent.I had a great experience. But if the course includes that how to  implement these tools using excel that would be the icing on the cake.
+Nice course. Great content for a 4 week course. Wish we could get more practice with it. Nonetheless a fantastic beginner level analytics course for sure!
+In my opinion a more detailed and more real market cases for  this would be great, however is a great start for knowin business modelling in todays world
+Classes had clear explanations and practical examples. I wish we had dug a little deeper in the themes, but I understand this is a fundamentals' course.
+I would like the examples to be more diverse based on the reality of the financial departments and the situations we have as professionals every day.
+A very very basic course , i will suggest using it as a refresher rather than anything else . It is however very easy to pass and get a certificate .
+Course is good. I think it should contain spread sheets with linear and multiple regression to allow the student to practice with a real case model.
+The lecturer was very clear and concise in explaining concepts, and the examples and illustrations used were very suitable. I enjoyed the course.
+Very clear explanation of the concepts and provides practical examples. The course is easy to follow.  But the Quiz is a little bit too easy...
+Very well done. Easy to follow and covered a good amount of material. Would have preferred a little more of the math behind some of the models.
+A great course that provides all the key introductory elements that are needed in order to acquire basic quantitative skills and perspective.
+unnecessarily complicated use of phrases. Very easy, uses Highschool math to get youself fresh again in the related topics. Would recommend.
+The interface is not that great. Leaving a video at a particular time must continue from that exact point to make it easier for the learner.
+I like the pace  of this course . Thank you Prof Waterman for taking complex  concepts and presenting them  in a easy to understand  format.
+This course gives us very fundamental idea of quantitative modeling but advanced modeling and/or tools. It's good for entre level students.
+It would have been easier to solve practical quiz questions if the module included some information on how to actually solve the problems.
+I really enjoy this class, however, when I pass the quiz, I'd like to know what the correct answers were on the questions that I missed.
+It's a basic entry level course that briefs about important functions and distributions and methodologies used in quantitative modeling.
+Material interesting, outlined and structured in good flow. Still need to investigate topic and deep dive to be able to use seamlessly.
+Amazing Course. One suggestions: Quizzes can be more frequent in order to ins-till practise and improve retention amongst the students
+Good info, but I wish it incorporated some work in excel to solidify the practice of these models, which is all done in spreadsheets.
+More practice and questions would be helpful in solidifying these concepts, especially regarding markov chains and probability trees.
+It's a nice course but sometimes is basic and unclear. Hope the lecturer could explain more about why and how to calculate the models
+Great course. Some more emphasis on the actual math behind it and how to build the models would have made it better, more applicable.
+Really nice course. Professor explains everything so well. This course was a nice recap of high school and college math and stats.
+It  was really helpful to learn the basic of quantitative Modeling Never thought that we can use so much of it in really practice
+A few concepts where not completely clear but as fundamentals the course gave me the ideal mind set to continue my certification.
+A really good introduction to Quantitative Models. I will personally recommend it for beginners since it wraps up main concepts.
+Very very informative course, only problem is, the content is kind of dry so it requires a little more dedication than average.
+After getting the results of a test, it would be helpful to get an explanation of questions that a wrong answer was selected.
+Good basics, thoroughly developed from one step to the next. Thanks also to the course forum participans for the discussions
+This course really helps in understanding mathematical functions and gives you a good foundation in quantitative modelling.
+Very learner-friendly for newbies in financial area. Specifically useful for me in beginning my career in risk model field.
+Good course, in some places it does jump a few steps so recommend doing some of your own research to cross check concepts.
+A very good introduction about the different models.The only negative point is that it might be sometimes too theoretical.
+The fundamentals of Quantitative Modelling is an amazing course to improve the basic knowledge in finance specialization.
+It was a good course but there should have been some quantitative analysis models at last which could have helped us more
+Wealth of information packed into four modules.  I would suggest allowing for more interaction for questions post exams.
+Indeed the course was insightful and will help to understand the fundamentals. But the explanation could be simplified.
+The course teaches the fundamentals of modelling and it fits the needs of people with no previous knowledge in finance.
+The issue is with wanting to review the questions you got wrong on the quiz, to learn from mistakes etc. not possible?
+Teacher does a fantastic job of explaining concepts, and provides detailed examples of each one along the way as well.
+It was great, I just wish there were explanation for the wrong answers in the quizzes so I can understand my mistakes.
+Very basic course, needs to give more inputs on application of the concept rather than just elaborating on concepts
+Helpful overview of how modeling works and what tools are available. Not terribly practical, but a helpful survey.
+I love how the lectures are constructed. Even at the end of module 1 I feel so confident of doing well. Thank You.
+Pretty Basic Course. It builds the foundation for what is going to come next. The regression part is interesting.
+Very wonderful experience so far. I began to see a practical side of the quantitative I have always calculated.
+A good starting point for quantitative modeling. I am looking forward to taking the next courses in the series.
+Really interesting and insightful, however, It could have included more examples and a little bit less theory.
+good explanations, lecture is easily understandable. quite easy material if you really want to work with maths
+Could use more excel based exercises and examples but overall good broad explanations of different models
+More examples should be given to make us understand the concepts better. Otherwise, the course is good.
+Demostrating example is spreadsheet or R, would be a very helpful tool to understand the course better.
+Would be nice to get the answers to the end of module questions so you can revise where you went wrong.
+The topics are covered in a very efficient manner. Looking forward to staying motivated and learn more.
+I knew about modeling already, but this was a good refresher and it includes a minor business concepts.
+it is the overall very basic introduction while the mathematic part need more time to understand haha
+it would be great if it involves lectures more practical applications on par with theoritical stuff
+Excelent! So well exemplified concepts that is possible to understand. Should have exercises to do.
+I would like to see exercises solved because the log model I got a little confusedExcellent course
+Not enough examples and how to calculate problems. The quiz questions should have answers as well.
+the course outline was clearly stated, explanations were basically understood with great examples
+Very informative. Would've liked to had that correct answers to the quiz questions that I missed.
+It was a good learning experience.Though usage of more examples would have been more beneficial .
+The course provides a sound background and framework on Quantitative Financial modelling process.
+A little easy for a statistics Bachelor, but enough general for starter in Quantitatice finance.
+Straight and too the point. Worth the time watching the videos for the ability to put on resume
+Fantastic tutor and very relevant to what I was trying to understand about quantitative models.
+Not enough explanation on the calculations, especially considering they were used in the tests
+The learning offers the best experience. the videos are clear and the content is what i needed
+Thankyou coursera for providing me chance tolearn such a useful course with excellent faculty
+Good overview. However, much of this information was even more basic than I had anticipated.
+Great Course. However, It is a little too basic for me.I think It best fits for someone new.
+Very basic course - a little too easy. The questions & assignments could have been better.
+Really nice. But some practical examples would be helpful to really integrate the course.
+It was a good refresh of mathematical functions and the most common quantitative models
+Good level of detail and math for application use, though not for theoretical analysis.
+It is very basic module without any insight into the mathematical details of the topic
+Good introduction, in my opinion it needed a little more in depth statistics and math
+Would have been better if they  had shown the process to plot all the graphs on excel
+Loved the course. Wished there were some practical examples/assignments to work out.
+This course does a good job of providing a good insight into the modelling thinking.
+Entry-level of Quantitative models development skills, good for a new comer like me.
+Very good course, I would just be expecting a bit more of practical Excel content.
+I enjoyed the class. However, I would have liked it to be a bit more challenging.
+Very useful to acknowledge basic concepts on probability and regression analysis.
+too academical & boring. Check how HBS online is doing Business Analytics course
+The course is overall great. Maybe a little simple for a STAT major.  Thank you!
+It is a must-do course for analyst, it like embarking on an investment journey.
+Each concept explained in a very easy way with very apt examples to understand.
+Great intro for someone start from scratch wanting to learn business modeling!
+I feel the course can be made more challenging by incorporating a project.
+Got some new knowledge from experience sir and thank you for scholarship.
+Wonderful! Gives a really good of what quantitative modelling really is.
+Please involve more of the mathematics behind it. Great for an overview.
+videos are very informativeEnglish is very simple and easy to understand
+it was basic but has a very lucid way of making things understand to us
+Good and comprehensible grounding in the basics of models and their use
+This is a really good introductory course for quantitative modelling.
+Mostly theoretical though he does a good job explaining key concepts.
+I hope that the course can explain more about the software operation.
+Great course and a great instructor. Just wish it was more in-depth
+Great Learning. Explanations, Examples and Quiz designed very well.
+Covers all concepts, but mostly focused on the theoretical aspects.
+introductory, can integrate more examples into the class materials
+TURNS OUT TO BE A LOT USEFULL IN PRACTICAL DECISION-MAKING PROCESS
+Explanation of Examples could have been explained in more detail!
+I love the course . It will be best if it is made more practical.
+Provided a good summary of the basic fundamentals and principles
+would be better to have more examples from life in explanations
+Could use a lot more practices & examples. Overall, it's great!
+Hands-on should be included to make the course much effective.
+The course presentation was very well done and easy to follow.
+Would it be possible to explain interdependent models as well?
+Good introduction course that is understandable and concise.
+Great course for the Business Maths and Statistics Students.
+Very good course. Could have included a few more problems.
+Iam learn  very useful think about a quantitative modeling
+It would be better if the class become more interesting.
+Brief and concise . Overall great learning opportunity.
+It could go a bit more deeper to the math and examples.
+assignment answers must be provided with explanations
+but must have given a deep idea about the regression.
+Very beginner level but concepts were well explained.
+Really worth it for a finance & business professional
+A good introductory course to Quantitative Modelling.
+It's simple but could be a way to refresh my memory.
+Good lecturer, But the content is too simple & easy
+Good to get an exposure of Quantitative modelling.
+Nice review of quantitative modeling fundamentals.
+Great introduction.  So much more to learn now!
+Very useful to get an overview of the topic.
+interesting grasp of foundations in modeling
+Please allow for practical excel examples.
+It is just an intro... not really helpful
+A good course in the field of operations.
+Very good but might be too basic for some
+Rather basic. Assignments not challenging
+Clearly explained for easy understanding
+it is very useful for finance personal.
+Very insightful and easy to comprehend.
+Understand types of model in general
+Very well summarised and explained.
+Have certain degree of difficulty.
+Good..can be made more practical!
+We need more practical examples.
+Its a quite interesting course
+Good introductory level class
+It was very understandable
+Very fundamental and slow.
+Good Course to get started
+very very helpful course.
+Good intro in the topics.
+good on knowledge review
+This course is amazing
+Useful, but very basic
+Good overview course.
+Is it really useful?
+Informative but asy
+Clear and concise
+A bit too basic.
+can be improved
+somewhat simple
+Basic Course
+Good review
+I really enjoyed this course. Although I have had exposure to these topics in the past I really enjoyed the teaching style, the clarity with which the topics were presented, and the practical applications. Additionally I found the Coursera platform useful as I could pause, 'rewind', and review concepts as needed.
+Very good background to quantitative modelling. It gets a bit heavy on the mathematical formulas in places, but if you follow through, it helps cement understanding. Good speed/pace of material.
+Richard Waterman is good at explaining. The level is basic but he advances some useful interpretations of common expressions. For someone like myself with experience in modeling in a different field (biological processes) the examples from the business world are very much appreciated. Learning modeling and statistics is not hard. The hard part is becoming wise at using them. Modeling won't spare you from being creative.
+The professor is very humble and excellent in teaching. Every aspect is covered in the course. Only one thing is missing if you could provide us the practice in R and excel sheet. Should contain practical and resources associated with the course.
+Course is having ultimate content regarding the understanding of Quantitative modeling and its applications. Having great explanation with examples of linear, power, exponential and log functions.
+This is a very well structured course focused right at building a solid base for modelling. Many new ideas were discussed and some good examples were used along the way and in the end of module questions as well to test the understanding. I would highly recommend this course to beginners.
+Very clear and articulate explanation of the concepts.  He doesn't skip a step in the sequencing ideas, drawing comparisons and differences, and illustrating both visually and story-telling.  Excellent.
+Very nice course for beginner, the mathematic level is not high (around french baccalaureat) so available to everyone. I enjoyed a lot this course that show how simple math can be used in real life.
+This is a good course for all of them who wish to work in this field and are unable to do so because of lack of core knowledge. The course helps to build this fundamental conceptual knowledge.
+this course was a very basic and very useful course to start with any quant related career .
+It’s a fantastic experience   i have ever earned.
+The course curriculum covers all the major topics that I needed. With a little bit of extra effort and googling the concepts of probability that I didn't know, I was able to grasp the course. The quiz helped a lot to assess my progress. The only downside of the course is that there aren't many questions on the discussion forum.
+Great course to refresh basics of modeling and econometrics. Very well structured for both beginners and those who want to refresh their knowledge. Do not expect to be fully capable to create models after only this part of the specialization.
+I've really think this course has helped me laying the foundations to approach building models that emulates reality. The content is well explained and the professor makes it simple yet important.
+Very informative, insightful, and useful for those interested in developing a foundation in quantitative modeling.
+The materials are explained clearly, although they might be considered a little too easy.
+The teacher has clear logic in class and can explain quantitative modeling systematically
+Very easy to follow, and a very suitable introductory class.
+Fantastic course. Easy to pick and a great teacher.
+It's very easy to understand.
+AMAGING COURSE
+This course was wonderfully thought out and very well organized. The professor did an amazing job introducing modeling concepts and then breaking them down in very clear, concise points so you also can understand the underlying purpose of those concepts. The examples are all very well laid out to help you further understand this course. The quizzes were simple, but they did help reinforce the information taught in each module. Some questions weren't technically covered in the module, but you could easily extrapolate from the information given to come to the correct conclusion. I would definitely recommend this course to anyone who had an interest in forming a foundational understanding of basic financial models.
+I'm an economics grad who passed out a few years ago and was looking to learn quant modelling. I learnt these concepts in school but the way it was taught in this course was precise and better because of the examples. The course does make more sense if you have learnt calculus in school but now you have softwares to do that. Each module has an introduction which articulates very clearly what you can expect to learn and the summary beautifully wraps up what you learnt to give you a quick overview just before the quiz. I thoroughly enjoyed this course more than I did in school. Would recommend to econ students who want to get a refresher course in econometrics!
+An excellent course: it provides learners with the concepts and skills necessary for Modelling a Quantitative model for a Business. The lectures are clear and well organized. There are Quizzes for Learners that helped them to check the main concepts. The course is very objective and direct. I'm sure it will be very useful in my life as a student and as a professional. Thank You, Coursera & the faculty Richard Waterman, Professor of Statistics of the University of Pennsylvania who for providing online courses & guidance for international students. I have really enjoyed the learnings inside the course of Academic Information Seeking.
+The course was very useful in introducing me to the basic concepts of modelling. I am now familiar with the necessary vocabulary to participate in conversations about modelling. It also refreshed my intuition on the basic mathematical functions. Most interesting part was the steps I have to follow when I want to construct a particular model in order to help me in answering questions about a business process.I also found out that this is a continuous process and usually I might not construct good one from the first time. I am looking forward  to the next stages and so far I would definitely recommend it to my friends!
+I think this was a very good course. Level of instruction and pace were appropriate for someone with 2 hours/week to spend and who wanted to improve their knowledge of these topics. Its probably more useful for someone with some previous experience, limited time and some problems they want to solve, rather than a student. It had a good balance between a lot of breadth for time invested. If you approach this as a high-level overview that will help you efficiently focus your own search for knowledge it's extremely well done; I thought knowledge communicated for the amount of time spent was quite high.
+I would like to thank coursera and university of pennsilvaniya  for providing me an opportunity to be a part of this course. Language used by prof. waterman was so comprehensible that even a layman could make a note of what is being taught. Knowing the fundamentals is the foremost task before advancing into anything, with the help this course I gained a brief idea of modelling in business and how these models are instruments in growth of a business .I would like to gain a more in depth knowledge of modelling and would love to enroll in all courses related to financial modelling
+The concepts are really well explained and the video lectures are engaging (not boring). The tone of the professor is appropriate and I really appreciated his way to explain economics modeling.I already knew part of the topics and treat them in my university career, but it was helpful to give my memory a little boost and explore them in a different way that I'm used to.The difficulty is less than average; I would say that is appropriate for an undergraduate course and proportional for the effort required (2-3 hours par week).
+In a word. Excellent!I have learnt a lot during this course.Even though there are no direct interactions during the videos, Professor Richard Waterman still manages to keep it very engaging including excellent dry wit.I found the course quite challenging seeing as I have very little background in Finance/Business modelling, although I have sufficient work experience to help me through.The modules content was explained with clarity.Thank You, Coursera, Thank You, Professor Richard Waterman!
+I have been in IT and business areas for so many years and I need a very concise and very pragmatic way of forming useful models.  I only viewed week one materials. I have to admit that the professor, the materials and the course design have been extremely impressive. I would highly recommend, to anyone, IT or business managers, professionals in all areas to take this course. Because Modeling and Data Analytics will facilitate much better business decisions and make us better thinkers.
+The course was well designed for its content and flow of revelation of contents. The course progressed in the manner it should be, from basic to intermediate level. Professor Richard Waterman was polite, calm, composed and thorough in his approach. The best part was, I was able to immediately go into discussion with one of my friends who is into modeling (some specific) from few years, and he told me that I was sounding theoretically well versed. Thanks & Regards Yashowardhan.
+This course is very extensive on the use of quantitative models. The 4 quantitative models are explained with simple practical examples which enables the learner put his knowledge in practical situations. The skills learned in this course are very essential to a maker of Financial Model where one has to use historical data and build forecast.My personal advise to fellow learners, please do attempt the calculations on your own to make your knowledge more precise. Happy Learning
+This was a detailed and thorough introduction to modelling fundamentals. Key takeaways that I will be able to directly incorporate into my role as a consultant:-Discrete and Continuous regression -Attributing different models as a solution to different business problems e.g. gap analysis, correlation, go/no go decision making-Normal distribution values, and identifying mean/standard deviations-Incorporating random variables; often requested by clients or external events
+This is an excellent course for all those who wants to learn Quantitative Modeling from very scratch. This course builds the foundation block by equipping students with basic terminologies & mathematical functions required to demystify the mathematical complexity associated with the topic. The course further explains various nuances of various models (Static/Dynamic, Deterministic/Probabilistic etc) elegantly & elaborately. Thanks to the Coursera & Wharton Online Team!
+This introductory course is perfect. It gives you time to think (you don't have to spend too much time in order to understand the material/concepts) and it is self-sufficient. I would suggest to set the playback rate at 1.25 since the teacher talks really slow. In addition, I would like to see the teacher talking like a human being instead of reading his notes in a black background but this is not super important for me. All in all, I totally recommend it!
+The ability of Professor RIchard Waterman to take a very mathematical/statistical concept and beautifully explain it within business context applications is what I liked the most. Really beneficial to learn a concept from someone who you can outright tell has already mastered the concept, and now has the ability to teach it. I have taken various courses of quantitative methods, and this is by far the best fundamentals lesson I have ever attended.
+While a student, I couldn't understand any of these, the probabilistic, deterministic models, their types, differences and applications. I would usually memorize when to use them just to pass the course. Now, this time I feel I really comprehend them. And it happened smooth and quite easily because the instructor was amazing. The material was well presented and gradually getting more advanced. U would highly recommend the course! Thank you.
+I just finished the 3/4 week for this course and so far it's been an excellent class, however I don't understand why you need to upgrade to get your quiz graded. I understand that you should pay to get a certificate, I find it totally acceptable, but I don't agree with being charged just to know how well you did. I plan on taking the full specialization (minus the Capston Project) and I'm hoping the next courses are as good as this one!
+Thank you to Prof. Waterman and Coursera for a very insightful and inspiring course on the Fundamentals of Quantitative Modeling.  The course instructions were delivered in a very clear manner, which helped absorb the complicated material more easily. The course allowed me to learn new and polish existing knowledge on the topic of Modeling. The course also opened the door for a further study of the Modeling and related topics.
+This course helped me really to understand the concepts behind mathematical formulas commonly used in business analytics. I much more clearly understand the relation between variables within a function, as well as their meaning in reality. Overall, I can tell this course is great as the introduction for the Business and Financial Modeling Specialization. Very pleased with the quality and intelligence of the instructor.
+Builds solid foundation and covers the basics of quantitative models. Nice introduction to regression. Really looking forward to next course, which would teach spreadsheet implementation.I think this course will help professionals and students from a variety of fields, i.e. marketing, sales, banking and finance, Information Technology, etc. Keep up the good work, Coursera and Wharton Online.
+Course Content is designed in such a way that it is very easy to undertsand the concepts. Although being an engineer I already have insight about these topics, this course has given a structured way of undertsanding and interpreting things which is really a great value addition in decision making. A must course for all those who want to pursue MBA or those interested in Decision Making.
+Excellent, clear presentation.  One would be well advised to know pre-calc beforehand.  This would be a more complete course if multiple math exercises were offered as well as more detail about the math formulas. But the concepts are well presented, and one can still pass the tests without being a total 'math-head'.  The transcripts of the lectures could really use editing.....really!
+It was an amazing course. I could understand how to make sense of the data available using regression modeling and other mathematical modeling concepts. This course has taught how I can use data available to predict certain outcomes based on confidence intervals, to forecast the future possibilities and to optimize the data to pursue required objective. It is a really helpful course.
+A great and widespread introduction to the fundamentals of quantitative modeling. Prof. Richard Waterman explained all the concepts exceptionally well with different scenarios & the accompanying tests helped me gain a practical sense of understanding of quantitative modelling. I would definitely recommend the course to anyone looking to learn the fundamentals of financial modelling.
+It's a very basic course on quantitative modeling. This is perfect for those who forgot their statistics class or their Quanti subject in MBA. Hehe. Like me. It's a refresher. What I liked about this course and the professor is he uses business language and applications so that your model can be easily understood, or how would you present your model to your audience or your boss.
+This is an amazing course modelled to know the nuances of quantitative modelling. I would request the course moderators to include excel sheets with the given models done. Especially it would be helpful for me if you were given how to make practical use of logistic regression in cases like buy or not buy a share, take or not take a subscription sort of examples. Thank you.
+Very clear exposure of topics. Professor is a master of the topic and delivers it with joy and enthusiasm. The subject is sometimes dense and potentially boring at this phase (before real application and manipulation of models), but the course material keeps the key concepts front and center, which I think is a great way to build solid foundation for the student. Thanks.
+Very informative. Overall, I feel like I have a very solid understanding of how models work and a good overview of how to use them. My only recommendation would be to implement some sort of real-life examples. I.e have us work through our own regression analysis of a company's financials or something like that. Regardless, this was very informative and highly recommend.
+A wonderful and well-structured course for any beginner in the field of quantitative modelling. Professor Richard Waterman introduces even the complex topics so smoothly and effortlessly that a student can understand it in a single sitting. Grateful to the coursera and the University of Pennsylvania for putting together such a brilliant course up. Deeply thankful.
+Very informative however was also very information-dense (which is not necessarily a bad thing). I had to watch things multiple times to get a good grasp on concepts because things were run through too quickly. That being said, information was explained clearly and the course helped me develop a more detailed understanding of models and their functionality.  5/5!
+This course sets the foundation for the quantitative modelling. All the techniques introduced in the course were well planned with a lot of examples to learn from. I also like the use of numerical questions in the quiz. The course really helped me understand the basic of what modelling is all about. I thank coursera and Wharton online for offering such a course.
+Mr Richard Waterman is an amazing professor. The way he explained the topics and kept coming back to previous examples by introducing slight changes in it to raise its difficulty level a notch higher is worth mentioning. Furthermore, this course added to my knowledge of basic models and encouraged me to continue other courses in the specialisation.
+I was very surprised and pleased by the quality of the content since I was not expecting such a high quality of lectures. Very well explained with good examples. And if all courses of the specialization in Business and financial modeling are that high, I really think that I will feel totally confident to apply this knowledge at work if needed.
+Very good introduction to Business in general (stats, profit, elasticity...). Many topics are approached and it was very interesting to refresh my memory on important modeling concepts that I encountered during my bachelor. Very well explained, without being too detailed, the focus is on the main characteristics of business modeling concepts.
+Very Informative and organised course for those who are beginners in Model building. I have been introduced not only techniques but the idea of interpretation data analysis and usage of models to represent underlined story in a most realistic and reliable form. Thanks to Coursera and Wharton Online for great opportunity and funding!
+The instructor was a bit  robotic and boring in his delivery and it was a bit too technical. I would have appreciated if the instructor would have explained the concepts more clearly and given a couple more practical examples. Overall, it's a very good course, worth the money and time and I will highly recommend people to take it.
+A very good introductory course to Fundamentals of Quantitative Modelling. Professor Richard Waterman's explanations are clear and concise. Definitive examples  makes it so much easier for students without mathematical backgrounds to grasp the concept and encourages us to think of applying these theories to real life problems.
+I really enjoyed learning with examples. There were certain aspects of basic modelling which I was unaware of but the specific illustrations and characteristics of the basic modelling techniques really helped me enrich my knowledge. One thing that stayed with me "All models are wrong but some are useful". Loved the teaching!!
+Very insightful course. Will recommend this for any student. One will need to read the recommended book earlier on in the course the appreciate and understand the course more, especially if your stats and probability is a bit rusty or absent.I enjoyed the examples in the course as well. Very practical and I can relate to them
+This really is the first course I have seen which truly deals with understanding the intuition behind the fundamentals of quantitative modelling, rather than just giving the math. For someone comfortable with the topics, you may find it's a slow pace. But for someone looking for the core understandings, I would recommend.
+As the name of the course states, we went through the fundamentals of quantitative modeling. I come from an Economics background, so the course was not very challenging but the quality of the course is very high and I do see how other people with no background in business/finance/economics could immensely benefit from it.
+A great course conducted by a great professor! I would recommend this course to anyone who has an interest in learning about Statistics and the fundamentals of how it's used in modelling. If you have a perpetual fear of math, don't worry, this course is made super simple by the professor and even a Math novice can ace it.
+I would say that this course requires a good understanding of mathematics. This course deals with numerous concepts related to statistics. The teacher does an excellent job of explicating these concepts, yet students may need external resources (i.e., Wikipedia, Youtube, etc.) to aid in the understanding.
+It was challenging but the tutor's pace of speech was measured (and you can always rewind) and the examples were practical. I can't say I completely understand but I'm definitely starting to think more logically and have more of an understanding of what models to use for different scenarios. Thank you.
+It is a very helpful class to introduce the basic quantitative theories and terminologies required. The difficulty of the class if perfect for the people who doesn't have any financial background but having some mathematical background will certainly help in understanding this course.
+It will be great if there are more examples of applications and a feedback about the resolution of the problems and explanations once you have the certificate and you solve all the doubts and the failed ones. Thanks, it was excellent in general and pretty clear for foreign speakers!
+Though elementary , the instructor explains the topics amazingly well.The amount of clarity i gained on taking this course cannot be understated and I would recommend it to everyone even if they know most (if not all) of the base concepts.Also this course works great as a refresher.
+Very informational Course! As it slowly progresses from the easier and more basic concepts, the instructor has help us to build a strong foundation of the topic. Recommended for those who want to review statistics, maths and economics, and very look forward to the further courses!
+This was a very good learning experience for me, I was able to visualise the need for modeling, linear regression, univariate and multi variate. My only feedback is if the course could more numerical problems or how to arrive at R2/RSME numerically. But otherwise, a great course!
+Many thanks for an impressive course delivery! Great use of graphics, examples and spot--on explanations. Dr Waterman breaks down the concepts (which have a rather discouraging sound to them) into little bits which a rookie in maths and statistics like myself can chew and digest.
+The course was really good. One thing that I would like to highlight is that professor does not interact much on the screen. Could have been a better course had the professor highlighted the graphs through some pointers on the screen as done in other courses provided by Wharton.
+Seriously one of the best courses i have taken online. I had nearly forgotten the least squares method and i finally recalled it. The explanation is amazing, the applications are simple but in-depth conceptual. I wish our Statistics professor in our university taught like this.
+As a total newbie to modeling, this course has tremendously helped in setting the base for further learning. The syllabus is basic and needs no background, except some very basic calculus to understand the mathematical functions.I found the course very engaging and helpful.
+I loved the course, beautifully explained and tests are awesome. I guess I learned a new skill. Thanks, Coursera and Wharton university for proving this awesome course. I also would like to thank my course master Richard Waterman for his insights and teaching on the subject
+Very well taught course with relevant examples from industry/business. Clear guidelines on the practical usage of the theory being taught.Hopefully the upcoming courses in the specialization delves deeper into the concepts taught and strengthens the information provided
+Professor Waterman presented the material in a clear and concise manner. This course is a great refresher to basic quantitative methods, and does a great job introducing more complex methods as well. Following courses build directly upon this one, so I highly recommend!
+The learned instructor Mr Richard Waterman is great in explaining sophisticated mathematical/statistical terms or concepts in simple, concise and easy-to-understand way. Great and useful for mature working professional who are out of touch with mathematics/statistics.
+A wonderful way to learn the fundamentals of modelling, specifically if one is new to the subject. The best part is that the explanation is very crisp and its easy to understand even complex fundamentals. Go for it guys and you will not regret the investment of time.
+The course is really comprehensive yet very simple to understand. I like how he explains every lessons with examples on how to use this functions and formulas in modeling. Hope to finish this whole specialization courses to further understand financial modeling! :)
+This course was delivered succinctly, and with a great explanatory way. I was going back to Statistics after many years, and also learning some new things in terms of basics of Regression Modeling, and this course has definitely rekindled my love for Statistics!
+Perfectly summarized key concepts of quantitative modeling in an easy to understand manner. Professor very articulate and the learning modules very well structured. Great real world examples.Quizes allow for broader understanding of the obtained knowledge.
+Great introduction to modeling techniques.  Regression was covered the most in-depth, but it would have been nice to see this coverage extended to the probabilistic graphical models discussed briefly in the beginning.  Still a great short course to take.
+The tutor for this case is great. Everything explained thoroughly with real world examples throughout that help to ground the more abstract mathematical concepts. For anyone looking to get their head around modelling for Business I'd highly recommend.
+The course is well structured and easy to understand. The instructor of the course was very enthusiastic and knew the subject thoroughly. I recommend all those who are planning to understand quantitative modeling from the basic to attend this course.
+I have studied the same subject in my MBA program with a different teaching method, the study materials of this course is designed based on the need of the students, I have learned so many things after the completing the first portion of this course.
+This introductory fundamental course if properly designed to provide a broad understanding of the quantitative models used in business. The method of teaching and the usage of various practical examples by the instructor is very good. Recommended.
+Lecture is taught in a clear and precise format and the majority of quiz questions come straight from the corresponding lecture. As a result, I was able to receive above passing grades with a good amount of effort and knowledge learned in class.
+Learned a lot about quantitative modeling. Much better understanding of regression modeling including the insight on how sometimes a residual could be a good indication of an opportunity of an underpriced asset. Very clear explanation of E(Y| X)
+This course paved the way for me to understand the basis of quantitative modeling, not only conveying the statistical features of modeling but also explaining how this core knowledge could be very practical when applied to real-life situations.
+Videos and PDF notes are excellent - brief, direct, to the point. Current and good use of timing. Good quiz questions that test your understanding. Really enjoying this course compared to others attempted. would definitely recommend. thank you
+You learn the essential concepts needed to understand an apply various models to your data.I like the fact that it wasn't very immersive about calculation details, but focused on the importance of each type of model, when and how to use them.
+The course offers you a learning edge in Quantitative Modelling and also makes one understand the basics as well as the interpretations, the valuation techniques, the predictors, etc. which plays an important role while modelling a scenario.
+This is a great course to get the basics of quantitative modeling. It's wonderfully taught by Prof. Richard Waterman. Thank you Sir. I would also like to convey my gratitude to Coursera for making such wonderful courses accessible to all.
+I took this course as I wanted to discover the Quantitative side of Business Modeling. And Thanks to Sir Richard Waterman, I loved the concepts and understood them easily. I look forward to associate myself with UPenn in near future :)
+A fantastic course with an excellent instructor Richard Sir. This course has enhanced my analytical ability and thinking process. I am really grateful to Coursera as well as University of Pennsylvania for coming up with such a tie-up.
+I appreciated a lot a new way of presenting mathematical funcions, I  found a very pragmatic approach to data interpretation, without losing depth in theorical contents.  Many thanks  toProfessor Waterman for his clear presentations.
+This course has literally changed my career. It has galvanised me in the right direction. I am so happy that I found this course. Thanks to the professor. Thanks to University of Pennsylvania. And lastly thanks to Coursera for this.
+The basics of Modeling are very well explained, with sufficient examples which helps to really understand what is being taught (sometimes the theory can be overwhelming, and it is much easier to understand with the help of examples)
+The Professor explained a very technical subject with everyday language and always emphasized the interpretation of any calculated numbers in real life cases. I found that very impressive, and I think that made learning really fun.
+AMAZING COURSE TO START WITH QUANTITATIVE MODELING. I LIKED THE PRACTICAL EXAMPLES THAT WERE USED TO SHOW THE APPLICABILITY OF THESE MODELS IN REAL BUSINESS SCENARIOS. THE PROFESSOR ALSO EXPLAINED EVERY ASPECT VERY WELL.THANK YOU
+Awesome course! Not only it teaches me the knowledge I desired to learn, but it also supported me in my final year thesis especially on the multiple regression model. Love his explanation, clear and easy to understand. Thank you!
+Great delivery by professor and the referenced examples are quite easy to understand and interpret internally to reinforce the concepts in mind. Really enjoyed the learning experience . Thank you WHARTON ONLINE and COURSERA.
+The course covered the fundamentals pretty well. But a little more analytical question sets and more mathematical problems would have been much more helpful. eg: an assignment or project based on montecarlo simulations etc.
+After finishing this course to be honest I just felt why can't we replace our boring lectures in the colleges with the interesting and challenging courses in coursera :) . Thanks alot for this :) I will keep learning now
+This course provides an introduction to Fundamentals of Quantitative Modeling. It's also been a pleasure to master the course materials through lectures of professor Waterman, who made them easier to grasp. Thanks a lot!
+I have not been in school or class for many, many years but the instruction here was great.  Still very difficult to recall many terms from 20 or 30 years ago and others I had to still learn, but well worth the effort.
+Great course that introduces all the various topics in modeling and gets you to started thinking about how to process information, in addition to giving you the tools and skills needed to succeed. Well worth the price.
+The modules are easy to follow and the instructor does a good job by teaching in clear language with many illustrations to drive his points. Well done Prof, I would definitely recommend others to this online platform.
+Excellent intro into the world of business models. I previously studied modelling from data science perspective, but I really like business related examples in the course to link all the theory to real world problems.
+This was an outstanding review of quantitative modeling concepts.  Very well worth the time to step through the coursework.  I feel it reinforces concepts I need to apply in the healthcare data analysis field.  Thank
+Professor Waterman did an Excellent job of explaining complex concepts in an easy to understand language. The use of examples, for almost all concepts, in the course was something I just enjoyed very much! Priceless!
+This course was very useful in applying my knowledge of quantitative methods from research to business situations. Professor Waterman did an excellent job of parsing the fundamentals without losing the finer details.
+I absolutely admire the professor. Not only he motivates me to learn more about the subject matter, listening to him talk motivates me to improve my diction and my oratory skills. 10/10 would to learn from him again
+Excellent deal for any person in business, economic or even a manager who should know about analytics and decision-making support, with the academic rigor of one of the best Business School MBA program of the world.
+This course is well structured and is very good for people who wants to be introduced to Quantitative Modelling or people, like me, who wants to "refresh" Quantitative Modelling knowledge acquired several years ago.
+Great explanations, intresting lecture slides and clear examples! The course provides a great overview of econometrics applied to business. I totally recommend this course for anyone who is intrested in modeling.
+This course makes it very easy to understand quantitative modelling because of the simple examples used here. Great course, would recommend this to Coursera users looking to understand the fundamentals of models.
+Very informative and interesting course. The lecturer presents information clearly, information is structured, a lot of practical examples. All examples and formulas are clearly explained. I enjoyed this course!
+Make sure that you brush up on your maths before taking this course. If your maths skills are up to speed, this course will be quite simple to comprehend and you will have no problems following the lectures.
+Meaningful and concise information presented in an easy to learn manner. For those who have a basic background in statistics, it is a great refresher course to be able to jump into the more advanced courses.
+I enjoyed the fact that this course covers a lot of the baseline stats needed for Data Science, and does it in a very objective way, with examples and focusing on interpretation and usability. Loved it.
+A great introductory course to quantitative modelling. Videos are very concise and clear with great examples. Course is well balanced between theory and applications. Overall a great experience.
+Amazing learning, easy to follow descriptive examples, enough detailed content and examples to go in depth in the subjects. I really appreciate how well put together this program is. Thank you!
+The explanations were lucid and to the point.Much of the emphasis was laid on conceptual clarity rather than solving mechanically the equations. A good course to build intuitive understanding.
+Very clear and undertandable explanations but you need to have previous knowledge of basic concepts, otherwise, you're goning to have a difficult time. Basic Calculs and Probability is neede.
+I always used to wonder what Regression means and why the term was being thrown around casually. Now I know what are its underpinnings and what it is used for. Thank you Professor Waterman.
+This course helped me to understand, the main concepts about modeling with log, linear power and exponentials functions with very interesting examples of the real life, highly recommended.
+This course has fundamentals of statistics. Course content is to the point and covers in depth using examples. However, brushing up of stats 101 is required before starting the course.
+It was a wonderful experience. The amount of knowledge have been able to acquired within the short while is quite unimaginable. I'm not the same person as at when I started the course.
+The teacher explains well, in a clear and concise way, he thinks systematically and models problems easily, he also gives many appropriate examples so that you understand the subject.
+Excellent refresher course. Breaks down difficult concepts into easy-to-absorb heuristics. Perfect course for someone new to modelling and a good refresher for a seasoned modeler.
+This was an awesome course on quantitative modeling. The beauty of math in business modeling is clearly shown here. Very enthusiastic explanation. Thanks for such a great course!
+It's an interesting and insightful course. I'd reccomend anyone with interest in Finance modeling to embark on this programme. Thanks to Coursera and Professor Richard Waterman.
+There is some small confusion with some of the quiz answers, but the staff/respondents are quick to reply and give the best answer they can that helps with actual understanding.
+This is a concise and practical overview of the fundamental math techniques applied in quantitative models for business. It only took a few hours and was very clearly explained
+This course has provided me a great knowledge regardinhg Mathamatical functions. Has helped me to polish my skills and is a great stepping stone to my main target the Capstone
+Professor is engaging and explains well, which is very important!  Some are just such a bore I just fall asleep.  Wish there were more details and demonstration on modelling.
+A great introduction to the modelling process for a novice. The instructor does a great job. Examples provided to help explain concepts make the entire learning process easy.
+It was great to learn how to use mathematical functions in real life business problems! I am glad I had to take this course in one of the top international business schools!
+Very good introduction to modeling. Only improvement would be to show your correct/incorrect answers on the Quizzes to allow you to understand where you had missed a point.
+Professor Waterman clearly explained every single concept as though the student had never come across it before, and made everthing very easy to understand. Great course.
+NIce course for beginners but the content is too easy. The content of the course should be made little tougher as well as more elaborative. The quizzes are also too easy.
+Good teacher. Explaining the terms step by step without a hurry. I think this course is designed to give the fundamentals needed to do quantitative Modeling. Good Job !
+Through this course, I've learned basic knowledge and concepts of Quantitative modeling. It is helpful to getting  general ideas and learning useful terms for modeling.
+Well organized course particularly from the second week. Week 1 is too basic and more material could be added to the course, making a 10 hrs course even more suitable.
+Really good refresher into modelling.Would have liked an refresher on how to do the log calculation with a calculator/spreadsheet.Thank you Richard - a great course.
+Great course. The lectures and slides were clear and easy to follow. The questions were challenging and insightful. All around great experience. Thank you very much.
+This course was very insightful. It's a great refresher course if you have a finance background. It's also beginner-friendly if you do not have finance background.
+It was a well-described course for beginners. Learned a lot of quantitative modeling techniques from this course. Thankful for faculty to providing us this course.
+I really enjoyed the detail they went into in understanding the maths. I feel like someone without a maths background might get entirely lost in the course though.
+Great professor.  Wish it went into how to do this with Excel, but I can look that up myself.  Clear, well-articulated descriptions of various quantitative models.
+Really It´s awsome I enjoyed each class, this course let me to give a differents perspective of the quantitative modelling applied to the industry and the market.
+I obtained additional knowledge about this material. By learning online, I can have enough dynamic time to dig deeper without interfering with my work activities.
+This course is a very good introduction and refresher of the essentials of quantitative analysis and helps to set the foundations for more advance related topics.
+The course introduced me to financial models and how they are explained. This course is really great for the beginners like me in finance and financial models.
+Excellent course. I was able to understand the workflow between collecting data, applying statistics and creating a deterministic model for making predictions.
+Good course to learn about the quantitative models and their applications. give a good overview along with the mathematical explanation and real-life examples.
+The lecturers were always ended with summarizing the models and equations, which the differentiation of quality of these lectures compared to my college days.
+It makes you really understand all the important concepts in a wholesome manner and an essential stepping stone for future courses related to quant. analysis,
+The instructor explains it very well. For a person who had basic stats knowledge, this course has made Quantitative modeling so much fun! Highly recommended!!
+The course provides a comprehensive yet practical overview of the various methods of modeling. The narrative and slides are crisp and "straight to the point."
+Great summary of fundamental concepts. Really appreciated the varied examples as it showed how the concepts are used practically instead of seeming abstract.
+This is a very good course, the explanations are great. If you need to recall the concepts regarding Quantitative Modeling then this is a great way to start.
+Very good introductory material. Complex things broken down and explained in very simple terms by the instructor. Thank you so much for providing the course.
+Teaching style and emphasis on key concepts is commendable. Apposite use of real life problems and examples makes the course and course more comprehensible.
+Its a very basic course on quantitative modeling using very simple techniques based on statistics and can be easily practiced using a spreadsheet software.
+For me the course gave me an introduction to the modelling world. The pedagogy was interesting and I felt that everything was explained in a simple manner.
+Easy to follow videos, and the quizzes are accurate assessments of the material. I am looking forward to the next modules building off of this foundation.
+Very clear and presented step by step. I did take a little longer to go through everything, but it's just because I am very far away from my comfort zone.
+Excelent course for those looking for a complete introduction to mathematical functions, statistics and how they relate to modeling in various scenarios.
+The Course was Good, it was Difficult at First to Understand, But after reading and review the videos several times, and researching on other Platforms.
+I enjoyed greatly the content provided by Coursera,Wharton University and the teacher. Thank you all for making this possible and wish you all the best.
+It's easy for physics students, and that's real fundamental math knowledge. I think maybe the course could put more detail about the math methods in it.
+Professor Is easy and clear to follow, even for someone who hasn't taken an advance math course In a while.  I am glad I challenged myself In this way.
+The course materials and the lectures are very detailed, thorough and fully explained, hance it turns the subjects into a very easy way to comprehend.
+Its a very good course, providing valuable insights but one should already have some basic knowledge of statistics in order to get the most out of it.
+Overall good course. Although I think some external resources could been provided to allow students to pursue more content related with the materials.
+Great course! Covered lots of fundamental materials about quantitative modeling. It is a great resource to help you get a big picture about modeling.
+I loved the lectures. Clear, precise and well balanced. I only wish we could have answers for the quizzes so that we understand where we went wrong.
+Exceptional course. Great presentation of material, great explanation, great slides, good examples, and comfortable quizzes. I recommend this class!
+Wonderful! Would take again, very strong delivery, excellent rudimentary examples for beginners, and on a scale from 1-10, I give this course a 10.
+The course was very well designed with many examples to explain the important concepts. It was very helpful in broadening my knowledge and scope.
+Excellent course for understanding the basics of Quantitative Modeling & the types of Models. Although the videos could have been more appealing!
+Good Course with holistic coverage of the associated topics along with application based examples from various fields. I am thoroughly satisfied.
+Great Course, Amazing teacher explaining complicated concepts in a very simple manner with real life examples on how to use quantitative models.
+Great course. Good introduction to the basic probabilistic models and a clear explanation of their possible applications to the business world.
+Very helpful guide to modelling. I highly recommend to all who are interested in modelling reality to its nearest precision to start from here.
+Great course. All the concepts have been explained very clearly. The course content has been presented exceptionally well by Professor Richard.
+It was a brilliant experience. The instructor is knowledgeable and has a great disposition on the subject and the course was engaging. Thanks!
+A good overview of modelling for beginners. It covers all the introductory topics required be get familiar with this field. Really enjoyed it.
+It was one of the best online-courses that I ever had. The things that I learned throughout the course was very beneficial for my job as well.
+Though introductory in nature for someone familiar with Math, the real world examples and corresponding explanations makes it really worth it.
+Material covered was very well chosen. The Professor's lectures were easy to grasp. Quiz questions were just tricky enough for one to slip up.
+what a great course for businessmen out there. It was well planned out. I really enjoyed it although it seemed challenging but I never gave up
+Excellent beginner material providing you basic concepts of quantitive modelling which provides the base to modelling of real world projects.
+Great course, Instructor was clear and concise when presenting data.  Love the implementation of statistics into various modeling techniques.
+This course is helpful for a beginner like me, i.e. poor math background, the examples in the videos are helpful to understand math. Thanks!
+Fabulous foundation course.  Strikes a balance between assuming no previous knowledge and challenging the learner with some deeper concepts.
+The instructor for this class was amazing.  I would suggest working thru the examples he gives you in the slides before taking the quizzes.
+Very clear, straight to the point courses. Remains at high level but still, very good introduction to statistics fundamentals for modelling
+This course provides with the basics of modelling and establish steady connect between mathematical tools and real world business solution.
+this is an extremely well structure and illuminating course. It really help in equipping one to better understand the Modelling techniques
+The concepts have been very well explained and thank you Professor Waterman.I wished if you had given us some practical examples to solve.
+Fundamentals of Quantitative Modeling. Nothing more - nothing less. This course will give you great introduction in the field of modeling.
+This is my first learning experience from Coursera.  Neatly explained and well understandable. Many thanks to Professor Richard Waterman.
+Its really good for a beginner. Nicely explained and designed for the purpose of quick learning. Will take the next level of course now.
+A basic course on quantitative modeling, but provides a big picture and key concepts and models, and clearly presented - a great course.
+very interesting course.  I am in the middle of changing my careers, and I thought this course and subsequent specialization would help
+Highly informative, well explained and overall fantastic learning experience. Will gladly enroll in more courses of the specialization!
+Good materials for the fundamentals of quantitative modeling. Need to pick up some maths and stats theories to help read the materials.
+A quite good introductory course in quantitative modeling. Professor Richard explains the concepts of the subject in a very clear way.
+The Course is very great and helful and live examples of course instructor Sir Richard Waterman are make understanding concept easily.
+Very basic. I don't like how they don't give you solutions or the answers to the questions so you can figure out where you went wrong.
+This is a great course with challenging topics. I gained more insight into modeling and the interpretation of the probability models.
+Amazing Lecturer. Explained everything in great detail and helps you understand every point with well defined and realistic examples.
+There could've been a better walkthrough of the examples given; I would've liked to see more through walkthrough of each calculation.
+As an engineerign student this is not very difficult as I have already taken statistics, but it is very well explained and structured
+I really appreciate the exceptional job this course does in explaining course content and the quizzes that cover the main objectives.
+The teacher was cold yet the most welcoming and efficient. Content was well organized and presented in an interactive and simple way
+Good overview of the basic statistical concepts. I would prefer it the lectures went more in depth in the mathematical calculations.
+A solid review of business statistics. I learned better during this course than I did in two semesters of business stats in college.
+Very good presentation of the concepts. Also, the examples that are used are very easy to understand and makes concepts more clear.
+it was really very appropriate to understand the fundamentals of the quantitative modelling and its presented in a very simple way.
+Excellent course, professor is clear and concise and covers all needed material to advance in our studies. Keep up the good work !
+Such a great course! Really useful because it helps me to better understand how to use mathematical models in practice! Thank you!
+Brilliant Fundamentals! Outer simplicity hides a lot of systematized knowledge and very structured and intuitively clear material.
+I really liked the course but then I am having a few doubts plus I really want to interact with the professor if that is possible.
+Amazing in-depth understanding of statistical and modelling concepts with examples of how to relate it with real life situations!
+This course helps me a lot with basic modelling understanding and how the theory relates to application in work-related activity
+Great basis of knowledge, assumed no prior understanding. Was a bit basic for some, but for others I imagine it would be great!
+This one is a great course, now I better understand the purpose of models and usefulness of regression models. Thank you a lot.
+Highly recommended. It's easy and very well structured. It helps to summarize information about modeling with useful examples.
+This is something I would recommend to students who are seeking to gain an insight towards the world of quantitative modeling.
+This course was an excellent refresher and serves as a good foundation for anyone interested in modeling. Highly recommended.
+Very good and useful introduction. Logistic regression could have been expanded a little more, so that we can start using it.
+The course provides a very good overview and fundamental knowledge toward thinking and designing models in the business world
+An incredible and enjoyable course of study. The teacher has an excellent didactics and the content adds a lot to the career
+Very basic and good course for beginners, The instructor is good and explains the course in depth without skipping anything
+Everything is very well explained and communicated by the Professor. Thank you for such an incredible learning opportunity.
+it was really a great course . i learnt many new things through this course . it was a great experience doing this course
+great introduction to the terminology, functions and purposes behind some of the business models that make up our economy
+Really interesting and explained very well with examples and formulas.I would continue to the next course in the series!
+It is a great course for beginners. Everything is explained really well. A go-to course if you want to become a modeler.
+The faculty was amazing. The examples which he gave during the lectures were very practical and simple at the same time.
+Well explained contents, described by the professor. I have completed this course and gained more knowledge and skills.
+Richard Waterman is a great teacher.  The examples were easy to follow and helped make sense of some complex concepts.
+This was a great course to understand the fundamentals. Will definitely act as a stepping stone to the future courses.
+It was amazing an experience from the start... how well the things were explained  while keeping it short and simple.
+The content was very informative and the most important part was that it consisted of many examples to understand it.
+A very good introduction to the topic. The course makes you motivated to continue and delve deeper into the material.
+The lecturer is amazing and breaks down every conception with real life examples. I was excited to start every video.
+This course goes in depth of quantitative modelling with widely encountered business situations. Highly recommended.
+The course is very awesome. I learned about the fundamentals in this area. Thanks Coursera for providing the course.
+Great way to introduce someone like me, with no business/mathemarical education, to the basic concepts of modelling.
+Excellent intro and catch-up! I am looking forward to applying the principles in a business context with softwares!
+The lessons were very interesting and Richard P. Waterman was a great professor. I  sincerely recomend this course.
+Very nicely done - precise and superb. Thanks prof for good flow and examples. The quiz were also good and logical.
+Very clear and simple explanations, making it much easier to get comfortable with scary things such as logarithms.
+Very good course. Although I beginner's materials, It is good to refresh from time to time. I recommend taking it
+Great overview, with good balance of theoretical and examples. Looking forward to the rest of the Specialization.
+That's a great course. I'm from Brazil and really loving it, understanding what's being said without any problem.
+very well explanation but must  go more into dept and tell in more simple language and tell how to use the data.
+It covers all the basics of modelling and than all the types of model that are used in making business decision.
+The course material is pretty straight forward and detailed info by prof to guid you through the whole journey!!
+Really enjoyed the course as a foreign student (non-english), it was easy for me to catch up with the professor.
+Excellent course for beginners and adroit users alike. Adds perspective into modeling using real world examples.
+Good Intro to the fundamentals of Modeling. By taking the course, you can start thinking using a model approach.
+This course is very useful and well structured to help me have a better sense of what model to use in practice.
+Through this course I learned new knowledge. The course is a good start on quantitative modeling. Thanks a lot!
+absolutely understandable for a starter in this topic (not easy but manageable). Thanks for this helpful start.
+Wonderful introduction to quantitative modelling, where you link statistics in school to financial applications
+Like this professor's logic and course so much, this is the one that I completed within one week! Appreciated.
+In-depth and comprehensive material that grants students with real life implementation of curriculum materials
+Excellent learning for what we have read in past but relevant to our job. Thanks, Wharton online and Coursera.
+The course really helped clear my concepts regarding quantitative modeling and was taught very interestingly.
+This course is a jumpstarter for those who are new to modeling and their real world applications in business.
+Richard Waterman is one the most articulate teachers I have ever listened to. Thoroughly enjoyed this class.
+Very easy to understand . Littlemorepractical knowledge will be helpfulfor better understanding of modelling
+Great introduction to modelling terminology, always good to refresh the basics before diving into analytics
+Great refresher after being 3 years removed from business school and doing little modeling in current role.
+Very helpful course. Course material properly structured which really helped in understanding the concepts.
+Excellent introduction to quantitative modeling.  It opened my appetite for the rest of the specialization.
+Very-very brief introduction to Quantitative Modelling. I recommend it for high-level review or first try.
+The fundamental concepts of quantitative modelling are nicely introduced, though, the level is VERY basic.
+The concepts were clearly explained although I wish there was more interaction possible with the faculty.
+Great overview of the concepts of Quantitative Modeling, explained in comprehensive yet accessible terms.
+Good introduction and recap of basic mathematical functions and their uses in modelling. Easy to follow.
+Great introduction to models - really enjoyed the instructors clear and concise coverage of the material
+Excellent introduction to quantitative modeling. The examples used are indeed relevant and quite useful.
+Great refresher on modeling that does not rely too heavily on mathematical proofs or deriving equations.
+Videos were handy, with clear examples. Sufficient guide was provided for extra reading. Helpful indeed.
+Very informative class with no fluff. Previous knowledge of probability and regression is very helpful.
+I'm new to finance. In the same time I could understood alot of info & models to use in projects.Thanks
+this course has taught me a lot for a beginner like me the course has been a very good starting point.
+Great content. Good refresher of all important statistical concepts. The instructor is extremely good!
+Great Course with in depth learning material and information. Very useful in actual industry modeling.
+Great review of key concepts! Easy to learn format. Looking forward to completing this specialization.
+Simple and Lucid. Excellently elaborated and concepts are taught in a simple and user friendly manner.
+I am glad to be a part of this course. Professor taught us very important point in a very ease manner
+Truly fantastic! Great way of content delivery. Very helpful in understanding the fundamentals of QM.
+Very elucidative content. The course open minds to the possibilities for data driven decision making.
+Excellent explanation with repetitive examples. Especially, the last summary section in each module.
+Excellent course! Basic introduction of modeling that is very easy to accept as well as get hang of.
+Very well explained. I would recommend anyone who likes to begin learning about financial modeling.
+It is a pretty fundamental course which contains several business models. It is very easy to learn.
+Very articulate instructor; course material covered in appropriate detail for a fundamental course
+Well articulated, very clear about important concepts. Good course for a introduction on modeling.
+Thank you for providing the platform to learn and grow with sound concepts regarding the subject.
+This course provided the fundamental understanding for modelling which is suitable for beginners.
+it was a very detailed, yet nicely taught course, each topic was explained with utmost precision.
+Perfectly explained in a manner suited for a beginner and for people who are scared of statistics
+Excelent introduction to the basics. Gives you solid ground do keep improving. Totally recommend!
+I really enjoyed the course! The slides are excellent! Thanks for the great learning experience!
+Very clear, deliberate and concise delivery; a great introduction to various modeling techniques
+This is an excelent course which acquaints you with the fundamentals of quantitative modelling.
+Easy to grasp if you have mathematical background and some machine learning concept in my view.
+Pretty decent course. If I had to do this over again I would take course 2 first then course 1.
+Very insightful, and a good foundation for a comprehensive learning of modelling and analytics!
+The professor was very clear in his content. Lots of interesting material at a digestible rate.
+Excellent course and one of the best paced course I have seen with adequate number of examples
+A perfect way of learning the most important technique in finance with suitable time and pace.
+The course concisely explains the underlying of models and statistics. I really appreciate it.
+Very insightful, yet technically loaded with fundamental concepts for modelling and statistics
+I really enjoyed this course. Everything was very clearly explained and it was easy to follow.
+Very well explained and simplified... for a non- initiated student like me it was really good!
+Well explained and easy to understand. A very good introductory course to business statistics.
+I am very satisfied with the knowledge that was acquired during the course. It was enriching.
+Excellent conceptual introduction to the statistics and to the thought processes of modeling.
+The courses is very useful understand the empirical and theoretical foundations of modelling
+This course was very easy to follow and gave a great insight into basic quantitative models.
+Excellent Course. Simple language which makes the course easy to follow. Highly recommended!
+Wonderfully delivered!!! Even doctorates can explain the concepts in a simplistic fashion :)
+Good introduction to elements of quantitative analysis and modeling for business operations.
+Very well structured course, covers all the important concepts of different types of models
+i really learnt a lot of things thanks to this course, thank you coursera and thaks teacher
+Very clear and easy pace, and very interesting, looking forward for another Wharton course.
+Great introductory course to quantitative modeling with examples of practical applications.
+The presentation in the PPT is very clear. Also, the teacher is very logical. Thanks a lot
+It was one the helpful course for me. I am glad to achieve this certificate from coursera.
+Good course. However, very basic content in case you had any experience wir Quants before.
+Really good experience. It would be better if you have some basic knowledge in statistics.
+Great Introductory course - would recommend to those who need to learn a theoretical appro
+Very nicely articulated videos, to the point presentation makes this course more valuable.
+I liked the course and pace. The information was good enough. Not too much or too little.
+It was a informative course, and expanded knowledge about business models and decisions.
+Great intro into quantitive modeling. Would love to have more examples about regression.
+Great course, delivered in a very natural way for even the beginner or refresher course.
+This was an excellent overview course. The material was challenging and well structured.
+Great course! Explained a number of methods to make models and interpret their results.
+Great course.  Focused on foundational concepts.  The concepts are explained very well.
+Very well structured course. Loved the way the concepts were unraveled.A big thank you.
+This is a good course for brushing up, or learning the basics of quantitative modeling.
+Very nice and concrete overview of basic modeling techniques for business and finance.
+Straight forward and filled with useful information, not too complex but not too easy.
+Its a very good course, the lecturers are very good and explain the concepts very well
+Excellent introduction to the mathematical fundamentals used in quantitative modeling.
+Fantastic course by Wharton. You can make your base strong by completing this course.
+Solid course to develop or re-introduce the knowledge necessary to build quantitative
+The course was very helpful with gaining knowledge about various quantitative models.
+easy-learning and helpful, with many examples to deep my understanding of the models
+The course is great and gives a very good basic understanding of quantitative models
+A great refresher. Very practical examples and knowledge. Great fundamentals course.
+Great course and instructor, related the models with day to day scenarios very well.
+Great course covering all the fundamentals and well paced for working professionals.
+Excellent refresher for basic mathematical concepts that drivers business modelling
+Richard Waterman has cleared many of my concepts. Great course. Highly recommended.
+I enjoyed the professor and thought that the given power points were very valuable.
+very good course. would like a financial modelling course as well for fundamentals.
+The way of explanation was really good. The examples and slides were to the points.
+Very useful examples and explanations were straightforward and easy to understand.
+Great course with a great instructor; would have been interesting to model though.
+An excellent course content delivered by an equally excellent instructor/professor
+Nice explaination...Extremely helpful for students from non financial background.
+Gained lot of knowledge. Would love recommend others strongly to opt this course.
+Models explained in this course would be really helpful for the modeling process.
+Love the course. Very thorough and clear introduction of basic quantitive models!
+The course was great! everything was explained in a clear and constructive manner
+Good course. Well balanced mix of theory, practice and pragmatics of the domain.
+Helpful, Well organized, Make you curious about what's going on in later course.
+Excellent course, very well organized and very detailed. Would recommend highly.
+EXCELLENT COURSE AND TAUGHT IN A MOST PROFESSIONAL. THOROUGHLY ENJOYED LEARNING
+Incredibly clear and easy to follow, for what can be a daunting topic for most.
+Clear explanations and helped me reviewed basic stats models and distributions.
+This is good course to learn and understand about basic quantitative modeling.
+Excellent course, learned a lot.  Great instructor with clear lecturing style.
+Excellent teaching. So simple yet effective examples and application oriented.
+Very interesting and easy way to get an introduction into quantitative models.
+Very interesting and understandable. Great investment of my time. Many thanks.
+amazing professor and examples that made a very difficult topic comprehensible
+The Course gave an insight on the fundamentals, with easy to relate examples.
+Nice refresher of statistics learned in college. Covered all the main points.
+Very convenient and understandable narration by the professor! A good course
+Excellent
+course!It is very well explained, and the content is very helpful.
+Clearly explained, with the right emphasis and a great time listening to it!
+THE SUBJECT WERE EXPLAINED VERY CLEARLY. AND HENCE IT WAS EASY TO UNDERSTAND
+Good fundamental course in modeling, very clear explanations by the lecturer
+A big thank you to Professor Waterman and the Coursera team. Well done guys!
+Really helpful course that offers solid detail about these useful functions.
+A nice course, really useful. I liked the materials and the way of thought.
+Excellent course. Really clear explanations & quizzes helped with learning.
+Very helpful!! It was detailed and accurately sequenced. Highly Recommended
+thank you....it really helped me to learn more about quantitative modeling.
+Excellent Course. Must do for any aspiring business/finance professionals.
+Essential fundamentals of modelling, taught simply and quite exhaustively.
+Clear, concise and easy to understand. Well designed for internet learning
+Great basic terms to further develop. Great starting point for CFA Level 2
+It´s perfect when you´re finding to grow up at bussiness worth. So useful.
+It is a great course to get hands on experience different types of models.
+Good theory explanation with relatable example with industry or business.
+Great, clear and easy to understand modules for every background students
+Very good. Covers the basics thoroughly and in easily digestible lessons.
+Really good course. Each module is well explained with concrete examples.
+Excellent and concise introduction to various functions useful in models.
+The professor was clear and concise while teaching a mathematical course.
+Great introduction into mathematical ways to model real complex problems.
+It was an amazing course. Really helped me out in building my knowledge.
+Great course for people who have little knowledge/experience in modeling
+You can learn about differents probabilistic models and how to use them.
+Richard Waterman is simply excellent. One of the best teachers I've ever
+Excellent entry level course on the fundamentals of business modelling.
+Good introduction to Quantitative Modelling - covers important concepts
+very detailed. however, I couldn't download any of the pdf certificates
+Excellent content and framing of how to approach quantitative modeling.
+I liked the course a lot, I opened my thoughts a lot on these subjects.
+Good course, gives a good fundamental overview of the material covered.
+This course covered much of the math needed to properly set up models.
+Excellent structure for beginners with a bit college math fundamentals
+excellent speaker! interesting and useful information, thank you that!
+Very good and I recommend to every one who is interested in this area.
+The course was taught in a very simple and easy to understand language
+Great course which will help you do your mathematical finance courses.
+Excellent content and instructor.  Up your skill set with this course!
+helped me gain a lot and  reimburse my knowledge related to my field.
+the instructor gives very clear information and knowledge. thank you!
+This course is informative and useful. I thoroughly enjoyed learning.
+A great course to revise the basics if you don't know where to start.
+Very good refresher course for those in the business/finance industry
+An unique and enjoyable course I ever see in the working career time.
+i like the layout and video lesson , and the ability to work off line
+Informative and seemed to give a good grounding for most backgrounds
+Fantastic refresher on the building blocks of quantitative modeling.
+Good course. Has relative importance for various business processes.
+The lecture material was explained clearly using relatable examples.
+Very interactive and it was fun completing the course. Learned a lot
+Explained in a simple and easy to understand way in the right pace.
+Short but full with mega important information and up to the point.
+Extremely easy to understand and well explained! Thank you so much!
+Good course to get the basic understanding of Quantitative Modeling
+Pretty good overall course. I just wish it would be more detailed.
+Great Instructor, and the material was laid out very thoughtfully!
+Very comprehensible way of teaching. It has helped me in many ways
+Clear and concise instruction.  Useful examples and illustrations.
+Great course very well explained and documented, congratulations.
+Excellent materials on the Fundamentals of Quantitative Modeling.
+It is a very helpful course with clear instruction for beignners!
+Raised my confidence while dealing with basic stats & probability
+Very informational indeed. Hope it helps with my career! Thanks!
+Very Effective, Basic Course. It clears your concepts perfectly.
+It's a great start in the process of learning business modeling.
+Excellent topic included in the content used in practical world.
+Excellent course. Taught many things about quantitative modeling
+Excellent course.  Very informative, foundational and enhancing.
+Excellent. Provide many fundamental knowledge about statistics.
+Fantastic course. Was very tough to pass but excellent learning
+Very Interesting subject. Modules were very planned and sliced.
+Perfect！Learning all practical modeling skill from this course.
+Excellent course in the fundamentals of quantitative modeling.
+Excellent course explaing all the needs of regression analysis
+Excellent course on math background for quantitative modelling
+Fantastic course! well organized and very thoughtful. Thanks!
+Very straightforward learning experience. Excellent teacher !
+Extremely valuable course full of lots of great information.
+great courses! I have improved my knowledge about modeling!!
+Excellent course, very complete and specific! Thanks for all
+The course is very useful and it is can be easily understood
+Excellent course. interesting and every class so much clear.
+Good repetition of basics knowledge with practical examples
+Great introduction to modelling. Explained with simplicity.
+Very useful module and very well explained!Congratulations!
+The course is wonderful!!!!! And i have a good score, HAHA!
+Excellent course to understand the foundations of modeling
+I learned a lot while doing this course... really helpful
+in this course to very good learn, useful for the course.
+Really enjoyed the flexibility and lectures of the course
+Very nice explanations of concepts. Highly recommend it.
+Very insightful and excellent explanation by the videos.
+Quiz questions can be based on practical using our mind
+The module on probability models was very enlightening!
+Great learning experience. Thank you Coursera and Prof.
+This course helped me understand quantitative modelling
+Excellent ! I understand the différent concepts better
+Thanks a lot ,  Clarity of concepts with good examples
+Nicely Explained. To the point and no useless chatter.
+A great overview, clear structure and very smart prof.
+Very useful and helpful! Thank you Professor Waterman!
+very clear and well designed course. excellent teacher
+clear and specific, better teaching than my university
+Excellent course with excellent professor. Thank you!
+Exceptional and thorough explanation for each modules
+Great course for an overview of statistical concepts!
+Good high level overview of basic models + regression
+This is a best course to understand the fundamentals.
+Easy and productivity for people technical education
+Learner-friendly explanation with relatable examples
+Great course and the professor taught it very well.
+Great Video and study material. Learnt a great deal
+Very helpful course!I learned a lot about modeling!
+Excellent foundational overview of key principles.
+Useful course for basics of quantitative modelling
+Great introduction course for quantitive modeling.
+good module to summarize key statistical concepts
+good information focused on the course objectives
+much good course for data modeling for beginners.
+Very good introduction with good examples. Thanks
+It was a great course for statistics foundations.
+Fantastic course,  Crystal clear,  easy to follow
+excellent foundation laying concept-solid course!
+Very well taught and effective course. Thank you!
+Excellent introduction to statistics and modeling
+Amazing. Mr. Waterman explained the course well.
+Helped me build my basics in Financial modelling
+Very easily explained. Nice teaching methodology
+A well designed course and an excellent faculty.
+The course content is remarkably well explained.
+Perfect if you want to get your basics straight.
+Clarity of the contents discussed was excellent.
+It's a great course. I loved doing this course.
+good course , a complex wording but well taught
+Clear and concise explanations of the concepts.
+i enjoyed learning as professor is a smart man.
+Very precise and clear topics. Great professor!
+I really like this course. Excellent professor.
+Helpful base to learn the language of modeling
+Easy but it will be a good fundamental course!
+Great introduction to basics of quant modeling
+Not overcomplicated and very informative. Enjo
+Very clear explanation and easy to understand.
+Extremely relevant, informative, and concise.
+It 's very useful for me and productive also.
+it was a very basic course and well explained
+Nice overview of the core features of models.
+Fundamentals really explained well and clear.
+Really Educated! Very glad meet this course!
+Enjoyed the course. Thanks to the Professor!
+Great introduction of quantitative modeling!
+This was a great course! Really informative.
+Wonderful!!!~~~And the course is very useful
+Great introduction to quantitative modeling.
+Extremely insightful, learning and invoking.
+Easy to understand and provide good theories
+great learning like a exponential function!
+Best online Course in Financial Modelling !
+nicely thought and concepts well explained.
+Very clear understanding of complex models.
+teaching of this course is very good..:):)
+Excellent Course, Material and Professor .
+the Knowledge is very organized and clear.
+it was very informative and easy to learn
+It was informative and goodly structured!
+Very clear and the materials are concise.
+Very thoroughly explained! Learned a lot!
+Nice remember for statistical concepts :)
+Excellent course with relevant examples.
+Very interesting and informative course!
+Good quality of presentation and slides.
+Excellent Course, Would Highly Recommend
+great refresher on quantitative modeling
+Very engaging and informative. Loved it.
+Concepts were made so ease to understand
+wonderful introduction !!!!excellent!!!!
+Very useful, many intresting information
+Very fundamental course. Totally satisfy
+Very well explained! Thank You very Much
+Wonderful course, explained beautifully
+Great delivering and lucid presentation
+Great process, content, and instructor!
+Very nicely explained and very useful.
+Learnt many new processes of modeling.
+Super amazing course & teaching style.
+Very well done and easy to understand.
+Great introductory course on modeling.
+It's great content of modeling course
+Awesome skills and massive knowledge.
+Very interesting & easy to understand
+Excellent! God bless!  All the best!
+A great course with a great theacher
+very helpful with the examples given
+Great lesson, very clear explanation
+Great course with easy explanations.
+Great info and analysis introduction
+Effective and precise illustrations.
+Useful introductory course to models
+Perfect course and perfect lecturer.
+I enjoyed the content & the delivery
+easy to understand, and very useful
+Elementary level. Good Introduction
+Great overview of the fundamentals,
+This is a good introductory course.
+Interesting introduction to models.
+The course was really informative.
+Great job explaining the concepts.
+very good and simple to understand
+Good explanation by the lecturer!!
+Great Experience! Thanks a lot :)
+Very good course and very useful.
+Excellent!! Thank you Professor!!
+On point with excellent examples.
+Very good course, well explained.
+I love the content of this course
+Excellent foundational knowledge.
+What a great learning experience
+Loved this course and Professor.
+Very insightful and challenging.
+Very useful for the current job
+Very useful, easy to understand
+Very useful course for beginner
+Clear and concise. Recommended.
+basic stuff but well explained
+It's a good entry level course
+Very clear and easy to follow!
+Great course, great instructor
+Great, everything as expected!
+What a useful course! Love it
+I really enjoyed this course!
+The delivery is just perfect.
+A great overview.  Thank you.
+Comprehensive, great  lessons
+Very helpful ! Thanks a lot!
+Good knowledge in short time
+Great!!! I'll keep learning.
+Wharton Education Excellence
+Helpful and straightforward.
+Provides clarity of concepts
+The course was well taught!
+Good introductive course !!
+The course is well designed
+nice foundation level breif
+this  is an amazing course.
+Great material, thank you.
+Cleared so many confusions
+Lots of learning. Amazing.
+great content and teaching
+So clear and interesting !
+Great Introductory Course!
+Great Experience.Thank you
+Very nice skills to learn
+Great prof！！Great class!!
+The course helps me a lot
+A life-beneficial course!
+great practical learning.
+Great content, thank you
+furnished review earlier
+Very clear and succinct!
+It's very useful for me!
+Nice course to modeling!
+Very good course so far.
+Absolutely Brilliant!!!
+I have learned a lot :)
+It's an amazing course.
+useful for the initials
+Well explained concepts
+explained really well.
+Great course to learn!
+Increase the detailing
+This course is useful.
+Great course with some
+Awesome at all levels
+Amazing, great class!
+Excellent foundation.
+They are all perfect.
+It really educative
+Well taught course!
+Love those examples
+Very informative .
+insightful course!
+Simply fantastic.
+REALLY INSIGHTFUL
+great explenation
+Pretty awesome!!!
+Very impressing.
+Simple but good
+well explained.
+The Excellent!!
+nicely covered.
+Good professor
+Very thorough.
+Very specific!
+Very useful!!!
+Learned much.
+Perfect pace
+good class！
+great one!

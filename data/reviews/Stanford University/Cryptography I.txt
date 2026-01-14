@@ -1,0 +1,552 @@
+Professor is very knowledgable but he is fast... Even before i can understand the first line. he is on the fourth line. i find Hard to keep up with him. I am dropping this course.
+Instructor does not know how to teach at all. Too fast, near to zero authentic explanations about any topic. He is knowledgeable, I'll give him that. But this course forces you to basically suffer if you want to actually understand the material fully - by having to replay the videos over and over again.Also, the mathematical notations he use are understandable, but not standard. He makes them up, lol.Disappointed in this course :(
+Should have come with an explanation that non IT background people cannot apply
+Very Boring.
+This isn't a beginners course.  I dropped out in first week.  I took every note I could and reviewed again and again.  I really think the instructor is an intelligent man, but I'm not quite sure he understands how to teach well.  I'm really disappointed that I didn't get to take anything away from this class.
+Very theoretical and mathematical and not enough real examples.
+Only theory No practicals or solved questions
+There were too many repititions of tautological proofs.  Should have been covered in 1/2 or more of a single session:  this is how we reason about cryptography.  Too much focus on low-level primitives which doesn't make sense if we are to never implement our own cryptography. Finally, as a general point it would be amazing if there were ungraded "practice sets" that came with answers:  you work it work them out and look at the answers and if you don't understand you try to figure out what you can't get.  You can ask questions on the forum without revealing anything. The focus should be on working problems. Then, the quiz needn't permit infinite retrials:  working through the practice sets is where the learning would occur.  As it is now, you listen to the lecture, read over the notes several times, and then try the quiz.  I did the programming before taking the quiz:  that was a chance to actual work with the crypto algorithms.
+A really hard class for anyone not graduated from collage.
+Expected Cryptography I to be a beginner's course since it is Cryptography "One".  However, this is anything but a beginner's course.  From the first week the lectures assume the student already has basic knowledge of cryptography and just continues from there.  The biggest issue with this course is that there are no examples of how to work through problems.  Way back in the beginning, the professor lectured about breaking many-time pads, but never actually provided concrete examples on how to go about doing this.  If you're looking for an intro course as someone who has no knowledge on cryptography, this is not that course.
+There's some good information in here, but it's way too mathematical for people who don't have a maths background. I have studied computer science but never liked maths, and I find the assessments confusing. There's a lot of maths discussion in the videos too that's equally puzzling and the focus is on theory as opposed to real world applications of cryptography. You can know a lot about cryptography without having to fully understand the maths behind it. If you're interested in learning about cryptography for the purposes of programming, then I suggest using another course which isn't as theoretical. There are a lot of better free online resources for beginners and non-maths students.
+I think this course was too difficult so those 6 weeks became much longer for me - maybe timeconsumption was 12 weeks. So that is my only criticism. This course could in my opinion have been divided into "Cryptography basics" and "Cryptography 1". On the other hand, I know Stanford is a good university, I just wish I had been informed about a course that could more easily have introduced me to the topic. This is/was my first cryptography course, so it was a very hard task for me to go through... But the instructor seems very good in his research field and many people recommend this course, thanks.
+It requires knowledge of how cryptography works and the terms used to describe cryptography. I would not recommend it as a beginner course.
+It is very nice to have some basic idea. But if supplemented with some practical based screen recording then may be that would be more interesting. If supplemented with reference to further reading materials for deeper understanding then that ware better.
+The course is clear and goes at a sustained but correct pace. I really like the fact to show the weakness to understand what are the requirements of a secure PRF, PRP & co!Optional programming assignments are really interesting unfortunately they take too much time to do and lack of guidance as it could be the case for the famous ML course. At least the first exercises should provide a development environment to get familiar with: hex, crypto libs, dictionary research, stats algorithms implementation ...The first two weeks lack of in-video tests.
+The course was very good, but  the pace was too fast, so eventually became the problem because it isvery difficult to follow. Anyway, it opened a new world to  me and I'm willing to review many topics covered in this course
+Very nice course , sometimes along there was some difficulty occurs but the support staff n teacher helps me a lot.Some practical implementation also missing from course.
+a little bit hard for no computer basic people
+I really enjoyed this course!I was glad to work on prime numbers and RSA, even if it was quite late in the course.I would not recommend it for everyone, though. It is definitely not for beginners; you need a mathematical mind and a solid maths knowledge. So, overall more difficult than what I expected. Some things could be improved:- the description of the course could go into more details (maybe with an entertaining short video?), especially regarding the requirements level mentioned above and the overall difficulty level you can expect- a *formatted* transcript would be awesome- sometimes, Dan speaks too fast or his writing is not 'top-notch'- repeating the major concepts, and repeating them in a different way each time, could be done more frequently- the audio track has been edited and can be 'bumpy' sometimes + do not hesitate to insert more pauses!!- the course is a bit theoretical and could use more real-life, very concrete applicationsFurthermore, at some stages of the course, it is hard to see the 'big picture'. We get the latter at the very end.Also, keep in mind that the tests are not way easier than the corresponding lessons... quite the contrary actually.I must highlight two very useful things during the course: recaps at the beginning of some videos, and 'graphical' explanations.Finally, I had some good laughs hearing Dan state 'it's not that hard', 'it's not that difficult to see' or 'this is a pretty straightforward proof'... Reminded me of my old advanced maths classes.
+There should be examples regarding to assignment questions i.e. there should be examples similar to assignment questions
+The Cryptography I is a very formal course taught by a very accomplished professor, Dr. Dan Boneh of the Stanford University. He explains the inner workings of cryptosystems through mathematical structures and proofs. This way we are able to appreciate and fully understand crypto algorithms and their limitations. He covers topics in cryptography ranging from the ancient ciphers to modern public key cryptography and everything in between. This is cryptography at its core. Thank you, Dr. Dan Boneh!
+This is an excellent and challenging course that covers the basics of symmetric key cryptography, authenticated encryption, and public key cryptography. These topics are covered from both mathematical (notions and proofs of security) and computational (algorithmic running times, attacks) perspectives. The material is well-selected and progresses in a logical manner. Many of the key ideas are reinforced through their recurrence throughout the course in different contexts. The individual lectures also have a very natural flow: I would find myself wondering something about the topic under discussion, only to have my precise question answered moments later. Mathematical proofs are often given in a somewhat high-level, intuitive way but without truly sacrificing rigour. The in-lecture questions are well-chosen to force you to really think about the material under discussion and the quizzes, although sometimes challenging, are interesting and help teach material left out or only brushed over in the lectures.There are also optional programming problems, which were quite instructive. A couple of these involve implementing attacks on insecure cryptographic protocols; a successful implementation would lead to the decryption of an encrypted message, which I found to be not only extremely rewarding, but also especially instructive (much more so than simply implementing a cryptographic protocol, which was the goal of at least one assignment). I found it a bit strange that these highly relevant assignments were optional, however. I suppose this is perhaps so that a programming language is not a prerequisite for the course. However, I think several ideas in lectures would be rather difficult to understand without programming knowledge and in any case the level of mathematical maturity demanded for this course is much more of a requirement than some basic programming ability.My main complaint really regards the speed at which most lectures are given. It seems to me quite unfortunate that so many hours of excellent lectures were recorded at such a speed that you're basically forced to slow the lectures down (which sounds strange) or pause every few seconds in order to digest the material properly. In a university classroom, you have a fixed amount of time to deliver material, but there's simply no reason to go so fast in an online course.
+Course was very fun to learn, and the instructor was very clear and concise with the lecture.  I was slightly unprepared for the difficulty level and math involved, but reviewing the videos and discussion group cleared things up. Do not attempt this course without prior knowledge of some discrete math, otherwise it was a very in-depth course which covered many topics, and I would recommend it to peers.
+Not a trival course, you should definitively pause the lessons several times in order to take notes.Some of the exams are far to be trivial. A little bit too theoretical, but gave me a good insight of topics I need to understand in my professional life. I would definitively recommend it
+Very Deep math and at time becomes very confusing!
+This must be an incredibly difficult course to try to teach in six/seven weeks. There's a ton of material to cover and I appreciate that the course touches on all of the basics of crypto that are actually in use.My only complaint is that some of the questions on the quizzes were really repetitive week-to-week. In particular, every week features a question (usually #3, if I remember correctly) that had you choose which constructions out of five choices were "secure" as per the definition of security for that week's topic. The problem was that the correct and incorrect answers were always similar, even though the security concept for each week was different! In other words, there are some things that will NEVER be secure for any crypto system. Every version of the question had several choices that fell into this category. It got to the point that I usually got the question correct on the first or second attempt without even trying that hard. In reality, that question should have required a lot more brain power from me because those security challenges are actually sometimes very subtle and difficult.But that's truly my only criticism. I loved the course and the programming assignments. I'll be keeping an eye out for any more courses taught by Dr. Boneh.
+The theoretical part of the course, though dense and fast paced, was very informative. Being recorded it had the advantage for the student of being pausable and repeatable. The great disappointment was the programming part of the course, which I was very much looking forward to, in which the problems were great and have great potential to help the student learn something, but help was minimal (rather tautological, unrevealing, or plain condescending). Fortunately, the programming assignments were option and did not count towards the final grade. But I repeat, they do seem immensely valuable in their topic and difficulty as a learning experience, but guidance in a programming part of the course would be welcome for a change.
+Overall, a great course!  There's always room for improvement.  Certain complex and critical concepts were glossed over way too fast in the lectures (with speech compression in the recordings to boot), while other introductory material was gone over too slowly.  There is an answer string evaluation problem in the Q's & A's  where the required answer must contain a bullet dot to represent multiplication (an 'x' is not accepted) but the standard computer keyboard does not contain a bullet symbol, you have to be in a word processor to create that.  Also, there are correct alternative answers for Q#'s 6,9, &12 in the Week 5 Quiz that need to be re-evaluated.
+Good course, covers pretty interesting material. The level is quite high and technical though, so I wouldn't call it introductory - you definitely need a basis in CS/algebra and a basic understanding of computer security in general.Quizzes and videos are good but the course could use a better emphasis on coding (the programming assignments provided very little guidance and there's essentially no code in the lectures - probably by design but that can leave you hanging if you're looking for a practical rather than purely theoretical understanding of the topic).
+Fast dialog made it so I had to watch the videos multiple times, copy of the discussion in text form helped.The in the lesson questions, didn't know how to format the responses to make them work.  Also when the  session when to the question reply mode, it showed the question but covered up the graphic part of the question so you lost that context. Possible because I was full screen mode.Well done all in all.
+A very good course. The pace is quite high and the material is challenging. I think to get the best out of it you need to spend considerably more time than the course suggests each week and I was not able to do this. However, I have come out of the course with a good understanding of the basic concepts of cryptography and my interest in the subject has been piqued sufficiently to want to find out more!
+I really enjoyed this course! Symetric security was quite easy for me. But when it came to public key security I felt so lost because of all that deep math. Maybe it may have better and more detailed explanation, but maybe it just my problem with math (which I'm aware and aknowledge even without this course :D).But definitely worth time spent. Waiting for Cryptography II now.Thanks.
+It would be really amazing if Dan tries to go lot more abstract in each video; and not explain the same concepts over and over again. I feel that it becomes particularly boring to keep hearing the recaps over and over again. In general, the course was a tough one for me! But the instructor, with his immense knowledge and great way of explaining things did create an impact!
+Excellent course. One of the most difficult ones I followed on Coursera. It's a bit dry due to the amount of math in such a short time and because it lacks a bit on the practical side of things. The optional coding assignments are good but I would have preferred a more practical approach for the course as a whole.
+This course really a best course for cryptography basics and intermediate level. Only negative thing is that real-time approach of how to use crypto-libraries not explained here. So if anyone want to implement the cryptography standards to their product/design, need to refer other sites.
+I liked the level commitment the programming problems demanded. It truly made you feel you had  a deeper understanding of the subject after finishing them as opposed to just reading and answering multiple choice questions. Thanks for putting this together for the world to learn!
+Some of the questions in the quizzes were vague and hard to comprehend. Also the professor's hand writing on the notes doesn't help since it's messy and the marker quality is not that good either.Apart from the above, a good intro course to crypto, thanks.
+A very good presentation of the theory of cryptography algorithms, but I'm disappointed that Crypto II is not available for now: some important points such as SSL/TLS  crypto protocols or eliptic curves are not described at all in Crypto I.
+The course is really what I wanted: It covers theoretical and practical aspect of cryptography. The exercises are also very well designed, although, I found some of them quite difficult.Overall, I would recommend this course to a friend.
+The course is very interesting and the topics are very well explained by the proffessor. I didn have a wide background about cryptography but still could learn a lot. Congrats!!. I would preffer more examples and not so much theory.
+The content of the course is excellent. Sometime the excercises are a bit confusing because the losse of information in the content. Also is a little quick but I found it excellent to be an introduction to Cryptography.
+Though the material is quite challenging, professor Boneh explains it quite clearly and at an easy pace in his lectures. I found it very interesting to learn more about encryption and how the current standards work.
+I just want to say that this course is very good for people who know a lot of math and i mean it will be easy for them to grasp the course , so i strongly recommend to please explain concepts a little bit more .
+An amazing course that provided me with important tools in cryptography. I hope I see more courses like this in the future and a special thank you to Professor Dan Boneh for teaching this course. Thank you.
+Really interesting and comprehensive course. Sometimes really important concepts were glossed over quickly which made it occasionally tricky to follow but then it is tricky subject matter!
+It is really interesting and clarifying. It does require much attention to details and taking a lot of notes, however. It focuses on the theory, with practical examples. I sure liked it.
+The lectures are very good. Easy to understand and keep on track. But the lecturer could enunciate better. But that is also not a huge issue since pausing and replaying is an option.
+Excellent material. As usual with computer science courses, some of the material could be presented a bit more clearly. But I am really happy to finally understand this material now.
+Great intro to a complex topic.It could be improved by having the programming assignments be:+ Mandatory+ More related to actual cryptographic algorithms/libraries (only some are)
+Interesting and learned a lot, but probably need a greater foundation in hex and mod math than I had.  I suspect there are prerequisites re in the formal program.
+Good overall course, it could use an update on some minor points. Theory is a strong part of the course. I hope the Crypto II course will be up one day.
+Best cryptography course ever!! Detailed and clear explanation, fun, nice quizzes. But it would be better if the pace was a little bit slower.
+Excellent Course to understand the Crypto Construction, Possible Attacks, Semantic Security and pplications of crypto in real world scenarios
+Great course. Not easy to sustain the rhythm, I prefer "at your own pace" kind of course, where you have time to dig into the subject.
+The contents are presented in a super good way, this is the best way for anyone to learn basic and essential concepts on cryptography.
+Very good course with a level accessible without the need to be a mathematical guru. Maybe some videos are a little beat too long.
+Above all, the clarity, quality and engaging nature of Professors Boneh's videos made this a great learning experience.  Thanks.
+Very interesting but sometimes too detailed. Courses often needs good knowledge in mathematics althought there are some reviews.
+A bit hard to follow some of the math stuff if you don't have a background it in, but pretty informative course overall
+Course is very interesting but, in my opinion, it is a bit theoretical. I would like the course were more practical.
+Fantastic course that gives the basic notions of cryptography. Both practical a theoretical tests are very useful.
+Great course, but a bit disappointed by the fact that I'll have to do it all over again to get a certificate.
+The Course has been more about knowing about and implementing them and has been more helpfull in doing so.
+Exceptional Course .. Especially he lectures were clearly explained. But the exercises were a bit tough.
+Very thorough, lot's of math. A bit too academic for my taste, it's not really useful in practice.
+Pretty good, though needs more basic understanding. Quite a bit of prereq's for this course!
+(+) Really good training also for beginners. (-) Sometimes the teacher talks very quickly.
+given videos is not helping to do the given problems in the quiz (not all, some problems)
+this course has really helped me to build the basic knowledge in the field of security.
+Really enjoyed taking this course. Hoping to learn more, Inshaa Allah(God willing).
+Excellent course!I have learned Cryptography, Python and Number Theory
+Great , Enjoyed the complete session ,waiting for the next session :)
+Very good course.. I learned a lot about how cryptography works.
+Quite good course to increase your cryptography skills...
+Wonderful course and the teacher is very well prepared.
+Explanation along with the material is fantastic!
+This is a tough course.but teaching is very good.
+Well explained and very useful to me. Thank you.
+great introduction to crypto, nice explanations
+Teacher is very good but he is too fast
+Pretty tough but still interesting...
+pretty good, well explained and clear
+I learned a loot. Relay good videos.
+Very good course, clear lecture.
+very good course. very helpful
+I liked it! Hard but worth it.
+good but not for beginners ):
+Nice learning experience.
+i was a great experience
+requires mathematics
+good instructer
+Cutting edge cryptography topics. Good explanations and slides, but pause button is highly recommended. Can be a bit too mathematical for the general public, and not very formal for mathematicians.
+This course is very well explained and stimulating. I am a third year maths undergraduate in the UK. Although I did find some concepts from computer science very foreign in the very beginning, I soon picked them up. So don't be afraid if you are like me who don't know much about computer science. Staying active and curious is the key. Good luck with the course and I hope you enjoy it as much as I do. And here I would like to say thank you to Dan Boneh for making the videos and making this course public. I am looking forward to take Cryptography II in this autumn.
+The course is excellent! Exactly what you would expect from a world-class institution like Stanford.Prof. Boneh masterfully guides you through the core building blocks of cryptography, beautifully weaving the concepts into a logical framework that helps understanding the big picture and the role that each plays. The course is very rigorous but the math is not overwhelming and also discusses very useful practical topics like common cryptographic protocols (TLS, WEP, etc.) and the attacks that were discovered over the years.The course is challenging and takes quite a bit of effort, but at the end I feel that I learned a lot. While I probably need some more time and practice exercises to fully absorb the material, I feel that from here I could go on and independently dig deeper in some of the topics or tackle more advanced one.Looking forward to part II!
+Excellent introduction to cryptography for those with little to no prior knowledge of the subject.Would recommend becoming familiar with number theory as a precursor, as this underpins many of the concepts introduced. While not essential (as the basics are covered and references are provided to support material), the focus is much more on cryptography than mathematics.Lectures are well structured and build on each other in a logical progression. Exercise questions are well thought out, and effectively test understanding of the modules. I would also recommend undertaking the optional programming exercises, as these tend to throw up practical issues that may not always be apparent from the course notes.
+I'm a software developer - I took this course because I wanted to demystify cryptography, and it delivered 100%. It describes fundamental cryptographic primitives, how to use them (and how not to use them) with real-world examples, as well as the theory behind why they are secure, and what "secure" actually means.There is a fair amount of mathematics involved - everything is covered in the course, but someone with a background in mathematics will definitely have an easier time.
+The best course I have taken so far! Not only it introduces you to the world of cryptography, but gives a mathematical overview of how everything works and many practical experiences. The second part is coming soon, expectations are over the roof! The book covering materials in these courses, that Boneh is still working on, will be the best resource for all cryptography related topics(for me at least), I guess it's set out to be the ultimate cryptography textbook.As a person with mathematical background I admired every piece of the course and how well everything was put together. It really shows how Maths as a science is not just a theory, it's very much practical as well. Having said that, one doesn't have to have mathematical background to comprehend course materials.The exercises at each end of week are very well crafted - they make you reuse most important information from the week and stick that deep into your brain. I finished the course 1.5 years ago and still remember what most exercises were about. I remember some colleagues complained about week 5 being too much theoretical and therefore dropped the course. For me it was one of the most interesting weeks. Anyway, I would say first 4 weeks are a must for any developer who is responsible for any software/hardware that has something to do with encryption/authentication.TLDR: If you are considering the course, just take it. The information you will get is universal and timeless.
+Edit: I could shorten it out to a summary:"The most valuable course I ever enrolled in, this website and course is so extremely vital, I recommend anyone interested in cryptography to enroll in this course. " - William MBRILLIANT! ABSOLUTELY BRILLIANT! THANKS FOR THIS AMAZING COURSE DAN BONEH! THIS WAS THE MOST VALUABLE KNOWLEDGE I COULD EVER HAVE IN MY ENTIRE LIFE!AGAIN, THANK YOU SO EXTREMELY MUCH!I would recommend ANYONE TO TAKE THIS COURSE, even if you're just beginning in Cryptography, I was hooked after the first day of "intro" about what ciphers are, how they work, and how you break them.Again, can't say this enough; this course was, and is VITAL!  As it's so extremely well made!Thanks!
+Only two downsides imho: first, the course is fast - he does warn in the very first week that for some reason he goes faster doing a video course than in a real classroom, but it's worth repeating that there's a lot more stuff than one would guess by the video length.Second, some questions are not perfectly synced, ie the choices appear after the answer is shown - eg integrity-3-PMAC and the Carter-Wegman MAC at 5:14, how-to-use-block-ciphers 2 - MANY-time key at 21:02,how-to-use-block-ciphers 2 - MANY-time key at 12:22,how-to-use-block-ciphers 1 - ONE time key 6:37. If anyone can fix them, thank you. Great course anyway!
+It's been a great learning experience. My background in math / algebra / calculus is rather weak, so it was a real stretch. But it's so rewarding to understand how the fabric of our daily interactions is protected (or how vulnerable it can be) with modern cryptography. Kudoz to the teacher!
+The best course for the cryptography. As a beginner it took some time for me to understand, I had to revisit few sections again to get clear understanding. But the content was the highlight of the course and it was delivered in an excellent way. Looking forward to the next course
+This is the best course on the cryptography which help me to learn relative basic topics. Thank professor for his presentation. Let me say again, it is very very very helpful for people who are interested in cryptography. It is necessary to review this course again and again.
+Provides a comprehensive introduction to cryptographic history, current technology, best practices and known attacker techniques.  A great deal of material is covered in a relatively compact program.
+I am very happy and satisfied pursuing this course. I love it. Cryptography is one of the very important concepts in Computer Science and just loved to have the course from Stanford University.
+This is just a great course. The subject was new to me, and while it was difficult, I learned a lot and actually got a good grade.Prof. Boneh is engaging and very clear in his explanations.
+One of the finest online courses I have attended. Very detailed explanation with examples. Very good and  highly recommended for beginners.Thank you Prof. Dan Boneh
+I think it interesting the course teaches you how Xor gates are used in cryptography
+Very good course. Expectant for level II
+Very informative and well taught.
+This course does an excellent job of explaining the fundamentals of cryptography and showing real-life applications built on these constructions. Moreover, it provides the student with useful abstractions and frameworks for evaluating the security of cryptographic constructions. What I really enjoyed about this course was getting my hands dirty with some of the programming exercises. Each week has a programming exercise, some of which give you an opportunity to leverage well-known vulnerabilities to mount attacks on various cryptographic constructions.I gained a deep appreciation for the science, as well as the art, of cryptography from this course. I'm excited to learn more in the second course this fall to expand upon the concepts introduced in this course.One thing that I think is worth mentioning, however, is that you should really expect this course to take up around 10-15 hours of your time per week (depending on your commitment and speed with completing the programming exercises). The course material is very dense, and there are some mathematical concepts later in the course that may take you some time to wrap your head around if you are unfamiliar with or haven't had recent exposure to them. I say this because Coursera provides its own estimates for each part of the course (lecture, quiz, programming exercise), but you should know that these are completely inaccurate. The lecture videos are rich with content and move very quickly, so you will need to pause them frequently to catch up on notes and absorb the concepts.
+This is a fabulous course. Professor Boneh did an admirable job teaching the basics of modern Cryptography. Modern Cryptography was born at Stanford University founded by Martin Hellman and two students. It used at first intuitive ideas linking complexity theory to cryptography. The old cryptography, that is cryptography at around the Second World War was a a rigorous theory based on Information Theory and founded by Claude Shannon. Modern cryptography was based on the idea that if a cryptographic system cannot be broken in billions of years, then it is for all practical purposes just as secure as a theoretically unbreakable system. In the last 30 years or so the proper definitions were found to make this intuitive idea precise, making modern cryptography a rigorous science. Professor Boneh presents this rigorous theory in this  course.
+The course is very interesting and very challenging,As an firmware engineer who never had the chance to learn Crypto. the course gave me a grate introduction to this field.
+It is very fascinating to understand the different Crypto. methods and their vulnerabilities, and it made me more aware and gave me the ability to evaluate strength of Crypto. systems that I encounter.  
+Before every topic there were a detailed overview on the Math theory required to learn it, the explanations followed by real life examples and it feels like the team put a lot of effort to make the lectures comfortable and easy to follow.
+The Homework are challenging and very help-hull to understand the learned topics.
+I took this course right before starting my undergraduate degree in Computer Science. While I would agree that the level of difficulty was high, and the mathematics was very detailed, I can honestly say that the professor does a very good job explaining it. I took detailed notes from the beginning and reading the references combined with paying attention to the lectures really helped me understand the concepts really well. The problem sets were amazing and tested a thorough understanding of the topics which made them very fun to solve. I would recommend this course for anyone looking to get into cryptography who doesn't mind putting a lot of effort into learning the basics of the field.
+Outstanding coverage, very fast paced. I enrolled in this course to gain an understanding of cryptography beyond material designed for the consumption of the non-technical audience. The lectures by Prof. Boheh were very clear and well organized, with emphasis on fundamental definitions. The section on basic number theory was most helpful. While taking the course, I was also learning the Python programming language, so I attempted most of the optional programming assignments in Python. This reinforced the material a great deal. I will recomment this course highly and will definitely enroll in Cryptography II when it becomes available. Thank you for a great learning experience.
+Amazing course! Enjoyed it so much! Many thanks to Professor Dan Boneh.Although the lectures are quite short they contain a lot of useful information. You might want to watch them more then once!The quizzes are designed in such a way that you have to understand the material in order to pass them - just memorizing won't be enough. That's a sign of high quality.Don't skip the practice quizzes - they are challenging, thought-provoking and help you understand the topic much better.Bear in mind that the course requires certain math background in discrete probability and number theory. You'll find some books recommended to fill in the gaps at the beginning of the course.
+That was the hardest thing i've ever learned in my whole life, but I'm well satisfied by this course. Thank's to this course I finally understood the way I have to use crypto without risk of being hacked because of simple mistake I made. I also wanna say THANK YOU SO MUCH! to professor Dan Boneh for the best possible explanation of the course's material and THANK YOU SO MUCH! to Coursera for giving me an opportunity to learn this high quality educational material while being in the middle of nowhere. Sometimes there were a tiny problems with sound, but it's not critical. Anyway, it's much better then the education that I could get in my region.
+Very interesting and intense course, covers probably more than twice as much material as some other courses in the same time. The lecturer Dan Boneh is very motivated and very competent. It makes a significant difference listening to someone who is an expert than just reading a book about it. That said, having a textbook in addition to the videos is a great help, as it gives you a different perspective, which helps a lot with understanding. The questions and programming exercises are interesting and challenging (unfortunately I did not have the time to do the coding exercises), though some of the questions could be formulated a bit clearer.
+Very good introduction for someone who wants to understand cryptography at a level deeper than "This is the Crypto API". After the course it is not only clear "what to (not) do" but also "why". Some mathematical understanding is required (I'd say university entry level).The pace is just right. The questions dispersed throughout the lectures really help the process of understanding because they force to think about the problem at hand. Also very good is that each session starts with a short summary of the last session. Very helpful, if you watch this course in the evening after a workday.
+Really good course. The professor knows what he is talking about and he explains as easy to understand as possible. As engineer it was sometimes difficult but not impossible for me to understand everything right away.The only thing in my opinion that could make the course way more understandable are step by step examples with real numbers/text/messages. The examples in the course are good but too general to understand without a strong mathematical background.I would recommend this course and I would say it is one of the best cryptography courses you'll find in internet.Greetings!
+A very thorough and rigorous course covering the primitives of modern cryptography. While all the math needed is included in the course, I highly recommend you have some kind of background in how mathematical proofs work, as the notation and ability to follow the logic of all the symbols can be overwhelming if you're new to them. Professor Boneh is excellent, and even a cursory internet search shows that he is highly regarded in his field. It was a privilege learning from someone so knowledgable, and I look forward to Cryptography II whenever it is released.
+One of the best courses I had so far.   This course requires patience, a lot of thinking. It rewards you with great learning experience.  This course encouraged me to go further into details of cryptography. I will still be reviewing my notes and what I learned from this course in coming months and enroll to the second course from Prof. Boneh. It definitely worth it. I also strongly recommend investing some more time into number theory (at least first four chapters of Viktor Shoup's book) to feel good about the theory of public key cryptography.
+I had to review college algebra and some of the prerequisite, optional material to get by. I found myself thinking I understood until I got to the quiz. There are a lot of spaces where he assumes you know things or that you will figure out that a+b=c (like putting 2 and 2 together). Notes should probably be taken in outline format. After watching a couple weeks you can tell how he organizes it. The teacher is very knowledgeable and explains concepts very well. The material can still be incredibly hard and gets easier as you repeat it.
+Extremely useful course that allowed me to get into computer security without any SUBJECT-SPECIFIC knowledge. Background in mathematics and programming definitely required to successfully complete the course, but if you have it, you can easily grasp concepts and constructions defining fundamental building blocks of modern computer security. I really hope that advanced course will land sometime, or at least extension of this one covering topics digital signatures, authenticated key-exchange and other good stuff.
+Clearly structured, well explained first course on the subject. At times it appears too thin as mathematical proofs are not detailed, but as the course goes on, references to further readings are included which allows a more advanced understanding of the subject ( in maths and computing). This allows for a rather large range of topics to be introduced. Well done and last but not least, thank you so much, Dan ! Note: The pace of the course is also flexible. This course is perfectly doable ( on top of any job).
+Great course, thank you!This is a great introduction to Cryptography. Before this course, I was a complete beginner and now I am reasonably comfortable with the basics. I am definitely planning to take Cryptography II sometime in the near future.One comment - working full time and taking this class was not easy. For future classes, it might be easier if you make each week less packed, possibly even splitting each week into 2 weeks. This would make it easier to keep up with the schedule.
+This course is the Α and Ω about Cryptography and Security. It provides a very thorough overview of the basics of Cryptography from a theoretical point of view, albeit including including real life examples. Definitely recommended even for persons already familiar with cryptographic or security concepts. Professor Boneh is extremely illustrative and provides his expert knowledge in a very practical manner. I sincerely thank you for the amount of knowledge provided in this course!
+This is a fantastic introduction to the world of cryptography! You learn about the basic concepts of encryption, authentication, authenticated encryption, public and private keys and the underlying mathematical principles that (should) make it hard to break the ciphers! You also learn about historical developments, real world applications and current challenges that would bring you instant fame in the crypto world. Also it is not a disadvantage if you really love solving puzzles!
+I'm the Technical Director of an electronic company. I didn't know very much (certainly not enough) about cryptography, except some vague general information. My company needed to gain first hand knowledge to protect a new line of products, for which online reprogramming will be necessary. This crash course about cryptography has been extremely enlightening, to address the development of these procedures.Thank you Dan for your good work and carry on with it.
+I learned a tremendous amount from this course and it provided the grounding for an array of different areas of infosec studies I am pursuing. I highly recommend it. Many of the ideas were easy and intuitive to grasp, but there is also enough depth that I will likely take the course again at a later date.The quizzes and projects were thoughtful and challenging, and effectively tested that the student understands the key ideas of material.
+The course was authentically cryptic.  Just kidding. Once I listened to Prof. Boneh a few time over, I started to get the idea. asymptotic security while never stated as such played a fundamental role in the security proofs. Professor Boneh augmented the notion of correctness to include immunity from side channel (Power and timing attacks). The course was a great medley of pragmatic advice and theory. I am grateful for this class.
+Learning Cryptograpy is not a walk in the park as it requires a good understanding of the theoretical foundations and it is so easy to get wrong, yet it is essential for an IT professional to get a good grasp of the subject. This course is invaluable in that respect, the instructor presents the material in a clear, concise fashion without overwhelming with the math involved, giving the overview you need as a professional.
+This is one of the best cryptography courses I have seen. Initially, I felt that the course was going faster. So I skipped the course two times after following about two weeks :). But I thought to give another try for the third time. Then I started to get comfortable and understand in time.I strongly recommend this course to people who are looking to get a better theoretical understanding of cryptographic primitives.
+A fantastic, university level course on Cryptography, most commonly referred to as the "gold standard". Personally, I found this course to be extremely helpful and assistive to my learning on the subject. However, I think that this course delves too deeply into the theory of cryptography, I think it would prove beneficial if Dan Boneh ran us through more coding examples or specific realistic use-cases.
+Very interesting course where you learn how to analyze cryptographic constructions. I love the way is taught, building on top of basic constructions until you implement real-world systems. I certainly got interested in cryptography many times, but always dropped the courses before the end. This one got me hooked all the way!. The programming assignments were great to assimilate concepts. Well done!
+It took to me more than one month and a half to complete this course but it has been a great stimulus to learn fundamental concepts and tools about cryptography. One of the most difficult part has been public-key cryptography mostly due for its base on number theory but now I have a good knowledge of RSA and Diffie-Hellman key exchange protocol. I look forward for the 2nd part of the course.
+Excellent in-depth introduction to the field of Cryptography!  Absolutely rigorous treatment of the subject, down to every last mathematical detail.  I feel like I sat in on a real university course at Stanford, and I believe this experience will help my work, my employer's products and will allow me to look critically at cryptographic code that comes across my desk.  Thanks Prof. Boneh!
+A truly excellent course. The content is very well done and presented, the problem sets challenging enough and the programming assignments are interesting and really worth completing. Dr Boneh explains all the concepts in a very clear manner and has tons of practical examples to share, which bring to light what can at first sight seem a little abstract. I highly recommend this course.
+Amazing course and an outstanding teacher. Worth every penny and minute spent on this one. You learn not just how to build secure systems but also how NOT TO, which I consider even more valuable.The material is explained so fluently you have no doubts about professor's outstanding knowledge of it. This doesn't mean it's an easy course, though, so get prepared for some headache :)
+An excellent course to learn the fundamentals of cryptography at a pretty deep level. It includes very well crafted programming assignments and tests. The professor is an expert in the field and very rigorous and precise. The materials are very well crafted and it contains a lot of interesting and useful references for extension. It was quite hard but it was definitely worth it.
+Thanks to Prof. Boneh and the whole Team for this brilliant course, and all the support provided. Although the program was quite challenging, it was very structured and informative, and provided an easy way to learn complex subjects. I'm looking forward to continuing to study cryptography discipline, and I would definitely recommend this course to my friends and colleagues.
+Great course. It describes most commonly used encryption algorithms with fun historical examples.  Explanations are given from diverse point of views including cyber attack, data protection and computational efficiency. Assignments are challenging enough for people comfortable with computer sciences, probability and number theory and maybe a bit hard for people who aren't.
+The course was extremely informative and interesting. I do not possess a computer science background and enrolled in the course just to learn a little about cryptography. While the learning curve was steep, the course content was engrossing that I did not want to stop. Infact, it motivated me to gain more knowledge in the field and I am currently learning programming. :)
+This is a great course that was taught well, and had very helpful mentors. In general I found the course challenging but not too difficult. The reward was a good understanding of the open cryptographic protocols that are used in most real world applications. As minimum prerequisites, I would recommend having done courses in statistics, probability theory and programming.
+I took the course in 2014, whether you are a  beginner in cryptography or a regular practitioner, the course won't disappoint you.  Another master class from Stanford. The problem sets and programming assignments are of reasonable difficulty. So if you are planning to take a course on cryptography, this is just the one- comprehensive and up to the expectations.
+Thank you Coursera and The professor for such an oppotunity to learn Cryptography. It's very challenging in the begining but the more i learn the more interesting the subject becomes. Professor Dan Boneh is really great at teaching the materials.
+
+ I hope that Cryptography II will be opened soon so that i could further my career in the cybersecurity field.
+This course has taught me crypto basics in the best possible way. I am eagerly waiting for the second part to enhance my knowledge about this interesting field. The Lectures and they way questions were formed in quizzes made the learning interesting and benefiting. Best wishes to the instructor and Organizer who arranged and compiled the course material.
+Very interesting course! Good, balanced presentation of lecture material. Weekly tests make you think well and study the theory more deeply. Despite the fact that there are few questions in the tests, they are not so simple as not to open the textbook. Later I want to finish all optional programming tasks and read recommended books more carefully again.
+This course is the real deal. You will have to work hard to pass it. It gives a solid overview of the main cryptographic concepts like pseudo random generators, functions and permutations, block and stream ciphers, public key encryption, and key exchange. If you haven't studied number theory, plan to spend some extra time getting up to speed.
+I am happy about the fact, that this course is teaches people very important Cryptography subtleties. This makes me think more about -- what would be the best way to preserve this information, so that it can guide future human generations! Thank you, Professor Dan Boneh! I am looking forward for the Crypto II. Kind Regards, Andrey Arapov
+This was a great intro cryptography course for someone with a strong mathematics background like myself! Not fluff, Dan Boneh cuts straight to the point. Every lecture is brilliantly presented and explanations are always thorough and easy to follow. Topics are relevant for real world applications. Amazing course. Can't wait for part 2.
+I liked this course very much, because it covers a lot of cryptogrpahy topics in a way accessible to most undegraduates with basic understanding of algebra. I especially liked the links to relevant papers in the end of every module. Dan explains everything in a very simple way.Thanks for the course! Looking forward to the second part.
+Very interesting course, even though I come from engineering background and wanted to explore cryptograpy for fun, managed to understand the concepts and the course built a strong cryptographic foundation. Big thanks to professor Dan Boneh and all the mentors that answered questions in forums. Hopefully see you all in Cryptography II
+It's a quite pleasing experience to finish this course.With the comprehensive analyzing and teaching, you might be able to grasp some basic concepts of modern cryptography such as ciphers, adversaries etc. For better understanding of some lessons, I suggest you spend more time do the math. Anyway, I highly recommend this course!
+This course is tough, as in it makes you work hard for understanding the concepts and giving your all. This course was definitely lengthy but the hard work put into it makes the accomplishment feel so much better.Thank you, Professor Dan Boneh for this course,will definitely come and rewatch those lectures if I have any doubts.
+This is an amazing course and taught the basics of cryptography, including all the math required to understand it. For someone who graduated almost 20 years ago, going through this course provided an amazing and easy to understand intro to cryptography and the associated math. I look forward to the second part of this course.
+FANTASTIC course!!! No better place to learn Cryptography. Prof. Boneh has amazing ability to explain difficult concepts in an easy way. Don't get me wrong - it's not super easy topic but the way you are guided step by step makes it the best Crypto course on Earth! EXCELLENT JOB!!!!! THANK YOU SO MUCH!!!!!!!!!!!!
+This is just about the best course of taken so far. The videos are very informative, the notes are loaded with relevant information and the discussion forum crowns it all as my questions got answered timely. I loved taking this course and I strongly recommend it to anyone interested in learning network security.
+Great introduction to the mathematical theory behind cryptography primitives. Sometimes fast-paced and hard to keep up with. I was looking for something more along the lines of applied-cryptography but saw the high rating so I took the course. I will now look at one of the applied-crypto courses offered.
+The way material is presented and the cource pace is perfect. After lessons the topics are clear and there will be much more understanding why all those crypto libraries are built like they're built, and how to use them even in case the API is not elegant and is error prone. Can't wait until part II!
+I didn't have time to finish but first couple of weeks were great, a lot of math concepts sometimes hard to grasp but I like it, that is why I enrolled, I recommend it for anybody who knows some math and want to know history, how it works  and background of cryptography from beginning till this day.
+Great intro to crypto, I learned a lot, from easy to more sophisticated things. But all in all, the way of thinking is what I liked the most, building everything on logic. I thought the course was well structured and its homeworks were a great resource to learn more and ask myself more questions.
+Extremely well planed. Maintains a balance between introducing the ideas, implementations of various cryptos while still keeping up with all the relevant mathematics behind them. you will come out of this course understanding the cryptography far better than you did before, Highly recommended!
+Really good explainations of each concept throughout the videos. Would really recommend to anyone, even those with little to no mathematical skill beforehand. Haven't used maths in years but with these videos and the extra reading recommended I managed to understand each concept and pass. :)
+Great Course! It is hard and mind-energy consuming while listening to the video (sometimes I have to repeat again and again to get what he says), but gives me a good intro to cryptography. I would probably read the articles he recommended and finish those optional programming projects later.
+I got a great overview of crypto. Most interesting thing is that the developer should be very careful on every even small detail during the implementation due to different possible types of attack. Big plus are also the (non mandatory) homeworks. I'm excited to continue with Crypto II - ho
+The Best Course for The one who really want to be skilled with CryptoGraphy, as it is the only and best way of learning cryptography.This course is simply life changing, I suggest to everyone that enrolled here as soon as possible, else you will get old to learn these techniques later.
+LOVE this course and cannot wait to start Part II: Professor Boneh is a wonderful professor and he truly enjoys teaching this course. Some mathematical background is required, however, and some of the formulation at this points look unnecessary (but also necessary for being rigorous)
+Thank you very much professor Dan Boneh it was an honor.Manu thanks to Stanford University for giving me the chance to participate in this amazing course.Looking forward to Cryprography II.Have a nice day and continue making our dreams come true step by step.Greetings from Greece.
+Amazing course. I learnt a good deal about the vast cryptography world. Dan Boneh is an amazing teacher, there's so much more that I have to learn to understand the complex crypto world. This course helped me design products which meet cryptography standards. Thank you very much
+Exceptional course on getting basics of cryptography. Not only teaches the theory, also gives practical advice on what is the right choice as of today. Looking forwarding to Cryptography II class stating September. I only wish, I had more time to finishing programming exercises.
+Initial lectures set the stage for building more complex schemes. One of the most intense courses I have taken. Prof. Boneh is so passionate about the topic and a great teacher. He really wants you to get the topic. Awesome course! Thank you and looking forward to Crypto II.
+Usually cryptography is something what developers don't like to touch or pay attention to. Fortunately, most crypto features are available: just use openssl. But understanding is still important, though the course was very helpful for me. Thank you very much, Dan Boneh.
+A great introduction to cryptography. The material is all contained in the lecture videos making it easy to work through. The notation becomes a little hard to keep track of following week 4 but that's probably my fault for not committing it to memory thoroughly enough
+The course is very well structured and gives overview of whole flow and systematically prepares us to understand each of the part. I am really looking forward to Crypto II, where will be described more things about certificate and new exchange protocols. Thank you.
+This course is definitely worth the time -- the explanations are very logical with refined transitions from topic to topic. I enjoyed every part of it including the tests and programming assignments. Thank you very much for filling many gaps in my knowledge!
+This is the best course for a beginner especially in terms of understanding the concept of security in relation to encryption schemes that are used in practice today. This course best explains security of encryption algorithms. Looking forward to crypto II.
+Honestly, a great course in Cryptography. The professor is very lucid and clear. Notation isn't too heavy and the ideas in this course are explained very clearly. Yes, you might have to pause and rewind some of the videos, but that's just because it's math.
+It was awesome! I learned a lot and the professor pointed out useful additional reading. Since I'm going to do my PhD in cryptography, it's really important to me. And I god financial support to finish the course. Thanks professor and coursera team!
+This course was an excellent way to put all the ad hoc crypto knowledge I've picked up over the years on to a sound footing. It was very nicely structured and presented, and the optional programming challenges were great. Looking forward to Part 2!
+At first, it seems like there is a lot of concepts to digest but as the weeks pass, we can recognize some patterns in the various encryptions and way in which we create a challenger-adversary game. It was interesting and truly informative. Thanks!
+I always wanted to know a bit more about cryptography, and this course is perfect as a starting point. It balances theory with practice. The part I enjoyed the most was the programming exercises where you could use some of the theory in practice.
+Great course. The amount of math is just enough for providing a solid theory background. All the materials are presented in a logical order and enhanced with good examples. The size of the course allows get accounted with essential fundamentals.
+Thank you Prof. Dan Boneh and all coursera team, very mutch for a greate course,  greate exams and lectures.This course teaches you a lot through the lectures, excersises and exams and you get a greate academic study experience.Yeshar koach!!!
+Excellent course! I can recommend this to anyone who is not afraid of some basic math. But a person interested in cryptography should not be afraid of math, yielding that this course can be recommended to anyone interested in cryptography.
+This course is a little difficult compared to any other courses i have taken in coursera. Very vast, problematic but fun to learn and Try to complete coding assignments, they are help in understanding the encryption techniques very well.
+Exceptional material for anyone wanting to add Cryptography to their toolbox. Previous maths knowledge doesn't hurt. And some basic coding knowledge, if you wish to engage with the additional material.I eagerly await v.2 of this course!
+Challenging, yet very informative. Dr. Boneh is extremely good at explaining the concepts of basic Cryptography. I especially liked the "proofs by images". Will be definitely going for Crypto 2 as soon as I have time available for it.
+When someone explains concepts and ideas in such an easy way, it means he/she understands fully what he talks about; this is the case of Professor Dan Boneh; I widely recommend this course for anyone interested in Cryptography topics.
+One of the best courses of my life, well planned, very up to date, with good examples, good academic level. Very recommendable for those who want to know the new discipline created in the term of the last century called cryptography.
+I learned a lot from this course. From my perspective (background in math), Boneh made a good trade-off between a rigorous approach and covering real-world crypto - both is covered to a sensible degree. Looking forward to part 2.
+Great course.The material is explained masterfully. The exercises are interesting, challenging and effectively strengthen the knowledge acquired from the lectures. One of the best courses I've taken both in university and online.
+Dan Boneh is an excellent instructor - as you start wondering some questions during his lectures, the next minute he would answer it in the video. Some sections might be a bit too maths-heavy for those with no maths background.
+Incredibly well explained- I learnt so much from a base of little knowledge and the format was really good. Weeks 7 and onwards are mentioned to be in a different course so I'll have to find that as well. Thank you very much!
+It 's the second time I follow this course and I still find that so amazing. I'm waiting Crypto II until a year and I hope it will be released soon... Thanks Pr Boneh for sharing your little (for you) big (for me) knowledge !
+Really cool course that was fun and very informative. Really well designed quizzes, homeworks, and programming assignments. It was pretty difficult compared to most online courses but I guess that's expected from Stanford...
+Time consuming and hard work but very rewarding. Took me several attempts to finish (other life commitments kept getting in the way).Will be doing it at least once more to try and finish all the programming exercises too :)
+This Is AWESOMEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Can be difficult at times but the concepts are definitely rewarding. The psets were creative and effectively asked students to apply concepts. Dan Boneh is articulate as always and knows how to get the subject across.
+I started this course a long time ago, it feels great to finish it. There was a lot of theory, but the message of 'don't try it build it yourself' was driven home. I look forward to the other topics in cryptography 2.
+I had not taken any cryptography classes before taking this class.  Professor Boneh did a great job explaining the concepts, and I feel like I have a much better understanding of cryptography now.  Excellent course!
+This was a much more in depth and theory-based approach to cryptography than others I've taken. It was super valuable, even having prior experience working with many crypo primitives and protocol implementations.
+Great course! I like the content and organization of the course. However, the last two weeks of the course were somehow complicated to understand. I will continue studying security and I am waiting for Crypto II.
+The basic ideas in crypto are shown clearly and in an understandable way. I took this course because of interest, and after completing it, I developed a stronger desire to take a deeper look into this subject.
+Awesome course. I would recommend anyone that is into the Cyber Security field to study the course and realize the beautiful of Cryptography. I cannot wait to study more *magic* in the second course of this.
+I learned a lot. The Prof. Boneh explains everything very clearly (like the way of presenting). A course materials covers a lot of crypto staff, and are very comprehensive. I can't wait for Cryptography II.
+Really comprehensive. Explain cryptography from bottom up. After learning the primitives I have a better understanding over many cryptosystems. Appreciated it professor! Looking forward Cryptography II!
+This course gives  is perfect to  start learning cryptography, explanations are detailed, topics carefully selected combining theory with real world examples and making emphasis in important details.
+A really interesting and in-depth course. It is pretty challenging and requires good math/proof skills, but still quite fun. The course could use more study materials, for example lecture notes.
+Really interesting, provides the basic grounds for understanding a lot of discussions out there. Wikipedia can be useful as a reference, but here I was able to learn about semantic security etc.
+Very comprehensive overview of Cryptography. Though a bit too mathematical for me, the gist of it is very helpful to understand cryptocurrency protocol design of Bitcoin, Ethereum, Monero...
+Excellent course. I've worked with cryptographic methods and practice for many years, but this course provided me with a stronger understanding of the underlying theory than I'd had before.
+Great grounding of the cryptography basics, but does require a decent understanding of basic computing (bits, XORs) and some reading on finite field maths beforehand would definitely help.
+Great Instructor, really enjoyed his style of expanding the math "sentences" into lay English EVERY SINGLE TIME!  That really helped this learner "go with the flow" as my background is CS.
+The course gives fundamentals of Cryptography. But I would say that it dig very deep with fundamentals so I would highly recommend this course if you need/want to understand Cryptoraphy
+Great into to the disciple for those of use who are interested in it but don't have access to a formal crypto class for what ever reason. This class made me fall in love with Coursera.
+It was an amazing experience. This course was suggested by my mentor to allow me to get in depth knowledge in cryptography. The course conveys all the latest protocols and mechanisms.
+Very well explained. I am also reading some research papers, it has become very easy to understand what they are talking about. One must read the additional material for good results.
+Great introduction to the concepts. I really enjoyed learning everything in this course. My only regret is that I was too busy to take time to do the optional programming assignments.
+Very good lecture. I learned a lot about cryptography and basic ideas about security. I just hope Dan speaks slowly from next lectures. Definitely will take Crpytography II as well.
+Excellent course, with lots of theory and real life exemples. Be prepared to dedicate a lot of time and effort to pass this course. One of the best and hardest I took from any MOOC.
+Excellent explanation on the concepts of cryptography. The course gradually builds the concept from the basics. The graded assignments are beautifully designed to test the concepts.
+This course is f**king difficult!!! But if you're a software engineer, you definitely need this course to make sure that you're using the right algorithm to protect your softwares.
+Definitely the most interesting course I've taken on Coursera.  Great material, very well presented.  I recommend doing the optional programming assignments, they're a lot of fun.
+awesome! It takes some time for me to understand some concepts and I need to pause a lot when watching the video, thus it may take you more time to study than the estimated time.
+amazing course, i take it 6 years ago and forget everything, but again,learn crypto, like meet a familiar new friend, feel enjoyable with what professor Dan Boneh have taught me
+Loved this course.... Dan Boneh is clear, and covers amazing subjects that were not perfectly for me before attending the course (RSA, DH...).Great job and thank you very much !
+I finished the first week of the course, the instructor makes it easier to understand, so far, the course is interesting, I now understands what cryptography is and how it works
+I love the pace of the course. The content and narration is crisp and informative. Exactly what i was looking for. I loved the initial brush up sessions on discrete probability.
+Wonderful, wonderful course. A journey that establish my mindset  for cryptography. My only complain is the long-long wait for the second part of this course - Cryptography II.
+This is a very nice course. It is my first Crypto course. Professor Dan Boneh, you explained concepts nicely. It made me realize how crazy and intelligent hacks are possible.
+excellent course，the professor explains the concept in this course surprisedly clear. Finish this course can build a fundamental structure to pursue research in crypto field
+Excellent course to master the basics of cryptography, and for smart card developers to understand what's written in the specifications. Crytpography II is my next goal :-)
+The course materials are well organized and concentrated. I fully enjoyed the course and learned a lot from it. Courses like this approach maximum efficiency for learning.
+Very informative beginner course. Perfect for someone who needs to understand the basics. Prof Boneh's instructions were excellent and the quizzes were tough but valuable.
+Really good course, instructor provides real life examples a tries to avoid the mathematic abstractions to minimum - relying rather on intuition and pictorial examples.
+A difficult, but rewarding course. Much more theoretical than I was expecting, and I would suggest a strong Maths background for anybody considering taking the course.
+This is a really exciting and enjoyable course. I've learnt a lot. The segments are structured very well, and the assessment questions and exercises are very helpful.
+Very clear yet challenging introduction to basic cryptography concepts. Be sure to take notes and practice as much as possible with the modular arithmetic presented.
+I enjoyed the not-too-much-mathematical approach of diging into crypto basics. All popular (practical) questions arise and are discussed in understandable manner.
+Excellent course.. A wonderful mix of sound theory and practical applications. Delivered by one of the top experts in the field and his excellent support team..
+I really enjoyed Dan's lectures; in my opiniont the course is more mathematical/theoretical and less real world examples. But that's the spirit of academy! :)
+Very good course, it's easy to understand the concepts and the programming assignments help to understand the details of the implementation of the algorithms.
+Before I started this lecture I would not expected it to be that good, but now I feel really good about it and deeply impressed by it's quality. Thank you
+Thank you very much for this course! It was incredibly helpful. It will allow me to further investigate this topic. I'm looking forward for Cryptography 2
+Great course.  It's in depth and requires some effort, especially if working full time, but really great theory based overview of common crypto concepts.
+Amazing!!! It was long, but totally worth it. I hardly believe that such material is given for free in this platform. Thanks a lot to Dan for the course.
+I started this course just for fun and out of curiosity. By the time the course ended, I was in love with crypto. Very well explained, very good course.
+This course really teaches the theory I was missing while using all the latest crypto tech practically and understanding it conceptually. Thank you Dan!
+The explanations are clear and the topics are relevant, interesting, and well explained. I have a background in computing science and machine learning.
+This is a fantastic course. It has greatly kindled my interest in cryptography, and I look forward to learning more on the subject from Prof Dan Boneh.
+The topics were a bit difficult, but the teaching style made it easy to understand. Next time Please show us the programming section of cryptography.
+Exceptional material covered by Prof. Dan Boneh! His lectures are a treasure and I am sure I will keep going back to them to refresh my foundations.
+Was fast paced and very well designed course. Enjoyed all the aspects of the course and got to know many things regarding cryptography in practice.
+Excellent Course. Requires lot of patience but the rewards are extremely great.Learned a lot about internals mathematics involved in Cryptography.
+Great introduction to cryptography. I have learned a lot from it, but still, there is much to study in this field. Surely I would come back again.
+This course is brillant, with awesome (optional) coding problems to learn who to go from theory to practice! Thanks for these wonderful materials.
+I think this course was an ecelent  course. Too short  and too many information. High-level teach by amazing Harvard professor. Thanks Dan Boneh.
+Excellent course material with even more excellent Professor. thank you prof. for your generosity. thank you coursera for making this available.
+Thank you very much for anyone that make this course very interactive and fun. Special thank's for Prof. Dan Boneh as Instructor in this course.
+No matter whether you know what Cryptography is, and if you don't know whether you like it, you'll find the answer after taking this course.
+My background is in mathematics, I found this course had very good explanations as well as a range of optional further reading / exercises.
+This time it will be finished. I have such a craze on cryptography and network security. i want to finish the course perfectly this time :)
+Amazing content, great structure, easy examples even for first-timers, and a handful of extra-reading resources. Recommended for everyone.
+This course is filled with a great amount of information covered at a fast pace. A must do course if you need to get into Cyber Security.
+Good pace , reading along the transcribed speeches of the professor.The professor broke down the lesson into easily understandable bits.
+This is really awesome for basic learners of cryptography. This course motivated me to choose Cybersecurity field for my future studies.
+Very interesting. A little fast paced. As suggested, we should pause, think, and then continue, in order to get most out of the course.
+Many thanks to Dan Boneh and everyone involved in preparing this amazing course!I can't wait for Cryptography 2 (hopefully this fall?).
+Excellent course. Dan explains crypto from the ground up making it easy to understand more advanced constructions as the weeks advance.
+Very informative and convinient course, everything is pretty easy to understand thanks to Stanford University, Coursera and Dan Boneh!
+Awesome, good explanations, pretty hard on the math area (for me) but once you understand the way Dan explains it it's easy to follow.
+This was a very helpful introductory course I would recommend to anyone with no experience. Lectures were clear and easily understood.
+An amazing course. As a person who deals directly with cryptography i see myself with a huge knowledge improvement doing this course
+There is no reason why this course deserves anything less than 5 stars.Everthying is nicely explained and there is so much to learn.
+Teacher is very clear and the course contents are very good. This course is highly recommendable to any who is interested in crypto.
+Fantastic course. I am getting preliminary idea of cryptography from this course. Hope to take the "Cryptography II" course as well.
+Awesome course. Really tough math wise for me, having come into this straight out of high school. Made it though, and learnt heaps!
+great course i learn a lot and let me know that i need to learn a lot more, thanks Dan and all the folks that answer on the forums
+Best course for learning cryptography. Assignments questions are challenging and test every knowledge you learn during the course.
+Amazing course full of useful content! Professor Dan Boneh presents complex cryptographic topics in a very understandable manner.
+The course is very interesting. Dan Boneh really explains the material very well and in an interseting way. Waiting for Crypto II
+This guy is SO MONEY!! He makes it look like you could do cryptography in your sleep. Which I am almost convinced he must do ;~D
+An interesting course. I liked the optional programming exercises most. I hope Cryptography II is as interesting as this course.
+Dan Boneh is an excellent techer, he has the ability to simplify complex topic. So greatful to be able to take clasess with him.
+Best course for beginners who eagerly want to gain knowledge of Cryptography.Dan Boneh sir is amazing at declaring the lecture.
+Interesting content, very well presented. Exams are really great - they require thinking and they also explain new information.
+It's a great course! Professor Boneh has done really big work to explain the principals of cryptography. I really enjoyed it.)
+Course is really good and really in depth.But PLEASE ADD ELLIPTIC CURVES AS THEY ARE GETTING MORE AND MORE RELEVANT EACH DAY.
+Very informative and well designed. Programming assignments are especially interesting. It requires quite a hard work, though
+Haven't completed the course but, I can already tell the Prof. is much better than my Prof. @ ucsd.  Excellent communication!
+Well structured course. Accessible for everyone who has an interest in cryptography. Really good in repeating the key points.
+This course provide a great source of knowledge, Professor Dan Boneh is really good in spreading knowledge. Highly Recommand
+Very instructive videos and lectures, did the course to get an better insight into crypto and it gave me just what I wanted
+This course's take on Cryptography seems very unique. I would love to be a part of the next course. Eagerly waiting for it.
+Very insightful course. The professor explains concepts very well and backtracks to make sure you've grasped the concept.
+Excellent course for those of you who want to know the very inner workings of encryption, how it works and why we use it.
+Amazing course. I would recommend it to everyone who is interested into more in-depth cryptography knowledge. Good job !
+Thanks to this nice course, I now have some basic ideas about my Special Project. I am now anticipating Cryptography II.
+Succinct but in-depth course about the important crypto primitives and how they work behind the scene. Awesome course!
+Great Course, very important for me to get more informations to create new solutions  for my company here im Brazil.
+Really good course..but application should've been taught ..was very tough to learn coding it in python from scratch
+Excelllent course , the evaluations are hard but i think that is because  the topic need mathematical and algoritms
+Lecturer was able to communicate and breakup difficult topics into simple easy to understand lessons progressively.
+Very stimulating, very accurate, good balance between theory and practical examples. Many thanks to the teacher !!!
+This is one the best course to learn Cryptography. This course is speacilly design for basic level to higher level.
+One of the best introduction in Cryptography and Number Theory.  Thanks to Author for clear explained information!
+Excellent overview of Cryptographic concepts with a great range of interesting and challenging problems to solve.
+This Course is TOP level: a must for anyone interested in cryptography, without any strong prerequisite knowledge
+Pretty nice course! It helps me understand why encryption algorithms have been designed to be the way it is now.
+Highly recommend this course for understanding the Basics of Crypto with the necessary Mathematical foundations
+This course is excellent, it fullfills what is promised in the course intro through crystal clear explanations.
+great introduction to crypto.Enjoyable and well designed course.  Challenging material and practical exercises.
+Very very interesting topic. I like this course so much. It is the key to the information security. Thank you.
+Stanford's MOOCs are the best! They are hard but always worth the effort. And can't wait for Cryptography II.
+Very hard course although explained very well, takes a lot of time to understand every concept but worth it.
+Great course, some difficulty reading notation, I would make the questions a bit more verbose in the tests
+Thank you very much for this amazing course, my priorities in software has been changed after this course.
+Pretty informative course! Material was well presented and seemed up-to-date. Looking forward to Crypto 2!
+Excellent courseware and delivery! I highly recommend digital security professionals to take this course.
+Gives a very good comprehensive view of cryptography. One regret: should have included digital signatures
+Excellent course, i recommend it to any one willing to start understanding and working with cryptography.
+Really helps to understand the underlying concepts of SSl and hence helps understand the working of SSL.
+I feel pretty pleasure for finishing this course. The teacher is patient and knowledgeable, I like him!
+Great course. Arguments are explained quickly but clear. Very good the quality of lectures and slides.
+Challenging Interesting Course. Really goes thought very basic concepts to build everything bottom up!
+The schedule was very tough. There were a lot of tests in the end of each module. But it was worth it.
+I did a lot of crypto back at the university. This is a great opportunity for a thorough refreshment.
+Excellent material to learn what "security" means, and what algorithms have been built to improve it.
+it is a great course, covers a lots of different area with details and concepts. i like it very much.
+Very thorough course and engaged presentation. Thanks for providing, and waiting for the sequel ...
+Excellent introduction to crypto primitives with gentle coverage of formal definitions and methods.
+This was an excellent introduction to a topic that is difficult to understand at the detail level.
+Complete introduction to basic aspects of cryptography along with required pre-requisite of maths.
+Excellent content and the teacher is very clear. A decent mathematical background is recommended.
+Your course is very much informative and the quiz gives scope for self exploration on the topics.
+This course is one of the best course I have tried lately and I cannot wait
+for Cryptography 2.
+The explanation was very clear provided with adequate examples and timely discussion on forum.
+Very thorough, clear, coverage of cryptography fundamentals. Projects are fun and instructive!
+I learned a lot about this course. This is a very helpful addition knowledge to my profession.
+I have already finished this course in 2014. This is my second time. Five-star recommendation!
+My first experience in coursera, material is clear, examples are good. Thanks for this class.
+Very very good and interesting course. The professor is also very good. Thank  you very much.
+Learnt a lot from this course and the content was also in sync with my curriculum in college.
+It's really good and valuable lecture. Thank you professor and coursera. I do not forget it.
+Very good course but some topics at the end are left to be covered. Waiting for next course.
+Amazing course, had fun learning the basics of cryptography. Can't wait for Cryptography II
+Excellent course, even the persons lacking the very basics of cryptography can understand.
+A theoretically rigorous course that really needs time and lots of dedication to succeed.
+Thanks for Coursera to give me a valuable opportunity to improve my skills coursera rocks
+I feel I learnt a lot about cryptographythrough this course and understood it's bounces.
+A very good course for beginners.More practical session is needed for next level course
+it is so amazing and it gives me a great opportunities to me to develop my future plan.
+I am Leaning So Many Things About Cryptography,Thanks Coursera Given This opportunists.
+A pretty good course and great to be a part of it. Hoping to learn more in the future!
+The method is nice, the professor is fantasic, it should have more pratical exercices.
+The course is challenging and requires a lot of attention and effort from the student.
+Excellent course. The videos are very well explained, and the problems are insightful.
+Great balance between mathematical precision and high-level common sense explanation.
+i always respect any courses from Stanford , this course is one of the reasons why <3
+The course gives us real examples for understanding of what is Cryptography in fact.
+I took this course back in 2015. I still remember the joy I had then as I did now :)
+THe course content is well organized with lots of examples and historical use cases.
+Excellent course and covers a lot of ground. Fairly challenging, at least foe me :).
+Excellent course. The professor knows how to teach hard things  in very simple way.
+Great course.Very intensive - not a single page without teaching you something new.
+Exceptional content. Clears all concepts in encryption. Wonderful Course Material.
+Excellent!!!!! The programming exercises are very useful for a good understanding
+Wonderful course explained from basics. Thanks a lot for the Stanford experience.
+Very good emphasis on fundamentals and mathematical foundations for cryptography.
+Challenging but worth the effort, especially if you work in software development.
+Very interesting course, I really enjoyed it, congratulations Dan for your work!
+Excellent Course and all Cryptographic Concepts are teaching in a very easy way.
+Fantastic course, condensed, interesting, practical. Thank you, professor Boneh
+Excellent explanations. So much better than reading the explanations in a book.
+Excellent resource for encryption primitives, and the math behind good crypto.
+Excellent course.  Congratulations to the developers.  Waiting for module II.
+Really great course, covers a lot of material while explaining it very easily
+This course was very intensive and the materials presented were very helpful.
+It was an absolutely wonderful experience. Looking forward for cryptography 2
+Great course. I haven´t finished it yet but is too useful and well explained.
+Very Nice COURSE . One who want to learn cryptography must join this course.
+Professor Boneh is the kind of instructor you hope to have, but rarely get.
+Very good course. Has a great overview of the basics and is well explained.
+Excellent for beginners and advanced. Exercises tied with course are great!
+Excellent!   Very challenging for me!  New material for me. Learned a lot!
+Nice course for getting into details and understanding deep drive concepts
+I learned many new concepts. This course and Prof. Dan Boneh is Fantastic.
+I am keenly intrested in learning it in details and am pursuing PhD in it.
+Cryptography I is most interesting and useful course. I like it very much.
+Some chapters are more complex, fortunately there is a very good teacher.
+Very thorough course with huge possibilities to study this topic further
+This is the best cryptography course I have ever taken. Amazing course.
+Great content, very challenging and incredible teaching. Amazing course
+Extremely good course, with just enough math to comprehend the topics.
+the course gave me basic understanding on wide topics in cryptography.
+Very well explained concepts, a must for every student of crypto world
+The explanation and the flow with which the course goes is fantastic.
+Can't wait for Cryptography 2, excellent course, fantastic professor.
+This course make me feel different from my colleagues in the office.
+The course is awesome and expecially instructor teaches really good.
+Excellent content! (but very demanding if you're full-time employee)
+Enlightening and interesting, looking forward to the further course.
+Definitely best to say, hope guys all can understand it very simply.
+Excellent indepth teaching style with examples, really enjoyed it!!!
+A wonderful beginning whoever wants to aspire in Infosec and crypto
+Very informative and challenging also ! Good job to Mr. Dan Boneh !
+Simply amazing! A great social service in the history of Education.
+That was easy at some parts, but really interesting. Best regards.
+very usefull! I had to go over again even after passed final exam
+Challenging and well put together.  Well worth the time invested.
+really usefull course for every one and easy to understand it!!!!
+Great course, taking the time to clearly define many new concepts
+Very interesting course, I used it as Brain training. Thanks you.
+Great course that gives a strong basic knowledge of cryptography
+A very challenging but worthwhile introduction to cryptography.
+while i do my ms agree ,i found  this course on the right time
+Very interesting and didactic ! Many thanks Professor Boneh !
+good course to start for people intrested in  security feild.
+Great course! Waiting for Cryptography II ! Thanks very much!
+Great lectures to give a basic understanding of cryptography!
+The course is super-awesome. I am excited for next weeks....
+Great course with many good lectures and great assignments!
+This course is very helpful for beginners in cryptography!
+Great course! A lot of information covered at a good pace.
+Dan is a great teacher (and a great cryptographer). Thanks
+A great course and a good start for learning cryptography.
+Thanks to Dan for the excellent course, really enjoyed it!
+Hard but very fun, cool and the teacher teaches very well!
+Excellent and very practical course. Thank you, Dan Boneh.
+Great course! Lots of information well organised. Thanks!
+Fantastic. The only online crypto course I can recommend.
+Excellent course, I'm looking forward to part II. Thanks!
+Wonderful Course!! Got to learn a lot about the subject!
+it's useful for the new-person to learn the cryptography
+A fantastic overview of the subject. Highly recommended!
+very informative and useful to learn about cryptography
+Probably the best Cryptography course available online.
+Not a simple course but never the less I learned a lot!
+This course help me more understand about Cryptography.
+Great class which inspired me with enormous excitements
+Intellectually stimulating course! I had a lot of fun.
+this lecture develop my cryptography knowledge. thanks
+Excellent course, but a little hard :)Thanks Coursera!
+very interesting material by a very clear instructor
+I love this one... so much informative and  precise.
+brilliant course!can't not wait for the second part!
+Quite challenge but it is very well prepared course.
+The best possible Cryptography course in the world.
+Amazing! It's incredible that this course is free.
+Really enjoyed, looking forward to Cryptography II
+Great content and appropriate for non-cs students!
+Brilliant course! Good start towards Cryptography.
+very systematic and thorough application of crypto
+Excellent course and learned a lot of new things.
+How to give a six star??? This course is so good!
+The best course that I can found on cryptography.
+Incredibly difficult, but learning from the best.
+Can't wait to see part 2 (and more advance ones).
+it was very helpful and i enjoyed every bit of it
+Awesome course for a beginner to cryptography...
+Thanks, was a really great and enjoyable course.
+It was a wonderful experience. I learned a lot.
+Amazing Course!! Thank you Professor Dan Boneh!
+I really like this course! It's helpful to me !
+An EXCELLENT course on Applied Cryptography!!!!
+Amazing course, awesome practize - want more!!!
+Great course.  Looking forward to the part II.
+Fabntastic!! Lookin forward to the next course
+Fantastic course in cryptography foundations.
+super interesting with detailed explanations!
+Excellent course ! Thank you Prof Dan Boneh.
+Best Introductory Course on Cryptography :)
+One of the best crypto course I have seen!!
+Amazing content and great material to study
+very good and informative course thank you
+I feel new ways to apply crypto knowledges
+Very nice course!!! I learn a lot from it.
+Wonderful professor, interesting material!
+Great course. Challenging topics and exams
+I totally recommend to take this course..
+It was an amazing course.I learned a lot.
+Lots of knowledge and an engaging course.
+Nice, I have learned a lot just at home!
+It gives a depth knowlegde on security.☺
+Interesting, great topics, great teacher
+Amazing! cant wait to do the second part
+Very exceptional material and courseware
+Good Course. Insightful and challenging
+A very good course. Highly recommended.
+Great course. Tests were a little mean.
+Thanks for a grate learning experience.
+One of the best course in Cryptography
+A great introduction to cryptography!
+Thank you very much the opportunity.
+Easy to understand how crypto works.
+Really a great course, I enjoyed it.
+Wonderfully paced and easy to follow
+this course was very usefull for me
+Great course! Learnt a lot from it!
+GOOD COURSE WHICH COVERS ALL TOPICS
+Not simple, but exhaustive. Thanks,
+I liked it so much I took it twice.
+very good course about cryptography
+Great introduction to Cryptography.
+Good choice, recommend to everyone!
+Explanation and easy to understand
+really a helpful course! Thank you
+Amazing Introduction and oreview !
+its very helpful for an student.
+Excelent course and professors..
+It's hard, yet it's really good.
+Very nice and effective course
+Great course! very interesting
+clearly and easy to understand
+Really Good; keep up the work
+Great and clear, thank you !
+Very good, sometimes tricky!
+Great Course on Cryptography
+I love the videos and notes
+Nice Course for programmers
+Great Course!!!!!!!!!!!!!!
+It was hard, but it worth.
+Best for starters, but not
+great course about crypto
+Well put together course
+Very informative Course!
+technically sound course
+A very usefull course!
+High quality lectures.
+cannot s it actually.
+Will wait for part 2
+Tough! But worth it!
+very good, compadre
+Thanks for share :)
+clear and  perfect！
+clear and logical.
+Such a good course
+very  challenging
+Real good course
+tough love...
+nice teacher!
+the real MVP!
+收获很多，thanks!
+Just Awsome
+Very Great
+So great!

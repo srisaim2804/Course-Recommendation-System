@@ -1,0 +1,646 @@
+The course focuses too much on implementing math formulas instead of the power of VBA as a tool for automation and data manipulation. It's a shame as it's the only course on vba on Coursera. VBA has amazing uses but this course does not get straight into the VBA, instead the focus is on mathematical application which should be a completely different course
+Not very clear, jumps straight into advance debugging before the format and layout has even been discussed. The course is suppose to be for someone learning the very basics, but yet we are learning advanced de bugging techniques in the first week. We have not even start writing simple VBA macros yet...
+Lots and lots and lots of errors, in the slides, in the speech, and also in the quizzes (with the author writing ("I need to fix that"). Part 5 really interesting.
+i have tried the to take this course several times and there is not enough information to pass the quizzes, this course is not for beginners
+Only for engineers. Very disappointing experience. Save your money unless you are looking to compute square roots and exponentials of pi.
+Not what u was looking forI want to withdraw from the coursePlease advise soonest how to cancelThank you Regards John Keszler
+Help is very poor and one way or high way is the approach.
+Very Bad explanation of things and quizzes to
+I quit taking the course after week 2 because it had very few business applications and was far too math and engineering focused, and there was a lot of assumed knowledge.
+This a a good class for learning the basics of VBA.  It would have been nice to have some reference material to look back on other than the screen casts/transcript.
+I will come back to why three stars in a bit, but first the instructor is good and the course is excellent. I learned a lot, and at some point I will take part 2. The instructor is too hard. The quizzes are, and the assignments are hard. In fact, they are so hard that it was such a turn off. I was going to cancel the course. We all had classes where the class and the teacher was so hard, that made you hate the material. Even though the instructor was good, if I were in a university setting, I would avoid the teacher. Does it sound like I am contradicting myself... I am not. I enjoyed learning what I learned. There was too much to learn (by the nature of the material). There's no need to make it harder and get us discouraged. Should have been easier to allow us some success that we can build on.Humam
+I am a business/finance person. I am getting very hung up on the VBA trig function names, which are different than Excel function names [sqr(), arctan], being used in the examples. I am not getting how something works because I am not understanding the trig functions. I may have to move on to a class that is more business oriented. The few minutes in class has shown me that I can make some of my complex spreadsheets more user friendly by creating functions to replace some lengthy formulas. I am just going to have to learn syntax in a forum that is more oriented to what I do. My goal is that the end user will only have to input the function rather than a huge formula. Thank you for sharing this vision with me.
+A very average course for learning the foundations of VBA. Charlie is obviously self-taught with experience pertaining to only his own creations, and his first course is needlessly math heavy. There are far better courses to learn the fundamentals out there. Don't get a Coursera sub for this course alone.If, like me, you know a bit of VBA already and want a qualification to put on your CV and (maybe) fill in some knowledge gaps then it's OK, but the lack of teaching even basic conventions such as code indentation will irk you. The assignments even rely on the fact that you won't fully qualify your writes to the spreadsheet.
+Section 5 is extremely long and should require more time. the assignments were difficult and unclear at moments. Did not know how to get help from professor.
+Too much emphasis
+in mathematical issues and too shallow in VBA techniques
+Too many examples on chemical engineering. It should more broad
+Missing some help when we blocked on the assignement
+Nice one. Since I work in a business environment and university is long ago, I was sometimes stuggling with the maths. Maybe a little more layout for input / output interface like in the intro would have been nice for my kind of usage. But overall nice course.With the setup of a test and an assignement you really learn something and not just click through. Well done.
+The content of too basic, the instructor was amazing. I loved the assignment submission procedure. The course was very well made and is definitely one of the bests on Coursera.Thank you, and if you read this, I request you all to visit this, here you'll definitely find something impressive to learn.https://www.youtube.com/channel/UCdNOTa62J6j1109NQfxHqdg/playlists
+Overall a great course.  The algebra in the first two weeks seemed a little overly intense and unnecessary.  But once you get through that, the course becomes more approachable.  I feel like I received really good exposure to the concepts, but will definitely need more time and experience to master them.
+The couse is really good. It is just lacking a little more practice exercises :D
+The course is well structured and the concepts are explained pretty good - one can follow the screencasts nicely. I subtracted one star, since the assignments/quizzes are too complicated (not too dificult!) in my eyes. I really like challenges, but I want to learn the concept of VBA primarily - therefore the (although announced) focus on math heavy and scientific problems is a little distracting. I spent more times figuring out the math than figuring out the coding while doing the assignment. That is a little unfortunate. The isntructor is super friendly and helpful though. The quizzes are well done, only the assignements could be altered towards a VBA focus rather than having complicated problems with a little VBA. I will continue with part 2 of the course, as I am interested in more applied stuff with VBA.
+This was an EXCELLENT course.  Although I have previous programming experience (I was already familiar with loops and conditional structures), I found the course very informative.  I also think it is an excellent introduction for students with little or no programming experience.  The instruction, examples, and explanations were clear and informative.  I will be recommending the course to others who could benefit from it.  Thank you Professor Nuttelman for a great course.
+
+NOTE:  I reserve five stars for courses that are so good they defy description.  It would be rare for me to give a course five stars.  A four-star rating from me indicates an excellent course in all material respects.  (And only refers to the content - not the Coursera environment.)
+Nice intro to the basics of VBA. The biggest problem with this introduction is that I don't know what I don't know. The course could have benefited from a discussion of how VBA is used in the workplace by enterprises, and what skills students should learn to quickly become competent. The reason that content was not presented is that Dr. Nuttelman simply does not know the answer to that question, as his background is in academia and engineering. He is working on amassing a set of case studies from students who have graduated, but it doesn't sound like a priority as the course is almost two years old and the content has not been updated with these examples.
+Great course to start with VBA. The course focuses on 'how we can solve problem P using VBA', which is suits me much more than typical courses which start with language syntax, data types and so on, on meaningless examples. In this course you can learn all of those basics while actually solving particular problems - and this course demonstrates several ways how to solve different kinds of problems. For people with non-mathematical background some of the topics may seem scary - many problems come from engineering, however they should not be scared. The formulas are provided (no need to do any math there) and student only consumes their result.
+The course content is solid. The material will come in handy, however, I found the examples to be less than intuitive as I work in auditing and don't have a strong science background. More understandable examples and assignments would be helpful. In addition, I felt that week 4 was a significant amount of material that could possibly be broken into 2 sections. I also thought week 4 would be easier to understand if there was a chart describing the differences between the different types of loops and possibly adding small assignments after each loop to solidify the concepts. Overall it was a good course that I would recommend,
+Great fundamental building of VBA Macro programming knowledge and techniques for a person who has no programming or mathematical university background at all. While easy to understand, the course also challenges us to think beyond what is taught, unlocking your mind to logical potential never before experienced. The only minus part is that for a few parts in the course, sometimes the instructor have misread or mistype few information, although it was covered right away with correction marks. Nonetheless, it does not weigh down any bit to this course quality. Highly Recommended!
+I thought the course was excellent. Good level of challenge, well structured and paced. I think the hard test thresholds to progress to the next stage each week are really valuable  and encourage revision. There are probably a few developments required to help the user overcome the silly mistakes and oversights that block successful execution of a coding problem or question. Get that worked out and I really think it's going to be really hard to sell this kind of tuition through a bricks and mortar campus.
+Excellent course, although I had prior coding experience. While I successfully completed the five weeks, if I had got stuck somewhere, without posting my answer in the discussion forum, I am not sure who I would have went to for help if I had gotten stuck. Part of the learning process is feedback and the assignments are just yes or no without much direction. I understand the assignments are a bit too open for pre-programmed feedback, but having somewhere to view more hints if I got stuck would be nice.
+The course was good.  My focus was learning VBA and getting to a point of being able to design multi-faceted solutions.  This got me on my way.  The only item I noted as a downside is the focus on mathematical examples requiring order of operations to be understood.  While I enjoyed this I don't see it as essential for knowing how to design solutions in VBA and it created some blocks for others in our group who do not enjoy mathematics.
+Very good introductory course in VBA. I have used much of what i have learned in this course to automate certain procedures that me and my team members are using in our gas turbine industry, customer support engineering day to day activities. VBA enabled me to automate these procedures and minimise human induced errors, and generate effortlessly and rapidly a number of solutions to certain straightforward engineering tasks.
+Its a good basic for programming and i really enjoyed. Prior excel experience is required. For working professional like me its difficult to complete the course in 1 month, so your subscription goes into 2nd month and course fee is again deducted and you are left with no option but to continue if you want to pass it. So i recommend organizers to consider 2 months default period for single time fees deduction.
+Great course for a start in VBA. The screencasts were to the piont and explicit. The assignments were sometimes a little more difficult to follow because the topics were mostly concerned with physics and not business. Also good to know: the formatting of numbers is American. For European students this is valuable information because I failed my first assignment many times because of my E
+Great course, helps a lot to see how VBA can be an additional tool that can help us to address real life problems saving time and resources. Unfortunately the course in my opinion is not fully appropriate for those ones without previous VBA knowledge and certain complex mathematical level understanding if they don't have time to looking for information and practice a lot by their own.
+Pros: The instructor uses real engineering examples, shows useful algorithms, and he is a great lecturer.Cons: The examples do not use SI units and it is quite annoying to use miles, gallons, inches and cubic feet in the 21st century. More starter files would be useful to follow the examples, it is not efficient to type in long expressions just to be able to start the coding part.
+I believe the course over all lacked rigour in concepts explanations. I believe introduction to concepts of programming would have been helpful for those with no prior experience in programming. But, for me, having a very good experience with programming and scripting as being a Linux user for 3 years, this course just gave what I needed. Thanks professor Nuttelman!
+The course was a great refresher for me since I haven't used VBA in quite a while and everything was clearly explained. Although at first I was overwhelmed since some of the examples were leaning on formulas, I was still able to understand all of it because of how Charlie explained everything in an easy manner.
+A good course for both the novice as well as the more familiar Excel user. It was fun to delve into a bit of coding and problem solving using VBA. It is a must for Excel user who have unique calculations and problem solving scenarios and wish to automate tasks or even simplify it for everyday users!
+I've learned a lot from this course. It gains in complexity with each week, but after struggling and trying to get the correct answer, you feel great and you know that you have learned new skills that are really useful for various situations, specially to solve problems with different perspectives.
+Great course. Well explained and easy to follow. Some of the assignments could be a bit more specific in what is required (e.g. calling a function within another function - rather than writing out code in the second function). But all things considered, highly recommended.
+Great course. Week 4 is particularly more difficult than the preceding sections. The VBA cheat sheet is very useful for Weeks 1-3, but could be improved to help explain different For Loop structures and common errors when building a For Next Loop. Thank you Dr. Nuttelman.
+This course is OK for Part 1. I think it would be better if the course was more focused on programming. That is, I would have preferred that the course have more content related to vba syntax. (Perhaps this is in Part II, which I am not sure that I'll take.)
+Excellent course for beginners trying to learn a new way to work in Excel with VBA. The subjects are well explained and the assignments have the adecuate difficulty to reinforce the information learned
+Very good teaching by Prof. Nuttelman, who explains new notions very clearly. On the improvement side, I would perhaps suggest adding a few exercises to vary a bit the problems students have to solve.
+The screencasts are very clear and concise but the assignments were too easy. I would suggest adding some assignments related with finance (e.g., bond calculators and portfolio optimization problems).
+the course was very informative and helpful.However, it would be easier to concentrate on VBA if people who don't use mathematical formulas that much would not have to deal with maths that much.
+Relatively easy, I cleared 3 weeks within 2 hours, and completed the whole module in less than 3 days. I did not spend more than 5 hours each of the 3 days. The honors exercise was interesting.
+I like this course. Very helpful. But, the quizzes are "tricky" meaning the content is not too hard, but the questions are tricky. The assignments are very good, much better than the quizzes.
+The course content was pretty awesome but when searching for help no one came up to help me. Was hard to find help, I was lucky somehow I was able to get the assignments done
+Not MacOs user friendly. No warning about computer system in course introduction. No specific answer for assignments. No Grader file for Mac. As a Mac user I feel distressed.
+A lot of practice is required to understand the syntax , concepts, usage of them at right place. Instructor was very helpful , course being nicely outlined . Thanks!!
+Very good introduction to VBA, however ever a bit math heavy for someone working in business, and haven't used algebra since college. Would still recommend.
+Excellent course overall, very mathematical though. Most people will be intimidated by equations with logarithms, exponents and square roots etc.
+Very easy to understand, extremely useful,  basic level, need a bit more focus on more difficult examples!  Generally: absolutely fantastic!
+Excellent screencasts with adequate examples and increasing level of difficulty as we move through the modules. A good learning experience!
+Very clear and practical course. Would have prefered more practice assignments, at least optional ones, at the end of each week.
+A really awesome course, which can help anyone get up to speed on VBA. The only glitch is the sound volume, which is too low.
+This course is great !! learnt a lot and the quizzes and little questions at the end of the videos are really help ful
+Amazing course. Only problem is that the assignments are very hard to get right because you need to do it perfectly
+Great introduction to  VBA.  Only reason not 5 is that some structural/rules around VBA weren't clearly explained.
+the course is greate. only suggestion is, please give access to assignments and homework problems for audit also.
+good intro to the topic.  Quizzes could be improved with more meaningful questions, but assignments were good
+I would have given it 5 stars but there's too much math. It should focus more on the programming than math.
+very good designed course. however it should be made more adaptable to engineers or should be customized.
+Excellent course to dive into VBA. I found the assignments particularly useful. Module 5 is a big bonus!!
+A lot more math than I would have liked for VBA problem solving but learned some great tips and basics.
+Great design, very clear instructions. It would be great if there were more practice questions.
+Interesting but much more math oriented than expected making it more complicated for beginner.
+Too much engineering not enough real world examples (unless you're an engineer).
+Outstanding this course, its out of complex and well explain, so much greatful.
+Good Learning curve need more support from Teaching Assistant for assignments.
+I've learned the basics. Just what I needed. Not excellent but pretty fine.
+I think it needs a more simple explanation around the different statements
+Very well oriented, hands-on course. Aplicable for daily tasks immediately
+Should make VBA file workable for mac users too! Otherwise it's amazing
+Great course. Concepts are presented in a clear and simple manner.
+Wish they had another 2 or so projects quizzes to cement learning
+You learn a lot  here. Highly recommened. It will challenge you!
+Great course, wish it would be a little slower paced but it´s ok
+Excellent teaching , it had been great learning from coursera
+Very nice course, I learned the basics of VBA programming.
+very good learning class, thankyou so
+Can you put an example for booleans?
+Try it! This course is essential
+Good and relevant  instruction
+This course helped alot!!!
+good content covered
+It was very fun.
+I really enjoyed this class! I found it extremely challenging but doable! I would recommend for the INSTRUCTOR - if you can post powerpoint lectures in addition to the video tutorials. Or some type of worksheet where you have the slides (I know this may be hard since your screencasts are more active), but it would have been helpful for me since I was actively taking notes through your screencasts and it took me a lot longer when I would have to screenshot certain parts and didn't always catch the full code or if there was a bug in your code and you went on to modify it later and I would have to adjust the screenshots. I'm not sure how helpful/necessary this would be for other students, but I would have really appreciated this. If you would like me to show you my notes or explain further you can email me at sueda001@cougars.csusm.eduALSO, I started to need more help in the last problem of week 3 and then all of week 4, I wish there was a TA or someone readily available to help me. Although when I emailed you, you responded quickly. I just felt bad bothering you.For the STUDENTS - just make sure you are staying on top of your work load. I started to fall behind during week 4 because I found it extremely difficult. I would just recommend taking detailed notes as much as you can.
+I'm not one to write reviews - this course is fantastic and a game changer. Prof Nuttelman is a very engaging speaker and makes what could seem a very dry topic come across as interesting, fascin
+Programming  VBA for Excel requires three skills; knowledge of the application object model, knowledge of Excel, and knowledge of programming. Even skilled programmers familiar with Excel can be overwhelmed when tying all three skills together so creating an introduction class for the novice is a challenge. This course succeeds at not over whelming the student.This course takes a balanced approached and gently guides the student into a dance with the subject matter using some very interesting techniques and examples from typical engineering problems. It covers the right amount of instruction for the VBA editor and the interaction of data and variables between the editor and Excel.  It covers functions and subroutines, the scope and types of variables at a useful enough level, without getting too deep. Because the instructor is an engineer he includes several simple but powerful numerical methods and the use of both Solver and GoalSeek into the course. Since I am an engineer and enjoy numerical methods I especially like this and would enjoy a course that might be described as “Numerical Recipes in VBA” .I would recommend this course to novices seeking an introduction through to experienced users wanting a deeper understanding and foundation for future work in VBA for Excel.
+Very comprehensive course on VBA with lots of comments and available files to follow 'by doing' most of the examples. Engineer-oriented examples which are rumping up their complexity.At the end of each Week, there is a quiz with detailed comments to understand each question and at the end of each Week there is also an Assignment which has to be well sorted out!
+The best course out there for learning MS Excel/VBA. Mr. Nuttelman is so passionate about teaching this subject, and you can tell this by doing the assignments. For example, after finishing the first assignment, I wanted a quick way to get the certificate. So I decided to look at the VBA script in his GRADER file, hoping to be able to change the content. Nope, he locked it with his password. So I had to look for a way to crack the it. Surprisingly, this was actually the best way to learn how to code in VBA because I had to understand the steps and every line of code. Finally, here's the password: nutsnutsColorado80309 (the last digits turns out to be the zip code of the university).
+The pattern of course is really nice.It first teaches all the basic information in video and the assignments are designed in a way that all the taught information are used to solve the assignment.
+This is a very good introductory course to Excel VBA. I enjoyed the professor and the assignments. He also seems to enjoy the material. My only (minor) critique would be that I think that there were a number of places where what was emphasized in the reading and lectures was fairly different than what was asked on the quizzes. The quizzes cover much more of the minutiae than you might be led to believe by the screencasts. Once you've taken a few of the quizzes, though, you start to know the types of things to look for in the lectures. I would highly recommend this class and intend to take the others in the series.
+The course materials are very well prepared and idiot-proof, easy-to-follow. How scarce is such a tutor that who is really putting students' shoes on to provide such insightful screencasts. He even went on extra miles to share with us the reflection on the quiz/homework so as to ensure you really digest what he'd taught. In fact I found it rather useful that I got to clear the ambiguities that blur the boundary between understand and not-understand, not just to get a passing marks. True learning beyond getting certs, I would strongly recommend this course.
+The instructor makes it comfortable for any person to understand the concept.I'm completely new to coding. Every lesson is well explained and practice courses help a lot. Exams make sure that we have actually grasped the concept.Thank you Charlie Nuttelman :)
+Great course! I like it goes straight to implementation and is practice-oriented. What could be improved maybe is sound quality of lectures. And maybe it would be great to have some VBA notes in pdf.
+Very good course with clear examples throughout to help you develop. The online format of the course is great as it allows you to pause and work through the activities presented at your own speed.
+Very good courses set up and I learned basic knowledge about VBA. The deduction of 1 star is because I wish I can get the PPT available to download :) Still highly recommended for this course!
+This is an excellent course. One of the best I've taken. The pacing and level of challenge are perfect. Not too easy, not impossible. There are no surprises in the quizzes or assignments. You will have everything you need to excel by watching and following along with the videos. Even though there is an engineering bias in the course, and I don't have an engineering background, Dr. Nuttelman ensures you'll have enough explanation to follow along and complete assignments.Dr. Nuttelman has done a fine job in creating this course. It goes to show that all you need to create a great course is a great teacher, simple videos, clear audio, and engaging and appropriately challenging material. No gimmicks, no nonsense! This course delivers!
+This is an awesome course for me. I love the way Dr. Charlie teaches the course. He always goes through material step by step and re-cap a couple of important concept in the pop-up quizzes at the end or in the middle of the video to refresh your memory. You can see how the course is well thought-out by looking at the course schedule and after taking the class. For the function of my job, I need to use excel including formulas, optimization tool, VBA...etc. extensively but I have never been exposed to a complete training for it so this course is totally a livesaver for me. I highly recommended this course to people who need to excel for their job or people who are just interested in advanced excel skills. Thank you Dr. Charlie!!
+Great class! I have been looking at increasing my Excel skills and wanted to learn VBA, however, I really could find a class that had what I needed. This class was what I was looking for, even though it is more engineering based. I highly recommend it for getting into VBA. I liked the mini quizzes and the assignments. They both help you learn and retain the material. Dr. Nuttelman was also very responsive. Had been staring at my VBA code too long and wasn't able to figure out why my code wasn't working correctly on one of the assignments. I sent it to Dr. Nuttelman and he was able to look over my code and point out the problem. Very quick turnaround on getting an answer too! I will be signing up for Part 2 of this course.
+I love how this course has been structured. VBA being a very expansive programming language can get very intimidating for beginners and there are plenty of course available about VBA where students quickly get overwhelmed or loose interest right from start. This course has been structured perfectly in getting rid of these two common issues.Also, I love the solving/grading section (post quiz). It just allows the student to apply the knowledge gathered in a practical way, in order to pass on to the next level. Makes it fun and keeps the student interested in the course, needless to say that it inherently allows strengthening the fundamental concepts of VBA.Great work professor Nuttelman, full marks to this course!
+Excellent course. This course teaches the mechanics of how to create macros/VBA subroutines, key concepts related to programming and very interesting examples on how to apply everything that was learned are given throughout the course. The explanations are clear, precise and easy to understand. I have to confess that I was afraid about how challenging this course would be, because learning how to create Excel macros has always been a big deal for me. Professor Nuttelman does and excellent job in this course, even though the course is supposed to last 5 weeks, I was able to finish the 5 modules in 2 weeks. I am now taking Part 2 of this course and, as soon as I finish it, I plan to start working on Part 3.
+First of all, I want to thank Professor Charlie Nuttelman, an excellent instructor who guided us in the first steps, of learning VBA, I liked the course, because it was orientated to engineers, the way he explained the algorithm. I have been programming for almost 3 years, but I learned other loops, like do until loop, do loop. and The final week, was so interesting. Because in my career civil engineering not only we have to optimize costs, but also we have to build strong and resistance structures. Also, it was very was useful in the bisection method, because we deal with a lot of non-linear equations, and we have to solve them numerically.
+Fantastic course, 5-stars!Possible improvements:1) In section 5 when building the algorithms you could also add a check for convergence using a tolerance.  The 20x for loop seems somewhat arbitrary.  This is pretty easy to do, but might be a nice addition for people who haven't coded these algorithms before.2)  Not sure if this is possible, but there's a way to pass a function as a variable in VBA, then in section 5 you could build more generalized solver/optimization algorithms (as opposed to having to re-code the algorithm for each new function you encounter).Again, great class learning a ton!
+Really enjoyed the journey. Material is presented  in a very lucid way. Also the grading style is innovative. It feels like you are finding the code to the lock which will lead you to the final treasure. One thing I would like to tell you all is, please complete the week 5 as well (it is optional). The real fun starts at week 5. The new and the fun things about excel is in week 5 material and tests. Also week 5 has all the real life applications of what you have learnt previously. I wish you all good luck. Also I would like to thank the creator for his time and great service.
+The course was very insightful. Prof. Nuttleman kept up with his words of providing a challenging learning environment. The quizzes and assignments were superb! They really get your mind into thinking about solving a problem. Another good part is working with excellent examples - also to note that Prof. Nuttleman subtly demonstrates a live example by making the grading part itself in VBA! The course can be relatively easier for someone who already knows some programming, but it can also be a good path to begin with programming. I would totally recommend this course!
+It taught me a lot of things in a short period of time and I look forward to using the knowledge in my day to day life for doing tedious things in an effective manner with short amount of time.The instructor was concise and cogent and the assignments are designed to test your understanding of the concepts pretty nicely.I feel the number of questions per assignment could be increased to give more practise or at least optional questions should be provided for interested people for the same purpose. Apart from that, great work, loved the course, Thanks Charlie!
+This is a very good course! The best online course I've ever had. The structure, the order in which material is given, the difficulty of the course are very thought over. And the most important, I feel that the course is very effective. You just need continue practicing VBA (doesn't matter here or somewhere else) to improve the skills acquired here. Because those are very well developed here. I would highly recommend this course to anybody who is looking for the opportunity to learn VBA and enhance Excel skills. But I am heading to the second part! Yeah!
+This is a fantastic course. As someone who has fumbled my way and self taught myself this was a great back to base camp that has already taught me some good tricks  that are invaluable in my day job (as an engineer in the utility sector I'm always moving data between spreadsheets). Looking forward to seeing this specialization through. Professor Charlie is a great teacher - I would have been lucky to have him at undergrad. The format is great and the visual aids during the screencasts are amongst the best I've seen (I've done a lot of online learning.).
+It's a good introduction to Excel VBA if you are completely new to it. Week 4 and 5 are certainly more intense. Basic mathematics (not so basic at week 5)  are required for this in order to have a lighter experience, although I suppose people with mathematics affinity are the ones who do this kind of courses.
+
+Anyways, I definitely learned a lot doing this course. As I work everyday with excel but never tried anything with macros, I have been kind of limited to use excel's full potential. I would actually like to continue with part II.
+This is a great course if you really want to use VBA beyond just recording a bunch of mouse clicks. I was already pretty familiar with Excel and some surface level VBA stuff. Thanks to this course, I have a much better handle on the available features of VBA to the point where I have already been able to implement some valuable things at work. I would imagine that this would be the case even for an Excel beginner. I would highly recommend this course for a fairly wide range of experience levels. I'm looking forward to Part 2.
+Excellent!  The best
+part was Week 5, the honors section of the course.  I strongly recommend doing the honors section
+– I learned almost as much in the honors section as I did in the prior four
+weeks.  Prof. Nuttelman is a very good
+lecturer and he has a very practical and understandable approach to
+teaching.  I always knew this thing called “VBA” was there in Excel
+. . . if I had known how powerful it was I would have taken this class a long
+time ago.  I am looking forward to Prof.
+Nuttelman’s second Excel/VBA course.
+I encourage everyone who wants to learn something valuable to take this course. The teacher takes the time to explain the fundamentals of VBA programming thoroughly.  You have the opportunity to test your knowledge at the end of most teaching videos, and this encourages you to stay focused. The quizzes and assignments are adapted to the level of the learner and in conformity with the topics covered.Thank you Mr Nuttelman for your engagement. Note : This is the first time that I complete the course on Coursera.
+Great course! I'm already familiar with some coding but I wanted simple solutions for some reports I run daily in excel. I was looking for something exactly like this: simple, useful and well structured. I think the course is perfect for small projects and daily solutions in the office as well. The magic of VBA/Excel is it can be applied for most of the knowledge areas. I would recommend for people who want automate repetitive tasks and optimize their work!  Great job Charlie!
+It was a great learning experience. I knew the basics of computer programming for a long time. But I was tired of running my codes in some compilers with those unlikely black screen. And I didn't get any chance or time to learn app development or any other advanced programming to cool and fancy stuff for real-world problem-solving, since my stream of study is not related to computer science. Thanks to this course came to the rescue to help me continue with my coding skills.
+Hello there! That was an amazing course! I learned a lot, the screencasts were very helpful and very well explained. However, maybe share a STARTER document for every screencast would be very helpful too. I mean, a document to start to programming and follow the steps. Or maybe the code as a .txt file just to compare if we are going good, we know that there are a lot of ways to do the things.These are just thoughts, the course was amazing. Congratulations and thanks!
+I like the sequence of every class. It starts from the easiest part. It increase the difficulty gradually.Suggestion to the course is: when we are doing some exercise to use VBA, we are not clear about the practice. Why do we need to do it? Is it just for us to get more familiar with the knowledge or will we use it in the future? Where will we use it? It will be more interesting when the learner knows what will they use it to do in their daily life and work.
+Concise treatment of VBA fundamentals and demonstrating the power and value of the langue. I had struggled with self-taught VBA for some time, but this course led me through to a coherent understanding of how to usefully apply VBA to my Excel projects. The staff were also very helpful with hints that helped me past the few snags I encountered on the way. I recommend Week 5 - its pretty tough (for me, at least) but it really pulls a lot together. Many Thanks
+Absolutely enjoyed the course! Charlie is a great teacher who conveys the content in an understandable manner. The length of the videos is neither too short nor too long. Also I really liked the assignments which are challenging without getting too frustrating. As for improvements, you could maybe spice up the PowerPoint slides in the videos a little (colors, background etc.). Other than that everything's perfect about the course, highly recommend it!
+A very useful course for automating work and calculations in Excel by using VBA. The instructor even included debugging  techniques that will come really handy as the course progresses and the code becomes more complex. The optional week 5 deals with using iterative methods to find roots and minimums of equations. If your work relys on optimizing and solving equations you can see how the last week, although optional, would be a must in your case.
+The course was exactly what I wanted. Started with the very basics of VBA (along with a review of some advanced excel techniques) before transitioning in to more advanced VBA functions. Definitely got in to some mathematical functions at the end that I haven't dealt with since college (8+ years ago) but it wasn't too bad. The screen casts are all under 10 minutes but still very informative. Wasn't much fluff, just all really good content.
+I think it's a great introduction to coding for any beginner in coding. And a great introduction to VBA for people used to coding. To me as an engineering student i sometimes passed some parts of videos since i already knew how to code in various language and knew the concept of loops, if-else, etc. However it was necessary for me to start with this course to learn the particular syntax of VBA language compared to language I am used to.
+Yes! Python is more powerful, true! But the MS Office package rules when it comes to office jobs. VBA comes included in that package and normally people love Excel. You could be the "sensei" / master of Excel by learning Visual Basic in Excel, Outlook, Power Point or Word. My personal opinion: I have an exciting job cause I knew Excel when I was an intern. Now with VBA I automatize my knowledge. This course is very recommended.
+I truly recommend this course to beginners in VBA (although prior experience with other language is very helpful). Charlie is a very good instructor, he makes every step of the learning curve seem manageable. His quizzes and assignments cover all material, so make sure you know it all before doing them! This is probably the first Coursera course that is similar in difficulty and richness-of-content to a university course.
+I have found this course extremely interesting and I have loved week 5 too, which is optional. 
+I always wanted to learn VBA and I have tried on my own several times but I didn’t succeed. This course has helped me to overcome this initial barrier and know I feel confident to continue learning VBA.
+The professor has always been there to help, and I have felt much accompanied in my learning experience.
+Highly recommended!
+It introduces the concept of VBA very well, I have previously learnt a bit of it and know some programming so it is a bit slow for me but I think for a complete newbie the instructor articulates very well. Also it helps students by introducing the use of flow diagram so it is not just about writing the codes but also have a plan before starting to write the code and I think it helps a lot when things get complicated.
+I found these courses
+very useful. The courses exceed above and beyond any other online Excel VBA course.
+ The instructor is a university professor
+who is a subject-matter expert, and explains the course material in a very
+simple and understandable way. Part three is a project-based course that helps learners
+use the knowledge gained into real projects and helps solidify the learning. I
+highly recommend this course.
+I liked the course very much, it was really informative and great for those who aren't familiar with VBA at all and want to step in this "field", Definitely going to take part 2 and I strongly recommend this course to anyone interested in VBA. One little complaint as the lecturer said himself is that there are fewer financial related cases than I'd like, but it doesn't obstruct the quality of the course at all.
+I strongly recommend this course to those who have no VBA experience and want to learn VBA. There are lots of VBA websites/forums, but they are not very useful  to beginners.  A very good thing of this course is that Dr Charlie is teaching you to think in a "VBA way" to solve a problem, but not just teaching syntax. I will definitely take part 2 and part 3. Thank Dr Charlie again for providing this VBA course.
+Great course! It taught me so much, really amazed to find the power of VBA and all thanks to the instructor who shared such great knowledge with everyone in the world.The style of teaching is very simple so beginners can also learn and understand. The pace of course and the way concepts are advanced is also good.In some videos, audio was slightly low, it could be fixed, but it was not bad.Thanks a lot!
+If you get used to Excel, this course is perfectly for you. I am non-native, yet can grasp what the point is clearly in each term. One thing I want to recommend you is to learn the shortcut key combination firmly at first, like Alt+Tab, Alt+F11, Space to start the play, F5/F8 to run or step through, otherwise it might be tough to keep up with its speed in case you rely solely on your mouse.
+I am preparing for masters in Operations Research specializing in Finance. I heard Excel and VBA is still very popular in finance, so I wanted a good reference material to wet my toes. But this course was much more than I thought I wanted to learn and it helped in achieving more than my aspirations through a very well thought out content and assessments. Well done Professor Charlie!!!
+Hi,This course is very helpful for beginners in Excel/VBA, you will learn a lot about VBA and excel at a good pace. It helps you to apply this knowledge in real world problems. The examples and assignment given with this course work will be a good hands on experience. I would love to do the subsequent courses with Excel/VBA for Creative Problem Solving.Thanks,Sujith kumar Haridasan
+This is one of the most useful courses I have done on coursera. I'm now equipped to go ahead and apply the concepts learnt from this course right away. The instruction by Prof. Nuttelman is extremely fluid and easy to follow, even for the most complex concepts presented in this course. This course is highly recommended to anyone who wishes to leverage their excel and VBA skills.
+The way tutor explains is very lucid. also the screencasts are verThe way the instructor explains is very lucid. From week 1 to 4 all screencasts are very helpful. Examples are binded to the concept he explains in the screencast and very helpful for assignment and quizzes. Assignments and quizzes are nicely prepared and not very tough. One last line, Kudos to the instructor.
+This is an excellent course everyone should take to understand Excel Macros.The teacher explains very well and uses many examples that help to better understand each topic.I highly recommend this course and I am looking forward to taking the following courses.Thank you so much, teacher Charlie Nuttelman I learned a lot thanks to you.Greetings from Mexico,Diana de la Toore
+I recommend this course to everyone.  The course is really well designed and useful (screencasts, examples, tutorial). Furthermore, Charlie is an excellent teacher. As a suggestion for making the course even better, it would be interesting to know/understand why the answer is incorrect when the grader tests the assignment and gives us some feedback.Thank you, Charlie!
+Wow. It is so awesome to learn something, specially when you have no idea about what you are doing. The course is very friendly and clear. Very goos teacher and if never have heard about VBA ou any programming language don't worry. You'll have success. Now let's start the Week 5 (optional) and after that Part2 and 3. See you there.Get start. what are you waiting for?
+One of the best courses here on Coursera. Lecturer provides explanation and practical tips during each lesson, projects are great and each one is verified with premade tool (usually I encounter peer graded assignments but they may not be objective, other students may give points anyway). Moreover I don't like Excel (I prefer Python) but this course was real pleasure!
+I'm really happy with this course and the teacher. I honestly learned a lot and there are very interesting tools that I think everyone should learn or at least improve them if you already know how to use Excel.  Even if the week 5 is optional, I recommend you to finish this course completely because in week 5 you're going to learn some amazing and very useful tools!
+Content is clear and easy to follow. I liked all the examples. I do think that someone without any Excel background may struggle a bit. The only challenge, on my part, was getting support on submitting assignments. That needs to be simplified or students need to be warned of compatibility issues from the start to reduce frustration. I am looking forward to part 2.
+I would highly recommend this course to my friends! The course introduce several basic concepts and gradually some practical and advanced applications. The quiz and assignments might not be as difficult as the lessons are (my opinion only). And the mentors as well as professors are eager to help you in the discussion forum, which is really helpful.
+what an experience ! this is perhaps the most impactful online course that i have done. the exercises and quizzes were top notch and really assisted in proper learning. learnt a lot about macros and vba and surely have become more comfortable in dealing with it. hoping to implement some of this in my office work. thanks a lot. highly recommended.
+Great! I am very advanced when using Excel.  i didnt know hoe much I was missing with VBA. Few lines in VBA can make some routines that take hours to minutes! The course is focused towards solutions to everyday problems. If you are a heavy user on Excel and looking to increase your exposure in programming, this is the course to start with!
+Videos and teaching methods are very effective. Quizzes and assignment are also challenging but rewarding when you were able to resolved it. Hopefully in the succeeding lectures, you can devise a way to have a portal wherein students that are having difficulty to have someone to ask to that can provide a quicker response.Regards,Matthew
+This type of course is for those, who already have learnt every other function in the Excel, that is there to learn. But after that, VBA in Excel provides us to write our own interesting custom functions and intuitive subroutines. The instructor of this course is also very enthusiastic and his teachings are easy to understand.
+The only difficulty I faced in the course was small error correction in the assignments as with very little practise you tend to make mistakes which are difficult to correct with instructions from the grade/default instructions. Nonetheless, it felt great completing this first part! Looking forward to the remaining course!
+The instructor can explain clearly step-by-step and visualize in his videos perfectly. I got a lot knowledge of VBA from this course and it works for me as it starts from basic. The lecturer also provide some useful tricks and know how to create quizzes that can make learners have to think about it again. Highly recommend!
+Great overview of the capabilities of VBA with Excel.  It is clear the professor spent a great amount of time in putting together the lecture videos - both in laying out the flow of the class as well as editing the videos to aid in comprehension.  I appreciate his effort as it really aids in understanding the material.
+Hi everyone, I'm from Colombia this course I really enjoy. at the beginning I don't have any idea about VBA but after 4 weeks I've learned a lot with practice and the guide for the teacher Charles.  in my opinion the screencast are easy to understand and the explanations for the teacher are clear and professional
+Very well done course. Instructional material is perfectly paced. Videos are very clear and precise. Course prepares you well for the assignments and quizzes. I knew  a lot about Excel when I started this course, but now I realize I am just a beginner...and I'm eager to learn more. Really good course. Thank you.
+The instructor gave thorough explanations and took care to make sure that even true programming beginners could follow along and replicate the lessons to solve problems. I would highly recommend this course to anyone looking to get more out of Excel and in particular utilizing user-made functions and automation.
+Excellent course to build a strong VBA foundation.  The professor was very knowledgeable and responsive.  A word of warning, the examples are heavily weighted towards math so be prepared to get a refresher on some Calculus concepts you may have forgotten.  Stick with it and use the Discussion Board regularly!
+As a complete beginner in VBA I was able to build a strong foundation in VBA and start to use it for advanced problems in financial analysis. The course is conсise but very informative. Quizzes and assignments are challenging but very interesting and helpful in learning. I'd definitely recommend this course.
+Highly recommended for everyone who want to start programming, be it for professional reasons or just for the sake of learning. The assignments are optimally designed making it both fun and challenging. Take this course as introduction to programming as Excel/VBA is a very interactive and fun place to start.
+Really good course.   There are times where it can be frustrating but if you are taking notes and review the course material it will make sense.   I'm quite happy I took the time to take this class.  And I feel that the skills the I learned here will help me in my career.   I'm looking forward to part II.
+I love this instructor! He sounds so passionate about teaching things he knows in all of the screen-casts, and I actually learned a little bit of VBA during my undergrad, but this course is a whole system laying in front of you. Would 100% recommend to everybody who's trying to learn anything about VBA.
+This course is great for those who want to pick up skills in Excel VBA.  It is very informative and explained well by the instructor.  Even though the whole course is more focused on the mathematical problem solving, I can still relate the content to my business working environment. Highly recommended.
+I enjoyed the course. The material explained is quite easy to understand and the tasks are interesting and challenging. The instuctor is very helpful and answers most of the questions via discussion forums and sometimes even email. I believe this specialization will be very useful for me in the future.
+The instructor Professor Charlie Nuttelman is amazing. His explanation is clear and his voice's  tone is modulated which makes students feel comfortable to watch the series of tutorials. The assignments and quizzes given is not so spoon-feeding. You have to brainstorm a bit to get the correct answer.
+This course was the best to introduce VBA in my currently routine. The teacher is very excellent explaining since the theory to application. You will learn to do a lot of things with basics commands and I certainly will use this in my sheets. Congratulations, now I'm goingo to Part 2. Thanks a lot!
+The course gave me everything that I was expecting and needed to get me on the road to VBA programming. I also learned some advanced Excel tricks that will be very useful, plus some mathematical iterative optimisation methods that I had long forgotten. I have signed on to the next course (VBA pt2)
+The course is the best entry into programming world, instructor is very responsive whenever you face a challenge on any course material. I would recommend the course to anyone who want to automate some of the repetitive excel tasks and to later advance into a more advanced programming language
+The course starts from the basic concepts of the programming, and on the week five you can learn how to solve iterations in Excel using VBA. Even before finishing course, I already started to use VBA in my daily work routine. It helped me to save time and made me free from some routine tasks
+Great course in order to begin with VBA. Although, it contains some math problems related with engineer stuff, it's not hard to follow since the theory is well explained and the complexity is not too high. Also, it's interesting to see a different approach to Excel/VBA from other carreers.
+If like me you are looking for an introduction to VBA because you see it on every job description of the positions that interest you, this course is what you need. It goes from a gentle introduction to strong exercise that truly make you work hard to earn that certification. 100% recommend
+I thought the material was very practical in that it improved my everyday Excel knowledge while also providing knowledge for programming best practices.  I would recommend this course to anyone interested in getting more out of Excel or wanted a crash course on programming fundamentals.
+What a great course! The first weeks are almost all about the syntax, since different languages have different ways to write. But the last 2 weeks were awesome, I learn a lot, remembered about some interesting things (like the Golden Search, iterations, ...) and a little about calculus!
+The course is delivered systematically and effectively for a coding-virgin like me. It has enabled me to write my very first VBA script and apply it in my day-to-day work to help automate spreadsheets and calculation processes. I recommend this course for those who are new to Excel VBA.
+The course is aptly designed to teach from very basic and pull the learner to an intermediate level in the course. The instructor teaches everything in a crisp and precise manner yet every minute detail has been covered thoroughly. I loved this course and and would recommend it to all.
+Excellent job done by Charles and Coursera. Interesting and challenging. I will be starting Part 2 very soon, it is worth every second you spend. I would like to see more material like in week 5, more math oriented towards function approximation using VBA. Thanks for all your efforts.
+This is a very fun yet helpful course. The course shows you how VBA can help you with your work from Day1. There is no dull lectures. Everything Charlie teaches is based on examples and you can always follow him in excel. I enjoyed the course and have already enrolled in part II.
+It's a really great course taught by Professor Charlie Nuttelman! Part 1 starts with the basics of the VBA environment, and gradually moving into real-world scenarios using the power of VBA, especially in week 5! The quizzes and assignments definitely help to reinforce learning!
+Highly recommended. Quizzes and assignment are challenging and helpful in better understanding the learning materials. What I love most about this course is that its challenging materials and dedicated instructor remind me of "the brick-and-mortal" courses I took at university.
+Part 1 really exceeded my expectations. I enjoyed the math part of the course as well as functions and debugging techniques.Most of my vba knowledge is self taught using google and youtube so it was nice to have a structured program that could help me improve my vba in Excel
+Awesome class!I've written VBA in the past for Excel by copying/pasting, and generally stumbling through it. This class really cleared up a lot of things for me and has increased my confidence and I actually feel like I know what I'm doing now! Thank you Professor Nuttleman!
+FIRST OF ALL SPECIAL THANKS TO MR. CHARLIE NUTTELMAN TO TEACH GIVE SUCH AN AWESOME LECTURE AND THANKS TO UNIVERSITY OF COLORADO BOULDER AS WELL AS THANKS TO COURSERA TO PROVIDE SUCH AN ONLINE EDUCATION ENVIRONMENT SO THAT I CAN USE MY TIME IN MEANINGFUL AND USEFUL MOMENT.
+Very good Excel/VBA course for begginers. It teaches the basics for programming (variable types, loops, debugging, conditional statements, etc.). It also introduces Excel tools for optimization and targeting, as well as optimization methods in week 5. Highly recommended.
+Great course for those who are familiar with programming and desire to dive into VBA quickly. It would be much better if enhanced with business examples however it is still good for starting to solve business analysis tasks and automating the basics of business routine.
+Concepts are well explained and easy to understand . Exercises & quizzes are quite challenging and they are not served on a platter. one must really think and understand the concepts to solve the exercises at end. Looking forward to learning more complex VBA in part 2.
+I've worked with Excel previously but I did not have any idea of how to use VBA. With this first course, I feel I've constructed the very fundamentals of this great tool. I'm eager to continue with the Specialization and further develop my skills with Excel and VBA
+I really have learned a lot! The class is demanding enough, but not overwhelming. Mr. Nuttelman is always available to help - via email or in the discussion forums, which is much much appreciated. He helps with hints to understand the topics and assignments better.
+Excellent course, i learned a lot of clearly relevant and useful material that i look forward to implementing in my course work and career. The instructor successfully stimulated my interest in the content and i will continue to take courses from him and Coursera.
+I found course useful for learning the basics of Excel VBA.  I had written few macros before taking up this course by referring to the various online help forums. But, I wanted to formally learn the the VBA language. Hence, I took up this course and it was useful.
+Great program, really helped me understand VBA programming. My whole carrer, I was reluctant to learn VBA programming, because it seemed very difficult to understand. With this course, all those prejudices went away. I inted to continue with the next course of VBA
+I coudn't believe how many problems you can solve with VBA. This is an excellent course and the professor extremely motivated ,clear and helpful and has organised the material of the course perfectly in my opinion. I will suggest this course to all of my friends.
+Effective coverage of VBA for me (a complete newbie started with VBA) but with coding experience in other computer languages. Clear delivery of webcasts and real-world engineering examples are very useful. I feed confident jumping into Excel VBA programming now!
+Course with (i) an excellent organization (starts with the basics and evolves to more advanced topics); (ii) easy to follow videos (concise instructor with practical examples); and (iii) challenging quizzes and assignments, that apply VBA to real world problems.
+Charlie will walk you through the most basic things, from defining variables to debugging if something goes wrong with your codes. He also teaches how to think logically and how to make sure you include all possible scenarios. Highly recommended for beginners
+It was an excellent course with hands-on experience with Excel VBA. If you are thinking about taking this course, I can strongly say that one can go with this right away without any prerequisites. It was super fun learning this. Prof Charlie did a great job!
+For beginner who are not familiar with programming, this is a good opportunity to understand and explore through Excel VBA. I recommend it not only for such a solid work in course design but also the confidence build-up during the process of problem solving.
+Very helpful and interesting course, mostly due to great teacher! I applied this knowledge (Do..Loop, For...Next) in my business valuation models to solve the issue with circular reference in financial statements. Will sign up for the second part definitely!
+Amazing course! Unlike a lot of the online classes this one was challenging allowing for a better and more permanent understanding. At times, I feel like some computer science background is necessary to understand all things but you can manage without too.
+Course has been designed really well. Concepts are explained in ample depth and clarity. The quizzes and assignments provide the perfect opportunity to apply the assimilated concepts, commit errors and learn how to fix them. Thoroughly enjoyed the course.
+Great class for learning VBA basics.  The lessons were well taught and moved along at a comfortable pace.  I came in with no VBA experience, and was able to follow along without problem and complete the entire course.    I'll definitely be taking Part 2.
+The course was difficult a few times as I haven't had to do some of the math manipulation in nearly 30 years. I appreciate that my boss gave me the opportunity to take this class, and I look forward to taking the next two courses in this specialization.
+This course was very tasking and interesting. I almost gave up at the middle but was determined to finish it. I would recommend this course to anyone who wants to dig into Excel VBA. This course is rich in content. Thank you Charlie. Thank you Coursera.
+Well organized course. Recommended for those who want to leverage the power of VBA while working with Excel. It would take about 2-3 hrs per week. If you have any prior programming experience, then you will find the Week 5 material fun to work through.
+This course got me started quickly in understanding VBA for Excel and coding subroutines and functions with the first lecture.  I had tried self-teaching by purchasing a book and got discouraged, but Charlie's screencasts and examples are very helpful!
+Loved this course! It is very well-structured and the concepts are easy to understand.  What I like the most is that the course it truly hands-on - I was able to implement the tools & techniques right away to optimize my workflow. Highly recommended!
+This course is very interesting and helpful if you dont know anything about macros. This really hepls in Building base for studying macros further. This also helps you to write your own small macros for excel.The assignments are also very interesting
+I think the course did a good job introducing VBA, and the optional week 5 was surely worth doing! It not only taught you a few new methods, but it provides you with the opportunity to create a workbook automating calculations with ease for a user.
+It's a fantastic way of entering VBA programming even if you are not familiar at all, as it was my case. I recommend to anyone who wants to start using this tool as well as to anyone who wants to learn smarter ways to solve problems with it.
+One of the few courses that really make you work on the learning part with the innovative assignment submission. Kudos to the Instructor. I really enjoyed the course as well as the assignments and it was certainly a useful learning for me.
+great class and great instruciton.some of the quizzes overly complicate things, and some of the ways to demosntrate functions and subs are not conducive to understanding though (i.e. swapping cell values is simple but not really practical)
+Great course with many instructor led examples and explanations to provide the necessary building blocks to begin developing useful code.  The assignments were challenging to ensure understanding of the critical concepts.  Thanks, Charlie!
+Excellent course. This was my first try at anything related to coding and I found it super helpful. Thank you very much Prof. Charlie and coursera for creating such an interactive learning content. Looking forward to Part 2 of the course.
+I've taken quite a few courses on Coursera and this has easily been the best one. I use Excel/VBA every day for my job and have taken away more than a few concepts to apply just by taking Part 1. Looking forward to taking Parts 2 and 3.
+this was a very good introduction to VBA, i was able to follow the lessons and complete the assignments with no prior experience with VBA. i will most certainly complete the other 2 courses in this specialisation! thank you dr charlie!
+Very well-organized and well-paced. I am a corporate accountant and I find VBA techniques incredibly useful in my daily work, and this is the first online course that I find helpful for someone without any coding experience to utilize
+Excellent information and challenging content. The course was very useful and showed me an interesting alternative to be more productive with Excel. I have a Mac and if you want to take this course you absolutely need to borrow a PC.
+Great course, totally recommended. All the videos, material, explanations from the instructor are absolutely amazing. The assignments are very good and in some cases difficult, but for me this is the best way to learn. Thanks a lot!
+Great presentation of very useful content. Makes it easy to understand. Good balance between theory and practical examples. Sometimes the math might be intimidating, but it's just a little part of it - except you try out the honors.
+Really useful to expand your knowledge on excel and introduce some pretty cool functions should you be using it all times. Highly recommend this course to anyone seeking to learn how to start using VBA. I am excited for Part 2 now.
+This has been a great course. I never knew i could use this program in solving so many problems which usually would usually take me hours sorting through the datas. I wish i could have learned VBA much sooner. Anyhoo! Its amazing.
+It was a pleasure enhancing my excel and VBA skills in this course. The course is extremely well structured and brilliantly narrated. It was a cakewalk. I found the quizzes to be more challenging than the assignments.Thanks a lot!
+I am a mechanical engineering undergraduate and this is a very useful course to improve the skills and to save lot of time while working with excel sheets. Uses of Solver tools and implementing bisection method are very helpful.
+Excellent course, I learned a lot and the the material was excellent. It was very useful the entire informatios shared in the slides and the methodology was very interest, because you had quizes when you advance in each topic.
+The assignments are sufficiently challenging that they really force the student to grapple with and show an understanding of the material.  Thought it was a a really practical set of examples and I look forward to section 2.
+Assignments could have been a bit more challenging.  Otherwise, the course was very good. Professor Nuttelman is very good at explaining the different approaches to programming in VBA, as well as higher-level math concepts.
+As a chemical engineering graduate myself, I really appreciated the examples used. Nevertheless, I think that anyone is bound to learn heaps from this course regardless of background as the concepts were explained well. :)
+A very good introductory course in Excel/VBA. The video lectures are always clear and interesting. The assignments are aimed at reinforcing the concepts explained in the lectures and their difficulty is very well-balanced.
+Very interesting course. It's perfect for beginners in VBA. The quizzes are difficult but not too much, and the assignments are very interesting. I would recommend this course for anyone looking for an introduction to VBA.
+I needed a course to give me a structured overview of VBA.  This course is clear and presents good examples on using the different aspects of Excel/VBA needed for writing your own code and setting up live code workbooks.
+An excellent introduction to the world of programming, excellent teacher and the course is very well planned and implemented. If you are interested in learning more about programming and vba, you should take the course.
+This course is just great. Throughout the four weeks, I had to learn a lot in VBA / Macro. I, who was already doing Excel, I quickly realized that there were concepts that I did not master. Thank you Charlie Nuttelman
+I liked very much the practical approach the course takes. In my opinion, the extent of the course is correct but I would upload more VBA reading material for those who want to go deeper into programming Excel macros.
+I appreciate all efforts made by Professor Nuttelman. This course guided me for a beginner (but essential) understanding of VBA. After years of postponing this learning, I start getting confident, thanks to Coursera.
+Super valuable content, great instruction and guidance. At times the advanced math involved deviates the main focus of the course which is VBA/Excel but this is very minimal; amazing course overall. Very recommended!
+I often need to create trackers/templates/reports for different purposes and VBA is a great starting point to have reports/processes automated. This is a very organized course that put things in orders. Super useful!
+This course is brilliant and Charlie Nuttleman is an excellent instructor. This is a must take course for all interested in taking their excel skills to the next level. I only wish he had put up some lectures notes
+The course is great to learn the bases of VBA to make of Excel a very helpful tool. The week 5 (optional) is very interesting and enterteinment if you like math and want to go forward through engineering problems.
+i had been trying to learn VBA using books but wasn't easy. This cours is great in a few weeks i obtained the knowlegde that i need. it is going to change the way i use Excel. Many thanks to our professor Charlie!
+This has been the best Excel course I've ever had. It encouraged me to keep learning and practicing and apply the different tools learnt into my daily work. I am very thankful to the people who made this possible.
+The content of the course is quite interesting and provide helpful tools. I personally suggest that in the last part of the week 5, add the concept of tolerance in order to solve that kind of iterative problems
+Very interesting course. I have worked in VBA for years and I learned useful tricks I didn't know to improve my codes. I recommend it and I will continue with the other two courses of the speacialized program.
+The instructor's lessons are very concise and well-planned.  Concepts were easy to understand and execute. I had no programming background but I can still say that the teaching style proved to be effective :)
+Really useful course! Very good for learning how to record macros and interpret the vba code. Very nice and looking forward to part 2. Professor Nuttelman is very good and CU boulder is lucky to have him!
+Really good course and good examples and assignments. For me as a Economics guy it was really challenging but possible to solve the Assignments and I am looking forward to Part 2! Keep up the good work.
+The course is very informative.  Absolutely recommend it to anyone interested in learning VBA.  I had no previous VBA or coding knowledge and was able to understand and complete all the work.2 thumbs up
+Love it! Worth it! Even though I already have a background in VBA, I still learned a lot especially in Week 5. Assessments are challenging but doable. Materials are explained and demonstrated properly.
+Great course!! For a Part I it introduces you to useful functions and ways to approach different kind of problems. Challenging course but reasonable with low algebra.  Exactly what I was looking for.
+It's a great classes. Material is well organized and Charlie kept me engaged with clear instruction, good examples and assignments.I have learned a lot very efficiently from this class. Thank you !
+This course is awesome! goes from basic to expert step by step and it has great activities and tutorial videos and also provides great quizzes and assignments to mark our grades. I'll give 5/5!
+The course is very structured, and helped me understand the concepts of the VBA/Excel.. I want to thank all of you for the work you are doing so that you help us, thank you thank you thank you.
+i highly recommend this course as the content is new and the questions are designed to be challenging but not difficult. It is an excellent introduction course to VBA or programming in general
+Excelent and well planned course! If you are an engineering student, I highly recommend you take this course, as VBA fully exploits the potential that Excel has to propel your career forward.
+This course provides a great foundation for working with VBA, it really enhances your Excel skills. I highly recommend everyone to take this course, and am looking forward to starting Part 2!
+Really enjoyed this course. From Week 4 onwards it's quite challenging. Really appreciate the active engagement from Dr. Nuttelman and other moderators on the forum who gave excellent advice.
+The course is of great learning for those who wants to excel in excel deep and deep. It can help in simplify most of our daily work. Course is really easy for engineers and science students.
+Very nice introduction course for VBA excel learners. Charlie is a very watchful and kind teacher. It really helped me to start fulfilling my dream of making some original codes by myself.
+An excellent course that starts with the basics and ends with some really advanced topics and concepts. Superb for anyone who's in a hurry to learn VBA but also desires to learn in depth.
+Great course for anyone interested in Excel/VBA, especially engineers. There is a lack of course materials I must say, sometimes the spreadsheets that are worked with, were not uploaded.
+I enjoyed the course really much. The course material was interesting and to the point and i really feel that i earned a much deeper understanding of VBA than the one i had since now.
+I really learned a lot in this course. I could start using right away what i've learned in real life problems. And it challenged me to discover new tools in excel and vba. Thank you!!
+A very usefull course for those who want to make things automatic and saving time. The course approach VBA basics step by step. With time, you start mastering great things about VBA.
+Amazing Course. Only one suggestion, input more real life related coding examples and methods because one may not be using too complex formulas but need VBA for reducing the efforts.
+Great course with good examples. Would like more forums to discuss with others. Maybe a general forum that anyone can join would be nice - not dependent on which course you are on.
+What a wonderful practice-oriented course! As an economist/financier I would love to have experienced more field-specific assignments, but I guess that's a bit too much to ask for.
+I fully recommend this course if you are looking to upgrade your knowledge of Excel and make your work/life easier using this application. This is exactly what I was looking for.
+This class was informational and fun with challenging moments. Some of the math went over my head, but the live examples in VBA kept me grounded and going. Can't wait for Part 2!
+This course is a mandatory to every engineering student. lots of engineering problems can be studied and solved using the techniques taught in this course. I highly recommend it.
+Excellent course, with clear explanations and practical exercises showing the utility of VBA in real situations. The lessons are well structured and sized to facilitate review.
+I absolutely like this course,  It's so great and helpful, especially for a beginner like me. Thanks, Mr. Charlie Nuttelman from University of Colorado Boulder and Coursera.org
+Excellent introduction into the VBA world !  There is a very good combination of theory , examples and questions which helps strengthen the understanding of the logic behind.
+Powerful course. It allows to understand how to start in VBA world in order to keep dipping it in your mind, thinking how you can apply this knowledge in you work. Thank you!
+I found the teaching is really easy to follow for people who do not know anything about programming and the quiz and assignments really help to sink in what has been taught.
+This was a fun course, and I learned a lot of good basics. It is presented in a logical and incrementally more difficult sets of lessons. I enjoyed the examples and demos.
+It was a useful module. I learnt how to give a solution to many real problems, specially with data. Also, another programming skills that I'd forgotten. Excellent Course!
+The course becomes more easy as the instructor provided relevant materials, profoundly explained the topic, and supplemented real-world industrial applications using VBA.
+One of the practical courses using Excel/VBA that  I can apply to my daily works.I am satisfied with all the materials and examples the lecturer gives me.Many thanks.Ruby
+I love it! it's so easy to understand but at the same time gave us many basic knowledge and skills we need for VBA. I felt so lucky to begin my learning from this course!
+I like the pace and the structure of the course! Makes it easy to understand. The assignments and quizzes are moderately difficult to challenge and stretch our thinking.
+Very easy to follow. Those quizes and assignments as based on very simple knowledge but still challenging!! Will continue to work on part 2 and part 3. Thanks Charlie.
+Excellent course! All screencasts, readings and exercises are laid out in such a way that is easy for people that are starting in programming to follow and understand.
+Thank you for this practical and useful course. I am finally able to unlock some of the powerful tools in excel that have always been a mystery.  Cant wait for part 2.
+Very good explanaitions. The course is for everyone who can automatize the job and have basics of excel and vba. I am looking for part 2 and part 3. Thank you Charlie
+Very interesting course. It's been very useful, especially Week 5 but I would love that you treated the maximization case whit Golden search method. Thank you Charle.
+Very informative and easy to follow. The instructor is responsive, and informs the students when he will be unavailable to respond to emails or the discussion boards.
+Fantastic course! Would totally recommend using VBA as a first dive into programming and would totally recommend learning VBA with Charlie and his team! Thanks a lot
+Thanks instructor for providing knowledge &  guideline to solve the matters in course. It could not only help in using excel but also someway apply to issues in life
+acquired useful knowledge for my work, very good and efficient way of studying including tasks to solve, I had fun during studying this course. Thanks to the author!
+User friendly .  It would be useful, if we come to know , through sub routine, as to how extract the data, filter it, merge it  and present it with simple analysis.
+Fantastic Course. Fairly new to coding and the instructor made it very easy to learn and had me writing codes that I am able to utilize as a structural engineer.
+This type of course should have been mandatory regardless of your major.  Pursue the certificate to keep you engaged throughout.  I am looking forward to part 2.
+Fantastic - very well-explained and clear. Also fun, and I learnt a lot of information which will be really useful as a starting point for becoming fluent in VBA
+It is surely the best online course I have ever taken. Course instructor Charlie is very competent and he has organized this course in a very structured manner.
+It's a good course for someone looking to learn the basics.Do try the other two parts to enhance your knowledge.The Error handling section will help you a lot.
+The course explained very well basic and more advanced concepts of VBA and how to use them in real life situations. Very much looking forward to the next part!
+Awesome course, the course is very challenging but yet rewarding. Dr. Charles knows how to really make one think outside the box. I'm going on to the next one
+An excellent course to build a strong foundation on Excel VBA. The instructor is extra-ordinary. The course is highly recommended for all new VBA enthusiasts.
+Very interesting and high utility course. Greatly appreciate the work of the instructor Charlie for his time and dedication for making this awesome course...!
+That is a really good course, taught by a very nice and competent instructor. I have learned many things that I can actually apply at work. Quite impressing.
+Really well organized introductory course to VBA while giving insights to more advanced prospects of the subject and maintaining a good pace at the same time
+The course is amazing, it was the best I have tanken so far, there are a lot of practices to do just after the screencast ends, the method is really good.
+The best course of programming I have ever had. Everything is very easy explained in an interesting way. I hope this course helps me for my future career.
+Excelent course for learning how to start programming in VBA. It goes from the basics to more advanced level in a very smooth way. I really recommend it.
+Interesting, with excellent course structure and teaching methods.After First part of the course you will be able to use gained knowledge in real world.
+I really liked this course, it taught me a lot of things I dind´t know and that will be very useful for my professional development.Thank you very much
+Brilliant course content and delivery. Specially love the assignments and grading methodology !The app makes it remarkably easier to learn "on the go".
+it could be beneficial to add more work along files or assignments to make sure students really practice along instead of just watching the videos :)
+Excellent course material and presentation. As an engineer and teacher, I found this both practical as well as intellectually stimulating. Thank you!
+I thought the way the assignments were formatted was very good and much better than other courses I have taken, I am likely to continue onto part 2.
+Excellent! This course is able to provide a perfect balance between teaching the basic skills and providing challenging problems to test your skills
+Amazing course. The instructor explains everything in a very easy way. I learn a lot! I did a previous VBA course, but I learned so much more here.
+This course is beyond expectations, and helps refreshing some math methods. Thus, it is very interactive and stimulates the problem solving skills.
+Excellent course.  Very practical and informative examples provided.  I highly recommend taking the optional Week 5.  It is worth the extra effort.
+I loved part 1. Very structured. Detailed. Yet easy to follow. It can also be used to learn fundamental programming. Looking forward to VBA part 2.
+the course is well designed but need more detailed examples. I would have all working sheet alone with the screenshot to better capture the content
+If you never do VBA before, You must take this course ! amazing and its open to horizon to more capability of excel for all kind of applications.
+This course provided me hands-on experience to write & debug basic VBA codes. Week 5 materials show interesting application to optimize function.
+As someone who knew nothing of VBA going in, this course was a great introduction to the material. I look forward to taking part 2 of the course.
+Great Course! Before finishing the entire course, i was able to create functions and subs that permit me to automate  some tedious calculations.
+This is the best VBA Excel course I have followed so far. All the quizzes and assignments were advanced and excellent. Thank you very much, sir!
+Learning VBA was an exciting experience and eager to learn other parts also. Quizzes and assignment were very helpful in clearing the concepts.
+Everything is explained very clearly from the very beginning. There are lots of examples, hints and useful techniques that can be used at work.
+Excellent course. The learning curve was
+not too steep even if I would recommend it only to students who are already intermediate
+excel users.
+This course is amazing! Really helpful, lots of nice tips. The instructor is very good also, and knows how to convey the message. Recommended!
+Perfect pace, and a good amount of content covered over the course of 1-2 months. Ideal course for anyone looking to get started learning VBA.
+I was a noobie in the VBA but after this course, I obtain a good basis in coding. I believe this knowledge will help me in my day-to-day job.
+This is exactly what I needed. An introduction to VBA that teaches the basics quickly and conveniently. Thank you very much, Dr Nutellaman!
+I appreciate the little quizzes at the end of most videos and the assignments are really challenging to make sure content is fully grasped.
+Practical and useful. I Recommend it for those who never used VBA before or for those trying to remember basic principles of VBA (my case).
+very informative course all the points and example are explained in very detailed manner.Even the new comer can understand the programming
+It is good, but I have seen better-prepared courses. I believe that it should be revisited and modified to be as professional as possible.
+At the beginning of the course , I asked myself, why VBA when excel can easily do these with build in buttons. I know understand a little.
+This course is really useful and interesting! The instructor has an excellent method for teaching and the screencasts are well designed.
+I really enjoyed the course and it was easy to understand the new material. Great structure, tutorials and prompt support. Many thanks!
+A little heavy on the math for business professionals, but the concepts are very well taught and translate to a multitude of VBA uses.
+Very detailed tutorial and guidance from concepts to practice. Kind hints and illustrations all help with the quizzes and assignments!
+With a good start and steady momentum and subtle humours, Prof. Nuttleman made it a real fun learning experience. Highly Recommended.
+The course provides high-quality content, and the lecturer's comments are very insightful. All in all, it is a great value for money!
+It was an amazing course. I really enjoyed all the quizzes and assignments of the course. Now excited to begin Part-2 of this course.
+Thanks! I really feel like I learned a lot with this course and made me engage in many applications of my knowledge in my workplace.
+The best introductory course for Macros. It teaches from the beggining and very detailed and sooner you're programming great things!
+After having tried all the exercices by my own, I am now able to write some subroutines and functions in Excel, which is quite cool.
+Useful and full of examples. You will build your knowledge. To make it even better I would include more interdisciplinary examples.
+One of the most productive course i have ever gain chance to learn. Thank you Charlie and the team for providing this opportunity.
+Loved the class - lectures are short and to the point - assignments and quizzes challenge new skills - cannot wait to start Part 2
+the instructor is great and I enjoyed the way of assignments. it was a great start. I hope I will finish the rest of his courses.
+Was a very helpful course, learned a lot of things from basic on VBA with perfect example videos. Hopefully could use it to work!
+Wonderful course, well organized. I was a complete beginner to Excel/VBA, but I feel I have sufficiently understood the material.
+It is possible to follow the course even if you are not familiar with maths. I would recommend you are at least familiar macros.
+Challenging but rewarding at the end. One of very few courses that teaches not only the subject but the actual thinking process.
+Excellent course, it provided me with lots of helpful tips to use in Excel and VBA. Can't wait to put this new knowledge to use.
+Very easy and clear to follow. A much better VBA introduction course than all the other similar courses I've ever taken. Thanks!
+Its too tough course for non software skills person. but you can get it done by seeing and understanding screeencast.Nice work
+Great Course... Instructor could have reduced the pace on certain areas like new data object or method insertion in VBA codes
+This course is so great! Starting from zero knowledge about the VBA and now I am able to make some useful macros for my work.
+Great course. It is very informational. The way the instructor taught was great. Learned some new skills from this course
+Very useful course if you want to improve your Excel skills. It gives you new tools to solve problems. Fully recommended,
+The course is pretty good, it is friendly and useful to freshman. I like the teching style of  Charlie, he is very nice.
+I loved this course. The lessons were so clear and the professor so good that I couldn't help but learn a lot of things.
+Great way to learn...I started from zero in VBA...now I have the tools to make my path and the basics to develop myself.
+Excellent course for beginners. Its a quick introduction to VBA and has been pretty handy to automate repetitive  jobs.
+Excellent content.. easy to understand.. first time I found such a course on VBA which helped me to learn from scratch
+Wonderful Learning expirience. I am glad i enrolled and received enough knowledge.  A Big thank you to the entire team
+Very informatic and helped me to understand the basics of VBA.I cannot wait to jump to the next courses of the series.
+Very challenging but rewarding course. Skills gained here are very practical and useful in many business environments.
+The lecture is well structured, and the knowledge I learnt here is very applicable and practical to my day-to-day work
+I think this course is one of the best I've done in coursera. Everything is well explained and the material is great.
+This was great. I love the fact that he dives into what makes things work and how things should be. Give this a try
+This is an excelent course, and I learnt a lot about it . And I'm certantly sure that it will help me for my career
+Since , i am from other domain. In spite of this , the course is quite user interacting. Thanks Charlie Nuttelman.
+It has been really insightful and learnt a lot about VBA. Looking forward for Part 2 and Part 3. Thank you Charlie
+This course was very challenging, and allowed me to develop skills related to creativity and how I solve problems
+Sometimes it took some time to solve the course assignments, but when finally successful it feels quite rewarding
+It's clear, it's fun, it's useful.  Recommended for everyone, whether or not they have previous coding experience
+Great course and challenging. Looking forward to keep studying  these subjects.Thank you so much for everything.
+very good course structure, it really helped me to learn about VBA Excel in a very pleasant and accessible way!
+Really enjoyed this course. I used VBA before, so could go through a bit quicker, but still very useful for me.
+It is a great course, very dynamic and useful for getting started with VBA. I'm definitely taking the part 2.
+Excellent, very understanding and very tricky questions to be very attentive even while watching hte videos.
+A challenging course that will help you learn basic programming logic, language, and problem solving skills.
+Very instructive screencasts and assignments. Highly recommended to anyone using Excel/VBA on a daily basis.
+After taking this course, one can save hours of wrangling with syntax errors and debugging.Excellent course!
+Very well taught, the assignments and quizzes made sense with the material it was testing on. I enjoyed it!
+Exceptional quality of the course with interesting quizes, interactive tasks and very responsive professor!
+This course is super useful, everyone should try this. This help a lot when you do your job or for promote
+Very interesting and the assignments are set at a reasonable difficulty level. I've thoroughly enjoyed it!
+Very good with very power insight into the world of VBA. This is best course on VBA the world need to see.
+The instructor is very concise and effective in communicating the coding concepts to the audience. The ma
+This course is really fun and the professor taught really well. His lesson structures are easy to follow
+Excellent course content for beginners, course design is perfect which enhance the learning. Big thanks.
+I have always looked for a practical, intuitive  way to learn VBA. This is a great opportunity for that!
+THE BEST COURSE I have ever taken on Coursera. Great teaching, fair assignments, I can ask for no more.
+Great course to learn the basic of VBA so that one can build on it later in whichever field one goes.
+I am a Mechanical Engineer. This course helped me a lot with better using excel to perform analysis.
+I loved this course. Very easy to follow but I have the content I was looking for to get me started.
+It was a well-explained and balanced course. Several concepts will be important in my future career.
+Awesome course to give you the skills you need to feel comfortable and confident in using Excel/VBA.
+Excellent explanations with lots of challenging exercises. I learnt a lot in this course.Thank you.
+very clear instruction and easy to follow.covered many topics of VBA, very useful in my daily work.
+Great course on VBA! Very didactic and approachable for someone with basic/intermediate VBA skills!
+Loved the course! Looking forward to completing the other 2 courses in the specialization as well.
+Excellent instructor- very methodical and at a correct pace of teaching - not slow not fast for me
+Excellent for starters with some math knowledge! The course helped me a lot in real cases at work.
+It was a really useful online course, very targeted and safisied. I will definitely attend part 2
+Very good course, hope to get more courses on generating charts and formatting reports using vba.
+Really didactic, fun, clear, concise and interactive. Really liked the course and learned a lot!
+Would recommend take the week 5 lectures, The goal seek and solver techniques are really helpful
+The instructions are clear and the course content is very good. The instructor is also very nice
+Amazing ! I really learned how to use this information in real problem solving! Really helpful!
+Great course with a lot of examples and assingments ! The better part is that you do it at home
+The course is robust and chalanging. The execrsises force you to think and activate your mind.
+Great course!, Charlie makes the material easier even if you are not a native English speaker.
+Excellent beginner course for VBA. Very clear explanation and compelling hands on assignments.
+Great class. The teacher is very clear and thorough. Objectives are clear and straightforward.
+The best part is I can apply the skills learner here right away!  Will definitely take part 2.
+Great course to quickly learn basic VBA and problem solving solution in Excel. Heavy in math.
+Very useful course! The problems in the first few weeks could be slightly more challenging!
+Superb instruction. Videos are easy to follow. By completion, you have a portfolio of work.
+Very interesting course for anyone who does not have skills on VBA and want to learn more.
+Very good course. I think a lot of issuses covered in this course will be helpful in work.
+Excellent for basic concepts of VBA and some more advanced excel problem solving skills
+Excellent hands-on course on how to get more out of EXCEL with VBA. Highly recommended.
+This course helped me a lot to remind the main teqhniques of VBA macro functions. Heads
+Great course, good, clear instructions with challenging assignments.  I learned a lot.
+Great explanations, challenging assignments, very complete introductory course to VBA.
+Very helpful! Through some examples and assignments, I know the basic VBA more clear.
+overall the course fulfilled all its mentioned objectives in the course description.
+A nice course which covers all the basics, and also covers every topic from scratch.
+Great course! Maybe a bit challenging for complete beginners but it is worth taking.
+The courses are cunstructed really unterstandable, made lots of fun with learning!!!
+Very clear. Perfect way to get introduced to VBA. Looking forward for part 2 and 3!
+Not a simple Excel course. Will also sharpen your math and problem solving skills.
+Had a wonderful experience with this course.Thank you for preparing the course(s).
+This Course is very knowledgeable on theory as well as Hands on Hands Experience!
+Well explained course with every minute details included for easy understanding.
+Excellent course. Encourages you to think rather than just follow some shortcuts
+Very helpful for learning VBA. Step by step teaching is good for me to study it.
+Excellent course, give you tangible examples so you can get better the concepts.
+New skill of automatical computing helps my work and increase my personal value
+Excelent, my favorite section is when we went thorught the optimization metods.
+Well presented course! One of the best courses I have done so far :) Very happy
+Excellent instruction and clarity. Assignments are well designed. Great course!
+One of the best courses I have taken, super educational and with a good level.
+Great course. It was fun to solve the assignments and quizzes. Well designed!!
+The course was helpful and the teaching method was easy to understandThank you
+It's a very wonderful course. I have learnt many things new from this course.
+Perfect course. I have learned a lot of new information through this course.
+Great course to learn bacis of VBA with nice examples from engineering field
+Great for beginners! Easy enough to complete with challenges along the way.
+this course very interested for me ,and the course is organized ana helpful
+Enjoyed doing the course. Challenging questions kept on my toes throughout.
+It's very very useful and the teacher is so good! I strongly recommend it.
+Great course, well explained and useful examples and exercises. Thank you!
+Loved it! One of the most fun and fully explained courses I have taken yet
+Great course! It was really fun to do all the challenging tasks it offers!
+Fantastic course! Great combination of teaching, quizzes, and assignment.
+Great course, I already knew some basics of VBA, but still learned a lot.
+Excellent program and special thanks to Charlie for wonderful teaching...
+In my opinion, this course is the best course regarding VBA fundamentals.
+Clear and direct teaching, many applications and examples during learning
+Nice course, with fundamentals of VBA and a lot of examples an exercices
+very helpful... good pace to work at with just enough interactive tasks.
+It's a great course. Easy to understand and the practice is challenging.
+Very helpful and all the concepts were very nicely explained. Thank You
+The course is so useful that I will take the next one without thinking.
+Course made for people starting Excel VBA from scratch! Well explained!
+Very nice course! Thank you for creating this learning platform for us.
+Awesome! Take it if you uses a lot of excel in your work or even study!
+Very neatly constructed course that makes you think like never before.
+This course is good for beginner coders and was also quite difficult.
+Pace is easy. Assignment is effective to reinforce the concept learnt
+Excelent course for knowing VBA! Very interesting, lots of  practice!
+This was FAR too easy. Hope part 2 gets more evolved and complicated.
+I really enjoyed the course! Good examples, quizzes and assignments!
+Amazing course !! Loved the assignments , got so much to learn !! :)
+I loved the part 1 of the course, looking forward for the next ones!
+Great course! Very interesting! Thank you, Prof. Charlie Nuttelman!
+Really enjoyed it. Not as easy as it seems for a total beginner!!!
+Very useful for people who wants start to work with Visual Basic.
+Very useful and insightful. The course really broaden my horizon.
+Charlie explains the concepts very nicely along with the Basics.
+Excellent for a beginner, systematic, demanding and explanatory.
+Very good course. All things are taught in detailed and helpful!
+Great course that gave even more vba tools in my toolbox, thanks
+Very interesting eye-opener. Never thought I'd be that thrilled.
+It is an excellent course to start solving problems using VBA!
+I'm 59 yeaars old and i had big pleasure to study this course.
+Course is very good to have a basic understanding with Macro.
+Great instructor, very clear examples. Fun class to attend!
+Amazing teacher!! I've enjoyed every second of the course.
+I really like it. Though it's quite difficult to complete.
+Learned much more than expected, thank you. Well presented
+Great course! thank you!I really like quizes and projects
+Really, enjoyed the course and fluent teaching pratice .
+Instructor has done a great job in creating this course.
+had alot of fun learning. charlie is an awesome teacher!
+Very easy to grab concepts laid out in a simple fashion.
+Very good course for new learner to gain the experience.
+Really Added to my skills in Excel. Totally recommended
+Great Course! A lot of resources and practical examples
+One of the best MOOCs I have come across...phenomenal!!
+Excellent course to learn the fundamental of excel vba
+Great explanations and lots of practical applications!
+Really useful and interesting, really well structured
+It was quite a challenge, but totally would recommend
+I recommend this course to everyone in business life.
+Great introduction to Excel VBA... lets go for part 2
+Basic numerical calculations with VBA done very well!
+Thank you Charlie for your wonderful course!BestNegin
+Very well done course, very didactic and challenging
+great videos, great feedbacks, simply excellent - th
+Anyone who wants to learn VBA must take this course.
+that's really an easy understanding and fun course!
+Great course to learn and practice VBA fundamentals
+What a compelling course! Thanks for providing it!
+Very helpful and insightful intro to VBA and Excel
+This course is very straightforward for beginners!
+Fantastic assignments. more would be great though
+Easy to understand for beginners yet challenging.
+Well designed, interactive and highly applicable.
+Interesting & Challenging. Definetly recommended!
+EXCELENTE, EL MEJOR CURSO DE VBA QUE HE CONOCIDO
+It was really useful and i learn a lot of things
+It is one of the best courses I've ever learned
+Great introduction to Programming within Excel.
+Great course. Quiz is really fun and challenge
+Well organized. Well designed. Well Explained.
+Excellent course.
+A level of depth and detail.
+Rightly paced, entertaining: great experience!
+i think i got fundamental knowledge about VBA.
+I found the course extremely interesting. I ha
+Excellent Course, It's Everything I Expected.
+Very pratical and the explanations are great!
+Great course to get introduced to Excel/VBA!!
+Amazing course ! Thank you Charlie Nuttelman!
+Loved it ! I m going to hit second part too !
+VERY COMPREHENSIVE AND INTELLECTUALS PROBLEMS
+Awesome course. Learned a lot and tons of fun
+Great course. Very useful for data analytics
+Excellent course! very useful! very popular!
+A good course, perfect for a total beginner.
+Very useful stuff and an amazing instructor!
+Great course. Really enjoIed the assIgnments
+It is a great course.Thanks for this course
+An awesome course to learn VBA from Basics.
+Wonderful technique of straing from basics.
+The tutor and the content are just amazing
+Week 5 was the most interesting and useful
+Useful, good pace, easy to learn, perfect!
+The best choice for starting in Excel VBA
+Excelent!  Thank you for the explanation!
+It's very interesting course to learn VBA
+very usefulle , and excellent constructor
+Objective, interesting and really useful!
+it is one of the best courses that i had!
+This course was absolutely outstanding!!!
+Great Course to polish your vba skills.
+Very good course. Worth spending time.
+Great course, excellente to be honest.
+Love this course, very useful, thanks.
+Good introduction to the basics of VBA
+Amazing course (Graduated in Finance)
+Absolutely Loved doing this course!!
+Good Platform to learn the Scripting
+it was great and iIreally enjoyed it
+nice and learnt new things in excel
+An amazing course! Really recommend
+A fabulous course for Excel lovers.
+One of the best courses in coursera
+Good lectures for VBA. Appreciate!
+Nice course with suitable workload
+A really good course for starters
+Great course, enjoying it so far.
+a good intro for me to master VBA
+Very well-thought! Thanks teacher
+The optional part is very useful.
+Very good, I highly recommend it
+Excellent course, very thorough
+Just Great! Totally recommended
+the best course i have enrolled
+great course as a start for vba
+I really liked it su much!!...
+The course was very educative.
+Amazing course and instructor.
+Really indulging. great course
+very comprehensible and useful
+Very good course for beginners
+It was a great course for me.
+This ia an excel-lent course.
+it was a very helpful course.
+its not tricky but educating
+Great course, great journey!
+Easy to follow for beginner
+It was course worth opting.
+it is a very usefull course
+Very well organised course.
+This is an amazing  course
+Very useful course. Thanks
+Very helpful. Well taught!
+Thanks Professor Nuttelman
+It's a really good course
+Véry interesting course !
+Very challenging course
+The Best that I've had
+It was a Good Course .
+Very useful! Thank you
+Very Very Helpful !!!
+great and challenging
+Practical. Well paced
+awesome to start with
+Nuttelman is the man!
+Great course for VBA
+Very well developed
+i really enjoyed it
+Great intro to VBA!
+very fun to learn
+Overall is great!
+Well-constructed.
+Must take course
+really awesome..
+Amazing course
+Great Coruse
+Good start !
+that's good

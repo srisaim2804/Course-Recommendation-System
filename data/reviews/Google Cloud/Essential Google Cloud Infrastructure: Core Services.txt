@@ -1,0 +1,435 @@
+Jason Baker needs to talk a little slow. He is good. But, he rushes through some very important concepts in a ignorant manner. I had to re-watch about half the videos several times to get the full understanding. Some labs are pointless and dumb. Some of them are great and very detailed. I do like the way labs are presented. More labs will be add a great values for the price we pay.
+This is the perfect example how to make interesting stuff boring
+This course is very simple.
+The course isn't put together well, it has not been tested and you frequently have to re-do the labs as they are not recognised in the main part of the course.
+The progress of the course has been rolled back since some moment
+I really like the material and the instructor seems good, I don't mean to be too harsh below....There are SO MANY 30-55 second videos that could be merged into one longer one.  This is super annoying because when one finishes, it takes 10 seconds for the “next-up” to countdown.   Please, for the love of God, merge these things together, especially since they’re on the same topic, the material flows together naturally.  A perfect example is the module on Stackdriver.  If you let it run, you waste 20% of the time of the module on waiting to countdown.  Just make it smoother and combine the videos. It’s not very polished - One speaker’s video is so quiet I have turn the volume up, then the next guy is so loud I have to turn it back down.Another way to improve it - if I have a video playing in full screen, when it goes to the next, it shrinks down to the original window.  Not a big deal, except, the videos change every minute.  It’s just unnecessarily rough.
+The course content is decent and the labs are way better than the previous course, but Coursera's interface is HORRIBLE. Navigation is the worst I've seen in online training. It's hard to find your progress and going back/forth to different lessons is a complete PAIN. Clicking on videos doesn't work as it should because it makes you jump forward most of the time.
+While the course itself was ok - The Resource Monitoring (Stackdriver) v1.5 lab instructions given are completely incorrect - contacting support, and the instructions given only worked a 3rd time 2.5hours  of my time wasted on incorrect instructions, and lab bugs
+This course lacks practical application. It's too easy and without any depth whatsoever.
+Half the labs are outdated. Tutorial doesn't match the current GCE UI.
+More examples needed for billing and monitoring.
+Some of the labs instructions are ambiguous
+Bit to basic...
+Good material, but narrative is very planned and boring. All the body language is designed; which makes it really hard to engage with the narrator. Scriptive talking doesn't help either. There is no human factor here, it is all like a machine reading a text, even though there are ton of movement and tone adjustements; but as I said- because it is planned, it just doesn't work
+For Core Services course, there could have ben more Demo's instead of 
+just pointing the candidates to do labs on their own. There are no tips 
+and tricks or real world examples topics when explaining something. 
+Course becomes very dry and makes it very difficult to understand 
+considering someone is learning for the first time.
+Information was very precise and fast paced, I think videos are missing explanations, it seems like the person who's teaching is just reading and doesn't have much knowledge about the topic. Teachers have to put themselves in the position of students to give them a better explanation and class, not just read some information.
+This course spent much more time flogging google products than it did explaining underlying ideas. As with the previous course, this one would have benefited from more rigorous exams and more difficult labs (e.g. programming involved)
+Lecture content was acceptable for a high-level course; however the labs provided little value. The labs seemed like an arbitrary way to increase course length rather than provide more information on the topic.
+It touches only the basics of the services which are already covered in GCP fundamentals. Not enough quizzes to test the understanding. However labs are really good.
+It's a good course I just thought the cloud sql implementation part was so time consuming. You could be waiting upwards to 30 mins and I hope they fix that part.
+course is pretty much shallow with very unclear or shallow labs in most of the scenarios neglect important stuff for sake of testing normal stuff.
+Gives an in-depth overview of all bits and pieces regarding administering GCP. Necessary and good to know, but not quite fun stuff.
+Lots of issues with the labs referencing things that don't exist.  Time for a bit of housekeeping to bring them up to date.
+I had a lot of problems with the labs on this one. Seems like key parts the Coursera tech are broken right now.
+The audio volume level is too low, very hard to hear on mobile application or via PC browser.
+Lot of overlapping information with other courses in the same specialisation.
+Good courses that introduces GCP and have good labs to practices concepts
+I don't get any information about how stackdriver and others are billed.
+iT'S VERY INTERESTING COURSE BUT  I THINK THAT IT COULD BE MORE SHORT
+I did not find this course that helpful in IAM and monitoring topics
+Some of the labs could have resources pre-provisioned to save time
+Could have included a customer scenario based use case to study.
+The course could have been explained in a much easier way.
+Light on information and the labs seemed slapped together
+Too many technical problems while trying to run the labs.
+good course....i learn how to use cloud storage etc....
+Some of the labs where confusing, needs more work
+Some of the labs were not working as expected.
+not in details all the features
+Not the part I prefer in GCP.
+Expected more of the course.
+simplistic and formal
+Meh! It's ok.
+The videos and labs were very good. However, the quizzes as well as the quiz questions within the labs, were not so good. I'd estimate half of the quiz questions were memorizing lists. And sometimes a list of answers that all sound correct, but one is the answer from the video. How does memorizing lists and video content help me become a cloud SRE?Anyhow, I give the class 4 stars for the video and lab content, and knock off a star for the quizzes.
+The course was good, I'd like to know more on when do I have to install a stackdriver agent and when I don't need to do it, because in the lab we didn't do it. Also, generally speaking, I think it would be best if the quizzes had more questions, 10 at least; I don't think the three questions asked is enough to know if someone took the course or not, and would also help us (the student) to really know how much did sink in.
+It gave me good understanding of how GCP deals with generally what if something goes out of normal and the alerts and methods that we can use to quickly fix or mitigate issues. I at times felt there should be a better detailed explanation why / what the commands in the shell accomplishes and hopefully  one of the course developers speak bit slower and bit more elaboration. just a suggestion for improvement. Thanks.
+This course was very well laid out.   It probably would be a good idea to go over the quiz questions at the end of each module.  I messed a couple that I really thought I had correct.  It would've been nice to know exactly where in my thought process I had gotten confused.
+I didn't find the first module on IAM very clear nor complete, anything related to the hierarchy or the different objects, Organisation, Folders, etc. and how they relate (or not) with G Suite should be more detailed.Other modules are fine.
+Good course. Believe it would have been better to leave the videos uncut and not in 1 minute chunks as the coursera application is slow to move from video to video. There also appeared to be some duplicative videos for intros into labs.
+Essential Cloud Infrastructure: Core Services guides you through the several aspects of GCP Project roles/VMs/error tracing/billing that constitute the backbone of the GCP suite in a comprehensive and professional way.
+Too many types of errors! Although I finished the course I feel so many things still need to read about! Great Job in general but wish if you could add more lectures about monitoring and error reporting! Thanks!
+A little bit more details than the course-1, but overall okay. well paced. some of the tutorials weren't very clear in the way its delivered. but its well sized. Not too lengthy and neither is it too short.
+ok, would be great if labs had more exercises per core principal that you learn, you go to all that effort to set up a few servers, would be great to test out a few more related GCP features each time...
+Videos from course were spitted too often. Distracting when a video of under 60 seconds has additional 8 seconds for auto play and the wait time for browser reload. Next time please keep them as 1 video.
+Really good course covering a suitable breadth of material and with reasonable depth. I have the feeling that some of the labs could go a little deeper without significantly increasing the time taken.
+Over all very good course. Need to update the course to keep in sync with changes in actual GCP console. Need to fix BigQuery part ASAP. It is not in sync with the instructions in the Lab.
+Needs some updates to fit the latest features and screens of the products. (Big Query ANSI SQL instead of legacy SQL and some stackdriver screens instructions which does not fit)
+Please fix Cloud Storage section. The instance on europe-west1-d that running on f1-micro causing much pain because no memory allocated error. I think f1-micro is too small
+There are some outdated instructions in the labs of the course. Also it will better if lab in Monitoring module provides activities regarding logging and tracing.
+This is about all google courses: please structure course materials in coursera interface, it is total mess now. Group it into modules. Currently it is awful.
+In one of the labs for cloud spanner, it's mentioned that we would also explore cloud spanner admin but it's not available in the lab and missed :(
+I enjoyed doing these courses, the content was to the point and thorougly enjoyed the labs which are seamless without any issues. Thanks Courseera
+great content and labs; one exception: lab for service account creation, somehow didn't work with altstrat.com domain and submitted partial.
+There are some strange options in Labs that are confusing. This needs to be addressed as there are options ... where there should not be.
+A lot of the subjects were just on high level and I'm not sure I got the gist of every service in a way that I can sum up what it does.
+some of the lab instructions are outdated as compared to the newer admin console. So the labs instructions need revisit and changes
+Week 1 labs should be reviewed as they aren't working fine. Sorry too not able to send you all the details here please review them.
+Overall well done. A few issues in the lab, but nothing out of the ordinary. Just a lot of information to digest and learn.
+This course offers in-depth knowledge of monitoring. It helps to understand each every concept of monitoring and logging
+This course has variety of important lessons of main services which is explained and performed well in the labs as well.
+One of the labs couldn't be completed but otherwise a good course. I would prefer more exams like in the first course.
+Interesting though there is some repetition in the topics. Liked how I was supported when my lab didn't work directly.
+good course, labs seamed like they could have gone a little more in depth, ie use the monitoring not just set it up.
+Some of the qwik labs didn't work as expected and last, last lab about error log and trace didn't come up at all.
+It will be better to spend much time on debugging (adding logs on runtime) and other stackdriver features in lab
+The course is well designed and balanced. May be more technical labs or a global project will be a real add-on
+I think the IAM could've been better explained. It seemed too many concepts for such a short amount of time.
+The questions / quizzes are way too light to establish any level of understanding of the material presented.
+Some of the labs are not in sync with the latest GUI versions in GCP, overall great course and I enjoyed it
+Nice course overall. If you could add some case studies, it would be much more better for the candidates.
+Very helpful, Good Learning, Some of the videos are faster to follow, Otherwise all courses are perfect.
+Generally great! Please update some sections so trainees can follow easily. A few got outdated already.
+Week 2 labs' progress was not tracked and had to re-do the course again. Otherwise the course is good.
+I think this course has the same information of other, the advantage is the detailed features and labs
+This course cover a lot more material than the first one, I wished it went deeper into each topic.
+Course content was moderate to understand. I suggest some more labs needs to add in this course.
+Generally pretty good, a few instances where the data did match the descriptions in the labs.
+Apart from one lab failing causing me too not complete in time everything else is very good.
+Good explained but is not possible to download the videos & slides unlike the first course.
+I'd like to have more quizzes to better understand my progress and work on my weak points
+Decent course except the transcript and course layout are a bit messy as of May 22, 2018.
+A little complicated the lab activities, there was a need to talk to the chat and so on
+good for the most part, there were some missing steps that i would have like to see
+I'd prefer more complex labs on Error reporting, debugging and tracing in GCP
+Mostly good, not a a lot of detail about various Stackdriver services though.
+good course good practical labsrequires some linux and command line knowledge
+great course some contents didnt make sense but overall great course thanks
+the labs are not always very easy to understand - but it is mostly ok.
+some questions had mistakes and some labs had misleading instructions
+too less of bigquery queries to be written without doing copy&paste
+the conten was great, but the platfom had many problemas and fails
+Good overall, to me watching the person speaking is distracting.
+An hard one, but with the help of the labs it's was manageable.
+Pretty good course overall. Ran into a few issues in the labs.
+Overall excellent course, lots of labs and content. loved it.
+Excellent Platform to get knowledge...Thank you Coursera....
+The lab notes are not matching with lab in few occasions.
+A bit too simple at times, but good for beginners to GCP.
+There were differencies between UI and Lab instructions
+Helped me understand more of Google Cloud Architecture.
+The quizes should tougher question to check the skills.
+Requires many QuickLabs to be updated for current GCP.
+the logging and debugging part seems very interesting
+Good course, but the billing section is out of date.
+course is useful to learn some technical knowledge.
+Liked the billing information part. Really helpful.
+provide lab access additional hours for practiecing
+Very interesting, would appreciate more quizzes.
+Insightful and helped in better understanding.
+Good course, it would be great with more labs.
+some lab is confusing for the scoring point...
+A lot of mistaken words in English subtitles.
+Some of the labs did not work as mentioned.
+More detailed explanation would be better.
+I really liked the IAM part of the course.
+Issues still with some scoring after a lab
+This has better detailed labs than others
+some qwiklabs missing correct instruction
+Excellent course with good traininglabs.
+Really indepth and explanatory course
+I like how they separate the courses
+Had a good practice by hands on lab.
+GOOD , but very slow when doing lab
+it was nice learning with google.
+First week was ok, second wasn't.
+effective course by google cloud
+very informative.Impressive Labs
+can't hear the presenter clearly
+Could be made more interesting.
+was the worst task with alerts
+Feeling great with Coursera
+Pretty Good on-line course.
+Minor errors in the course
+Some labs are out to date.
+good learning with lab
+Fairly informative...
+Well delivered course
+Too many tiny videos.
+Very Good hands on
+Wel explained!
+Intersiting
+Satisfect!
+Very easy.
+it was great learning experience thank you philip sir
+Good Course. Lots to absorb, but it gives clarity on how the underlying Cloud infrastructure works and is designed, and some functionality that can be derived from this.Overall a great course and I couldn't have gotten this knowledge without the great content put together by this team at Google.Your hardworking is appreciated!
+Thanks to Google and its team for producing such a wonderful training content. It was a breeze to know about GCP and core services even for a guy like me how has not been hands-on for over 20 years.
+Get's a little more in-depth than the first as it should, pretty interesting, not sure about the focus on Stackdriver with it being basically a paid extra, but I can see the value in it.
+Great introduction to some very useful concepts!
+Not only was the course designed to refresh skills I've used in early stages, but to also inspire me to jump back in because of the ease of simplicity offered in GCP. All this while teaching me essential skills about the Google Cloud Platform and a fundamental view into the Services offered as well as all the work and thought delivered in the Products.
+I found this course to be a good introduction to GCP Core Services, with a nice mix of hands on activity during the labs with reading materials associated to the labs and the videos.  Be sure to read the resources that correspond to the videos.  The slide decks have very useful links to documentation, and other materials.
+Very good course to deepen Cloud IAM, Data Storage Services (Cloud Storage, Cloud SQL, Cloud Spanner, Cloud Datastore and Cloud Bigtable), Resource Management and Resource Monitoring (Stackdriver). The laboratories accompany what is seen in the theory with very interesting practical exercises.
+it seems like you learn by magic, the fluency and continuity in the steps in labs is very clear, the only downpoint is that when the steps are followed througt commands, the steps to obtain the same results in a practical environment are not so clear
+I think the course is excellent, the labs are really interesting, I just missed the demostration videos of the labs, I think it would be very helpful to have them for future references, and maybe rotating the course instructors could be good too.
+This course help learners introduced to all the Core services of GCP and establish a solid foundation on the GCP Platform. Additional links provided along with the course materials are really helpful for the advanced understanding of the topics.
+This course asks more questions than earlier ones, and the labs are a tad more interesting. The different data storage options are fun to explore. The course developers also expose you to a few more gcloud and gcputil commands and options.
+Jason Baker, Google Cloud trainer is one of the most knowledgeable trainer in the field that I have sat through a training with.  truly a delight and so much of real world example to support the theory and course material.
+This course was great for a foundation into GCP and the services they offer. This will allow me to be fluent with GCP services as I already have experience with AWS and my new job requires the use of GCP instead. Thanks!
+I really enjoyed the course. It deliveries very good videos and resources materials. The labs are very detailed. Though I had some labs that had some hi-caps. But apart of this the course is very good.
+This was one of my favorite ones, as this course includes hands on labs on most of the Google Storage services, and goes in depth with the IAMs, Roles, Permissions and Service Accounts.
+The course is very interesting and provides enough information to be able to understand the different options when required to configure Cloud Storage and Monitoring Resources & Apps
+Course structure is very interesting and QUIZs are more Interesting and giving more inside. I enjoyed the LAB most. LAB is giving lots of confidence and chance to use to of GCP GUI.
+very nice course to get right the basics. It is really important to learn about what service to use, when and Why. Also, setup user accounts and understand billing. Thank you.
+the male mentor's voice was too quiet, which made me difficult to understand the material explained by him. but overall I still can learn by reading the text of the video
+Quick and easy to follow. Enjoyable. However, the lab for the Cloud SQL discussion is broken, and some videos are too short for an itemized syllabus such as this one.
+This course quickly teaches you the structure of Google Cloud. It is definitely the best place to start with your exploration of cloud computing with Google.
+It was great learning experience , The  course content and demo for practicing lab was excellent. The steps in the practicing Qwiklabs was helpful to learn and explore the google cloud platform and its services . Once again my heartfelt thanks to Google for providing me a wonderful experience. I recommended the  students to take this coursera online course to uplift their job profile to meet the latest technology solutions.
+The concepts I've learned so far gave me knowledge about the essential services to start and deploy any kind of an application or service. What i like the most about this course is the approach of the instructor to explain the workflow using flowcharts. It really helped me to build up my own mind map. Thank you coursera, qwiklab and the course instructors.
+Great course I really enjoy the labs.  You have excellent training.  The main points are focused on, demonstrated and then finally we as students get to deploy them in a controlled lab that actually works.  So many times I have been in training courses with broken labs.  You guys are doing a great job keep it up!!!
+The course sufficiently explained major concepts of Storage, Resource Monitoring and Resource Management services available in GCP. It thoroughly explained their usage and the labs helped with interesting practical applications to familiarize us with the platform.
+A wonderful course that covers every thing in the most lucid way possible. Also the labs provided helped me visualize and get a strong feel of the google environment.  A ton of thanks to coursera and quicklabs team for providing this learnging opportunity.
+Great course and great mentoring gives from the instructors. Here I, learned about a bunch of resources available in the Google Cloud Platform like monitoring, alerting, and a bunch of storage options per defined in the Google Cloud Platform.
+AWSUM course.  The presentations, labs, and lab reviews are brilliantly developed and delivered.  The subject matter is well balanced and really drive home the components, their use, and how well they integrate across other services.
+Now I understood the DevOps of GCP (StackDriver), along with how IP addresses work among cloud SQL, Cloud Storage, etc. This course opens multiple ways to integrate services on GCP and assign roles using IAM policies. Loved It!
+Exceptional material with accurate amount of time dedicated for each module. LABs are great and help me to actually practice what I have learned. Over all 5 star course for anyone to understand the concepts
+Essential Google Cloud Infrastructure: Core Services! was a great course and also very Interesting . a coursera Platform is giving Great Knowledge Through Google Cloud Medium.
+Nice overview of many of the global aspects of GCP perhaps we don't tend to focus on when we're coding or planning an architecture for our projects.
+Qwiklab is a great convenience, and the course content was very up-to-date and to the point compared to other courses I've done outside of Coursera.
+This course provides detail information on GCP storage services and Monitoring module. The lab gave real time experience to play with GCP services.
+This was a very informative course. Covers all basic concepts of core services in GCP. Course instructor is very good and contents are to the point
+Very good level of detail on the storage services in particular that advanced my understanding past what is usually available from quick summaries.
+Great Course and I recommend everyone to do it. It helps you enhance your visualization of GCE Cloud Solution Design. Specially Labs are awesome.
+This course feels as though its too light considering the importance of core services such as storage and VM's etc. Stackdriver was covered well.
+Thanks, GCP / Coursera /  Qwikilabs. Great content, structured and delivered very well. Labs are awesome! A five-star rating across the board!
+This course was insightful. I am thinking seriously of working on my startup using GCP, after most of the logistical testicles are cleared
+some labs i felt steps were not clear, but still overall the steps are very nice so that  we can able to get the functionality working
+great overview! I particularly enjoyed those decision trees showing what type of database to choose, depending on the use case
+Aprendi mas Sobre Google Cloud Platform, IAM,Cloud Storage,Cloud Sql,Cloud Datastore,BigTable,Stackdrive,Monitoring,Billing
+Very useful and informative with the monitoring and essential services which one can face in real deployment of any app.
+Well I loved every moment of the course from the Labs to videos this make e confident to tackling the Certification exam
+such an informative course it helped me to develop my skills in google cloud and also helped me in learning new concepts
+It is a great course, helps understand the management aspects of GCP much better, such as user management and billing.
+This is a very useful but tough course. Labs are intense but  you will get a great understanding of the power of GCP!
+Best trainers, knowledgeable instructors!  Awesome lab sessions in real Google Cloud Platform!  I can't ask for more!
+Very Very informative sessions, well documented. I cant keep myself away from learning with Coursera, thanks a ton !
+Great course, a couple of labs are challenging and I will need more experience becoming comfortable performing them.
+Course made me aware about Monitoring tool Stackdriver and how it monitors Google resources with the help of Graphs
+Another fantastic course that covers great content and incorporates hands-on labs to fortify acquire knowledge!!
+Well designed course, appreciate the flexibility for taking modules. Labs provide excellent hands on experience.
+It was nice learning with hands on practice through qwiklabs, Thanks for providing this kind of infrastructure
+Provided a deeper insight to monitoring and what site reliability in Google is! Totally enjoyed the course:)
+Fully enjoyed learning and practising Core services . great going with practical lab and setups many thanks
+Very good course for those who are already familiar as SysAdmins, DevOps or work with other cloud providers
+It was a great learning and practicing experience in Google Cloud Platform via COURSERA.Thanks and regards
+"Thank You for providing this platform, and hands on lab experience to learn the various concepts in GCP."
+great course with curated labs which helps us to relate what we learnt and apply in real world scenarios.
+Really enjoyed learning new concepts, and refreshing on old ones. Looking forward to rest of the course
+Nice Essential Google Cloud Infrastructure about core services, it is very valuable as overview course
+This training is based on GCP Architecture and is recommended as a lecture that will help many people.
+Simple explanation and practical skill with labs, complement my understanding of  Core Services in CGP
+Great course to understand and learn the basic concepts of Google's Cloud infrastructure Core Services
+Very useful and outlining important areas like IAM, storage and stacdriver for monitoring and logging
+THANKS FOR THE COURSE!Its designed well to understand, follow and experience the used cases thru LAB
+Great learning experience, using practical examples and getting exposed to some of the fundamentals.
+Great course!  Each course gives me a better understanding of the overall workings in Google Cloud.
+Awesome.. I've learned too much in this course.  I appreciate everyone who created this content.
+Really helpful! Good analytical understanding at good pace. Labs are fun and easy to understand.
+Laboratory sections were excellent. Able to get the knowledge of Google cloud in deeper sense.
+A really good course but lot to learn when you do things on your own by seeing documentation.
+This course has made me a better architect designing and deploying reliable solutions on GCP
+Excellent course material and gives a good starting point to explore the features further.
+Good Course for beginners. Labs are very helpful to get the look and feel of GCP services.
+Wonderful learning experience. The videos are easy to follow and are easier to implement.
+Very good introduction to the GCP Data Storage options and Monitoring/Tracing/Debugging.
+I acquired a general understanding of Google Cloud Infrastructure. It was a good course
+I like it a lot, it covers a lot of the fundamentals services in a very complete manner
+Would be great of the course PDF is available like the first two courses in the series.
+Very good, i am proud with the acnowlogde adquired in this course with your many labs.
+According to point view cource provide a very clear view of core services used in GCP.
+love the course very informational and access to Qwiklabs for hands on demonstrations
+Excellent documentation and Labs are so helpful to understand and master the skills.
+Fantastic course.  Learned a lot of important information about maintaining my apps.
+Videos were quite explanatory and labs were engaging. Would recommend for beginners
+Great class. One lab didn't provide a score in spite of completion (Datastore Lab)
+The course is well explained and the labs are good except the cloud storage lab .
+Add more deep understanding about storage services and monitoring services of GCP
+covered complete course structure with indepth knowledge on IAM and other modules
+I really enjoy this course. Lot of helpful and valuable information was covered.
+Its great experience and very cool method of learning main is the practical lab.
+The labs are really good, simple but contains the overall intent of the course.
+Very good introduction about use of storage service and the monitoring aspects.
+Some of the labs are outdated but overall good basic information to start with.
+Really helpful to successfully completed the course along with live practical.
+nice, very comfort for learning and lab case, very clear explanation. excited
+Great job done with these trainings, expectacular content and learning given.
+Excellent course.  However, some of the Labs are not up-to-date or confusing.
+Easy to understand and learn to apply it in qwik labs both go hand in hand..
+Cloud sql and cloud storage and Stackdriver and error reporting very helpful
+Thanks really good platform for beginners to understand GCP and components
+Enjoy learning concepts for stack driver , datastore, Cloud IAM, bigquery
+Liked the content. Gained knowledge on GCP Infrastructure core services.
+It was very nice and interactive. I will be following the next labs too.
+Great course to manipulate and get to know how things work by yourself.
+Nice course, but need to improved in accordance with new GLP UI version
+Highly recommended for future and current users of GCP, and other PaaS.
+Great course.  It gives you  good insights on how core Services works.
+GREAT course so far!  Far deeper than the other online learning tools.
+Great course to build foundations of GCP infrastructure core services!
+Very Informative Course, labs are great tool to get exposure into GCP
+To get fundamentals of GCloud, this material and content looks good.
+thanks for the lab and learn, i'm very happy and appreciate that it.
+good and easy to learn. learn when you get time. no time pressure.
+Excellent course and hands on activity. Quiz is also very helpful.
+Amazing course dan labs for learning by hands on!! thank you gugel
+Really useful to understand this, for my, complicated part of GCP
+This course was good. Cleared all basics concepts with GCP tools.
+It was nice learning and helped me to understand the GCP concepts
+This has been nicely designed with hands-on following the theory.
+Gives a good overview of googles services and the labs are great.
+Good introduction and examples of some excellent GCP features
+Totally it is perfect, I will recommend GCP to my colleagues.
+Very Good way to learn to monitor resources on google cloud.
+Really interesting course. I would recommend it to everyone!
+A great and well presented introduction to Core GCP services
+it was nice,easy and in depth and knowledgable with good UI
+this course help our team to improve our project management
+It is good section to manage sql stactdriver and other GCP
+it was great learning experience thank you to google team
+Nice elaboraton on topics IAM and Storage and Stackdriver
+Great training martial and will prep for most of the labs
+very good information and Practice i got on this course
+Great and detailed exploration of core services in GCP.
+Learnt much more in detailed about cloud infrastructure
+Good course to get to know Core services offered by GCP
+Thank you COURSERA have a wonderful experience for GCP
+Nice course to practice with IAM and Stackdriver labs.
+Learning about Big Query and dasboard is quite amazing
+Thanns for the course will be continue ti next course
+Great Learng only Lab instructions are bit confusing.
+stack driver courses were very helpful as a developer
+Good course helped me to get close to Cloud Architect
+Great warm-up to understand and learn more about SRE
+It is a great course to learn GCP advanced services.
+Gave a very good understanding of GCP Core Services
+A very interesting course. I enjoyed the labs a lot
+I Have Great Experience In the QuickLab  of Cloud .
+Clear and helpful instructions and especially labs.
+Very helpful, good labs, and valuable information.
+Thank you for simple and clear of vary GCP Service
+a bit more challenging, but worth for the efforts.
+More indeed knowledge, but still need to go beyond
+I benefited a lot from the course and it was easy
+Labs are a lot of fun. Course itself is engaging.
+Good intro to the most important services in GCP.
+A quick introduction to the core services in GCP
+Awesome and reliable content or effective voice.
+Very Detailed. Will take more time to understand
+Really helpful in understanding Cloud computing
+Great Course to learn about Resource Management
+Very nice knowledge course and LAB of Practises
+Great course Worth taking for It professionals
+best part of me that can finished this modules
+Awesome course, easy to follow and great tech.
+Good course.  Goes deeper into the essentials.
+Great ... Like this course ..ez to studied it
+great content and explanation around topics.
+Thanks for explaining the concepts properly.
+Good course and learn deep google concepts.
+This was a nice learning experience, thanks
+Great!! thanks to coursera with google!!!!!
+Nicely designed and with hands on exercise.
+Thanks and this is Really Wonderful Course.
+it was very good, and philip is awesome..!!
+The classes and labs were quite insightful
+Excellent. More hands-on exercises please.
+Great instruction, clear examples and labs
+Awesome and Inspiring Course. I love Googl
+Very usefull information in entire module.
+Great course! I liked it and I enjoyed it
+its good knowledge of network monitoring.
+Excellent on course contains and teaching
+Easy to understand, concise and relevant.
+Interesting course for people new in GCP.
+Excellent coverage and interesting labs.
+Thank You Coursera..I'll go to next step
+Well structured course and good content.
+Very nice explanation and Lab Experience
+Very Nice course to explore more in GCP
+Enjoyed the labs.  Very well explained.
+Good Learning Experience with Coursera
+Clear Instructions, Great Lab Sessions
+Well documented and structured course!
+Was a great experience. Thanks a lot.
+Excellent hands on stuff to mater GCP
+Excellent Course. I learned so much.
+Such a great course for GCP Learning
+Very good overview and hands-on labs
+Easy to navigate and understandable!
+Excellent Experience of learning GCP
+Very Good , detailed and great labs.
+Quite interesting and not very tough
+Great teaching Mylene and Philipp!!
+Great explanation , demos annd labs
+Excellent explanation and material.
+Great content and best instructors!
+Very easy to understand and follow
+i love this course good instructor
+nice concepts. easy to understand.
+Very detailed and handful exercise
+Understandable, Friendly and nice.
+Great Course , had learn form it.
+Well Defined course for Architect
+Thank You for the awesome course!
+Very good class. Really enjoy it.
+Very Good course for Beginners .
+Labs are good. Content is good.
+Enjoyed Learning with coursera
+more theory for lab is better
+Awesome training materials :)
+Success for Coursera Student.
+Excellent useful information.
+Excellent Labs on Stackdriver
+learned a lot.....nice course
+Very nice course and qwiklab
+Enjoyed a Lot In this Course
+Very fine, complete as ever!
+Great Course for Chapter 1 !
+Great course with great labs
+harder but excellent study
+it was fun and educational
+nice tutorial and qwikslab
+Great labs.  Great content
+Excelent! Great teachers!
+Great lectures and labs!
+really well put together
+Good and well designed.
+i am easily understand
+A good learning course
+Good contents and Labs
+nice and comprehensive
+It was great overview.
+Awesome and practical
+Brilliant work Jasen.
+Very effective study
+Great hands on labs.
+It was awsome course
+Clear and practical.
+Very informational.
+Fantastic learning.
+Very good as usual!
+It was impressive
+Very much helpful
+Very Good cousre
+Nice to learning
+Awesome teacher.
+This is Great !
+Easy to  follow
+Very satisfied
+great course..
+Nice but hard
+Goal Oriented
+noce and good
+this was nice
+Very Good Lab
+Good Session
+Good to know
+Nice Cource
+Thank you!
+top-notch
+Loved IT.
+NIce one
+Great¡¡¡

@@ -1,0 +1,302 @@
+I like Kotlin as a language.I very much dislike the tests given in this course.The tests are more about reverse engineering games and doing maths than about learning a new language.I spend a lot of time just trying to understand the assignments.Overall a disappointment.
+The instructor has a very strong accent which makes the learning very difficult. I turned on the subtitles but it didn't really help as they were incorrect sometimes and even if they were correct, I couldn't really concentrate on the code displayed on the screen. It would have been better if they highlighted a certain line of code every time they are talking about it. I had to move back and forth in the video to understand it fully and overall it became very tiring and time consuming process.
+I literally cannot understand what's she is saying half of the time. It's extremely frustrating and I do not recommend this course. I switched to a free bootcamp course on Udacity and hoping that'll be better.
+The course title is totally wrong. The course title should be Kotlin for Pro Kotlin Developers. Totally a rough course. Will make you realize that you made one of the worst decision in your life by taking this course. And instructor's accent will disappoint you a lot. NOTE: ASSIGNMENTS will force you to cry like hell if you are a beginner level developer who knows Java. If you still want to take the risk  then feel free to take it and blame yourselves later if you start regretting.
+Requires itellij which is annoying. I already have ide's on the machine and I really do not want more. Plus video's are perhaps not the best way to learn. Listening to eastern European English is quite tiresome, especially the woman's. I know that is unfair, her English is far better than my European. But ….I think one is better off with other tutorials such as https://www.javatpoint.com/kotlin-tutorial
+Instructor are not very clear to understand.They make concepts difficult to understand.
+Sveta makes errors in her speech. Russian accent. The course content is great
+Great course for retards
+I believe that when we learn a new language, we should try to isolate the learning objectives and teach those.  This course offers many complications along with attempting to explain syntax differences; and the other complicating factors are making it really tough to figure out what the learning objectives are.  The content is not clear.  The accent of the instructor and speech impediments make it challenging to follow and decipher.  Once we do decipher the content, the exercise are obfuscating algorithm learnings with syntax.  This is not a good course and I will choose another way to learn this language.
+It's just west of money, the repenter English quality and the coding task are not satisfied.
+Content of the course is good and the instructor is also goodBut as a college student I couldn't understand most of the conceptsAlso the assignments are not even understandable and my suggestion is that the assessment questions could be clear It takes over 30 mins to actually understand the problem statementFinally this course is not for begineers and also for java developersI won't recommend this to others
+The grader on 4th week was not providing clear messages about issue. Plus, the course covers only the basics. So, I've lost my interest to it.
+This course is good to learn Kotlin basics, well structured and the exercises are not trivial. But the speaker in the videos has a terrible accent, it's quite hard to get everything she says, I had to use subtitles which is annoying especially because they partially cover the text in the slides.
+A course worth doing due to their assignments. Opens up the mind. However they need to make their problem statments more simpler as doing this doesnt offer a job in Google. :) Feedback would be to work on the discussion area and be more active for the people who made this course. And work on the content. Overall I am happy I went through this course.
+I had to rewind the videos many times just because the course instructor's accent was unclear to me
+Although a good introduction course, but the assignments were not relevant to the course material. They were mainly collections focused than anything else. Would have been real helpful if there were more hints around how to solve a assignments, in a more Kotlin idiomatic way.
+The assignments could have been a wee bit simpler, though they do test aspects of your knowledge of Kotlin, it felt like it was more of a test of your knowledge of algorithms with a lesser focus on using the concepts you just learned.
+Starts really good, but with week 4, it seems like Jetbrains
+lost interest in the course. Week 1-3 will show you the “kotlinish” way after the
+assignments, but after that, the only feedback you get is if the unit test
+passed or not.
+For people coming from a pure Java background, this course does a good job of covering quite a lot of topics playing to Kotlin's strengths and motivation for use.One can see the instructors have quite a firm grasp on the overall knowledge domain (as expected given they are part of the team of language creators).The text and speech of it does look like it requires a bit of a review, with the subtitles (I believe auto generated) got themselves in quite a bit of a tight spot, with multiple misses in words used which was case for quite a lot of replaying certain bits of video while trying to understand what was said.Exercises wise, there was a hard balance struck there. Some of the exercises presented during the ongoing video presentation did a good job in exposing some of the functionalities that were being presented. Coming to programming assignments, however, this is a bit lost, with the emphasis being more on implementing the requested functionality with not much guidance provided on whether the correct language constructs are being applied, mainly towards the final two weeks of course. When a person has no firm grasp on these functionalities, it does serve to demotivate a bit.
+While the content of the course goes into a lot of detail I found it a bit disappointing in terms of the questions asked in the lessons and the assignments. When covering the material, the questions asked most of the time aim very edge cases and don't add up to what's been learned. Sometimes it's difficult to follow the lesson, being a mixture of new concepts and the difficulty to understand the teacher. The last assignments are very hard, not because of the language itself but because we have to work out difficult algorithms that are not what we are learning. I think the questions and assignments should go hand in hand, and this fact makes it very hard to continue with the course and pass the assignments.
+The course is not too bad, it's interesting and easy to understand for someone with a background in java programming. The assignments are not always well targeted in my opinion as they focus on algorithm and not on the language. Unfortunately I had the feeling that the more tricky topics have been covered very quickly and they were not given the time they deserved. The accent of the teacher is not ideal but I would say almost completely comprehensible for an average english speaker. Overall I don't think it's worth the money (considering it's pretty expensive imo) since you can easily pick up the same concepts with any online tutorial.
+Content is pretty good, but the English of the teacher could really be better. English not being my first language either, I understand how difficult making a course in English is. However, her accent is so strong that it makes the whole learning process much more difficult. I had to basically mute the author all the time and use subtitles to have a chance to follow.Please use a native speaker to create those courses next time. The English of the lead of the language is perfect for example. Other than that, the content of the course is pretty good, and I did learn stuff. So thanks a lot.
+The course is quite good, but there is still something to improve, e.g.: lecturer's speech (sometimes really hard to understand), english subtitles in videos (there are major mistakes, that could confuse the listener - e.g. "enlightened" instead of "inlined", ...), no solutions for programming assignments in week5, and for last task in week4 (I'd like to know, if my solutions are principally good, or not - but unfortunately I'm missing feedback here).Nevertheless, I can say, that after completing the course I know much more about Kotlin, than before.
+The course material was great and the instructor very knowledgeable. My main pain point is the instructor's very thick accent. In my opinion, this course should be taught by someone who has a more "international" English. Having to decipher what the instructor is saying adds cognitive overhead to a subject-matter which already requires a lot of cognition.
+Overall it was good, and also the information and assignments was Ok, but the accent of the speaker was annoying. Maybe it was not the accent, but the feel that the video is not properly prepared, cut, post processed without slips of the tongue and of course a lot of "under the hood" :D
+Explanations were great (if not a bit brief), but assignments were really extra complicated and at times, vaguely explained. Sometimes, it would take hours to understand things, only to have a different explanation in the forum and accomplish it in minutes.
+This course definitely will give you overview of Kotlin lang features (which are commonly looks like syntactic sugar, but unfortunately program assignments are to complicated. Alson the course a lit bit outdated (no videos on coroutines, type aliases)
+The course content is very great. The teacher (Svetlana) is also very good as well. But I sometimes find it difficult to follow her sentences. I think it'd get better in time as she becomes more fluent in English.
+Binged it on a weekend, that was a bit much, it's a lot of work, most of it is barely Kotlin related. Still, good content, and definitely helpful to immerse.
+Improvement can be done on examples.Except that everything was good.
+I liked the course. It had an interesting subject matter and excercises all in all and they were for the great majority really good. In very few instances instructions or lectures were not quite as easy to follow as I'd have hoped. One example was the even or odd test in GameOfFifteen. These were however resolved by checking the course discussion forums or just googling. Perhaps it is not so bad that students have to check outside resources and think about problems a bit. However it seems to me that having them spend a significant amount of time on understanding parity of permutations is not exactly the core focus of a programming course. Maybe a more extensive set of instructions could be given for the permutation parity check?
+Concise introduction to Kotlin. Challenging exercises. Some digging may be required to understand what is needed to accomplish a task.
+It's a really great way to start on Kotlin! And by the way this is why we put it at the beginning of our own learning path (https://github.com/xpeppers/starway-to-orione/tree/master/study-path/languages/kotlin).The only thing I didn't like were the final assignments: too much algorithmic for my taste. I'd have preferred something to prove and practice with the language and its features.Thanks to Jetbrains!
+Pros: I like nice syntax overview and explanation of why it was done this way or another.Cons: Strong Russian accent makes it hard to listen to. Video is for beginners but Practical tasks are for Intermediate developers. I would simplify last practical task.
+I was a bit disappointed, that i didn't get feedback from a human instructor (for the assignments)For my taste there was a bit too much math knowledge necessary to complete the game of fifteen assignment.The explanations in the videos were good.
+Nice course.  I liked the level.  I really missed discussions on the assignments.  It would have been really nice to see a solution with comments and compare it with my own to learn from my mistakes.
+Great course but I won't give 5 stars because exams lack some explanation. Fortunately, some of us already asked the questions on the forum :)
+In terms of provided content this course is great. Provided knowledge is definitely useful for almost any Java developer. Content is greatly structured, assigments are pretty cool.Hovewer, there is some problems with presenting and plaform: Sometimes speaker is too slow (My usual speed on this course is 1.75x) and mumble. Subtitles also not helping (at least in weeks 4-5 when I listening them). Kotlin Playground can be marked as completed only on second attempt for some reason.Problems are not critical, so I still recomend this course.
+The course was very interesting, however, I have to say that most of the knowledge I gained it in other places like stackoverflow website. I also consider that the course was a bit hard to catch if you are not practicing Kotlin day to day. I have been studying Kotlin as an Android developer for about 3 months and some stuff were difficult to understand, I guess a person with zero experience would have pulled his hair out. As another feedback, I would have liked being more close with the staff.
+The course was well delivered and filled with useful tasks and assignments which really helped drive home the concepts being taught. Most importantly, I've gone from being unsure about how to handle the sheer amount of differences between Kotlin and Java to being comfortable using Kotlin and willing to explore more of its features. The only drawback from the course delivery was the slight difficulties in understanding the presenter, but those were largely minimal issues.
+It's a pretty nice course for people who have already know some object-oriented programming languages. You can quickly understand what is the new features compared with Java and why Kotlin was designed like this way. The thing I like most is that it showed what is compiled in the bytecode level, which helped me a lot in understanding what is going on under the hood.
+Great course, great structure + exercises. Minor thing: The English needs some improvement - it's quite hard to follow sometimes, and sometimes even the transcript fails (I read "[unintelligible]" one time). So much new stuff... but you managed to get this into this short course, and even I took something away from it - kudos!
+Sometimes difficult to understand instructor, but that is as much me as the course. Some of the examples are not left on the screen long enough to digest, or even long enough to realize I need to pause the video in order to examine them thoroughly, before moving on to the next thing. Requires annoying moving around the video.
+Great for beginners.. Some things that can be improved1) The compiler used to check the test assignments need to be upto date. Personally I had to change the code multiple times and resubmit it since I was working with Kotlin 1.4 and the compiler used to run and check the test in coursera was of a lower version.
+Sometimes it is hard to understand what she is saying and the subtitles are not very accurate. Very informative and great course for introducing any java dev to Kotlin. Thank you! P.S. the last assignment could really use some better tests and specification (the first one was quite ambiguous)
+This course allows getting familiar with basic constructions and ideas included in Kotlin. The material is easy to understand and clearly presented. I gave only 4 stars because some assignments force you to focus on a domain of exercise instead of practicing the language itself.
+The course was amazing. It covered almost all the concepts.But sometimes I felt the course was in speed. like it covered so many things in one video which I got some trouble.The rest was good.Thankyou Jetbrains and Coursera for such an amazing course.
+The final work (GAME 2048) contains too many complex rules and difficult to understand requirements. IMHO, it doesn't make sense just to evaluate the level of knowledge of Kotlin.The quality of the course and the 2 teachers are excellent!
+Very nice Kotlin introduction with a good mix of videos explaining new concepts and exercises to use it in practice! Thank you very much for all the effort that was put into this friendly course. Looking forward to more courses on Kotlin!
+This is a great course where you will learn a lot. Some tasks are challenging and fun to resolve. I definitely feel that Kotlin is a great language to learn and this course is really ideal if you starting Kotlin. I highly recommend
+excellent explanations, the lessons are clear and well structured.the exercises are a little too difficult, leading the student to seek any solutions even without using the best constructs of language given their difficulty
+In the end the course material could have been prepared a little bit better and the course seemed to have no proper end. To me it seems to be unfinished and the mentioned upcoming courses are not yet available.
+This course is good if you want to learn Kotlin because it has an excellent material. The exercises are not trivial, you will spend lots of time solving them. The teacher's accent is not easy to follow.
+I actually want to give 5 stars, but since the english being spoken in the video is not really clear, then 4 stars. Other than that, the course is great for any programmers who have experience in java
+The assignments don't have a detailed explanation. There should be more of code provided with fill the blanks kind of tasks. This would make it much easier and helpful as the assignments are tough.
+4.5 Stars.Excellent course, some sections go out of their way to show how Kotlin is different from Java... maybe I wasn't so keen to learn about differences rather than just having fun with Kotlin.
+I loved this course. I believe it is really useful for busy developers who want to update/upgrade their skills to now include the essentials of Kotlin language.
+This is a great course, it introduce Kotlin very well, and show me a lot about how it works under the hood, anyway, it is a fantastic introduction course.
+The explanation was good but not up-to mark, because the exercise which was given to us to solve was way harder than the explanation provided .
+Some of the concepts are too high level for a beginner developer to learn. And the difficultly of the task should be reduced little bit.
+Please, consider recording some videos on Second try at least, its really difficult to hear woman lector sometimes and frustrating.
+I believe Svetlana can speak better, this is the only problem with course. Hope you'll find some time to rerecord better audio.
+Though I'm not familiar with Java,( My latest Java experience was CS101 ! )This course helped me to learn Kotlin.
+It's a good course. I miss an explanation of how it could be possible to solve the last programming assignment.
+Nicely explained.But I think its good for java developers only.Not that much beneficial for Android developers
+Very good course. The only annoying part is that there are no solution videos for week 3 and 4 assignements.
+It was really nice experience learning this great modern language and getting to know the power of Kotlin.
+this is so amazing course but give little skills to concept  but was very useful for meTHANK YOU SO MUCH
+I found the course really helpful in building understanding of Kotlin being already familiar with Java.
+I had some difficult to understand instructor's english, but the content was awesome.
+The instructor should be more fluent at English with a better accent :)
+This course needs to be improved and few basic things need to be added
+Nice Course. Hence, assignments should be little simple to beginners.
+Great course with lots of practical content and coding exercises
+Great Course experienced some bugs with uploading the solution
+the accent was a bit hard to understand.
+Very nice content and fun assignments
+Excellent - kotlin is fun to learn
+Very useful and interactive
+Assignments were too long.
+Excellent coverage of core Kotlin concepts with plenty of good exercises. I look forward to the advanced Kotlin courses mentioned in the conclusion, covering DSLs, generics, coroutines, and more.
+This course is a very comprehensive and detailed introduction to Kotlin. However, it would be even better if it could include the generics part which is the most difficult but quite frequently used.
+Very interesting course where you will learn a lot about Kotlin.
+I think this course is very useful for someone who used java lang but wants to start using Kotlin to programming & to develop!I'm an android developer, from Taiwan, completing the course and love it.My English is not very well so I cannot speak how thankful for this course.Thank you, Svetlana and Andrey.Here are my words in Traditional Chinese:很感謝這堂課藉由深入淺出地講解、問答與撰寫程式作業，給予我許多基本觀念。其中 byteCode 層面及 Kotlin syntax 於 Java 中的實際意義給了很多幫助。特別喜歡 Andrey 於採訪影片的談話，非常有意義！也感謝 Svetlana 努力地解說，謝謝你們！非常期待之後的課程拜託快點出吧！！！
+This course was interesting and way more approachable than functional programming in Scala course for instance. However it seems like Kotlin is still advancing very fast so there are some small issues in assigments (buildSequence is deprecated and replaced with sequence). What I noticed is that trying to implement things in a functional way was not always easy so sometimes I went with imperative approach
+The course was very well organized. Instructor clearly explained not only the language features, but also how they works under the hood. This allows the student to take full advantage of Kotlin.
+Clearly explained, easy to understand and nice programming tasks. I could complain something of documenting what to do in programming task, and also more smaller tasks would be useful
+I overall enjoyed
+the course and found it very helpful for a Java developer starting
+with Kotlin. I'm looking forward to more courses from JetBrains,
+especially one on coroutines.At first it bothered
+me a little that Svetlana was speaking freely (i.e. not reading a
+script), because she often interrupts mid-sentence and starts over.
+But in the end I'm thankful that she did it that way, because it's a
+refreshing difference to the often sterile presentations found with
+other courses. You can almost "hear" her thinking. There's
+this one moment somewhere in week 5, where you can hear her
+frustration over not being able to transform her thought into speech
+at first try. It feels authentic.For me, the time
+estimates given for the assignments in Week 4 and especially 5 was
+too low. It took me more time. The assignments were not too
+difficult, but the pursuit of finding an idiomatic solution took more
+time.
+It was a wonderful experience to learn Kotlin from Kotlin designers. I am now a big fan of Andrey Breslav and Svetlana Isakova. Thank you guys! Completing this course was not an easy job for me although I have prior experience in Java. The assignments were comprehensive and required a lot of effort in terms of algorithms and Kotlin syntax. I am feeling happy that I have learnt core concepts of Kotlin as well as functional programming. Besides the syllabus of this course, I also watch Andrey on Youtube to get to know about the latest addition in Kotlin "the coroutines". I'll also try to convince my colleagues and management to give Kotlin a try. Let's see!
+It was fun to play with Kotlin for the first time. The course is short but seems to cover everything I need to start writing code in Kotlin. The material is well-structured and the exercises quite entertaining. Svetlana is active on the forum and helps to solve all technical difficulties one might face. Highly recommend everyone who wants to take their first steps in Kotlin. Thank you very much for the course! I enjoyed it a lot. PS I'd love to see more courses like that from JetBrains i.e. covering coroutines and Kotlin Native.
+I think the course videos explain everything very well! The tasks are fortunately not too simple, so you are forced to code (what's good). I recommend this course for all developers with programming experience who want to get to know a really nice programming language.One comment to this Guy who has only awarded one star due to linguistic deficiencies: How does it matter? I come from Germany and of course I have a German accent, so what? I understood everything  Svetlana explained, I guess you did too!
+I learned a lot about Kotlin from this course. This course talks about the features of the language such as extension functions, safe casts, data classes, etc; it also teaches a lot of useful techniques to use this language in its proper functional manner. I highly recommend this course to those who have experience with Java and would like to add a new direction to their skills. It is a major plus that this course is taught directly by the creators of Kotlin themselves.
+After taking this course I fell like I have a deeper understanding in how to develop real-world application in Kotlin. The content is very exhaustive and very well covered. Short quizzes inside the videos help to instantly repeat and deepen the understanding of important concepts. The assignments are challenging but also help deepen the knowledge. I would also call them quite near to real-problems. The Integration into IntelliJ makes working on the assignments a breeze.
+This is a course featuring explanations by Kotlin's core designers! It utilizes an educational plugin for intellij that allows for you to submit assignments from the ide.This course is fun, the videos are concise and concrete, and the insight you gain from Andrey Breslav about the design philosophy of Kotlin is valuable. I would recommend the course, but be forewarned that it requires some investment in study so you understand and remember the language syntax.
+Well-built course, informative, very useful in-video understading-check questions & also the playgrounds between videos.  Weekly assignments are fulfilling and cover much of the needed knowledge & skills to be gained. All in all, I got much deeper understanding of Kotlin & Java also.Looking forward for more courses from JetBrains, especially about Kotlin for Android & web/servers. Might , as well, use "Kotlin Everywhere" afterwards.
+I learned many concepts and fundamentals that will be useful for me to stand out in a job interview regarding the Kotlin language, such as:- The history of Kotlin- Variables- Functions- Named and default arguments- When- In checks and ranges- Exceptions- Extensions- Kotlin nullable types- Kotlin functional programmingThe material was very good and helped me a lot throughout the course.Continue providing high-quality courses :)
+This course does a good job of explaining how Kotlin is different from Java and covers important compatibility issues. There were a number of project assignments I found challenging and provided a good opportunity to apply material covered in the course. Overall, I discovered programming in Kotlin can be fun and also I gained new insights in into how a computer language can have a positive impact on productivity and quality.
+great contents, I really love this course, jetbrains guys are the right ones to introduce us into kotlin, I found the assignments kind of complicated to accomplish in 5h, sometimes it takes much more time because you need no dig a lot into videos and kotlin official documentation to fulfill the requirements, but at the end of the day the provided tests helps a lot to create the solutions in a TDD way, Great work!
+This is best course in the world as i learn a lots of new skill and new topics like lambda and Extensions Functions and best practice of code and make code efficient and best way to code and great things is i learn methods when i show video and give answer the question is the best i learn a lot from this methods and great things is weekly assignments also. thank you very much to Coursera and Team of this course.
+This course is great. It is very pleasant to listen to the lecturer, there are many detailed and well-developed examples. However, the complexity of the tasks performed changes too quickly. You may be asked to repeat what the lecturer just said, and then asked to write a dozen functions through lambdas. Although, I think this is just my personal experience. I give 5 and recommend to all Java developers.
+I started coding in Kotlin a few months back. And to give myself a comprehensive and detailed foundation in Kotlin I decided to complete this course of Coursera provided by Jetbrains. I must say this is an excellent course, packed with relevant content and useful hands-on Kotlin exercises with great feedback based on Coursera provided unit tests. Looking forward to more Coursera courses from JetBrains.
+Great course for those coming from a strong Java development background. This course is very information-dense and respects the developer's time by assuming students are _experienced_ Java developers. Because Kotlin is a JVM language, language features and implementation are explored using Java as a point of reference. The projects are driven by unit tests and are well-structured.
+Awesome course! Clear and straightforward introduction to Kotlin, covering a wide range of features the language can provide. Challenging and fun assignments, very practical, perhaps a bit underestimated in terms of the effort required (they definitely took me more time than what had been estimated). Great course, JetBrains! I'm looking forward to the next chapters.
+The best course in Kotlin, everything was well explained, the assignments were very good implemented to this course and allow you to practice what you learned, but you need to have a prior knowledge in Java or similar languages to gain the full of this course.. I really recommend it for anyone who wants to learn Kotlin the fast and the right way.
+It was a real pleasure to complete this course. You can clearly tell that the people at Jetbrains put a lot of effort into it (thanks!). Improvements suggested on the discussion forums were taken very seriously and the class was improved accordingly. Very much appreciated! Looking forward to using Kotlin for my next projects...
+A clear and comprehensive introduction to Kotlin. Lots of (way more than anticipated) concepts and features are covered in this course. Assignments are well designed as well, with emphasis on the mixed programming paradigm (OO & FP). I hope the promised Advanced Kotlin & Kotlin Coroutine courses are to be released soon!
+Nice introduction to Kotlin. You learn the programming language and some pragmatic usage patterns. It has the perfect pace for experienced developers. Although beginners will have a hard time. The assignments are challenging. You definitively have to dig into the Kotlin reference manuals for complete understanding.
+Best course for Kotlin from the very best Jetbrains. Suitable for those who have worked with Java before (as the title states). The last exercise was pretty hard, almost died in the end. All in all, it is really helpful. I wish Jetbrains would come up with an advanced course promised in the conclusion video.
+Course is very practical and easy to understand. It really helps a lot to acquire new language much faster when you learn based on your existing knowledge of another language. Definitely recommend this course and looking forward to complete more advanced Kotlin courses from JetBrains when they are launched
+Great course. Very detailed oriented on why features are implemented and what are the use cases of the same. Common Operations on Collection and Auxiliary functions could be explained in more detailed since these two are important for coding. So better to have a very clear concept on these two.
+Very informative and interesting course. Requires a solid background in programming, and even though some assignments could be explained a bit better as not all of us has a background in maths (hint: permutations), the videos are excellent, both in quality of production and content.Thumbs up!
+It was great to have the original creators of a language explain the ins and outs of it and the reasons why the Kotlin language is the way it is. This deeper understanding helps in grasping all the concepts and best practices.The programming assignments are great and challenging.
+Really good course even for those who know the basics of Kotlin and need a refresher. Svetlana, the instructor, is amazing with great examples for everything. The programming assignments are also great in really cementing the things learned. Looking forward to the next course!!
+This is an excellent introduction to Kotlin. I really like
+the way it was presented. It has a nice balance of theory and practice. The
+coding part was a lot of fun, especially implementing games in week 5 coding
+assignment. I highly recommend it to all my friends.
+If you are a many years Java Developer like me, and just started to explore Kotlin. I am sure you will have some WOW moments during this course about things that Kotlin does much better. Highly recommend for Java Developers to quickly get you hands on Kotlin.
+It's a nice course. The exercises are very interesting and make you think on how to solve them. The material is very good, even though some concepts were very general and sometimes weren't clear. In general, It is an excellent course. I recommend it.
+The course was amazing, one should definitely take if they like android programming. A very surprising thing is that there is no graded quiz and practical, that was totally new. We do assignments in android studio and then it is sent to Coursera.
+This is a very good course. Thanks a lot to the teachers. Good theoretical and practical material. I especially liked that for a number of tasks there is a solution from the authors. I really look forward to the release of the Corrutin course.
+This course provides a look into the language and what is doing "under the hood" which is great to understand Kotlin and how to use it better. This is highly recommended for any pro developer that needs or wants to learn more bout Kotlin.
+Tasks for programming was very interesting! Especially last task game2048 and fifteen. Last 2 tasks forced me to remember Math. I liked that after task was done, a saw more concise ways to do that in Kotlin.Thanks a lot for this course!
+Thank you very much for the good introduction to a new language. Assignments are fascinating and thought out to the smallest details. I'm really looking forward to continuing the course with more advanced topics, like coroutines.
+Awesome course packed with content and very well designed exercises! It was a pleasure to complete it! Thanks a lot to Svetlana and Andrey for this perfect intro to Kotlin for Java developers. Can't wait for the followup courses!
+Good comprehensible videos with lots of interesting exercises to keep watchers engaged. The weekly assignments are appropriately challenging. Would definitely recommend for Java veterans who are interested in a new language.
+Really helpful and in depth course about Kotlin. Brilliant explanation of Kotlin concepts against Java and why the design decisions were made. I feel I've read a book in a very fun way. Kudos to both the Instructors. :)
+Very good course. Useful and compsed by interesting videos that help the developer to understand and doing practise with this new programming language. I advice you this course, if you want to start writing Kotlin code!
+Very good course for Java Developers with lots of examples, easy explanations and interesting assignments. After finishing the course, I feel like I have a good knowledge of Kotlin and can use it in future projects.
+I enjoyed the course. The learning videos have covered the topics very well. The most interesting parts are the in-video problems.I liked everything in this video and learned a lot. Many thanks to Svetlana Isakova.
+Helped me learn basics easily  and the course is segreated quite neatly for proper understanding. Assignments were the best part of thid course, a bit lengthy but were great to learn the fundamentals to the point.
+Thanks very much, Svetlana and Andrey for that course!
+It would be useful to add video solutions for the last task at week 5 to compare my implementation with one of the possible solutions proposed by the teacher
+I really enjoyed this course. It's a very good introduction to Kotlin for those who is coming from Java. I will wait for the next, more advanced course (ideally covering coroutines,  flows, arrow library  etc.)
+Clear visuals and explanations. Would not recommend to anyone who isn't decently familiar with Java. The integration with IntelliJ IDEA has some flaws but it is a lot nicer than having no integration at all
+Excellent course, packed with relevant content and useful hands on Kotlin exercises with great feedback based on Coursera provided unit tests.  Looking forward to more Coursera courses from JetBrains.
+Thanks JetBrains team, the course is as great as all the things that you do!Now I am going to visit Kotlin island (Kronstadt) to see lighthouse on your logo (I leave nearby in Saint-Petersburg).
+The course was very well organized. The instructor clearly explained not only the language features but also how they work under the hood.  Thanks a lot, Coursera for giving me this opportunity.
+This course is a great way for learning Kotlin. Although I've been using the language for almost 2 years now, still there were some new things that I've learned/re-learned from this course.
+Great work, now i can understand a lot of concepts that i didn't understand before, the course is clear and very well explain with enough examples to reafirm the concept exposed, good job
+Great course. I thought it was going to be a basic course and it ended being harder, in a good way! Thanks Svetlana and Andrey for putting together this course, and of course JetBrains
+I learned a lot of things!!! despite I have been using kotlin in my work. The materials and explanations are really good. One of the best courses I've taken in Coursera definitely!!!
+Great assignments and quizzes to go along with videos. More in-depth than any other Kotlin course I have taken with showing best practices and reasons to prefer certain patterns.
+Nice introduction to Kotlin language with all its crucial features. I'd be happy if I wasn't so busy and had more time for homeworks :-) Otherwise one week is sufficient.
+Awesome course, content is well prepared & structured. Dialect is a little heavy sometimes and transcription could be better, but all together a really nice course!
+Very good course. Well organized and structured. The assignments are not always trivial and some IDE problem can happen, but at the end they are useful to learn.
+I would like to thank #JetBrain #Coursera and faculties whose give me opportunity to learn Kotlin, here I learn lots of new thing which are very helpful for me.
+Really helpful course and good instructors. Only one problem-its deadlines. Well done! I can advice this course for people who have a medium knowledge of java!
+Greatly taught by svetlana and andrey project lead. This course go thoroughly concept wise which makes this course a high quality learning material for kotlin.
+I really love this course. The assignment problems are very challenging. If you want to start Android development in Kotlin, I recommend this course for you.
+The course provides a very practical way to learn Kotlin. I think its coding practises and assignments are very challenging, but I have learnt a lot from it.
+Very nice course with tasks which are challenging enough to properly test the understanding of Kotlin. I really enjoyed challenges in the end of every week.
+Good content and nice pace. Some problems took a while to solve but it was due to change on mindset between how i java program vs how you do it in kotlin.
+Great course, would be really nice incluse something about coroutines, or make a new course only with this topic. Looking forward for more great content.
+Thanks for the great course. The only thing I would change, was a native speaker. I found it sometimes hard to understand what Svetlana Isakova said.
+This course was phenomenal. It was perfectly well explained and helped me to transition nearly all my prior Java knowledge to Kotlin within a week.
+The course content covers why we choose some functions over others, in such a clear manner, and also offers exciting programming problems to solve.
+Excellent course, thanks! Clean explanations, right to the point, good for java developers looking for a modern approach. Thanks for both teachers!
+Great course for people who wants to learn kotlin . The  instructors were really good and exercises help you to test your learning side by side
+Essential course to start developing using Kotlin. Even if you already have experience, it helps consolidate concepts and avoid bad practices.
+Very good course.  I hope they will follow up with more advanced courses AND in the meantime, give ideas/links/references for further study!
+Thank you Ms. Svetlana Isakova and Mr. Andrey Breslav for teaching Kotlin. I am very excited to continue learning Kotlin and read the book.
+Great course, great videos, great assignments. Five stars! Although I would like this course to have solutions for the last assignments.
+make assignment slightly simple and clear . i recommend course developer team to make this course one step down for better understanding
+I have really enjoyed this course. It's a good way to improve my skills and I believe is going to be my next main programming language.
+I would like to thank the instructors and Jetbrain to provide such an great course. This is the best kotlin course for java developers.
+the tests for the assignment of week  4 and week 5 were not exhaustive enough, the were passing even though the game was not playable.
+Really comprehensive course.  The exercises push you in a way that solidifies the lectures in a non-trivial way.  Highly recommended.
+Few really nice things were covered in this course. Kotlin extensions, the lambdas and kotlin's powerful inbuilt lambda expressions
+learning Kotlin was always something that I couldn't do it on my own, with this course I finally understand how things work and why
+Is great course. Is not only great for learning Kotlin but teaching concepts like extension functions, high order functions, etc.
+We can learn many way to Kotlin in your daily task , and make your code more clear than before. It worth to pay your time on it.
+It was a nice course with some awesome mentors, It is good for beginners who want to join the kotliners from the Java background
+Amazing! Waiting for Kotlin Pro course with coroutines! Thank you very much for such informative and still quite short course!
+Awesome course, I liked it a lot. Particularly that you added an emphasis on Kotlin style and good practices was very helpful
+Very good course to get started with Kotlin for anyone with some programming experience. Looking forward to advanced course.
+Excellent course with challenging assignment. I got good understanding of the language and the reasoning behind it's design.
+Course was great with explanations and examples.Although I had lot of trouble submitting assignments with Edu tool on Linux.
+This corse is a great one. You'll learn the basics of Kotlin with some tips and tricks, showing what you can do with Kotlin.
+I really liked that after some problems they give you a possible way to solve it. Looking forward the next Kotlin course !
+This is amazing. A learn a lot and the power of the lotin language. Then i will use kotlin to develop Android application.
+The lectures and the practical tasks are very good. Can't wait for more advanced course (especially one about coroutines).
+It was a really good course for Kotlin. As an Android developer I've learned so many new features which I can use now.
+I definitely like the course. Many thanks to Svetlana and Andrey and JetBrains. Looking forward to new Kotlin courses!
+A very good course with very good explanation. Now I am able to dive deeper and start using Kotlin for real projects.
+The course was very clear and incremental. i appreciated the pace between videos, quiz, playground and assignments.
+Excellent course with essential material, great small questions and to the point assignments. Highly recommended!
+Magnificent course, difficult but worthwhile assignments and excellent intructors. Thanks Jetbrains, enjoyed it!
+Very well structured projects, user-friendly EduTools plugin, interesting and useful tasks. Really nice course
+Very good content and hand-on with assignments. Thank you Coursera and JetBrains to give me this opportunity.
+Good course for Java and Android developers to understand Kotlin and Java interoperability of this language.
+I really enjoy the class, content is high quality but I expect have more exercise and divider to small task
+I already have some knowledge in kotlin but this was amazing it's very helpful in functional programming
+Not much to say... I loved the course.I'm only looking forward to the next one. It MUST arrive quickly!
+The course is very well structured and introduces new concepts at a good pace. Perfect for a beginner.
+Nice content and nice assignments. Wish you will have new course related to co-routine related topics.
+well explained, great way to excercise with real-world code, fast feedback via unit tests and grading
+Excellent course. The videos are of a suitable length, and the practical exercises are interesting.
+Very nice integration of the practical exercises using IntelliJ IDEA EduTools. Well done JetBrains!
+I did this Course to try to understand deeplearningai's Device Based Models course. Great content!
+Good course. Tests are hard but interesting.Thank you for the excellent effort doing this course.
+assignments were too hard and not related to Kotlin learning but  teaching and concept was great
+This was a great, thorough introduction to Kotlin and worth a look if you have Java experience.
+A well Defined course for Kotlin Newbie. I liked it the way they delivered the content. Thanks
+The course was great, I learned a lot with you guys. Thank you very much Svetlana and Andrey
+Great course, I completely recommend it for every kotlin beginner with some Java background.
+It's good to know that there is no magic under the hood in all kotlin language constructs
+Excellent approach to teach Kotlin, always showing how the compiler works under the hood.
+Excellent course. Good build-up and pace. The assignments are useful and fun as well.
+As Kotlin is a new language to me, I find this course very informative. Recommended.
+The best course ever. So well explained and so much fun doing the assignments. 10+++
+Awesome course, the instructions were concise and to the point without being boring
+This course is awesome. The lectures are absolutely easy, clear and very intuitive.
+Whole course was great. But especially i enjoyed your eduPlagin and its usability.
+This is a very nice course. I'll definitely recommend this course to my friends.
+It was really awesome to learn from the tutors. They are really great. Thanks.
+Very engaging and stimulating course! Can't wait to the next one about Kotlin.
+I wish the instructor had a better accent - some words are hard to understand.
+Great presenter. Clear and to the point. Very happy to have taken this course
+i really enjoyed and very much satisfied with the lecture and study material
+The best trepanning, when we have to match examples and tests. Best Regards!
+Assignments were very well thought out and lessons were very compehensive.
+Nice course not only about Kotlin but also about writing easy to read code
+Nice Course, Complex assignment for newcomer to java, BUt its really good!
+perfect .. the only one which will guide me to understand kotlin features
+Clear and deep content about a versatile programming language. Excellent!
+Wonderful introduction to Kotlin for people who know something of Java.
+very usefull and help me to implement on android programming thank you.
+Looking forward to the more advanced one that was mentioned elsewhere.
+I liked the pace in the course , the instructions and the assignments.
+Well done! Can't wait to see a second part with more advanced topics.
+That was an amazing course, i have learned a lot, Thank you so much.
+Shoer videos, interesting assignments, good language. Recommended!
+Great Kotlin introduction.  Sits at the right level of difficulty.
+Nice course, you get the basics. Appropriate level of assignments.
+Great course to get quick grasp of Kotlin while working with Java
+Very comprehensive course with challenging, yet doable problems
+Funny assignments and learnt new thins about how Kotlin works.
+Quick, detailed, deep. Very interesting tasks. Thanks authors.
+A good overview of concepts with relevant practical exercises
+Explanations were clear and practice tasks were very useful.
+Simply awesome. A very in detail explaination of the topics
+Svetlana is one of the best instructors I have ever seen!
+Great course with well designed assignments and quizzes
+great course, the assignments gave me the most insights
+Good course to move your mindset from Java to Kotlin.
+Tremendously enjoyed the course and the assignments!
+This is a complete Kotlin course for Java developers
+Good course for beginners and experienced developer
+It was really helpful. Great tasks and explanation.
+Great course, learned a ton, well worth the price!
+Nice course, and I learn more about Kotlin details
+Great course - assignments at the right level too.
+Very useful material.  Can't wait for the sequel!
+You can try new method for types and collections
+Great course with great challenging assignments!
+Great course with great challenging assignments!
+She doesn't know English. It is terrible lector!
+Great practical cases and theoretical material!
+Wonderful migration course from java to kotlin.
+Nice but easy, waiting for 2nd and 3rd course
+Great course with good exemples to practice.
+Waited for the next course from kotlin team
+Very good course, with excelent exercises.
+Amazing course for beginners especially
+Exceptional course, can't wait for more
+This course may challenges your brain.
+I really enjoyed this course. Thanks!
+Fun course with a good pace. Thanks..
+Exceptionally good course! Thanks!
+very helpful and understandable
+Very good to start with Kotlin
+Good for learning fundamental
+Excellent and good knowledge
+Detailed concept of kotlin
+Exercises were very good.
+I am waiting next course
+Good for new learners
+Loved your exercises.
+It wasn't so easy!
+Great assignments!
+The best one.
+thanks <3
+So Nice

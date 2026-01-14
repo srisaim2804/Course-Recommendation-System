@@ -1,0 +1,91 @@
+Can not download slides which make the source material very inaccessible
+Clear deliver of engaging content. Very disappointed the course lacked an IV program or some capstone to evaluate learning. Why would you complete the course with a quiz compared to a practical assignment. I also do not understand why the slides are not available.
+The course is ok, but not having access to the slides is very annoying
+Hard to understand
+I enjoyed the course and learned basics of causal inference. What I missed was more exercises with R in order to gain more practical understanding of the material. In particular, it would be great to have exercises where you get some dataset and your task is to calculate given causal effect and you need to come up with an approach and to execute it. This would mimic more closely problems that you encounter in practice.
+In the beginning the course to me was quite difficult, as it has a different perspective on statistics I was used to. Most people tend to say: "correlation is not causality". When it came to propensity scores, matching and so on the possibilities became more clear to me to apply these methods in practice. The pace of the videos is slow, so I played the videos in 1.5 of the time. What I missed was the ability to download the slides. The instructor would look into this, but we're still waiting several weeks later. Another thing I missed was any sense how many other students were in the course.
+Overall a great course. Better than other courses on causal inference on coursera. However, some of the topics (e.g.  within the IPTW and IV methodologies ) were presented in a sort of general manner (intuitive). Which is obviously not a fault of the instructor and is due to the strong research nature of these topics. Personally, I can't think of presenting, for instance, 2SLS or insights on IPTW in more detail within a crash course. Perhaps, increasing the number of weeks to 6 or 7 in order to include more detail on, e.g.  2SLS would be a good idea. What definitely helped to make up for those missed details is the practical examples parts with R. Keep up the good job!
+Clear course most of the time and a very interesting subject. The teacher covers the concepts from many angles: conceptual understanding, math, examples and R code. I like how there is little "fluff", you learn a lot for the time given and I don't feel any of the concepts covered are unnecessary or esoteric. The only negative is that the course could've benefited from more practical assignments. There are 2 R code assignments: could've been more. I was thinking about giving it a 5 or 4 stars and decided on 4 in case a non-perfect score actually makes the instructor improve the course.
+Very approachable as someone with a Masters in Statistics, probably tough if you are not comfortable with notation and concepts of intermediate prob/stats. Extremely clear and concise presentation. Coverage of methodology is a little weak, there is not enough discussion of the dangers of doing causal inference on observational data, nor of the dangers of the proposed methods. For instance, propensity score matching is ineffective or even harmful in the face of hidden confounders, which in the real world you almost always have.
+It is a great course for those who want to better understand how causality works, statistically speaking.
+Until the 3rd week the classes are very well exemplified and detailed, great to follow.
+Then, it is difficult to follow the explanations, impacts of the models, etc. - a pity.
+The interpretation of analysis results, variations and other subtleties is not the focus of the course. If you expect to see analysis and interpretation of results right away, this course is not for you.
+I have an economics background and during my undergraduate studies I took several statistics and econometric courses. The contents delivered in this course complemented my knowledge very well from another point of view. I would definitely enjoy a more advanced course dealing with other methods. The only aspect I would improve is providing the slides for further study. Other courses in Coursera do this and, honestly, I often consult the slides.
+The contents of this course are extremely concise and useful. The course prioritizes some of the important techniques used for causal inference. The practice tests , quizzes and data analysis tests were helpful to learn better. The lectures weren't inspiring or exciting and self-motivation is necessary to be able to stick with it. However, I would recommend this course to anyone interested.
+Content was useful for understanding causal inference in a variety of situations. Presentation was sometimes slow even on double-speed. Lectures were generally structured from abstract to concrete, which was much harder to follow than if it were presented in english first and then made abstract (Mayer, 2009).
+The material is useful and well-presented by Prof. Roy.  Although recipes are provided for solving relevant problems in R, more familiarity with R will be required for applying them.  Students should be prepared to develop that familiarity on their own.
+The course is well structured and the slides are well prepared. Professor clearly explains the formulas and makes you easily understand everything that is written on the slides. However, I would love to see some more examples from the social sciences.
+Course is great for a general overview! That said, the discussion forums are poorly monitored and one of the exercise datasets needs to be updated. In any case, don't expect more from a Coursera course!
+Very easy to follow examples and great coverage for such an important topic!  The delivery sometimes get repetitive and I wish we talked more about how the uncertainties are derived.
+very good content. Story line is highly concise. However, Lecturer could be more stream-lined the the way of explaining. He sure is a skilled guy, however.
+Excellent course. Could use a small restructuring, as I had to go through the material more than once, but otherwise, very good material and presentation.
+I thought this was a good overview and I'm glad I took the course, but I would have preferred more hands on programming assignments.
+Some of the materials are bit academical and away from industry, however, I found most of the materials relevant and practical.
+Great course, the title is exactly what you will get: the basics  on inferring causal effects from observational data
+Great course. I have learned a lot. I just wish to have more programming exercises to cement our knowledge.
+Could use a bit more guidance on the projects, but overall a helpful course. Gets straight to the point.
+Interesting introductory course about causality. Good "compilation" in just 5 weeks.Thanks!
+The course is very useful for beginners. The materials are clear and easy to understand.
+They could offer more applied exercises in R. But, it was also great.
+The lectures are good, and they might consider covering more topics.
+The material is great. Just wished the professor was more active in the discussion forum. Have not showed up in the forum for weeks. At least there should be a TA or something.
+It's really the easiest way to approach Causality someone who is not from a pure Statistics background. The approach here is different from Judea Pearl's book and I think it's justified because this course was not only for computer science students. This course has changed my perspective on how to work with data.
+I really enjoyed this course, the pace could be more even in parts. Sometimes the pace could be more even and some more books/reference material for further study would be nice.
+I enjoyed the course  a lot and I think I took a lot from it as well. The quizzes and computer projects were appropriate, and the resourcees posted were very useful.
+Works best on double speed (from settings menu of each video). Content is delivered in clear and relatable manner using interesting real world examples.
+This course is quite useful for me to get quick understanding of the causality and causal inference in epidemiologic studies. Thanks to Prof. Roy.
+Excellent introduction course. Jason Roy is an incredibly talented teacher.
+I learned so much from Dr. Roy by watching his great lectures. Thank you!
+Fantastic instructor with lessons accessible for both those with some background wanting to brush up and for newcomers. Note that the programming assignments are in R and one uses a fixed random seed so it will be difficult to complete the assignments in another language. That said, the data are available so you can play with the same concepts in another language outside of the assignments. Certainly recommend.
+Excellent course! The lectures are very clear and easy to follow, and Professor Roy is really good at explaining the concepts in a simple way. The assignments in R are helpful for grasping the theoretical concepts. I would specially recommend this course to data scientist, who might be interested in complementing their predictive analytics skills with the the necessary ones to tackle questions about causality.
+This course is absolutely worth your time. Professor Roy is thoughtful, deliberate and careful in his presentation. The course provides plenty of worked examples and external references. Course does not skimp on statistical detail (with some minor exceptions). I do recommend following along with a textbook as well as i found this helped me. Thank you Prof. Roy for making this fantastic course available!
+This is a great course for anyone interested in learning more about Causality and models for its estimation. I am a physician with limited statistical knowledge, but was able to follow this course with little difficulty, including analysis in R (though I do know how to run STATA and command line). I would recommend this course to anyone interested in performing a propensity matching study.
+Taking this course was a great help for me in my work. I was familiar with most of the matching methods but learning about other preprocessing methods and approaches really widened my view on how to decide what is the best way to do causal analysis on observational data. Thank you for using examples also from the field of social sciences. All in all, thank you for making this course!
+Over all, this course is extremely helpful for students who are interested in causal inference of observational data. It provides a rather comprehensive list of methods and techniques that we could use to disentangle causal effects, provided with ample supply of exercises and tests. Highly recommended! Will definitely take other courses on similar topics with the same instructor.
+After reading Pearl's book, Causal Inference in Statistics, I found this course really put some meat on the bones, reviewing the basics and demonstrating, in a very clear and easy to understand way, how to conduct the analyses and make causal inferences. The examples in R were reasonably easy to follow and reproduce even for someone who has not used R (me).
+I work in the field of Marketing, in a company that is actively exploring Causal Inference methods to estimate the impact of ads on the purchase behaviour. This course provided me with a solid understanding through illustrations and examples. This has changed my perception that experiments are the only answer to tease out a causal effect. Thank you Jason.
+I really enjoyed this course. The pace was great for completing while also working. I found the lectures a good length and the worked examples were really useful, as were the data analysis assignments. I was able to apply the learning directly as a reviewer for a manuscript asked for matched analyses, so that was great. Highly recommend.
+The content is relaxing and easy to understand, yet extremely useful in real life when you are conducting experiments. The well designed quiz each week only takes a little time, but could help you to diagnose problems and remember the key points. I really love this course.
+Excellent course. Builds a solid foundation from first principles. Should be a required course for anyone working as an applied statistician or data scientist. Most data science/ machine learning courses ignore causality altogether which is a real shame.
+This course is a short one, but power-packed. It gives a different dimension of understanding the data, it's linkages and further extrapolations. Each word of Jason has to be heard properly as he continues to explain facts in a very lucid manner.
+Good introductory course. I wish there were more quizzes (at least another 2 more), testing our knowledge of various formulae for computing IPTW (inverse probability of treatment weights), ITT (intent to treat) and at least one more lab in R
+One of the best courses in Coursera, Professor with lots of experience in a backpack show how to tackle very complex problem of causal inference. This is a topic every data analyst should know doesn't matter which industry you work or learn.
+Great course, especially if you are reasonably familiar with R and basic stats and interested in approaching causal analysis. Word of caution: If you have never used R, you will have trouble getting through some of the assignment.s
+I was a novice in causal analysis. But I needed some education in counterfactual estimation. This course provided me with the necessary knowledge and tools. I especially enjoyed the matching, IPTW and IV chapters. Thank you!
+I completed all 4 available courses in causal inference on Coursera. This one has the best teaching quality. The material is very clear and self-contained!
+This course is really fantastic for all levels. Very thorough explanations and helpful illustrations. Many thanks for putting this together!
+Well structured to provide solid understanding of fundamentals, good intuition, and a basic view of applying the covered material.
+Great introduction. Immediately used new knowledge in current job (marketing data scientist). Recommended course to co-workers.
+To those with some advanced statistics background, this would truly be helpful to catch up econometric thought processes.
+Not only good for bio stats, it has also profound impact to my understanding of a/b testing in the internet world.
+This is an excellent course taught by a very competent professor in a very simple to understand and intuitive way.
+Excellent overview on causality inference and handling confounders combined with practical examples and R code.
+Excellent course! Can make it longer though and cover more details and latest advances and issues :-)
+The best course on causal inference on Coursera. Lots of examples, easy to follow materials.
+A clear and straight-to-the-point introduction to causality. I'm really enjoying the course!
+Good course on the over view of Causality. Not too technical, but not too light and fluffy.
+Amazing Course! Really Helpful. I would love to have a similar full-duration course :D
+This course is very suitable for beginners, clear and easy to understand.
+Great course for getting your hands dirty with some real causal methods.
+The course itremendoulsy straightened my knowledge of causal evaluation
+Well taught, easy to follow but potentially very important techniques
+Great intro and overview of the details of Causal Inference methods
+I learned the basics of causality inference and want even more now!
+Very clear, it give good intuition also for technical points.
+great course and practical introduction to causal inference.
+A good course with detailed explanation and data examples
+Excellent course in causal effect estimation. Thanks .
+Superb crash course for quickly getting up to speed!
+Very practical for beginners in causal inference
+Thanks so much for providing this great lecture.
+gives thorough basic intro to causal inference
+Awesome!!! Looking forward to the next one!!!
+Detailed and excellent course on causality
+The best lecture series of causality
+no nonsense, in depth and practical
+intense and well crafted course!
+wonderful course, very helpful
+Good intro of the techniques.
+Very well presented.
+enjoyed it very much

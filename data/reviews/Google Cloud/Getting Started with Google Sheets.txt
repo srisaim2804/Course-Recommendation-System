@@ -1,0 +1,141 @@
+The view of the sheets was horrible. I had to strain and see what formulas were being input. Not just that the explanation of the formulas and tasks was done almost assuming a beginner an understand it. One of the worse courses of coursera and this is an important course that needs to be dealt with properly. Believe me youtube videos on google sheets are far better. Maybe take a few lessons from there.
+This teacher is utterly terrible. Doesn't explain anything well. Total waste of money. The only reason I was able to even complete this course is because I have some experience in google sheets. If you have never done it you will surely be lost. Would give this a 0 star review if I could.
+She worked through the spreadsheet way to fast to follow along. The Excel spread sheet that she used was to large and complex to follow easily. Compared to the other courses that I am taking from different universities, this course shouldn't even be available in  the catalog.
+A decent overview of some of the features of Google Sheets. Some of the assessments (in Weeks 2, 3 and 4) seem to have mistakes in the answer keys (going by my own experience and multiple comments in the forum - the opposite of confidence building) and were very conceptual for a beginner. It would have been much better to have a step by step "how to" guide especially for the formulas and analysis sections. The instructor whizzed through crucial topics and focused on niche features instead.
+The instructor is a good speaker, and she starts off pretty smoothly. However, by the time you get to the later modules, she is rapidly inputting formulas and demonstrating procedures that are too fast to follow or understand. Additionally, nearly every test (at the end of each module) has a mistake in either the directions or the answer sheet. I would NOT pay for this course until these errors are fixed!
+the short vdo motivated to finish the course, but it's not in detail, just roughly and general explanation. it should be demonstrated before and after applying the tools to visualize appropriately.
+Carpet bombed with metalanguage and very brief descriptions. Hard to follow when so much is thrown at you all at once.
+I loved learning the topics and the pace for viewing and completing the course was good. I also liked the structure of video, reading, and quizzes. But I constantly had to pause and back up the video to see where the instructor was clicking. There were just way too many glitches. I left comments on many of them, but noted in the blog section that many others had already noted the same problems, yet they had not been fixed. I was never able to take notes in the app as was suggested. (But I did use old fashioned pencil paper) At least 3 wrong answers were found in the tests/answer sheets. These too had already been documented by other users, but not fixed.
+i WAS UNABLE TO CAPTURE THE CELLS (THAT COULD BE VERY USE FULL ) , INSTEAD OF HAVING THE INSTRUCTOR  COVERED THE  WHOLE SCREEN i COULD LEARN BETTER LOOKING  AT THE CELLS  WITH BIGGER FONT (CONTROL+) AND THE INSTRUCTOR FORGOT TO INCREASE THE SIZE OF THE FONTS ....
+Some sections were skipped through very quickly, not explained in the exact terms used (for forumlas) and you can't see clearly what's happening on the screen/spreadsheet). It's important to know how to get the right ranges for your data and see the formulas being used.
+Overall, happy with the course. I wish more time was spent on the formulas and graphing sections, however, I can appreciate that this is just an introductory course. Useful to anyone looking to get a grasp of sheets.
+Course was informative and I've learned many things here, hovewer tutor is teaching too many things in one video even sometimes she is not explaining briefly how to use that particular function in a sheet. Furthermore, there is a lack of practices so that we follow up one video with actual practice activities.
+The course explanation could be better and more exercises could have been included for practice. Still, a nice beginner's course.
+Very informative and good session. I learn lots of thing which I had not used earlier.Thank you so much.
+Sorry to know that the only option to get your calification from the cuestionnaries, is to pay.
+It could have been more extensive.
+I did the free version so I had a few less resources than if you pay. Overall I really liked the instructor, she made things clear and concise. A few things she rushed through that I really had to go back and study to figure out, but overall the editing of the course was clear. One of the answer keys has an error, in week 3, which was upsetting but would have been very upsetting if I'd have paid for it. It taught me many things about Google Sheets but not nearly everything I wanted to know; however, there is so much to learn in Google Sheets that it would be difficult to cover in even five courses. This course was short and I learned lots so it was worth my time, but if you want to gain an extensive knowledge of Google Sheets this isn't the class for you, considering it is very much a beginner level.
+Getting started with Google Sheets. She zips through and assumes you have prior experience. There is a steep learning curve if you aren't already fluent in spreadsheets. I was able to follow along well enough as a complete beginner, I was manipulating the data for the most part and even played around by grabbing movie count/actor on my own using =countif( command. Google Forms is something I will most likely be using. Linking a questionaire to a spreadsheet could prove invaluable to anyone.
+I found this very useful in getting an overview of Sheets and its capabilities. The organization of the course was spot on, and the use of real data (movies!) helped me apply the skills to a data set I didn't have to create. It would be helpful to include a cheat sheet for the syntax of formulas. For example, when creating an "if, then" formula, what does the parenthesis symbol mean and what does the comma symbol mean, etc.
+The course is thorough and a great in-depth, hands-on learning experience.  I enjoyed practically all aspects of the course.  The one criticism is at times the lecturer spoke a bit too quickly and the screen shots of the google sheets during the lectures were too small to accurately analyze.  However, it is a course I heartily recommend.
+I just discovered about Google Sheets recently. It made me curious so much to the extent that I am now using it. Maam Malia, thank you so much for sharing us your knowledge & expertise. I've learned many things & discovered new things. Now, I am excited to apply them on my Google Sheet project for our office. Thank you! And more power!
+Firstly thanks to Coursera, for this wonderful opportunity to learn all about Google sheet.This course is really helpful for data analysis, handling  in very systematically. I recommend that anyone can do this without any peer knowledge . And it's really useful for our daily life also.
+The instructor was great but a little bit fast or need an advanced learner, it would be great if she can add more examples in some topics like google functions(sum , count , and other functions ) Other than that she was great and really I thank her a lot
+While very useful some parts were tricky if you didn't already know the same function in excel.I would've liked to see more practices and some files were in cvs which my laptop doesn't recognize.
+The sheet in videos could be closer and darker.  Hard to read and follow because they are hard to see.  Otherwise the course is a great way to get started with Google sheets.
+Good course. Explained alot of useful features. Reccommend doing it to get familiar with Google Sheets. There were some errors int the test sections of the course.
+This course was great. I learned some very key information. Although, the pace was very fast, leaving me having to review information several times.
+It was nicely presented in a short and informative Session. Grateful to the content writers who made such a good content to digest easily.
+This is one the good courses which i learnt on coursera and to providing me this course i'm very thankful to coursera and the whole team.
+It would be helpful to have something to print out with the formulas.  It was sometimes difficult to see what she was typing.
+Overall very good course: lively and quite interactive! Many thanks!Just sometimes views of Google sheets were a little blur
+I really enjoyed learning with hands on experience modules in this course..I like the way of teaching tooThank you ..!!
+This course is very good for Fundamentals. The instructor has explained every Formula and Technique Very good.
+This course was simple and informative.  it really highlighted loads of information in a short amount of time.
+Thank for providing the course. It would have been easier to listen if the audio could have been a bit louder.
+The very excellent course gives you the most features from beginners' level to nearly advanced.
+
+Thank you!!
+Very interesting and useful course which teaches us the application of google sheets in everyday life
+Videos can be more detailed, more focused, and illustrated for better understanding.
+I am very happy to learn Google sheets in coursera it was very  useful course
+live data should be given in this course so we can see and change live data
+The instructor went quite fast. And I wish the video quality was better.
+Wonderful course, but it would be better if more assignments are given
+more details with easy understanding could make it more efficient
+excellent . i have learn more study bout google certificate
+Good introduction course with great contents
+It's enhanced my knowledge to next level.
+it's very easy to learn about excel
+Expected it more elaborately.
+This is a good starting.
+A great, user-friendly intro to sheets functionality.  The info was extremely easy to digest and reiterate.  Great resources provided for learners
+I learnt a lot in this course. I will recommend it  anytime, any day, to anyone who is interested in learning google sheets and google forms.
+A nice survey of Google Sheets, what is possible and how to.  Should be a relatively easy effort to go through.  Learning probably come after the course and repeated use of Google Sheets.
+It's a great course I was surprised and some of the stuff you can do with Sheets. I'm also surprised more businesses aren't using it.
+It is a recommended course for the people never seen (or new to) Google sheets or Excel. But a person who can comfortably work with excel and having knowledge on how to share files in Google drive, they can brush up their basics (not as recommended). Don't expect any in-depth explanations, it is a course purely meant for introducing a graphical user interface. The great thing about this course is while undergoing you can realize huge material available to learn about google sheets also.
+I enjoyed the course a lot. What I liked about it the most was being able to have the option to improve your grade, rewind the video sessions, take notes/ highlight notes, and work ahead. I finished this course in 2 1/2 weeks. Although, one thing I would recommend is slowing your video speed, she does go through some things very quickly and without explaining exactly how she did something. Listen carefully but also pay attention to her demonstrations.
+I liked the byte sized sessions and learnt a lot in quick time and was amazed at google sheets can do compared to traditional microsoft excel, I liked the translate and visualizations with the help of a click and I feel good about google more
+A best course to learn various tools and functions to be used in google sheet and even some of the Excel sheet. Course delivering communication technique is ease to understand with very basic knowledge of language, English.
+I have always worked with Google Sheet, but this course and the instruction explanations made my knowledge about it much better. I'm another person with another knowledge. Thank you so much.
+It was a really helpful course and I am looking forward to use the cool features that I have learned here in the real world.
+The presentation of the contents was excellent. The instructor exhibited some complex concepts in a way of telling a story.
+Very nice course offered.I was surprised with some great stuffs in sheets.My suggestion is to spend more time on formulas.
+Solid introductory course. Will leave you intrigued as to what more you can learn about the abilities of Google Sheets.
+The videos and readings helped me to get adequate information on working with Google Sheets.Thanks to all............
+This is a nice course for beginners like me. This course will help you to learn basic skills for spreadsheets.
+As from this course i learn a new skills and many concepts in the google sheet ...thnksful to the coursera
+Instructor explanation is exemplary and we are able to get acquainted with the Course assignments also.
+It's very important to deal with data in an organized way ... thanks for your effort in this course.
+This course has taught me a lot of shortcuts and has taught me how to use google sheets properly.
+I learned some interesting new things about Google Sheets, and refreshed my knowledge of others.
+This Course helped me dive down into the Google Sheet features that I've thought know them before, and learned the tips and tricks about the SpreadSheet manipulations. thanks a lot :)
+its was really educational for beginners like myself, now i can at least do something with google sheets and google forms. seeing forward to advanced tutorials.
+Demonstrated the real advantages of using online Google Spreadsheets to work with a team spread across the globe, easily, quickly and securely.
+Eventhought I've been using sheets for a long time now this couse maneges to teach me a bunch of features i did not know. Thanks!!!
+Informative and effective. But the movement of curser during explaining an activity, may in a slow movement, is more catchable.
+Excelent and very practical, the whole process helped me understand and feel more confident when working with google sheets!
+the course was excellent.The only drawback was that the sheets on which the tutor was demonstrating was not at all visible
+This is a very interesting Course.. I learned a lot from this. I love how amazing google sheet is. I can use it in my Job
+Absolutely fantastic! I learned everything I needed to know so I could hit the ground running at my job. Well done!
+This course is well designed for beginners,  easy to grasp and has many hints about Google Sheets
+Very clear instructions. At the end of the course I found myself wanting to continue practicing
+It was a grateful topics for me and i would suggest to everybody to unroll on it Thank you !
+The course could have been a little more detailed.  The instructor was very knowledgeable.
+it was truly helpful and get to know useful things about a google spreadsheet. thank you
+The videos demonstrate practical features of Google Sheets and easily to understand.
+Thank You for the course..! It has helped me alot to improve my basics from scratch.
+i learnt each and every step as prescribed our teacher. i hardly spent this course.
+THE COURSE WAS VERY INFORMATIVE , NOW I FEEL VERY CONFIDENT WHILE I  USE  SHEETS
+Very Excellent course!Learnt many untouched areas from this course.Thank you.
+I like it very much.  I got amazing information about Google sheets which I f
+It is a great course to know more about the necessary tools of google sheets.
+This online course is awesome. I have learned a lot. Thanks and more power.
+Now, i'm sure i'll explore Google sheet to work AND collaborate AND analyse
+Nicely covered and explained all topics required on actual field/industry.
+This Course really teaches all you need to know to ace your spreadsheet.
+All the concepts are well explained in a easily understandable manner.
+Wonderful. Explained the topics in the simplest way. I like it. Thanks
+awesome course which help us to learn everything in the google sheet.
+Very simple and easy to understand with great functions. thanks
+Wow, it was a great experience. I am now a PRO on GOOGLE SHEET
+excellent course for beginners but the practice was important
+It was amazing to learn these new but useful things! :)
+One of the best tutorial. Easy to understand and imply.
+Its very usefully for the this course in online works
+Thanks so much for everything, This is a great course
+Good explanations. Cover all basic thinks. Thank you)
+Great teacher ! Sheets is really powerful! Thanks!
+It was very educational, learned a lot with sheets
+The course was exceptionally very well delivered.
+Easy to understand. Practice tests are very good
+Its new experience to learn online.. Thank you
+need to add some question and answer session
+Knowledgeable & good content to understand
+It was an interesting learning opportunity
+All topics are narrated in elegant manner.
+it was very easy and very Useful thks lot
+The Course is very useful / informative.
+very good and helpful.easy to understand
+exceptionally good course for begineers
+Felt well coached through the course.
+IT WAS REALLY GREAT DO THIS COURSE
+It's very helpful to future works
+Great course, easy for a beginner
+Thanks so much for your sharing!
+The way of teaching is good...
+Excellent Course to learn from
+AWESOME! Informative and fun.
+Great introductory course :D
+Excellent class! Thank you!
+Very good and knowledgeable
+Great comprehensive course.
+it is good for beginner
+a well designed course!
+it's easy and amazing.
+awesome presentation
+Very well conceived
+LOVED this course!
+Awesome course!!!
+Very helpful! :)
+Nice and  Useful

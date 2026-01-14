@@ -1,0 +1,930 @@
+This is bad.This is objectively bad.The quality of the slides? Bad. The audio quality of the presenters? Bad. The presentation itself? Bad.Bad. All. Around. I expected a LOT more from IBM. If you're going to build a course in English.. use primary English speakers. If you're going to build a MOOC module? Build it. Don't slap prerecorded training from internal crap into a module and push it out.The speakers gender has absolutely nothing to do with this course, nor should it hold any weight or impact. Knocking and police sirens? Really??No. Just no.
+I have been stymied by the poor quality of the course material and the lack of proof-reading that has gone into compiling these quizzes. I don’t mind the occasional typo that gets through (those happen) but when I have to select THE WRONG ANSWER in order to get credit/point for the question, that is a problem (Please see Week 3, Practice Quiz: Incident Response). I am unable to see feedback on failed quizzes in order to find out what I missed (Please see final quiz in Week 2 – Many people in the thread have also struggled with it as well). I have no faith in the organizers of this course for the following reasons: (1) poor audio quality that is unintelligible in parts, to the point that even the transcript underneath the video says “[INAUDIBLE]” at times, (2) the lack of instruction on all topics while still giving us questions in the quizzes that ask about concepts that we didn’t cover, (3) the obvious lack of proof-reading where the right answer is wrong and the wrong answer is right. I am disappointed because this is not the standard I am use to with Coursera. The Google IT Support certification was of excellent quality and well executed. It was a challenge but it was passable. This IBM badge however has been a nightmare. I would strongly advise that someone at Coursera Support reads the threads and discussion forums.
+Terrible sound quality, muffled descriptions, some lectures recorded in someone's bedroom (it seems) with the neighbours banging on the door in the background, plus the quizzes do not tell you what you got wrong (like all the other courses Ive done). A very dry topic but no effort has gone into making this course interesting.
+Horrible course. Bad instructors, terrible audio and visualization. IBM could have done much better. Shame on you.
+This course was rather painful to go through for multiple reasons. Main reason is the poor quality of audio and the slides. Additionally the presentation skills of the preseters was subpar, especially when it comes to proper command of English. The topics were kind of thrown together. Personally if I were IBM I would not put this out. IBM can do much better as evidenced for example by the Data Science courses, which are highly professional.
+To put it bluntly, the course is made very poorly.Persistent poor quality videos that looked like they were cut up and stitched together, nitpicky quizzes that don't really test how well you understood the material but how blankly you memorized it.Starting the course I was expecting a lot, but by the end of the first course, I'm planning on dropping it.
+Some of the Teachers has terrible didactics, sometimes it looks like they are stutterers, sometimes the video has bad noises or the quality of microphone is bad (too slow or broken), some of the slides are badly drawn. I was expecting too much from this course.
+The audio in most videos is not clear. Besides, constant variation in sound and speaking style is not conducive for a good learning experience. Did not understand the voice in a few videos
+The audio quality in classes are very poor . The Instructors fumbles a lot while speaking .
+Terrible sound quality!
+Very difficult to follow due to poor audio quality. The course is anything but interactive, nothing more than poorly recorded PowerPoint presentation. I expect better from IBM.
+There was no clarity in the teaching material. It was an absolute waste of time.
+This is not helpful and parts are not very professional.
+So far, 1 Instructor had such a thick accent that coursework barely understandable
+Huge disappointment. Really low quality.
+Although the content of this course was important and crucial in the real IT lifestyle, some weaknesses should be mentioned. First of all, the technical support of chapters is not at an acceptable level. Sound disruption was too much. The second one, the tutoring approach. I believe that IBM will invite the professional tutors for this important course. Speach of some tutors was incoherent and not organized. I respect all tutors who tried to explain some complicated definitions easier, but probably, they know what does it mean but cannot explain it. It is a presentation skill that they need to improve or invite someone who has these skills. The last one is the assessment stage, some questions were included in module 1 but the information was in the last module only. It is confusing for learners. I wish all the best to the IBM learning team and hope these comments will be useful for further education process and business itself.
+Very poor arrangement of this course. As the name of this course, like, "professional", but course arrangement like, poor videos, poor visuals at presentation, very very very poor verbal communication skill, very very very poor and poor sound quality like totally unclear vocals and talking styles. Very disappointing course this. But yeah, the information of this course is very useful. The matter is, It was very hard to get those information cause poor quality of course and course arrangement. I would like to give an example to see, "how should a professional course looks like!". yeah, see google, see their professional course's videos. I have completed almost 3 courses from Coursera and this is the worse experience. Very disappointed. What I want to say that, re-arrange this course and upgrade the quality thus anyone can easily get this. I mean at least clear vocal and talking style.
+Technically, the content of the class is good, but the audio presentation is very hard to follow since the speakers talk very fast, very speer-of-the moment and with very strong accents. Also, what had me frustrated that in the four major final quizes at the end of each week, I was only able to review my mistakes or lacks in one week. For all the other weeks everytime I clicked the button to review the quiz's mistakes it just led me to a blank page, which was not very helpfull. Under the same circumstances it happened that it didn't matter how I changed my answers for the questions I was unsure about, I remaind with the same grade, therefore I failed two assignments left to not knowing why.
+As someone who majored in Computer Science, and has a little bit of Cyber security experience, this course was very basic, I do not recommend you take this course if you have a similar background.Now, when it comes to content quality, I have seen much much better. This is the same for the organization and presentation of the course's contents. I was extremely disappointed with the quality I was presented, given that it's IBM who's making this course. I found myself STRUGGLING to finish this course and get on with better ones.My advice: There are better courses out there, and you should take this course only if you have no (or extremely limited) knowledge of the basics of cyber security.
+This course was put together horribly. Things were poorly explained, some links to the reading brought up error codes (obviously old information), there was a serious lack of proof-reading...all of this made it very hard to focus. I ended up reading as much as I could through most of the material instead of watching the videos and I barely passed the quiz material. I ended up googling most of the information on my own. However, some of the links with resources were very helpful and allowed me extra reading to get a sense of what was going on in the world.
+The audio and video quality of this course is abysmal. It sounds like the lecturers called in via landline, and the slides are often so blurry that you cannot read their content. The course is so superficial that you basically only learn some terminology. After this course, you will not have gained any applicable or employable skills. This course is produced by IBM, one of the biggest tech company, you would expect they could do better. I can only hope that the following courses in this specialisation are more carefully produced.
+I have completed Week 1. Promising concept but incoherent content filled with many trivial facts which even get pushed into assessments. You really don't remember numbers mentioned few days before like tweets or Instagram posts on Internet per minute or Forbes (!) estimates of cybercrime attributed financial damages in US per year? Yes, that is included in the graded assessment! In addition to this I found that for some PDF resources on external websites access was declined.  There are also presenters who are hard to understand.
+The audio quality is very poor. There is this one instructor whose voice cannot be understood at all. The transcript sometimes states {inaudible}. There are several mistakes in the lectures. For instance, there is a lecture in week 2 where it says "Unit 8200 is from China and Unit 61398 is from Israel" which is incorrect and it is the other way round - "Unit 8200 is from Israel and Unit 61398 is from China". I am very disappointed with the lectures presented by IBM and will be dropping this course and looking for some other.
+In week 1 the 1st two lesson/Chapter are very informative and educational. Sadly the rest is just irrelevant information that doesn't help engage me into wanting to learn more about cybersecurity. Plus I'm really disappointed with the quality of IBM choice of video, its just basically everyone reading off there own slideshow which I can do at school y'know. The don't really feel like course, they more like cybersecurity trivia instead of good "try it at home" example to help me better under the career I want to get into
+I'm grateful for the knowledge provided but this course was extremely boring. The instructors were not enthusiastic, with a tone that would make you fall asleep. They just put a bunch Powerpoint slides together and speak about it over horrible sound. Every module sounds like someone was trying to teach me, speaking through a rotary phone  which is terrible when you have an accent . I recommend become more engage and interactive
+My subscription was cancelled because I didn’t meet deadline. Also my card has been debited twice without having access to the reading material. Efforts to resolve this hitch has been futile. My aim and goal has been frustrated because of your poor customer relationship which is absolutely elusive. I’m totally dissatisfied and disappointed.
+Unfortunately is a classic IBM course, bored and without teaching dynamics. Is just a bunch of slides that are read from someone Could be replaced by a book. Is clear how IBM is loosing the presence in a world that have evolved, keeping only the brand and fame.Sorry but in a word is terrible.
+Content is sparse without a clear flow. Some times acronyms are not explained. In the videos, the audio quality is poor as well as the quality of the slide. A link about one of the most interesting documents has no content.  I found it quite boring and not worth the be followed.
+When I joined, I was believing that this course is good because this course is offered by IBM but but but i am totally wrong presentation is very poor, audio quality very bad atleast you guy's use good microphone, slow audio, no text material.
+All presenters had issues with background noise and white noise.  Sometimes presenters speech was muffled or had wild swings in volume.  The presentation was extremely basic and boring.
+Too poor quality of audio & video. Didn't expect such stuff from IBM. Answers for quizzes are wrong, facts are wrong, everything with this course is just plain wrong. Won't recommend.
+This course is not for me. I'm a visual person and need the instructor slides to catch the progress of the class.Don't like to sit down and look at videos.
+The audio of this course is very low quality. I am cancelling this entire course specialization. Feeling awkward
+I can't understand due to audio and presentation, and it's just the first week. I expected a whole lot better.
+Learning materials are very poor and not up-to-date. Also the presentation of instructor is very poor quality.
+Very bad talking people ,not clear sounds.
+I can't unenroll from this course
+the sound quality is very bad
+Too short video lectures.
+bakwasssssss....really
+Worst Audio Quality
+Poor Sound quality
+Very Bad Course
+poor sound
+I would like to demonstrate the course in both the ways, it's up to you wanna learn from IBM or not. This course is very informative for me (cause I've zero knowledge about it!) that's why it was informative for me. The resources they are providing is very good. Here you will interact with some new terminology which is very rare to find in any blogs or any other platforms over the internet. So this is the good side of the course.Now I would like to honest with you guys, this course is not properly maintained. It seems like somebody in a hurry collects all the materials and just puts it through in order to do the formality. The audio quality was very poor, so we have to depend either on subtitles or any DJ speakers (Yes, I'm not kidding. I'm serious). Apart from that transcriber itself couldn't able to do the correct subtitles because of poor audio quality. On Assignment 1 & 3, they have some type of grading problem, and also feedback for that is not available. There is also no mentor interaction, they just made video lectures and uploads on Coursera, that's it. Well, in most of the discussion forums, I've solved the doubts of most of the problems of students.Now, the question arises, why the hell in Universe I dared to complete the course. Its because people haven't reviewed it in a very proper manner. In the very beginning, it was all perfect, but after the last video lecture of module 1, the main game starts. Sometimes I decided to quit, but my colleagues, who are also studying with me, and actively participate in discussion forums, advised me to complete the course. It really motivates me and pushed me to complete the course.Well, are you going to the specialization? The answer is yes. I'm going forward to the specialization.I hope, this review will really help you out. Thanks and Cheers!
+This course was very hastily put together. Two of the speakers were difficult to understand. One repeated himself so often that after a couple of videos I started to loose my enthusiasm. The speaker knew his material and had a nice friendly voice but he lacked specific vocabulary and consequently in a many places the ideas he was discussing got lost. Lacking essential vocabulary, he kept going back and changing words, confusing the issue. His explanations were difficult to listen to and read.. To make matters worse. In several instances, the accompanying transcripts of videos didn't match what was said,  and could have been edited to clarify what the speaker was trying to communicate, but were delivered nonetheless. I had to transcribe every video which was both tedious and frustrating. Some videos text was too fuzzy to read.  Lastly, every video began with the same static graphic of the hacker was uninteresting and boring. Overall, this course lacks development and polish.  IBM is capable of better!
+Very heavy on videos, though the audio quality and transcripts could be better. The quizzes could also be improved, as they are too  focused on memorization of trivia -- a bit more engagement of critical thinking skills would do. I also thought the little story about Ronald Regan and "War Games" was silly...surely the U.S. government became concerned about cybersecurity in the 80s due to the rise of the PC? At very least, the course points you in the right direction for other industry resources; in addition, it's part of a 4 part program, so you need it, even if it is not the best or most exciting.
+I was disappointed to see how little effort was put in to design this course. I was expecting more since this course seemed to get a decent rating based on Coursera user feedback. The course provides some very helpful resources to go back to later when learning more about cybersecurity and keeping up with the most up to date news and research. The course attempts to teach important concepts, but the lecture delivery method is just poor. For starters, the video lecture designs were just sloppy -- poor audio recordings, typos on the slides and in the written transcripts, slide graphics were not visible most of the time (even when viewing in full-screen mode). Many acronyms and terms were not clearly defined or defined at all. This should be a number 1 priority for a beginners' course. The written transcripts for each of the lecture slide simply just transcribed the audio and did not correct any transcription mistakes when they appeared. There should also be helpful written guides creating outlines for each of the units and the terms/concepts presented.This course has a 7-day free trial, but I canceled before the trial was over. It is not worth paying for something where there is clearly very little effort put into making the course. Overall disappointed because I expected more from IBM since they have top experts in this field.
+I signed up for the 7 Day Free Trail for the IBM Cyber-security Analyst Professional Certificate. This is definitely a cert I would be interested in completing but unfortunately the lecture audio is so bad that I will have to un-enrollment as I can't justify shelling out $49 per month for such terrible and unclear audio quality and instructors. The material itself seems interesting but I literally cannot hear or understand 75% of what the presenter is trying to say in the lectures. I tried turning on the subtitles but that's just no way to learn... Unfortunate because I think this certification path has potential but I could literally create a YouTube video on my $300 laptop with no special equipment that would sound better than what IBM is putting out here. I bought a Security+ course on Udemy for $9.99 and it seems to basically have all the same type of material plus the lecture audio / instructor is clear and concise in their presentation.
+This course is very summary-level. After taking, I realized the whole specialization/certificate would likely provide only a cursory overview of the field, and nothing close to what would be required get a job in this area. I think one could learn more about cybersecurity from perusing wikipedia than they could with this course. Additionally, this course seems hastily put together, with many different speakers from lesson to lesson. Each host offers a wildly different level of knowledge and didactic ability. I get the feeling the lessons were spliced together from some sort of internal training process, where the cyber team was trying to educate management and other departments on what exactly they do. The arbitrary nature of quiz questions reinforces the idea that not much thought was put into the overall informational value of this course.
+This was a challenge.  Between the Audio issues and some of the Translations and the Dialects, OMG I was so over it.  I had to go over this several times.  This was a complete Headache.  I was stressed and constantly SMH.  I just wanted this to be over with.  I was really hoping for the better.  The best part of all of this was the lady that comes on for the Introduction.  She was so very clear and speaks very well.  Please please get instructors to have visuals with Most of the lessons and have more content relevant to the Quiz/Practice Questions.  I feel for the Translators.  This was challenging but I got through it and I am extremely reluctant on completing another course.  Thank you for your time and consideration.
+The quality of the video lecture is quite bad.  Some lectures have inaudible parts.  This is made worse as the slides are not comprehensive on their own.  The video lectures are not engaging.  The presentations are frequently not smooth.  The presentation style is more suited for conference presentation and not helpful for lesson lecture.  Frequently, a static slides is shown and voiced over for more than 2 minutes.  Some animations may be good for highlighting important parts and capturing audience attention.  An ok course if you just wanna sit back, relax and get an impression of the topic.  But if you are serious about learning cybersecurity, this does not make for a pleasant experience.
+The speech to text within the course was not really all that great and there was no addendum's or corrections to these mistakes. Further, the instructor did make a few mistakes which was also not rectified. To which I only picked up while I was listening to a cyber security audio book, Dawn of the Code War. I highly recommend that these are fixed and I hope that this doesn't occur on the courses where you can complete a capstone project? The information contained and progression on this was good and hopefully will have given me a good foundation for when I go to apply for the Applied Technology Focusing in Cyber Security Degree next year. Cheers, Brendon
+I'm now one week in and I have to say I was surprised about the poor quality of the course. the information within the course is good although some things aren't really regarded as basics BUT all videos so far are with poor audio quality, and just a few powerpoint slides with some pictures of graphs.. I feel like I'm in university again. it's hard to enjoy the content cause it's so "black and white" and not engaging enough. it would be great to have better prepared courses in which maybe the people directly talk to you via good quality video and audio so you feel more inclined to follow what they say.
+[Poorly produced videos - Horrible audio. Verbose and confusing grammar from some speakers]The audio quality of the video, specially the presenters, are often bad as I mentioned in my comments on each. The delivery as well needs your close attention as more often the way the presenters speak were not intelligible and verbose. I heard sniffing sounds and encountered varying volume levels on speakers' presentation, made worse by wrong grammatical expressions. I can't help but replaying the videos of skipping them. The content needs updating as I saw slides dated 2018.
+The content of the course is good, without a question. But the way it's presented is not the kind i would expect it from a company like IBM. The sound quality of half of the videos is very poor. Sometimes it sounds as if it was recorded during a long distance phone call. One video obviously was recorded in an office while a tenacious visitor standing outside keeps knocking on the door. As most of the content is delivered by those videos, at most half of them in bad quality and hard to understand it does not really encourage you to keep on learning.
+If I hadn't already taken the Open P-tech course I wouldn't have gotten very much from this one. It was difficult to understand many of the speakers and the transcripts were poorly done. I got more clarity on many topics from notes from the other P-tech course and simply by doing Google search on others. IBM should not allow this course to be published as is. However, I did learn a few things I didn't get from the other course hence 2 stars rather than none.
+I feel I could have finished faster if the voice overs were more clearer. Even with the subtitles, it would show inaudible. I had to replay the videos several times. I learned a lot, but I feel the voiceovers could have a better script instead of just speaking normally as they would with their friends. I really was trying to finish within 7 days for my free trial, but took longer than it should have, which is very frustrating.
+I've nearly completed only week 2 but feel compelled to provide feedback now.So far, the material is too generalised and vague and poorly written.On top of that, I can't understand what some of the presenters are saying.In addition, it's even difficult at times to make sense of the transcript.I work for IBM. I know we have loads of clever people in this company.I'm sure we can do better than this.Very disappointed.
+Good Intro but not getting deep enough as I have expected. There are no tools with which interact/train with, such as SIEM apps (OSSIM) for instance. Honestly I wouldn't have paid the price if I could realise in advance that a high portion of the thematic could be read out from Wikipedia.It is perfect for new students, it gives a good overview of the principles though.
+There Is 2 lecturer I don't remember their name.The Speech Quality Not so good as i expected.The Senior One talk like he can't talk properly. Believe me when he was talking i just pause the Video read the subtitles under the video and searched google and understand the Topics.So please make the voice and sound clear so that the topic can be learned perfectly.
+To make the course more accessible, the transcript ought to be reviewed by a human being. Automatic transcription is clearly not up to the task when some speaks English with a thick Spanish accent.Duplicate information between section could be removed too.Some real-life examples would have been a useful supplement to this mainly theoretical course.
+Many presenters are hard to understand, and the transcripts don't help (they include words like [inaudible], so you can't even rely on the transcripts).  It's kind of a joke.  In addition, you definitely  need some IT background for this.  I had to look up acronyms in almost every video for the last 2 weeks.
+Clearly some internal training has been re-hashed (no pun intended) for external use. Slides includes typos, speakers mumble and the transcripts haven't been QA-ed. A number of the questions in the Module 1 quiz in fact are covered until Module 4, which shows what little time has been spent finessing this.
+the contents is good the challenge is  some of the presenters accents are difficult to follow specially with bad comm . they sound like speaking out of a tank or bad landline . it would make more sense if they do it from a proper place with better quality mics not from home with bad headset
+Most of the video's audio quality varies from poor to very very poor. One has to continuously read the written text below to understand. Secondly, most of the video shows slides that contain many URL links, and slides are not provided. As a result, we could not go through those URL links.
+Good course. However NO NONE ZERO introduction to cybersecurity tools. Only theory. Some speakers are very bad (eg. McLaughlin) can't understand what they talk even with the subtitles on. Please add some actual tools and teach about them. Long story short- Waste of time and money.
+That was just talking! Video, more Images, Gifs, etc can increase the insights and make to understand these huge knowledge better and in a way more effective! I know this was just an intro, but at least some sort of practical education could make this course more exciting !
+The course was not well organized and much of the materiel was poorly delivered. The course was full of broken links, unclear information and spelling errors.  Overall, I think it needs to be looked over and optimized to ensure you're providing a higher quality product.
+So far a few lessons in, the material is very hard to follow due to many grammatical errors from the various presenters. This results in information that is hard to follow, especially when trying to read the material.
+Very theoretical and passive course, I guess its good for beginners (not sure if that is the case it should be made interesting to grasp attention) but can be designed better. Hope the next one will not be so passive.
+1) Nothing Practical and Applied Knowledge.My Purpose not fulfilled which I wants desperately.2) Poor Audio Quality Issue3) Poor Presentation skill and one of your Instructor not have lecture delivering skill.
+The main content is reasonable. Poor audio quality and hard to follow narration on many of the videos. Spelling mistakes littered throughout quizzes. There are probably better introductory courses out there.
+Sound quality was very poor and it seems it recorded back in 90's the voice is like that. Moreover information provided very old. Nothing new learn in this course. My expectation was high but its very basis.
+At least the first half of this course is an overview/digest of a textbook. Lots of high level, rather academic textbook-type content that is unlikely to take you very far in real-world situations.
+quality of slides and presenters really bad. They don't give any effort for lessons. You cannot see who is talking. You just see 2 page slides (mostly blank) for 12 mins video.
+Poor Quality of slides and audio, for me as a non-native speaker it is hard to understand the speakers. Should be presented more structured and fluently
+I didn't find it very much interactive. I appreciate speakers presentation but looks like they were too tired and forced to have this recorded. :(
+Presenter is not effective, failed to create interest. Difficult to understand concepts. no link in course content
+This course is only for basic definitions . Dint get any practical knowledge . Completed this course with in day
+This course needs an update. Video and sound are low quality in many videos. Also, some info need updates too.
+the video where hard to understand and presenters did not follow the text and missing or broken links
+The video quality was very low and the audio was dull and noisy. Had higher expectations from IBM
+Bad audio, terrible visuals (pixelated and bad presentation) and lots of repetition of content.
+Voice Quality was too bad, though the curriculum and course content were rich in resource.
+if aa person instruct the course and explain the content then it will be goo to understand
+Sound quality was very difficult. Seemed like a webinar recording stitched together.
+sound is not clear. Instructor voice is not clear at all, no practical examples.
+Audio and visual content is of a poor quality. No lecture slides are available.
+Very poor audio quality makes it hard to understand and track the presenter
+Extremely dull. The audio is from a concall and the powerpoints are dull.
+Low information density, questionaires ask for irrelevant information.
+Low quality audios, poor structured, no exercises and just theory
+The voice in video is not good , but 2 stars for the badge!
+Any app available for hacking
+Audio quality was very poor
+Low-quality videos
+Heavy emphasis on videos and, sadly, they are not well structured. The teaching staff is made up of employees that do not master English and it makes the learning experience somewhat painful. They speak in incomplete sentences, overly using words such as "so", "someone", "somebody", and peppered with filler words.Also, the transcripts, which could be an alternative, are just horrible. I suggest using well-made PDFs, using the same presentation slides but with clear text explanations.
+Content was good but the delivery was poor. Would prefer instructors who are native English speakers as it was very difficult to understand portions of the content. Don't see why they couldn't facilitate that given all the instructors are doing is narrating.
+While there is plenty of very useful information in this course, there are several things that could be vastly improved. The test questions are sometimes oddly phrased and material that is not learned until Week 4 is tested in Week 1 (white hat, grey hat, black hat hackers) . There are several one question quizzes that seem arbitrary (ex. "What did this SOC Analyst say was the most useful tool for him?"). In Week one's Critical Thinking section, there appears to be a video that stops halfway. My biggest criticism is that this is a beginner level course but the instructors will throw out technical jargon that doesn't get defined until later in the course, if at all. The following video is the same video but it shows the whole thing.  This has potential to be a truly great class but, IBM should really review this course, see what they can streamline, and identify what it is they want people to take away from this class.
+I think the information being discussed and shared is great, the quality of the videos is not good at all though. The audio is different on every video and I you can barely see what's being displayed on the slides, even when I change to higher quality on the settings. I appreciate the industry leaders providing their insight but there's too many "umms" and not enough well spoken presenters. I don't mean to be harsh because I think the content is good but you can barely understand what they are saying. Perhaps someone who's confident & does presentations often should do them. I would even lower the volume on the videos and tried to read what they are saying at the bottom but even that barely makes sense.
+There are many parts of the video where the speakers are not audible and the corresponding text is not helpful as well given it is a mere replication of the voice-text. This impedes actual understanding of the content. Moreover, while branded as a beginner course, the speakers used many different technical terms without explaining what they actually mean e.g. TCP, UDP, FTP etc. It's complicated for non-tech students to follow through.
+I was disappointed in how some highly technical issues like data encryption and digital forensics were treated, mostly at the conclusion of the course. These topics seemed to be taught superficially, without enough background or explanation. Additionally, some instructors, while highly knowledgeable in the subject matter seemed to lack proficient communications skills and were, at times difficult to comprehend.
+Although the content of the course is amazing, however the quality of recordings is surprisingly very much below whatever online training material I have seen. Neighbours hammering a nail in the wall, another person talking at the same time in the room, very poor voice quality, typos in the presentations, 10 different types of slides, copy pastes from websites, etc. I'm like, Are you serious IBM?
+It was a good intro to cyber security for someone like me with zero knowledge in this field. However, at times it was difficult to understand the instructors who don't have English as their mother tongue. But it was especially difficult to understand Domenico Raguseo discussing the Cyber Kill Chain in Week 2. I just decided to turn off the audio and just read the slides.
+Your content is very good but the sound quality is very worse not getting anythings. please put with good sound quality. You guys works on IBM and doesn't have good quality microphone? How cheap? The course cannot be best without audio with is everything and and the quality of sound is low that the microphone that you are using is less than a dollar.
+Some of the material is repetitive (f.e. talks about the same exact classification of threaths in weeks 1,2 & 3). I feel there wasn't a good communication between the lecturers, hence the repetition. At some videos audio was really bad. Otherwise, the course gives a good, but brief introduction. Hope the next one in the specialisation is better.
+There were some great visuals and obvious tons of expert teaching. However, some of the audio was difficult to understand, I often felt like the instructor was reading off of a slide rather than elaborating and providing context or simple examples, and the general flow of the course didn't really make sense to me.
+Some material links are dead, subtitles are software generated and need amendments, many videos have the slides/audio out of sync, some quizzes have poor questions. The course does, however, provide very useful external resources to develop the necessary skills in cybersecurity. It's an ok INTRO course.
+Great information, the subtitles are a little off and the audio is somewhat hard to hear. I had to re-watch some of the videos in order to fully understand what was being said.But other than that, it was really good information. A good foundation into CyberSecurity. I cannot wait to learn more!
+THE COMPLETE COURSE WAS VERY BENEFICIAL AND HELPFUL FOR PROVIDING INFORMATION ABOUT CYBER SECURITY  , BUT THERE SHOULD BE SOME PRACTICAL LEARNING AND TO GIVE PRACTICAL DEMONSTRATION ALSO . IT WAS A GREAT EXPERIENCE .BUT I DIDN'T RECEIVED MY IBM BADGE YET . THAT IS DISSAPOINTING .
+Giving 3 stars because audio quality is poor. Some of the questions in the quiz are not even mentioned in the videos, some of the choices/questions have spelling errors.Regardless, it provides an very decent introduction to Cybersecurity Tools and Cyber Attacks
+The course has a poor quality of audio and slides. Most of the videos are pre-recorded from internal training and they ofter refer to topics not covered in the course. The topics were interesting though but often too basic or not well connected together.
+some of the speakers were barely intelligible and some of the scripts were rambling and barely relevant.other elements were fine with decent slides to accompany.would suggest more detail on slides to compensate for the  poorer presenters.
+the material was good for an introduction but i was struggling with the audio and some of the transcripts were totally wrong so i just began ignoring them. Maybe if you could clean up the audio i would give it the full 5 stars.
+The lessons in this course are very interesting and well informed to the viewer. The only problem is the audio quality of the video. It just like you are listening in a two-way radio, please make it more clearly. Thank you.
+A huge barrier to learning from this course is simply the mic quality. I don't understand how that is limiting factor for this. Very unfortunate because the content seems good but it is such a pain to try and parse.
+I'm not gonna lie, with this course I was able to learn the basic concepts and theory of Cybersecurity, but some of the videos were very low sound quality. Coming from IBM, I was expecting a little more effort.
+It was a good introduction. However, it could have been made more interesting by giving sample cases or providing simulations of the various concepts introduced.The practical aspect was somewhat missing.
+I am happy to complete this course which is helpful in my career. in this course, I can learn about the cybersecurity key concepts each term basically and clean my doubt regarding some misunderstanding.
+Really good information in this course, but the presentation leaves something to be desired: it is often difficulty to understand what people are saying in the videos. Audio quality is not the best.
+The course itself and what it teaches is really good however it is let down by its production and has some really annoying sound issues. You have to really consentrate to understand some teachers.
+The Instructor's voice is not clear and sometimes not even audible and the content of the course is not that detailed and practical understanding of the topic has not be given that much attention.
+A lot of the presentations had poor audio quality and use of technical language/ abbreviations in a Beginner course. It is good to get a basic idea but some of the presentations were frustrating.
+fruitful to tackle cyber security threat and helps to prepare for future attack and also will prepare new rules and manage protection protocol with advance standard against attack and cyber crime
+Everything was great only in some videos the audio quality needs to be improved ......the audio input is too bad that even with earphone it's not audible properly...and rest everything is good.
+There is some PPT slides, images,  files, are old with poor  definition difficult to read and the audio for some slides wasn´t clear for some instructors,  repetitive information chapters.
+The course is good in general, but some quizzes include questions and information that weren't included in the videos/slides. also some of the quizzes are buggy. I can't see the feedback.
+videos are too boring ,  please make them interest worthy so that its better to learn and people not find boredom . Well whole course is very informative so that I like this course.
+Content is interesting and yes, you learn but the audio quality is appalling and in some cases exteremly difficult to understand both because of strong accents and sound quality.
+Rich and interesting content, but the overall presentation (voice calls over slide presentations) would have to be reviewed. As well as the grammar in the intended presentations.
+course was concept wise good but teaching schema was very poor learners are not eager to learn and audio quality was poor . so i think you will need to improve teaching schema.
+In some video audio quality is not good. Most of the slides were from 2018 so it's around 2 years old material.Some reference links and websites provided are no longer valid.
+Excellent theoretical knowledge provided can be rated as 5 star, but there is a issue in claiming the badge earned...Really makes a negative impact on this with this reason.
+A good course if you are an absolute beginner in this field. However, many topics and concepts are repeated again and again in the videos. Audio quality is not so good.
+A good introduction into the subject-matter. It is, however, useful if you already have some background. Also, the audio and a lot of the video quality is just bad....
+The course is instructionally great, gives a lot of insight on cybersecurity and whatnot, but has a very low audio quality that makes listening to lectures very hard.
+The voice is not audible. The presentation of most of the speakers are not up to my mark. The content is good. I have to read the transcript to complete this course.
+the videos were kind of improvised from what I saw. With a wholly scripted lecture, animations and audio quality like google's this course would receive five stars
+This course gives you the basic and foundation of Cyber Security . It is completely beginner course all beginners are recommended to enroll in this course.
+The course materials presented was great.  However, the audio was poor at times and the text didn't have the correct content when the audio was inaudible.
+The materials are excellent and the organization is pretty good but some of the speakers really need to review the material before they start presenting.
+Somewhat disappointed. The poor audio quality and dated materials make for a less than enjoyable learning experience. The course should be updated ASAP.
+No practical implementation of any of the tools has been given. Theoretically this is the best course with all the information required for beginners.
+Course content is too good, but I find hard to understand because lecture's audio quality are too bad as I had to refer most of time on transcripts.
+I was expecting to learn some practical explanation on cybersecurity but couldn't find any which made the whole process of theory quite boring:)
+Good introduction to cybersecurity. However, there were many errors in the corresponding text and several lectures are very hard to understand.
+Presenting the content needs to be improved in an interactive way. Sounds are not good to hear. Content needs to be more clear to understand
+Many of the instructors were difficult to understand, and many of the quiz questions and answers didn't match what the instructors taught.
+First of all, thank you IBM for this great course. However, the video quality, sound quality, tutorial and slide can be further improved.
+The content is good, but the audio quality is too poor, sometimes is difficult to understand especially if you are not a native speaker.
+Information is decent but the audio is absolutely horrible. Cannot believe that IBM allows such thing to be published under their brand.
+High teaching level but at times really poor audio and video quality where you cannot read the slides or understand what it says.
+Good introduction with key concepts. The sound is however very bad and hence it is sometime difficult to understand the speaker.
+Audio quality isn't great and sometimes new concepts are introduced with little explanation. However, I did learn quite a bit.
+The quality of the videos and audios is not good, I need to re-listen more than once and read the transcript to understand!
+must include the hands on tools and applications, many  questions  are predecessor asked  than the actual study  of it.
+Most of the presenters in the videos were very difficult to understand and the audio quality was terrible as well.
+This  course has a lack of profecionality, and good structure I can review my quiz for know was I am doing wrong
+Great Content, terrible audio, and presenter accents and enthusiasm was not very good. Overall worth the effort
+Good content and structure, but many inaccuracies in the details (e.g. confusing message delay and replay).
+Very basic, is basically like attending to TED talks on cybersecurity. But it is easy to follow.
+This should have been free.  Good information, but it felt a bit like a sales pitch from IBM.
+Good introductory course on Cybersecurity. But the audio quality of the lessons are horrible.
+Even though it has the content for a good cyber security basics the explanation is boring.
+This course is quite useful but would do great if the practical part is also included.!!
+content is good but the voice of the instructor is nor clear and easily understandable
+Too much theory ans some useless topic. I think you need to be more subject oriented.
+The audio isn't very clear on some of the courses. Thank you for this course!
+Some audios are very bad. Not to much interactions. Just old presentations.
+The subtitles are inaccurate and the speakers are inaudible half the time.
+Audio quality is worst. I was expecting some practical examples as well.
+could've been a little more practical. The videos were not very engaging
+The clarity in voice is very bad. Except that the overall course is good
+the audio quality was very bad. but the work and study very good
+the sound on this audio is not clear, please do something to it.
+Information is very interesting but Audio quality is terrible.
+Much of the information is dated.  Course needs a revision.
+great content but the videos are of a very poor quality
+Great knowledge and instructors, but poor presentation!
+Overall Good. Language is too difficult to understand.
+A Lot of disturbing  background noice while teaching
+The structure is all good, but the sound is pathetic
+Audio quality is not good, But still informative
+Content is good but audio quality is deplorable.
+Sometimes the voice from speaker not so clear.
+there was some audio issues of the presenter.
+The pace is too fast for Indian guy like me
+Sound is not clear, lack of representation
+Very good introduction to cybersecurity
+Horrible audio on many of the courses.
+Over all good but for beginers only
+some of the Records are not clear,
+sound is not clear in some lecture
+increase your audio quality please
+Many topics are redundant.
+theContentneedtobeupdated
+Poor audio quality...
+Sound quality is bad
+Theory based
+informartove
+Audio quality can be a little better. Some topics are quite interesting though there's no reading material provided for them. The ones provided are excellent materials, no doubt. But, reading material on cryptography, encryption, DES, AES, that would've been excellent!
+It is a good course. Speaks for its purpose.Today I better understand the terminologies and basics after this course. The assessments can be improved. In initial weeks, the assessment questions covered topics that were covered later. Reading material can also be made more fit for purpose than introducing just the websites to look for content in general.
+Nice course. I'll recommend it to everyone especially newbies.The tutors are great and moved at good pace
+the content is good but not quite interesting and updated
+This was a great way for me to familiarize myself with the basic concepts of cybersecurity and IT which include the CIA Triad and what each of the letters mean, firewalls and the purposes, the basics of cryptography, the history and importance of cybersecurity in the late 20th and 21st Centuries, the types of malware and security and data breaches and how to combat them, various cybersecurity and IT resources, tools and online articles, and the careers one can start in Cybersecurity and IT. The only critique I have with this course is that spelling and sentence structure in the paragraphs below some of the videos could be edited so that notes can be easier to read and understand in preparation for quizzes. I also do think some questions in some of the practice quizzes and end of the week quizzes could be worded better or could've been discussed more in the chapters. Despite this, I plan to continue with the next 3 courses to earn my certificate. I recommend this course to any college students, college graduates or those thinking of switching to IT and Cybersecurity fields.
+The excellent knowledge and information is held back by occasional mic quality of the educators and in some cases, inexperience in speaking. The documented texts of their lessons mitigates these problems in most cases, but when a speaker's speech is free-flowing, it can be difficult to follow even while reading and in some instances, the computer itself misinterprets a word or simply fails to understand the word itself. Overall, a strong course that teaches the basics of Cybersecurity. Learned a lot and hope to learn more.
+The Introduction to Cybersecurity Tools & Cyber Attacks was an interesting introductory course. I learned many security concepts regarding Cybersecurity. Some of the lessons were really hard to understand because they were high-security level/technical lectures. As an entry-level cybersecurity individual, it was tough to grasp the information. Overall, I enjoyed this course and hope to keep learning IBM Cybersecurity Analyst!Thanks to all of the professors for the lessons.
+In terms of the material, as an introductory course is ok. There was a lot of inconsistencies on how the slides where presented and audio quality,  so most of the times I needed to adapt to the presentators. There were some short videos that could easily be edited and prevent noises, non-audible parts and clear pronunciation when naming acronyms that were not presented in the visual material. Some of the quizes had question with no good answer.. i tried them.
+The overall course was good, but in some lecture videos the voice of the instructor was not clear and there were times when the transcript was not accurate. I was quite familier with many terms of cyber security used in the course because of which I was able to understand the correct term but I think if some one who newly start with cyber security, he will not understand many terms. I hope these things will be solved for future learners.
+This is very good and i came to know a lot of different things about Cyber security and others similar topic and it encouraged me to learn more about this topic in future.One thing, that is the audio quality of some lessons was not so good, that was a little bit problem for me to understand.And also some instructors pronunciation was a little harder to understand.  But the topics are easy to understand and easy to learn .
+The course is pretty good but the lecturer in some videos is too fast and some videos have bad quality, but overall this is a really good course they bring the material professionally. Although some people say the course is outdated but I don't think so as the course teaches you about concepts most of the time. I recommend taking a look at this course and check out whether this suits you or not.
+Everything was great except for the fact that one of the instructors, his notes were not very good as they did not explain the concepts thoroughly. He also was not very good at explaining said concepts at a beginner pace. The other instructor, however, (he had an accent), his slides were excellent, and he was through at explaining the concepts in a digestible manner.
+It's going to be a quality informative course for anybody getting into as well as be a super refresher for who is already in the cybersecurity field. One downside: audio quality really below the par (which is unexpected from a company like IBM) combined with some of the speakers not having good communication skills resulted in a lack of clear understanding.
+The course content was good, One speaker was not as good due to the bad use of English and low microphone quality. Luckily i could still read the dialogue under the video to understand what he was saying.Aside from that i enjoyed the course a lot, and I'm looking forward to starting the other 3 chapters of specialization offered by Coursera and IBM.
+It was a good course for the beginner in cyber security field.It explains all the topics related to hacking and mitigating the attacks that are performed by some hackers.It also shows us different techniques and soft skills required to be able to secure a network and help others secure.Thank you so much for such an amazing course.
+The materials were really good (short, precise, and informative), however, the voice quality recorded was really poor and most of times is not clear to convey the message easily. The other thing, I believe that the materials was having some lack of organized scripts which show some issues if I decide only to read the scripts.
+Content coverage is great and at just the right level of detail. Love that it is taught by IBM - top notch expertise.  However, the audio quality can be very bad, which wasn't helped by the text translations either (also bad and obviously without technical knowledge).  Overall, great course for the price and format.
+Content is excellent but delivery is terrible. Audio for lectures is choppy and substandard. Some lecturers ramble and deviate from outline of discussion, making the module unnecessarily lengthy. Some lecturers are difficult to understand. Transcript of lectures is inaccurate and cannot be relied upon either.
+While providing a comprehensive overview of the topics, the course materials lack quality, i.e. recordings are sometimes hard to understand. The transcripts contain also many mistakes or misspellings. I have seen way nicer courses on Coursera but in the end this course is a good teaser to dig in deeper.
+I think it is a very good introduction course and it was great to hear from different people.  5/5 for content; however, 4/5 for the platform.  Sometimes it was difficult to hear what the instructors were saying, or the image quality was lacking.   Other than that, I am very satisfied with this course.
+This course provides quite abundant basic knowledge about cyber-security. They have provided enough material and articles for the help of students for further reading and to understand briefly. I want to suggest that some hands-on project  should be included in the course for practical knowledge.
+I incredibly suggest clear audio and professional verbal communications, I kept having the need to re-watch the videos because of people stuttering or not speaking English in a correct way. Other than that I liked the shortness of the course and John who was clear with specifications
+Presented information is very interesting for beginners. I'm filling that some parts should be updated a  little using modern reports and trends. Also, I was sad that can't complete some quizzes by some technical issues. Kindly wait for the update and wish you good luck at all.
+The information from this course is fantastic.  The instructors have so much knowledge but at times their message was a bit obscured and hard to understand.  That, is not a problem since I use the note feature a lot.  The problem is the note feature gets it wrong at times.
+This is a great course to give you an overview of the different processes and procedures in cyber-security. It doesn't go into the details of how something is done, by outlines the general roadmap and what factors should be taken into account while building one.
+It is very easy to learn about cybersecurity. And helpful this vedios which is included in this course that is help to understand quickly. And .give some more information about key points then is it to good others wish I enjoy and learn lots of . Thank you 😊
+I really hope the Audio quality is vastly improved, I found myself to see the transcripts of the video. The other part is the Quiz i have no idea where did i make mistakes so that i could revise on the section again. Otherwise overall a good intro
+very well structured course. Trainers were knowledgeable and were able to explain the subjects very well. The most i was impressed with is critical thinking explanation. The resources are very useful to further the understanding on the subjects.
+Firstly would like to thank and appreciate  IBM for designing this course.I feel this course covered essential both general and technical information required to be start an active and confident journey in learning gaining cyber security skills.
+Content is very good but quality of the material (media) could be improved.Some tutors knows a lot but do not speak in a understandable language for beginners (technical terms on content)Overall satisfaction is good for the time invested.
+transcript did not always match with the audio so that would be a challenge for hearing-impaired users who rely solely on the transcripts.the audio of some of the lectures were botched hence all the "INAUDIBLE" parts in the transcript
+Overall, there are also of useful contents and readings. It will be good that some training modules could be conducted in layman terms and a dictionary of all key terms will be helpful to professional not in the cybersecurity field.
+Everything was good about the lessonOnly the master's voice was a little weakSometimes it was not audibleA company like IBM is expected to provide good sound equipment for the master so that he can record sound properly.Thankful
+The content served as a solid introduction, though some lectures seemed redundant. The lectures coming from different instructors could be reworked to flow more organically from one to other, but in isolation they were solid.
+It is an amazing course. I have learnt many things. One thing which i would like to suggest is  that there few reading material which are not available. I hope you update those reading material as it would be of great help.
+Excellent intro to Cybersecurity. Great content.Audio quality should be improved. References are from 2018 so you'll need to try to find more updated versions of certain documents if you want to learn the latest data.
+This course is very educational and I have learned many things about cybersecurity. The instructors are all great and well informed. The only problem is the audio, I hope they could use better microphones next time.
+HiIt was a very useful course with very practical and pragmatic learning. It lost a star for the poor quality of the sound in some videos and some of the links taking me to a 404 page. Otherwise a very good course.
+Great course! Lots of information to point you in the right direction. 4 stars because sometimes the audio is hard to understand and the transcript does understand it. Other than that the information is good.
+Very good course and easy to understand despite low audio quality in some of the videos. the slides are self explanatory. i recommend for anyone interested in the general business of securing our cyber space.
+The audio quality was low in some of the courses, hence 4 stars.  However, the instruction quality (with respect to an introductory course) was high.  This is only to be expected as the content is from IBM.
+Overall, the instructors were good and the content was very much informative mainly for beginners but I think they should have taught us about how to use a specific tool which they discussed in the course.
+ofcourse, it was knowledgable and consisted of people genius in their field. however, the sound quality of these lectures were very poor and intercepted the student's ability to study for long hours
+The quality for the material needs to be improved in terms of visualization and audio. The title is little bit misleading as i expect to be more insides to Cybersecurity tools like nmap nesus etc...
+Some video issues (audio problems, spelling issues, editing), the background web app is not particularly good at "handing off" lessons and you will repeat MANY videos, most weblinks are 404 errors.
+Is a very good course. With valuable information about cybersecurity. Recommended for beginners to want to introduce in this are. The only thing is that some videos have a poor quality of audio.
+Well organized and structured course materials found this introductory course, finally, able to retain basics concepts regarding CyberSecurity is now cleared more than average expectations.
+Very good introduction to the cybersecurity, I am a beginner and I appreciate the quality of the content. However, very poor audio quality (and sometimes video quality too). Regards.
+The course was great BUT the main problem I was facing was audio quality and audiblity, please improve both the thing for easy understanding of future participants.Thanks....... :-)
+The overall content of the course is really interesting, the only drawback is that some of the lectures have the audio not in sync with the video. Otherwise, a very complete course.
+Good information and very insightful especially if you're a complete novice. I would suggest using the captions options for some of the instructors because they speak very rapidly.
+Introduction to cyber security domain was provided and also information regarding precautionary measures being taken to keep system safe from cyber attack was provided efficiently
+The course content was fine but i really hope that the audio quality in this course is improved and the course matter is a bit unorganised. But overall a very informative course
+The sound in certain videos could be better, the course provides a lot of information but it might be hard to concentrate if the student cannot correctly hear the presentation.
+Great content. It does give a comprehensive overview of cybersecurity concepts, however, it is not a technical course (no hands-on practices) which is why I took one star off.
+Thegradedassignemts(quizzes) were useful for 1st attempts, but did not change on subsequent attempts. At least a few versions of the quizzes for each lesson would be helpful.
+For an introduction course, I learn a lot more about network security and encryption. I would like to see some labs regarding security a network and virus detection methods.
+The course was very good and informative. By only concern was that the instructors were not English speakers, so sometimes, it got difficult to understand their language.
+The course was interesting and it would even be better if the audio quality can be improved a little bit .Learnt a lot about cyber security schemes ,programs,history etc.
+This course is really helpful and informative. It is taught by people who have maximum experience in this topic. If would be much better if we get a pdf of the slides...
+Need to have basic knowledge about IT and technical word. The voice record system is not good in some video. Anyway overall knowledge is really good hope every enjoy!!!
+Th course  is very informative but the voice quality of many videos is very poor. i couldn't understand the words without subtitles which is a drawback for this course.
+The narrators can sometimes give me headache 'cause the voice recording's quality is very poor.. But overall, it's been knowledgeable and thorough resource. Thanks!!
+Good explanation with up to date examples and links for further readings. However some recording are hard to comprehend due to the sound quality not being too great.
+This course is indeed an introduction to the cyber world. It gives a firm theory-based grasp to the learner along with some basic practical ways of implementation,
+will recommend for those who want to start there career in cybersecurity good source of knowledge was provided throughout audio quality was not good enough
+Many of the links And the videos Were outdated, apart from that it is a wonderful course for anyone wishing to learn and work in the field of cybersecurity
+Taught easily, contents were good, very good cybersecurity course to begin with , might be more helpful if some of audio quality of videos were more good
+This course helped me understand security from a corporate point of view, practically, rather than attacking problems theoretically like I do for a PhD.
+Teaches fundamentals well, however some information is repeated in multiple lessons. Furthermore audio quality is not great. Overall interesting course.
+The audio quality for some video lectures are very poor. Also, in some videos, there are inaudible parts in which some important words are covered.
+It focuses  more on theoretical knowledge..should focus on videos with practical explanations showing how to use  tools perhaps...great lectures..
+Very exciting formation on cybersecurity tools and cyber attacks to level up your career.I'm very proud to end it and thank to the support team.
+It was very good and compact course. It contained lots of information about Cyber security tools and atacks methods used.  Very informative.
+Some of the instructors were hard to understand. Some questions in the quizes asked about topics that were merely browsed over in the video.
+I learned a lot from this course. I didnt have any prior knowledge but I feel confident enough to do further study on cybersecurity field.
+The resources provided throughout the course is all great except the audio and the video quality which need to be improved!! Thank you :)
+Very Informative and well put together sometimes it was hard to understand the recording due to heavy accent by some of the specialist.
+The instructors accent were difficult to hear it, and the video sound quality is not good, I hope you are going to fix it next time.
+Good broad overview of the ideas and principles of the field; however, I would have appreciated a bit more practical application.
+A few of the materials and content seem to be very old (2017-2018). Otherwise good course to learn on the basics of cybersecurity
+Some videos have bad quality but overall it's a great course to start with understanding the basic knowledges of cybersecurity :)
+Loved it but faced problem in firewalls as many topics were not taught and ya many times voice was not proper audible in videos.
+The content is very powerful and the quizzes do actually test your focus in the course. The only downside is the audio quality.
+Course/material is great, but some of the video speakers are not easy to follow due to background noise, muffled sounds, etc.
+The information was very helpful and important, but the audio quality leaves a lot to be desired. Still, a fantastic course!
+Despite audio quality, overall great foundation especially for someone who doesn't have any networking/computer science bg.
+Great course, but some of the speakers were hard to follow and understand.  I'm glad there were transcripts for each video.
+very useful course more content .But audio is not good sometimes you need to increase volume more .I enjoyed the course :).
+The course was good. I have learned a lot of new things. But after completion of the course i haven't received the Badge.
+The course itself is very informative, but the proof-reading/subtitles have not been done very well. Good course overall.
+Sometimes the sound quality was really bad, hard to hear out the words, but overall it was a great course of the basics.
+Very informative, though sometimes the questions for quizzes would have the wrong answer listed as the correct answer.
+This is  nice course  for  me I am learning lots of things about cyber security   key ,firewall and many others  ....
+This course has been most effective to introduce me a newbie into th e world of cybersecurity.Thank Coursera and IBM
+The course was very insightful and interesting. It invoked an interest to learn more about the cybersecurity world.
+well , I like to thank  the IBM course to bring such a amazing course , there is still some improvement required .
+The course is very wonderfully executed but one thing the voice quality could be better for better understanding.
+Some quizzes were testing information not presented in the receding videos (but would appear at some later time)
+Including assignments that allow you to conduct pentest and phishing tests would make this course 5 stars easy.
+The course was good, Framed questions are also good. It was a neat introduction to the basics of cybersecurity.
+It was very helpful and sometimes made it simple to get an idea about the different aspects of cyber security.
+Some subject matter experts were not clear in their communication. But overall it was a very impacting  class
+a very good and fundamental course by IBM to help for beginners to learn about the cyber security concepts.
+the audio and text are not very clear at some places but the course in itself is very good and enlightening
+The audio could have been more clear.The examples used to explain the concepts of cryptography were good.
+Only voice problem in some videos, otherwise was the best starting introduction to cybersecurity course.
+Best Knowledge presented so far. 4 star only because in some of the videos audio quality was really bad.
+Wonderful course, Lots of new things to learn, Add some more content in digital forensics. Many thanks!
+i like the course material very much and got to know very new and intresting thing about cyber security
+An excellent course,just had some difficulties understanding some peculiar accents during the course
+Very helpful in understanding the basics needed for an individual to enter the cybersecurity world.
+The best course for understanding the basic and the reason for giving 4 stars is the voice quality.
+everything was amazing however it would be perfect if the videos where in higher quality.thank you
+it good to learn about it the persons who are interested in Cyber security they can easily done it
+Very informative for beginners. A brief overview of all the topics was helpful in getting insights
+Thank You IBM and Coursera for this Opportunity. I learned very easily and this is so informative
+This was an amaziing course. It was very well structured and the presentatioons were really good.
+Great but try to be more practical , like show some functions and work in real time on computer.
+Good course overall, would be great for those with Sec+ to get the hours on their cert for CEUs.
+Overall an excellent course packed with various aspects of learning with interactive assessment
+A brief introduction to cybersecurity tools and cyber attacks. A great way to learn new things.
+The Course was great but the video and audio quality could be better. Great experience overall
+this course is very helpful for beginners, and i hope to see myself leading in further journey
+it was wonderful journey to know  about  our treasure(data) values and how to protect them .
+i have learn a lot from this course. thanku ibm and coursera for this wonderful course!!
+very good study materials but very bad voice quality .... but over all it's good course
+Its really helpfull to me.I know little bit more about cryptography and other stuffs.
+A bit more practical example will help a lot . Even the given example were also good
+its useful..... but it has lots and lots of theory make some practical session.....
+please make sure that video sound are clear and make videos length less than 8 min.
+a great introductory course which thoroughly covers all aspects of cyber security.
+Its good to learn and intresting.but there are some issues which should be solved
+Brilliant insights into cyber attacks, their actors and how they can be managed.
+Good course for beginner. It is very helpful course as it provides certificate.
+Overall a good course to begin. Although some video had very bad sound quality.
+Good for beginners with some advanced-level knowledge spikes. Very good though
+A good course for understanding how Cybersecurity works and why is it needed?
+Harder more then my acceptation but get great knowledge about cyber security
+A well constructed introductory course for aspiring cyber security students.
+Content is great, but the audio quality of the videos is very inconsistent.
+I will definitely recommend this to course. Thank you for everyone involved
+The course was really good except that the audio quality was a bit too poor
+The information was great but the some of the slides were a bit confusing.
+This is a good course and the instructors are good at explaining all topic
+Excellent overall. Cyber attacks changing so quickly in 2020. Great base.
+It can be improved more in terms of explanation. Rest all is really good
+Very informative presenters, emphasis should be put on better recording.
+It's good and informative but you need to repair the sound a little bit
+In some courses you can’t hear the speaker. Other than that good course
+This course is too good to learn about cyber security (for a beginner )
+course was good for learners but course presentation could be better.
+Very well explained, yet a significant lack of practical application.
+Nice Course but few places voice is low & less picture representation
+Nice experience and learn tools what they have used in cyber security
+the audio quality is not good but thanks for the valuable knowledege
+good course but some  faculty's voice is not audible and irritaed
+its very useful to know the basics of cybersecurity and its tools
+This course is very good but the voice of instructor is very slow
+Great efforts by everyone and a nice course to learn! Thank you
+There was not much to code. There were mostly theory concepts.
+It would have been better if hands-on sessions were also there
+good vocabulary, impressive, I am going to take second course.
+I have observed an issue of low voice in many of the videos.
+Thank you for the wonderful opportunity. It's really useful.
+Great course to learn about Past to Future of Cybersecurity.
+Good content, but the sound quality could have been better.
+Gives a basic overview about the nuances of cyber security.
+Content is excellent but voice quality is little disturbing
+Thank you Coursera and IBM for providing very good content.
+Good course, but the audio in the lectures is pretty bad.
+Great to have a nice peek and idea about the cyber world!
+Is a very interesting course tha help you with the basics
+This course was really very interesting and informative.
+Good information, not very good sound quality on videos.
+Many contents are very old (2013) but it is good overall
+I have learned the most valuable lessons in this course.
+Some of the people talking were very hard to understand.
+Audio quality was less enjoyable.Therefore, -1 star ...
+the soundtrack is not bit clear,else everything is good
+good oppurtunity to learn, and ethics are being thought
+Good content, but the audio in some videos is very poor
+Should be more interactive than voice-only with slides
+Excellent course. All the modules are arranged nicely.
+Course content and audio quality could be much better
+the videos could have better quality and better audio
+Good content. Voice files not goodOverall good course
+The content was great, the audio needs improvement.
+Good course..it should be more easier for beginner.
+Love the materials.. but some links are broken....
+great course. very informative. a bit long though
+although the audio was not clear enough sometimes
+It is very useful course in this Lockdown period.
+Some of the instructors were hard to understand.
+Great course but the audio quality is very bad.
+The audio quality of some persons are not good.
+Some of the videos are very hard to understand.
+Make some improves in sound and images quality
+need to some practicals then it will be useful
+Video and Sound Quality needs to be increased.
+very insightful cybersecurity industry program
+good course to learn the basics about infosec
+The audio quality on some videos are poor.
+A little out of date but very informative
+good course ,video quality is unsatisfied
+Some of the videos voice is not clear..
+very good but need to add some practice
+Very Basic course, almost 0 practicals
+One of the instructor read the slide:(
+Its a very good course for beginners.
+The audio quality could be improved!
+Too much theory! Overall a nice one.
+have you fixed the sound in videos
+A well resourceful course indeed!!
+good but need more practical labs
+Additional content can be added.
+Good theory course for beginners
+Quality of video could be better
+good to learn new things easily
+this is the  most useful course
+Thank you so much. I feel GOOD!
+Mostly Cover very basic topics
+The clarity of words is poor.
+Very very informative course
+It's Excellent to experience
+good and easy to understand
+Very well organized course.
+Mentor words isn't audible
+Great course for begineers
+this course very useful
+its a good introduction
+It's awesome. Thanks !
+Its a Vey good course!
+audio quality is poor
+Very Basic and Easy.
+Nice Place to learn.
+Really interesting.
+Worth every penny ,
+bad voice recording
+Good Experience !!
+Poor Audio Quality
+great to learn.
+Too helpful
+it was a great experience learning so many basic concepts about the cybersecurity world , helped in understanding the key terms of cybersecurity and makes me stand out in cybersecurity crowd.
+Very solid course. Quick overview about almost everything you need to know at the beginning. A lot of useful links with additional material to study. Thanks a lot for sharing the knowledge, indeed!
+This is my first course and I really enjoyed it. It's built on practical knowledge and has really inspired me to learn more about Cyber Security.
+The reading link to Week 03's Framework and their purpose is Broken. Please Fix it. Everything else seemed perfect. I would recommend this course for people who think of starting their careers in CyS.
+I appreciate the chance to learn fundamentals of cyber security with you.The vast number of topics made it pretty interesting for me and I couldn't wait to learn more.Sincerely, Sadra Zargar
+course is good but the problem occurs because of asginment, because there is many right answer in option so student get confuse and sometimes wrong answers are right.
+The course was intensive, broad and contains key cyber security tools and information for future utilization in cyber security workforce.
+An excellent course that has made me understand the basic concepts of cybersecurity and growing my interest in this job sector.
+Surely it was a great experience and learning opportunity with IBM about the cybersecurity world. Appreciate!!! and eagerly wait for the future cybersecurity program. -----Subarnadip Debnath
+Great introduction for anyone who wants to immerse themselves in cybersecurity without any prior knowledge or degree in the field. May need to do some research by yourself and lookup words just to get the full spectrum of the topic, and sometimes the audio may be hard to follow but thanks to the transcripts you can easily move forward and make notes as the course goes on. Really recommend !
+loved the course.....it was so informative and the quizzes were challenging and they helped me gasp the concepts more. i got insight on the key concepts of cyber security am excited to take on more courses under this category( specialization). thank you IBM and coursera for this great opportunity and platform to advance my career in cyber security
+The course details are much valuable. They are a lot of help to me to gain my cybersecurity knowledge. But additionally, I think the course videos should be more improved, like sound quality, image quality, etc. Overall I like this course very much. Thanks to IBM & Coursera for giving these valuable courses.
+I am a beginner in cybersecurity.  This course provides basic knowledge of cybersecurity. But the quality of the video classes and the audio is not up to the mark expected from IBM. But I acquired knowledge of cybersecurity and got to know about sites from where I can download some cybersecurity tools.
+This Course gave me a clear idea of critical thinking that should go into cyber security processes and the roles in industry their responsibilities and about hackers. It is a very useful course and truly designed for a beginner to understand in a clear way.
+Learned to combine knowledge, skills and expertise of the cyber security community to identify the emerging threats and facilitate the development of coherent policies and robust capabilities.
+The course is very informative and has great learning material. Gives high rated knowledge with latest updates and study material. Thank you Coursera and IBM for this opportunity.
+It was very good course ,i learned new information and i wish to continue learning cyber security .I thank Coursera and IBM for giving me the chance to learn.
+One of the most successful cybersecurity course. easy to learn and everything can be leaned from the beginning for everyone.
+It really helpedme go into the domain of cybersecurity and it scope and impact on the society
+I loved it..!! Its full of basics and very informative
+The videos are excelled and easy to understand.
+Information are clear & good instructors.
+I love cybersecurity field and learning  more about it, despite of my long working hours during the week which makes a real challenge to me. I realized that I was drowning in a mess of information and concepts about cybersecurity, but today I have found my path where all information and concepts are organized according to a scientific and experimental method.Thank you IBM for this great course, and I'll continue this path and register in all security courses that IBM provides.Who knows, maybe  one day I'll be a member of X-Force team.
+i learnt lot of things from this course really a very interesting and useful in cyber security field, i am form India and live in rural and internet speed is too slow and in this lock down more and more access of internet by a large number of persons , it become almost impossible to attend course in day time so i completed this course by being wake in whole night but i did it and really i enjoyed it lot. again thank you so much team coursera and mentor of this course.
+Great course to understand the fundamentals of the current field. I'd say it's more business-oriented and you won't find much technical knowledge. But if you want to jump into the Cybersecurity world - you can't miss this course. A lot of great resources and general information with examples will definitely make your future explorations easier. Thanks a lot!p.s. special thanks to Kenneth Gonzalez as his lessons in my opinion were most entertaining and interesting.
+I am thanking Coursera and IBM for providing such a knowledgeable course. It has enhance my knowledge. Those technical definitions with real time examples made me to get involve in this course deeply. I am spending my time usefully using Coursera. My college syllabus is not much deeper in technical and real time implementations. Thus I have started to study Coursera. I would like to share this wonderful MOOC site to everyone.
+A well-detailed course that provides a bird's eye view of the entire cybersecurity domain. It's very beneficial for people who plan to start a career in CYbersecurity.Lessons provided by the security architect is quite beneficial. If the audio quality of his lessons would have been slightly better, it would make the process of understanding concepts bit easier.
+This course is a great starting point to the cyber security technologies. Here in this course I personally learned about key technologies like encryption methodologies, digital forensic and tools, IT auditing processes, and other useful things. The instructors are highly experienced. They providing a good understanding of each topic.
+Information about various valuable resources regarding Cybersecurity was shared (e.g FFIEC IT Handbook InfoBase, PTES Technical Guidelines, Security Testing, Validation & Measurement, etc) along with the basic understanding of each fundamental concept in Cybersecurity (e.g. CIA Triad, Security Compliances, Crypto attacks, etc)
+I loved how all the details were very relevant to today's technological advancements. The instructors were really patient and knew the most updated details which they share with students in this course. I'm really glad to have taken this course up and help my career grow! Thank you IBM and Coursera for a wonderful opportunity.
+Excellently packed information. Great information and also great further references. A lot of independent research and readings have to be done in order to understand all the topics thoroughly, and taking notes is also crucial. Despite one or two inconveniences with the audio or quizzes, this is a pretty good course.
+This course was fantastic! I read in the forums some complainers but I had no issues understanding the instructors and thought they did a wonderful job explaining this wonderful field. I look forward to learning as much as I can! Thank you, Coursera for helping me one step closer to a better life!Jennifer A.
+Great Introductory course. Would have been useful if videos of simulated Cyber attacks in lab environment could have been demo'd which would have added further value to this great course. Some speakers were hard to understand. Some of the transcripts are inaccurate and needs to be reviewed.
+The course was delivered excellently.The content was logically presented.Practice tests were useful and provided for good learning opportunities prior to the graded tests.The web page interface was seamless and the videos were always clear and to the point.I recommend this course highly.
+Overall a very informative course, but very heavy on the content in terms of theory. But given the field I would say its an apt one. Some of the instruction at times were not clear but the readings are very good and useful. Lastly, the quizzes are well made and help nail the key points
+It's has been a very good training to formally start in the Cybersecurity world. Very abundant and clear concepts guide by excellent instructors. I am highly motivated to continue the other related courses until I get the professional certification. Many thanks IBM and Coursera
+This course has actually help and build my confidence in Cybersecurity and attacks, also to know what digital Forensics, Hackers, advance Encryption, Cryptography attacks, Firewalls etc means and i hope this will get me on a solid ground in becoming a Cybersecurity specialist.
+I understand lot of things like, types of firewalls how its working,lot of cyber security tools and one of the best thing latest updates about cybersecurity threats, and there sites, where we can view reports.Iam very thankfull to my teaches who help me in this course.
+Great introduction to major areas of cybersecurity. This course was a great review of the most important areas of cybersecurity for someone wanting to know more or get started in the field. Cheers and thanks to the creators of this course! Warm regards, Jeff Jackson
+In some videos. audio or course instructor language is not fully audible. Please correct that, Other than that , course content. structure and presentation , everything is good. Happy to have attended this course and learnt fundamentals of cyber security in detail.
+I really appreciated this course, I'm wordless to express how happy I am because I learned a lot. The teaches are very good, the way you structured the contents of this course is something very interesting. Thank you Course and IBM for this big opportunity.
+I am really lucky to got the information from the domain expert teams.The content was clear and easy to understand.There was also an introduction session for every video which brought me to understand the objectives of  watching that particular video.
+The course is specially good for those who are new to cybercsecurity and want to get some knowledge about it. The subjects and quizzes are well prepared however the sound quality of the videos at times was not so good so I would suggest improving it.
+I never dreamed, I could learn so much online and build on my future prospective career. I highly enjoyed all my classes and am looking forward to completing the whole course. Thanks to all my lecturers that were extremely helpful and very accurate.
+Awesome course and instructors. Some parts needs further study to have better understanding. Interesting course. The slides are easy to understand, as it is straightforward. Plus, the reference sites are great, contains lots of useful information.
+when edit the its give me the full access and at final quiz of the week it ask me to upgrade mean purchase it.you should not allowed first even to read it.or to do any quiz.just waist my three days .i though its free and i can benefit from it.
+i have joined to this course for to learn the tools that are used in cyber security.the journey thrugh  course is amazing and i have learnt new concepts.these amazing information can help me in future in cyber security industry.thank you
+An excellent start in understanding Cyber Security terminology and core concepts. The wide range of experience from the teachers is truly astonishing. The extra resource links provided give a great jump off point into deeper learning.
+The course was best for starting with the network and cybersecurity. I learned a lot from here and yes it was really a great experience learning and working with Coursera. All I learned is gonna help me in many ways of my working.
+Thanks for the opportunity to learn one important part from cybersecurity. Throughout the course, I got the available links that I needed.
+Thank you to the professors and experts who guided me through the first part of the course
+It was an eye opener i have learned a lot. thank you very much IBM, hopefully i will join you as an employee. Thank you very much to coursera for affording me an opportunity to get education i will forever be grateful to you.
+The Program is very interactive and covers at a lot of ground on baseline model, framework, tools and necessity of a cyber secured system or network. May i would recommend more clarity in voice of the some of the presenter.
+It was an exciting learning experience. The content is very comprehensive and the quizzes were designed to bring out the knowledge in one. Thanks to all the presenters and IBM for organizing this excellent course.
+With the skills acquired I can protect my sensitive data, personally identifiable information , intellectual property as well as governmental and industry information systems from theft and damage attempted .
+Very great learning experience...... It was with financial aid and I really loved this. Thank you coursera for providing such quality education and thank you IBM for sharing great great skilled knowledge.
+Excellent course, content is suitable for anyone interested in Cybersecurity.  Provides high-level and detailed content on origin of industry, government, cyber players, methodologies, tools and language.
+Great course that gave me a basic understanding to cybersecurity issues, the methods used to security data and the tools used to ensure the confidentiality, integrity and availability of communication.
+I like this course a lot, especially a more complicated test system than in other courses. Like other IBM courses, this course is very informative, simply explained, and useful. Definitely recommend.
+Very Good Experience from IBM powered by Coursera. I learn some new thing and wondering about the Technology in today's world. Thanks to IBM and Coursera.Kind Regards,Anwar JamalFuture IBM Employee
+The course is good especially the resources provided by IBM. It has not only given a good foundational knowledge of the stream but also developed an interest in knowing further about the field.
+Excelente curso de introduçao teórica para aqueles que querem entrar no mundo da cybersegurança.Excellent theoretical introduction course for those who want to enter the world of cybersecurity.
+Enjoyable informative introduction to Cybersecurity. Not an overwhelming amount of information that motivates the individual to continue in the attempt to earn the full Analyst certificate.
+I knew about as much as new born child when it came to Cyber Security. The style of learning definitely suited my needs and I walked away from this course with an ample amount of knowledge.
+Great introductory course for any beginner with no knowledge about Cyber Security.  I learned a lot from this course.  Kudos to the instructors of this course.  Job excellently done!
+THIS COURSE WAS VERY EASY TO LEARN AND COMPREHEND. GIVES A VERY DETAILING AND INDEPT  VIEW TO CYBER SECURITY ATTACKS AND GIVES STUDENT GOOD CHANCE TO BECOME A CYBER SECURITY EXPERT.
+I am very much happy that I achieved this certificate and learned so many methods of cybersecurity and cryptography. I hope this will take to the next level in my IT  carrier.
+A very smooth introduction to the world of Cybersecurity. The novel way it is delivered has increased my desire for learning more. Thank you Coursera and IBM for the course !!
+The material is  very practical and easy to grasp. The instructors are very engaging and make it more interesting to learn. I can not wait to further my studies in this field.
+Much Recommended! I learned a lot of things about the things that go into Cyber Security and got to know about various different things required for getting into this stream.
+This introductory course to cyber security tools and cyber attacks is top notch. I have indeed understood certain concepts better despite my numerous years of cyber security.
+Excellent course; I've truly learned a lot of information that will definitely better prepare me on my journey that I hope will end up leading to a career in cybersecurity.
+I have gained a lot of good information from this course thanks to IBM for this and would like to continue in the course further and even willing to take a job role in IBM.
+It was an amazing course I've learned a lot of things about CyberSecurity such as finding vulnerabilities and defending against attempting to hacking and many things too.
+It was integrated and light course that I will recommend for sure, it added a lot to previous information I knew. I developed my previous knowledge with a great new one.
+Great refresher of what I learned in my Master of Science In Information Technology with a concentration  in Information Security and Assurance . Covers all the basics.
+This course provides an excellent Cybersecurity overview to provide students with a comprehensive introduction to the main concepts and considerations of Cybersecurity.
+A well manner course that make me understand the basics of cyber security world and go through the concepts of penetration testing ethical hacking and some cyber tools
+Excelent course methodology that make it fair the balance between the content course itself and the knowledge aquired by the student. Thank you Coursera and IBM!
+Very good and informatic course specially for the beginners and a great initiative also.I would like to thanks entire team from lecturers to the presenters.
+Helpful, It gives you all the needed basics to start in the cybersecurity track and to have the general knowledge to take a big step in this career. Thanks
+To the point course, can get you into speed for reputable certifications like Sec+ etcGood videos, quizes and exams were to the point.Excellent experience.
+I totally loved the course  and expecting to get more learning opportunity from your side.  There were some inaudible moments but other than it was good.
+This course helped make me understand a brief background in the field of cybersecurity. Thanks to the instructors and Coursera for this amazing course.
+Overall course content is nice and informative. But some audio quality must have to improve because so many noise are hearing with the speaker's audio.
+I think this is the best course for the beginners to learn. They almost explained everything in detail. I think the beginners should take this course.
+This course has given me overall view on cyber security,principles,attacks,i recommend this course if you are entering or interested in cyber security
+Nice to learn such vast topic with each sub topics equally important to Cyber security world.Enjoyed a lot to go through such a detailed introduction.
+It Increase the knowledge related to cyber security and help to guide the student and other peoples to take precaution while using electronic gadgets
+It's an amazing experience with this course. I'd learned a lot about cybersecurity tools & it's attacks. As a beginner all should have to try this!!
+This course helped me understand the basics. I know I can't listen to an in-depth conversation, but I can at least know what they are referring to.
+IT was great studing with this course. kindly provide some hands on experience . the module delivery was great and enjoyed learnig this course
+A very detailed intro course to cybersecurity methodologies, policies, procedures, cyber attacks, cyber crime, penetration testing, and more.
+A very interesting and useful course to learn. The knowledge is applicable in every way as the world is becoming more digitalized everywhere.
+It is my pleasure to learn this course. I learned very important concepts of the Cyber security and looking forward to learn more. Thank you.
+Best introductory Course, the Best course for beginners who are interested in cybersecurity. Thank you Coursera for such a wonderful course
+GOOD CERTIFICATION TO DO AS A BEGINNER TO CYBER SECURITY NOT ONLY BEGINNER IT IS REQUIRED FOR ANY ONE WHO WANT A CARRIER IN CYBER SECURITY
+The course was very enlightening for me. Thank you to both IBM and Coursera for offering this course through the Coursera Learning Portal.
+It is Amazing and knowledgeable for me.It improve my knowledge in cyber security and make me inspire to know more about it and work on it.
+It is structured in such a way that a novice or a beginner can grasp the concepts of Cybersecurity to gain solid foundation in the field.
+This course provided me with useful resources and tools that will help me with my current studies and for future career opportunities.
+very useful course , its make you more aware and understanding about cyber security domain and its current concerns . Thanks TO IBM  .
+This was a very descriptive course about cyber security and how to manage and learn things to safe guard yourself from the cyberworld.
+Amazing introduction to Cybersecurity Tools & Cyber Attacks. I have learnt so much and I am looking forward to continuing my journey!
+Sir my course certificate name is rung problem.please sir my real name aminur islam mondal.i see certificate name aminur islam mondal
+The audio stream is breaking, might be buffering due to low bandwidth on my network. But apart from that, enjoyed this course a lot..
+I think this subject is very usefull for modern life.Because it give us knowledge for secure the data from external users or hackers.
+This Course would you help you about basic & key information about Cyber world. If you take this course hopefully you enjoyed a lot.
+I enjoyed the course and learned more than I knew before starting it.Nice badge and certificate to go into my collection.Thank you!
+It was a pleasant feeling to complete this course. Now, I can easily say that I am familiar with the basis of cybersecurity terms.
+Awesome course indeed and looking forward to moving onto the other remaining 3x courses to complete the full speciliazation track.
+It is very nice course if you dont know about the cyber security fundamental and it will provide valuable info. Enjoy the course.
+i really enjoyed in this journey , i hope to meet you again guys , thank you from heart for this opportunity and keep smiling :)
+This course really helped me with a broad understanding of cybersecurity concepts that are necessary to advance my career.Thanks
+Highly detailed and to the point course coverage. Helps in understanding the fundamentals of Cybersecurity with great clarity !
+This class was so exciting it gave me the knowledge that i thought was very hard  too obtain and it made it easy to understand
+Learnt much in this course. I liked the contents of this course. Now  I am planning to do advanced course also. Thank you.....
+Some subtitles had grammatical errors which may make some misunderstandings for those who don’t have good command of English.
+From this course i learnt all the basics of cyber security, types of attacks, exploits, security management and cryptography.
+This course was well designed and lays out the fundamentals of Cybersecurity for people coming from different IT backgrounds.
+its very helpful for my studies. the cyber security tools and cyber attacks details was clearly in this section. thank you!!
+Course content and toughness level superb , Really useful and knowledgeable course design by IBM and Initiative by Coursera
+IBM and the trainers focused on exactly what they needed to to build a good foundation. I'm very grateful for this course.
+Good course helped me to refresh knowledge that I had acquired during university. I will continue doing the other courses.
+The course was really great. I learned a lot about Cybersecurity.Looking forward to more amazing courses in Cybersecurity
+This course is amazing. Its also a perfect road to go on for one who is starting or want to start their in Cyber Security
+This course is really helpful for clearing the basics of the cyber world, especially for those who are beginners like me.
+the course was nice need to make it much more interesting with some kind of practical sessions , hope this will help <3
+Very good oportunity. I was introduced in the cyber security with great professionals and IBM with all your 'know-how'
+Very good beginner level course...and refers to quite a few useful links/resources where you can get more information.
+The course is properly customized to get a basic understanding of cybersecurity and different components related to it
+Every Module elucidate salient feature of Cyber security from scratch with synergy  of knowledge of Expert from IBM.
+This is my introduction to Cybersecurity and I was impressed by the simple presentation, good examples, and quizzes.
+Highly interesting, well put together. I enjoyed it very much and feel like I have increased my knowledge massively.
+I really like to take the course on your site, thank you very much for the convenience, this is just the beginning)
+As the course title says, this is a good introduction for the cybersecurity topic with some good links, thank you.
+Awesome course . I got precised stuff in single place, which will be really helpful in my ongoing Security tasks.
+I learned a lot of Cyber Security information from this course.  Quizzes from this course are not easy to answer.
+Nice Presentation. Great aid for the studying process. I feel that it gave me a good foundation. Thank you all.
+As someone who wish to start his/her journey in Cyber security field, This course is the best one for everyone
+Very much informative and helpful. Helped me to understand the basics of cybersecurity and digital forensics.
+Iam very happy for the completion,the course was so comfortable for continuous learning.Thanks for the course
+A very thorough introduction into the Cybersecurity field. The instructors were clear and the slides helpful.
+A beautiful course which introduces us to cyber security which is clearly unknown to many people in the world
+Thanks to the respected instructors to teach me the fundamental and most important concepts of Cyber Security
+Excellent lectures, well paced. A nice mix of videos, articles and recorded lectures. I really enjoyed this.
+Really good and informative course able to get many useful resources and valuable knowledge thanks to IBM
+To learn this course we can gain knowledge on basics of cyber security and how it is useful in daily life
+Great course. Now I'm aware of cybersecurity. Hoping for another course continuation of this. Thank you.
+Really great course with step by step progress. Hoping the same in other courses of this specialization.
+This course is helpful to get information about various cybersecurity tools and different cyber attacks.
+This course consists  domain of knowledge for  cyber security tools, technique and attacks. Thanks sir.
+the course gave me the basic knowledge of cybersecurity and all the teachers were awesome too.thank you
+It is very fully course to learn about cyber security.I have gained a lot knowledge through this course
+I Learn so much with course, it's very deep course for IT Support and I like and enjoy all the course.
+It gives a great view of the cybersecurity world and key principles usefull to work in cybersecurity.
+one of the best course  to enroll in. It provided a very vast knowledge in the field of cybersecurity
+This course is very beneficial to me and it expands my knowledge on Cybersecurity. Thanks a lot IBM.
+That was wonderful session..Thanks lots for IBM corporation to make available  online such courses.
+This is a good course where we learn the basics of Cybersecurity tools and Cyber attacks and more..
+Awesome course!!! Thanks to Coursera for the platform... Very interesting and useful.... Loved it!
+Good course to start lerning Cyber security, lots of video and pictures so I found it very useful)
+excellent course helped me to gain more knowledge and make me get into the cyber security field!!
+A very good course to understand cybersecurity basics.For a beginner this course is very helpful.
+Well designed for beginners to get an idea of key concepts and methodology use in cyber security.
+Amazing course !! Very easy to understand and explained in a very clear way!! highly recommended
+Amazing course, it opens your mind about why do you have to be cautions related to cybersecurity
+Its a fantastic eyeopener for someone who wants to understand the concepts around cybersecurity.
+Really, a rich course. Full of valuable information. Expert cybersecurity instructors.
+Thank you
+I enjoyed the class and learned a great deal. Looking forward to completing the 4 class program.
+A very nice Course to take if really want to understand how the safe you are on the Cyber world
+It is an awesome course for intermediate level and advanced level students. i love this course.
+A very nice course to learn and I have learned many new things from this course.Thank you, IBM.
+Excellent course! Congratulations to all the instructor, an IBM for making this course. thanks
+It was a wonderful course! I learned many concepts and terminology related with Cybersecurity.
+this course is very informative for beginners  content of this course is very good and helpful
+nice and helpful course from u guys i would like to continue again for more courses.thank you!
+Amazing! Technical but accessible. Completed it in one week because I found it so fascinating!
+It was a great experience getting taught by IBM, amazing teachers and the course is fantastic
+the course is amazing, but it included a repeted objects, and sometimes the sound is not good
+The content of couse is specific and good for those who want to start career in cybersecurity
+Amazing Course it was ,I really feel excited to do many more courses related to this course.
+i have learned so much in this course.thank you so much for giving me  a useful information.
+This Course has been designed well. It will be more good if there should be some experiments
+This course is incredible because i get to learn how cybersecurity operates in the society.
+Excellent Course. Gave me a different approach to my prior knowledge related to this field.
+Thanks a lot for making me understand the terminologies in less amount of time, loved it :)
+Good information about cyber security,cyber attacks,tools to protect oir information.etc...
+I really enjoyed taking this course .. it was full of valuable informations .. Thank you !
+This course gives a wide basic knowledge to beginners on cyber security. Very interesting
+This was a very informative and education introduction to cybersecurity. I learned a lot.
+A really good course. lot's of information and resources available for the participants.
+I learn a lot of new things and a lot of material needed for Cyber security professional
+This course teaches the basics required to understand cyber attacks and security related
+Really good education for who searching Cyber Security introduction and more. Thank you.
+This is good course for beginner of cyber security. Its a great chance for me. thank you
+So helpful for beginner to know about the terms of Cybersecurity Tools & Cyber Attacks.
+The content is useful in my daily DC work, i  am continuing in taking the next course.
+this course is really helpful to understand the basics of Cyber attacks and security .
+This course very knowledgwable (introduction to cybersecurity tools & cyber attacks).
+Excellent way to kickstart your Cybersecurity career. Really clear, concise and fun!
+Very informational! Love the quizzes to reinforce the info at the end of the modules
+I enjoyed every bit of it. Look forward to learn and grow more using these courses.
+The content is really good, however the way is presented (slides) can be improved.
+it's a good course and teaches from scratch .It is excellent course for beginner .
+I Completed all these modules, and i have increase current  knowledge its worth it
+wow a good package , this course clear all confusion related security  and threats
+I enjoyed a lot learning this course and also helped me to increase my knowledge.
+Provides a very comprehensive introduction to Cybersecurity Tools & Cyber Attacks
+Great introduction taught by professionals with deep experience in cybersecurity.
+its really felpfull for me.i came to know alot of things in this spesific course
+Video Tutorial is very good, but need to add more concept. Overall its very good
+The video lectures were amazing! Especially for a newbie to this field, like me.
+IT WAS REALLY NICE EXPERIENCE AND REALLY GOOD COURSE WITH SOME EXCELLENT TUTORS.
+It Really Help Me to Learn New things and content is also good for a good start
+Acquired a great knowledge on cybersecurity tools and attacks ... thanks to IBM
+Is a great experience. A lot of tools and resources are shared for own studies.
+This course is highly recommended for anyone who wants to learn Cybersecurity.
+nice course but some hands on videos should be added and some assignments too.
+I Really enjoyed doing this course.It actually explains the concepts in depth.
+I learned a lot of new info, and gave proper structure to what I already knew
+of course, it was knowledgable and consisted of people genius in their field.
+Excellent foundations on applied security along with theoretical foundations.
+I learnt a lot about the basics of cybersecurity through this course.THANKYOU
+A very precise and apt course for someone desiring career in Cyber security.
+This is an useful course for all those who are interested in cybersecurity.
+some of the modules have a low audio quality. Besides that a Great Course.
+A Great platform to learn some valuable things which we are interested in.
+Best course to recall cybersecurity concepts for beginner and professional
+IT  was great experience in learning from Coursera and expanding my knowle
+I really enjoy the structure of the information, very clear and objective
+Good Course.  I thank Coursera and IBM for giving me the chance to learn.
+Wonderful course to get an insight about what cyber security really is !
+very informative for a outright beginner in cybersecurity, recommended!!
+It was awesome course, for me lot of stuff was new and easily learned!!
+Good introductory course, would recommend for anyone new to this field.
+Nice Introduction to get basic principle to get deep to cyber security
+very good learning, thank you very much .i am glad to be a part of it.
+Compact & well designed course as introduction to cyber security role.
+It was so nice and I was so  happy for taking this learning  platform.
+i am very happy because i have new knowledge about cybersecurity tool
+A very straightforward course to cover the basics of Cyber Security.
+I enjoyed this course a lot. It's a great combo of learning and fun.
+One of the best platform to understand about the term "Cybsecurity".
+Not much bad but if the coding part is included it might look better
+Very good course for beginners. These guys have a lot of experience.
+thank you for the great opportunity learnt alot about cyber security
+The course offer detailed explanation  to understand cybersecurity .
+A very useful course with important information about cybersecurity
+This is the best IT course I ever studied. I will be back for more.
+this coursera is very useful in future too . amazing stuff to study
+I have learnt a lot about Cyber security. Thank you so muc Coursera
+Awesome content and it is an eye-opener for me about cybersecurity.
+t's amazing! i love security and is nice learning that with the IBM
+i loved it. you will get to understand the basics of cyber security
+It was great stepping stones to the next chapters "courses" ahead!
+PERFECT COURSE TO LEARN THINGS ON SECURITY TOOS AND CYBER ATTACKS.
+IT WAS GREAT CHOOSING AND LEARNING THIS COURSE , I REALLY LIKED IT
+the videos are enough to understand about the topics thank you ibm
+tough but it was great examination ....course modules was awessome
+Nice course, suitable for IT professionals working in environment.
+Great course for every person who want to start cyber-security job
+Well structured, even for people who are not sistems professionals
+I liked it very much as I love to know more about cyber security.
+Well explained and give a great first approach to cyber security.
+It helped me to learn many basic things of Cyber Security.Thanks
+It is a great course, have all the bases to start in this topic.
+The Course was best course.I enjoyed the course a lot Thanks IBM
+I learned lots about cyber security. The material was wonderful.
+Highly recommend! For fundamentals knowledge this is the course.
+Was fun and very informational. Just would fix the audio quality
+learn a lot from this course , grate course ,need some updates.
+This course is well suited to get an introduction to the topic.
+I really like this course. Also i like the teaching techniques.
+Today I Learn how to work in Cyber Security and I like it best.
+very good course for beginners to know all about cyber security
+very good contents explained in an easily understandable manner
+Great course , in detail explanations and overall great content
+Build in a way that is Introductory for those new to the field.
+The course was easy to understand and the concepts were clear.
+A great course to understand the core tools and cyber attacks.
+Excellent insight. Got to learn lot of new things and concepts
+Well organized and comprehensive for a beginner level course.
+the course gives a very good brief of cybersecurity landscape
+Amazing content! A must for aspiring cyber-security amateur.
+ONE OF THE BEST AND INTERESTING COURSE. DONT WAIT GO FOR IT.
+wonderful experience request u to make some video clear mode
+Got to learn a lot about cyber security and was very helpful
+Awesome course work. but few instructors' voice are bit low.
+I have gotten the full idea about what Cybersecurity about.
+I finally understand the core fundamentals of cybersecurity
+Very crispy and Informative video s for beginners,thank you
+Such a great course and so excited to continue the course!
+Course is awesome and great opportunity for Cyber Security
+unfortunately the Sound Quality of all lectures its so bad
+Excellent Introductory to fundamentals of cyber Security.
+Phenomenal Experience, Very Thankful for the opportunity!
+Teaching very deep concept of cyber attack and the tools
+good course, but some videos audio are no clear to hear.
+if we ha the practical examples we can understand easily
+Basics of Cybersecurity have been explained excellently.
+The course was useful and relevant in many career fields
+it was awesome and even difficulty was also appropriate.
+BEST EVER JOURNEY WITH *CYBER ANALYST* BASIC KNOWLEDGE!
+Thank you for providing the knowledge on cyber security
+I Like IBM Teaching Method & Provided me deep Knowledge
+it was my first online course and it was really amazing
+Excellent information about IT mechanisms and firewalls
+Great course, I really enjoyed the pace of each video.
+Content is really Good, Short videos help study better
+it gives you a  basic idea about what is cybersecurity
+This course is great as it starts from the ver basics.
+It's a great experience. Thank you IBM and Coursera .
+It was very good and the concept was clear and nice..
+Excellent course for introduction to cybersecurity .
+Well rounded in knowledge and brilliantly presented.
+great in depth course for beginners in cybersecurity
+This course was very interesting , and useful too!!!
+Very good contents and quizzes. Easy to understand.
+Well planned and simplified for easy understanding.
+I learn what is a importance of privacy & security.
+It is was a good and informative course! Thank You
+Excellent knowledge oriented course thanks courses
+many new things will be learn about cyber security
+this course will be very useful for you..i love it
+That's a small course with very useful information
+very nice ,but no one certificate ireceive in it.
+Learned a lot, the first step in changing my life
+Good Course about basic concepts of cybersecurity
+super basic and informative course for a beginner
+Very interesting and a very easy way for learning
+Excellent course for begineers in cyber security.
+course is really great..but audio could be better
+Insightful and Creative. I've enjoyed this a lot
+learned a lot.must try this course atleast once.
+Very good Thank you for your effort to teach us.
+Learned a lot of new  concepts in cyber security
+Great content with excellent explanation method.
+Sometimes the audio is not good in some videos.
+Great course! Well explained and very friendly.
+Excellent for beginners who are into this field
+This course has given me an insight experience.
+Its Excellent Course great Source of knowledge
+REALLY A NICE WAY OF TEACHING,I ENJOYED A LOT.
+Nice course with a nice index for every topics
+The quality of the sound its sometime annoying
+IBM is the best when its about Cybersecurity.
+Learned many things related to cybersecurity.
+Great course for Cyber security fundamentals.
+i love this course and good and easy to learn
+Excellent content , useful , enjoyed learning
+Well Structured and Elaboration of concepts.
+BEST COURSE FOR THE BASICS OF CYBER SECURITY
+Something very interesting, Liked it. Thanks
+Good to Start in the world of Cyber Security
+Amazing course to learn the basics and more!
+Thanks FOR this opportnity,Loved this course
+some questions grading is wrong please check
+This course is very good and really intense.
+It was really informative and knowledgeable
+the course was amazing ,easy to understand
+I have learnt a lot about cyber security .
+It helps me to enter cyber security field.
+Good and. I was knowledge about this topic
+not easy course, scholar need to dig more.
+It's really useful and easy to understand
+Good course, but sound is not very well.
+pretty good introductory overview course
+in beginner these course are very useful
+superb course. Gained more information.
+Thank you for the information about IBM
+It is nice to achieve this certificate.
+It's and excellent course for beginners
+Informative and pretty straight forward
+good to understand about cyber attacks
+understandable to every part of people
+Good cyber security learning exposure.
+Good instructors and good presentation
+A prestigious Opportunity of Learning.
+Great course with exceptional content.
+Very good knowledge of Cyber security
+A great introduction to cybersecurity
+nice learn introduction cybersecurity
+Diifficult but very much interesting.
+it was educative. I want more of this
+Good one ,i learned lot of from this
+Brief but great information. Thanks.
+A great fundamental of Cybersecurity
+Excellent as always,coursera is best
+excellent course about cybersecurity
+Interesting course to earn my 5 star
+wonder full course for the beginners
+i learn many things from this course
+Very helpful and a very good start.
+This course is worth as it reflects
+Amazing course! I highly recommend.
+Thank you for the nice explanation.
+Basic concenpts explanation is good
+it is very much informative session
+good for beginners in cybersecurity
+Helpful information, great course.
+Thank you for offering this course
+Excellent start for cyber security
+Excellent course for any new comer
+Very useful content in this course
+Very informative in deep knowledge
+Great course to get your feet wet!
+Awesome course for cyber security
+One of the best platform to learn
+Very nice and informative course.
+Thank you ..Hoping to learn more.
+Excellent to begin with !!!!!!!!!
+A very good course for breginners
+Excellent course , learning allot
+great introduction cybersecurity
+very impressive course thank you
+awesome and knowledgeable course
+Great course and knowledgeable..
+Good overview of security field
+Good course, good for beginners
+It was too good and informative
+Explanations are well and good
+Comprehensive and informative.
+It very informative and useful
+learn new new innovative ideas
+Very informative & interesting
+Thank you all for this course!
+Very Informative and helpful.
+informative and comprehensive
+Very interesting contents, A+
+that course was very helpful
+best coures I had never seen
+I enjoyed learning new skill
+very helpful and informative
+Basic are covered very well.
+Thank You So Much Team IBM.
+Learned about basic theory.
+Absolutely solid learning.
+Thanks for great teaching.
+Found it very interesting.
+Great course for beginners
+I wasn’t sent a badge why?
+It was very knowledgeable.
+Good to learn this course
+very knowledgeable course
+Lots of great information
+I was interesting course
+Its worth the time spent
+it is very good to learn
+very interesting  cource
+Thank you so much!!!!!
+Thanks a Lot. So great
+Great way of learning
+Very useful and clear
+thank for this course
+thanks course for IBM
+very nice this course
+Awesome Course by IBM
+Very good! Thank you
+A nice course by IBM
+Good Basic Knowledge
+excellent 5out of 5
+great course by IBM
+Very Informational
+very good learning
+IT IS VERY HELPFUL
+Awsome experience
+Thank You Thanks,
+Thank u very much
+i have learn alot
+Glad to have it!
+Good Explanation
+Awesome course.
+Great Course...
+Cool career!!!
+It was owsome.
+A Great Course
+good knowledge
+may be review
+very hellpful
+Was helpful!
+GreatContent
+Learnt alot
+Vey useful
+iti

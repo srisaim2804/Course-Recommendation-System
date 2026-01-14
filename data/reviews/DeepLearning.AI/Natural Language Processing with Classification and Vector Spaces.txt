@@ -1,0 +1,293 @@
+This course has too many problems as it stands:1) They haven't chosen an audience: the concept that they explain are trivial for anyone having (even basic) machine learning (or even basic linear algebra) knowledge. However, it doesn't meant that this explanations would be useful for beginners: they are too short and incomplete (the "videos" are on average 3 minutes long!!) and what they focus on is often not the most relevant part.2) There is no reading material: no books, no papers, no theory. It wouldn't be a problem if the videos themselves were decent, but most of them are about 1 minute long. You can't explain machine learning in such a short time. 3) The code of the assignments, especially assignment 4, is unclean (e.g. unused variables) and contains minor bugs. 4) The script that grades the assignments has very strict requirements: as an example, very often, if you use x.dot(A) instead of np(x,A), then it complains and says you've failed. This happens for a lot of numpy functions, and it makes the process of submitting results tedious.5) Again, regarding the course material itself, many of the key aspects are not discussed. For example, word embeddings are given that have some nice properties, but its never explained how they have been obtained.Overall, it seems completely rushed.
+I have to say I was pretty disappointed with this course.  I think there are two main issues.  1) The choices about what to dive deep on were not helpful.  I don't feel like I have a high level understanding of most of the topics covered.  2) The assignments were not helpful in furthering understanding.  I hope the next courses in this sequence are better.
+Poor quality of video contentPersistent issues in accessing the labs (It hangs 50% of time)
+there is no note providedthe programming questions and instructions are so ambiguousthis led to much confusion
+Very light content, no depth to many of the concepts. Not worth the money.
+Lectures are too short and the topics are overly simplified. Assignments are toy examples.
+This course seemed rushed, and navigated across depth and breadth very unsystematically. There were errors in the assignments and instructions, and the python code in the assignments was also very non-pythonic in many places.
+The course is interesting, and it is built carefully in all the aspects (videos and code), even though I followed it in their first days of live.  Grading process is more on programing than on understanding NLP (classification and vector spaces). For instance; Slight changes in the code (spaces, repeated codes of questions identification, lack of use of the proposed functions...) derive on fail to pass. Error information are frequently uninformative. It is not possible to check part of the code (see W4)  The use of "Slack" is not proper; information it is not easily accessible, unorganized and it demands on students the learning of new tools and additional payments.  Definitively I used more time with the code than with the NLP contentHopefully this comment is useful for students and teachers.  Thanks a lot
+not worth it. the content is not related to the latest deep learning methods
+Many of the assignments had codes (like functions and concepts) which were explained in the lectures after the assignments. This was not good. Also, the videos were very short and unsatisfactory. Need a longer duration with some detailed explanation.
+Thecontentsarea shallow, the lessons doesn't go into details. The teacher only shows what's needed for understanding the week exercises. I won't dare say it's even basic level.
+Really too elementary. You can skip almost the whole course if you attended the DeepLearning specialisation.
+I believe the course does not allow you to study NLP in depth. Compared to the deep learning specialisation by deeplearning.ai, this course has probably hours(!) of video material less. PCA is for instance presented in ~4 minutes and the lecturer concludes with "now that you know all about PCA". The only further reference provided is a link to the standard textbook in the field, no detailed study guide or references for individual topics. Excercises are done in notebooks and test beginner python skills instead of nlp understanding (Basically: "Look up key i in dictionary j and store vector k"). It does do a good job in giving an overview about NLP.
+I was torn between two and three stars. Two, as mathematics are dealt with far to shallow. No proofs, no motivation, nothing. And in the final week, there is a massive notebooks with a lot of flaws and a lot of cells you have to code in a specific, sometime suboptimal, way. Otherwise, the grader will throw errors. All in all, things are handled to shallow and it is more of a coding lesson than a deep dive into ML, which necessarily requires mathematics. This is one more of those "Become a data scientist without mathematics" things the world does not need.
+The content is pretty nice, but the videos are so superficial. The assignments provide more theoretical background than the input sessions. There are many mistakes in the slides as well as in the assignments. I feel that this course is not mature yet.
+Exercises can be completed without the need to understand the methods. No flexibility in solving the programming assignments. Many small inconsistencies in the notebooks.
+Too superficial. Without DL specialization it could be too tough to understand what is takes place here. With it, everything is just too simple and flat.
+Might be good for absolute beginners but if you have some background in maths or machine learning you won't find much new.
+I want to skip this course because I don't enough background in the concept to be able to follow the lectures.
+Very confusing theory and labs comparing with previous Deep Learning track.
+Alotoferrors
+I came to this specialization from Andrew's twitter post, wanted to give it a try since Andrew's DL specialization is very good. However, this course is not taught by Andrew, and the video lectures sound like the instructor is just reading the script, not really inspiring me to follow the lecture since the videos are very dry.
+Quiet good starting course for those who decided to study NLP. Materials are qualitative, but also too short.  The course lacks of depth, lectures are too simple, hence in order to deepen knowledge and understanding one have to read a lot of additional resources, which are not provided here. I have  ambiguous impressions about this course. Seems, the best DeepLearning.ai courses are those taught by Prof. Andrew Ng. To sum up, I think, lectures duration should be increased and more deep intuition should be provided. Programming assignments are peace of cake for experienced programmer, but are OK for beginners. Also, there are many incomprehensible mistakes in programming tasks, which I suppose will be fixed later. Nevertheless, I recommend this course for those who want to start a journey to NLP world.
+The course is interesting and useful, however I have to admit that I was expecting more. More and in-depth lectures, more tests, more coding. Sort of felt that currently it is too easy to pass all of the assignments and get the certificate without actually understanding concepts thought in the course
+A bit too easy, I wouldn't say no to more of mathematical formalism so that it does not cover just the tip of the iceberg (especially for LSH)
+The content is interesting. However, the assignments are too simple - the majority of the code is already written which defeats the purpose.
+Lacks depth and reading materialStill the same as all the recent watered down MOOCS, I miss the deep courses that resemble university courses
+The auto grader is ridiculous - e.g., in insisting that np.sum(X) is used instead of X.sum() [this is just one of many style examples].
+I came in with high expectations based on prior experience taking Andrews Ng's Marchine Learning course and Deep Learning specialization. Unfortunately, this course did not come close to meeting my expectations. The quality of the lectures is generally rather poor. The only real purpose they serve is to introduce terminology so that the student can seek better lecture material elsewhere. Some of the assignments may be interesting to folks with no prior NLP experience, but most are pretty basic to call this an intermediate level course. I recommend that folks fast-forward through the course lectures and find much better material available on youtube. Overall, I am pretty disappointed...
+I've got strange feelings about this course. If we are talking about courses from deeplearning.ai, it all started with Tensorflow in Practice specialization. This course have should have 2 weeks or maybe one, because everything can be accomplished in a few days. It has very small amount of interesting content. It is repetitive (some parts of assignments are copied from Deep Learning specialization assignments).The video lessons are strange - it seems that two instructors recorded same videos and only beginning and ending from Łukasz Kaiser's videos got to the course (which is not fair).Some procedures don't have description for function's arguments. Some procedures don't have testing function - you don't know if it works or not.This course should be a part of another course, because it doesn't seem as a complete course. It feels like it doesn't completed, like it is a draft for a full course. I believe that others courses from this specialization will be better. If you know Russian, I suggest you to take course about NLP on Stepik platform https://stepik.org/course/54098/syllabus. It is much better.
+Pros: Good amount of subject coverage and many tips and useful demo notebooks.Cons: Sometimes it feels like one has to guess sometimes what they grader wants in the exercise at other times it feels like spoon-feeding. There can be better balance and error output explanations. More test cases for the assignments are needed to verify intermediate function outputs. Also, sometimes the course instructor mentions that you do not have to understand this concept or you can easily look it up online. This is not very encouraging because of course, one can look things up on the internet. It would be better suited to explain things however briefly it may be. Cue from Andrew's course "Neural Networks and Deep Learning", Andrew always explains the things even if it is brief and always gives you the intuition behind things. All in all, recommended course to get started.
+Academically, a step down from deeplearning.ai's previous courses.  In terms of technical quality, the media could use improvement, particularly in normalizing audio levels and ensuring a perfect acoustic setup for all lecturers.  Coursera should hire some acoustics and motion pictures experts and task them with improving "production values" (look it up).Shortcomings notwithstanding, this is still a great class and a "must take" for any aspiring NLP expert.
+Thank you first of all. I think the length of videos could be longer for better understanding of concepts. Specifically, I think in Week 4 there are a lot of concepts like ( Locality Sensitive Hashing) that could be better explained.
+The exercises and assignments seemed to place more emphasis on the coding and less on the theory and study of natural language processing per se, imho.
+This is the first deeplearning.ai course that I found really boring, maybe because the material presented was quite superfluous.
+The instructors left out too much on the intuition part.
+The video explanations are too mathematical, and maybe a bit short, as they are complex information that could be explained further.I think the final test after the week's videos was a good idea, and I missed it here.The "intermediate" code "assignments" should also ask you to code stuff, not just read what other person has coded, in my opinion.Finally, I think the final programming assignments are not very well explained (especially compared to those of the Deep Learning Specialization), I was very lost most of the time and didn't really know what I was doing beyond applying some math. Actually, for the last assignment, which was supposed to be a translation from English to French, I didn't see it at any point at all. I basically don't know what I coded there.
+Some videos could be better presented. For instance, start explaining that k-NN will not be implemented the usual way, but using a fast approach.Also, the validation of the submissions could do better. np.array(list) works just like np.stackv(list). del(foo[bar]) works just like foo.remove(bar) and matrix.squeeze() works just like np.squeeze(matrix).I know it is difficult to get all the possible code combinations. But probably the code could be tested more as input/output than grepping the code for keywords.
+the material is super basic and from scratch, like a stone aged one, many many ways we could have talked about KNN and other ML methods using sklearn, we wasted so much time implementing those, and also please work on your comunication skills as i was not comfortable with the instructors being so uncomfort in front of the camera, not a huge deal but it's just a tip, hopefully the rest of the specialization is better, looking forward to them.
+I like the way the course use simple machine learning technic to solve a complicated problem, for someone who likes mathematic a lot could be done in explaining mathematic concepts, the assignment could be improved by using unit testing.
+This course provides you with a good but basic start to the world of NLP. Week 4 LSH and Hashing should be explained more clearly. Assignments are not challenging.
+Basically lecturers' delivery is not so good that you could get distracted easily. Often, a video contents and a jupyter notebook don't match to each other.
+Seemed easy to me. Rest all is good, the explanation and assignments.I am reducing star by one rating because of the interface for assignment is poor.
+High pace, lots of topics and information. Assumes quite some knowledge and does not leave too much room to get a solid understanding of the subject
+Good coding part. For my background the lecture material was a bit too easy. However, if your intention was to keep it easy, then good job!
+Although the course presents an overview of the topic, I was expecting a more advanced and deeper approach.
+Would be good if there are more checkpoints to see if the codes are correct or not.
+The videos are too short. Discussions are oversimplified.
+The explanations in the videos could be improved.
+No longer required. Beyond my present knowledge.
+So many small mistakes here and there
+i would have liked if the week 4's LSH and Approximate Hashing was explained more clearly.
+Pretty simple course with some basic concepts superficially explained. Good feedback and help system through Slack channels for all weeks in the course.  Although it fails to provide a deep understanding of the concepts it is trying to present.
+A fair level of difficulty for people with no background in NLP. The assignments are carefully designed to help the student to understand what he/she is doing. Looking forward to the next course!
+General Comments on Course 1All of the linguistic and semantic knowledge that we were mining in Course 1 was encoded in the vectors.  The coding was just using statistical methods to draw linguistic inferences from these vectors.  I find it unfortunate that we didn't have an opportunity to learn how the vectors themselves are made (or did I miss something?), but merely got them out of a can from Google.It took me a while to figure out that the homeworks are graded by an AI, not a TA, and that one can submit the homework assignments numerous times until getting the grade you want.  Given the large number of students enrolled, I can understand that hand grading would not be an option.  It would probably be helpful to explain this to newcomers like me.I liked the way the assignments are structured. the fill-in-the-blanks approach, followed by some sort of numerical unit test to let us know if our solution was correct is good pedagogy (androgogy?).  My only criticism is that sometimes the unit tests are not very sensitive to common coding errors.  But now I know that we always have the option of running our assignment through the autograder for more complete feedback.The autograder is often overly prescriptive.  For example, "Function 'np.sign or np.heaviside' not found in Code Cell UNQ_C17."  Python is a rich language and there are many ways to code C17 without using those particular functions.  The goal should be to get students to solve a problem creatively -- not to follow a particular path.I found the week 4 assignment a real bear -- too long (22 completion sections) in comparison with the others.  I'm sure it was difficult for whoever codes the autograder as well.  They need to do some more code checking.  In UNQ__C8 we were asked to use the pre-coded cosine_similarity function.  Initially this was returning the cosine difference, which is quite the opposite.  In the middle of last week, after I and others reported the error, it was corrected but this seems to have created a cascade of other errors.  For example, in cell UNQ_C9, We are toldExpected Output:[[9 9 9] [1 0 5] [2 0 1]] Which is wrong.  A look at the vectors is enough to see that  (2,0,1) is closest to (1,0,1) by cosine similarity.  I believe the autograder makes the same confusion.  I mention this not to criticize our hard-working programmer, who is otherwise doing an excellent job, but so that the errors get fixed ;-) (edited)
+A high quality course overall!  It helped me understand both theory and the programming mechanics of implementation.  The Jupyter notebook guidance was detailed and well-organized!Enhancement opportunities:I felt the PCA lectures and PCA function implementation were a bit muddled.  Consider illustrating the geometric intuition behind PCA:  when 2-D data points are projected onto a line, the "best" line maximizes variance along the line while minimizing the reconstruction error of the data points.The final notebook assignment is long and contains a large number of function and global variables.  It is a lot to digest.  Maybe enhance it with a takeaway video that unlocks after the assignment is passed.  The video will visually recap what was accomplished by showing the start-to-end pipeline.The course is a great value for the price!
+I learnt a lot on this course - the material about matrices and matrix operations was all totally new to me, so it took a while to get my head around (more background reading links here would've been helpful). Also, with some of the grading cells in the assignments it was difficult to understand why the answer was being marked as incorrect (examples being UNQ_C11, UNQ_C22 in the week 4 assignment).
+The first three weeks were taught really well. But I found the explanations of LSH and Hashtables rushed and they could have given more time to explain it. The assignment in the 4th week was very tough
+Ok but coding exercises could have been better structured (e.g. less long functions without easy to run test cases). The exercises could also have been a little more stimulating.
+Great course, with interesting examples. However, I am dissapointed with the automated grading system, which wrongly penalized answers and impacted final grade.
+Honestly speaking the video materials are not at all sufficient to understand the concepts. I have to watch other YouTube videos to understand concepts.
+Very good course from deeplearning.ai  team , you will need some background in ML and Python. The support on the coursera forums could be better.
+The course is interesting because it takes a look at NLP processing from a different view than just deep learning or word-in-bag type analysis. Most concepts are clearly explained, allowing most anyone with some python language experience to make it through the course. The programming assignments are similar to other courses. That is.... the assignments can be frustrating because you are trying to fill in the blanks through someone else's style of coding, but satisfying when the assignment is completed. I imagine that a few more iterations of the developing the course material and this will be another 5star course for the deeplearning.ai organization.
+This is a good intro-level NLP course. I don't regret taking it. I guess I just expected something a bit more challenging from Andrew Ng. Personally, I liked the assignments but I would like to see more materials (videos/readings) about the mathematical underpinnings of these methods. Then again, there are three more courses to go and something tells me, things will pick up. At the end of the day, the authors made the course very accessible to a broad audience. And if I really want more math, I suppose I can always read the original papers :)
+This is an excellently crafted course for students with previous experience in machine learning and python programming. The lab notebooks during the course help to solidify your understanding of the concepts and lets you play around in your own curiosity. However, I do think the assignments could be made more difficult to allow students to practice programming better (as it currently stands, you sometimes feel like the solution is being spoon-fed to you). Kudos to the team!
+Course is interesting. I have learned many new concepts. However, as a beginner to NLP the lecturers are too short. Explanations about certain methodologies are not sufficient. Many a times, I need to refer other articles to understand the concepts. Assignments are simple. Most of the times the descriptions given in the assignment are enough to code it. However, as we have to code only few lines, I did not get the feel of implementing the whole concepts.
+The course is very well designed. It gives the reader a taste of both, mathematics and coding, to make them it easier for them to understand the concepts. Although, these concepts cannot be learned in one go, still this is a good attempt by tutors to make things clear as well as possible. I recommend this course to someone who has a little idea about NLP, not to someone who hasn't heard the term NLP ever in life..
+After completing the deeplearning.ai Deep Learning certification, this first course seem in the NLP certification seems pretty light-weight and taught at a lower level. It also has a fair amount of overlap with with material in the Deep Learning certification. I found and reported two errors in the exercises. While I have some reservations about this course, I'm hopeful the subsequent courses will ramp up
+While some of the nuances like how to build word embedding, intuition behind multi-dimension vector transformation logic are not clear or hard to grasp, but am able to understand and familiarize the concept of vector space models with k-nearest, linear regression and naive Bayes algorithms. Very good course material, will pursue the remaining courses and highly recommend to others.
+Nice introduction to NLP course. Sometimes I felt that some parts were a bit disconnected (for example, in Week 4 we talk about word translation, but end up not using it). I felt that different pieces were glued together to create the course but some of then didn't match very well. But my overall opinion is that this course is good. You should try it!
+I am not from a Computer Science background and I am not familiar with python programming. So, the course was a little bit tough for me and took me a considerable amount of time to finish. The teaching was up to the point and very precise. I mostly understood the lectures, and logic to solve the assignments were straightforward.
+The course was overall great. I did learn a lot from the course . It gave me a new way of solving different problems like that of sentiment analysis. The last week was really great where the concepts of translation were taught. I think it could have been better if the concepts of locality-sensitive hashing been more elaborate.
+The content and pedagogy of this course is excellent, but there is far too much hand-holding in the programming assignments.  I have some doubt whether a person with a passing grade necessarily has mastered that content, or merely is able to carry out step-by-step instructions requiring only basic Python competence.
+Very easy to understand and provides useful techniques I was able to apply immediately. Only downside is the exercises seem a bit on the side of spoon-feeding. The most extreme example being where there's a comment telling us to increment a number by 1, and we literally have to put a 1 there.
+The course is very good in building intuition of important NLP topics (lectures especially). I would love the labs to include non-numpy tools, otherwise much of the effort goes into figuring numpy out, rather than trying to use the intuition from the lectures in practice.
+Quite good - no idea why the one trainer tells us in the videos he is going to teach us something and then the other trainer does all the work. And at the end he comes back to tell us what he taught us - but he did not. All he does is intros and outros of videos.
+Although the course is great, the video lectures could go into more detail regarding how exactly to implement the theoretical concepts taught in python. The lack of this implementation explanation makes the weekly programming assignments unnecessarily difficult.
+Lecture is clear and concise. It's good to learn the high-level concepts of basic building blocks and foundation of NLP. However, the online programming exercise has some glitches that needs to be taken care of.
+Overall the course was good how ever more intuitions could have been provided on the algorithm part. For example LSH, its short coming while performing sentence similarity tasks should have been discussed.
+EXCELENT MATERIAL AND VERY CLEAR!! All the lessons and videos explained in a great way the exercises and theory. Just the final assigment was tricky and sometimes confussing.
+It feels me great to learn , via online media in this time of pandmic and yes of course the content quality is good , and so will continue to go for all the sessions.
+Content is well compiled. A lot of theory and practice There should be a programming foundation. And linear algebra It will help you understand the lessons faster.
+I was sitting most of the time trying to reconnect to notebook. I don't know if this is the course fault or coursera's, but it exists. The content itself is good
+Great course! What I'd really like to see more is how the embedding database is build (it was mentioned how it might be done but there was no exact explanation)
+Videos were very basic (and short), but the workshops and assignments were thorough yet well commented (in code) allowing for quick progress and learning.
+I loved it overall! here are some considers...some more video explanations and references would have made this more interactive and game changer
+Its an awesome course, but it would be nicer if students can learn to code on practical projects instead of writing everything just from scratch
+The course content was well planned and assignments were good. But due to several errors in videos and grader issues, giving a star less.
+Last section LSH is a bit difficult, please add more details and extend current videos length to make LSH understood better.
+There were some unexplained moments (like PCA implementation in the 3rd course), but overall the course seems good.
+Some of the concepts are too basic in the course and proper emphasis on vectorized operations is lacking.
+Course content was OK, but the instructer's performance is below average. I am sorry to say that.
+Informative course. Notebooks are well explained and very helpful to learn many concepts of ML.
+good one! I would have done more complex tasks as assignments. Rather than that - very nice!
+Excellent Course that provides detailed insights on usage of NLP and all of its concepts
+The course should have more videos explaining, but the overall was good. Thank you.
+This is one of the best courses on NLP. The core concepts are taught very well.
+Wonderful course for NLP beginners. It sets you in the path of NLP mastery.
+Very good course of NLP. Some early bird problems about assignment grading
+graders have errors, and that leads to wasted time. the content is just ok
+Can be better! More detailed exposition is required in this course.
+This course learn some additional techniques to speed process up.
+this is a very easy course. doesn't feel like intermediate level.
+Awesome course by the team. First step towards learning NLP :)
+Good content, but an overview only of many important topics
+Good content, assignments could be improved
+somewhat explanation are not super clear
+last assigment was very long and hard
+good enough to review NLP materials
+Grader issues, but generally good
+A very nice and concise course.
+awesome content but too easy
+Vector  Modelling for NLP
+Explained LSH very Well.
+Course is too easy.
+Well paced and easy to follow.There are some typos here and there (so the course might need some more polish on that end) but, apart from that, it's accessible and puts the focus on understanding the concepts rather on coding contrary to what I have read in another review.You could follow the course even with no prior experience in Python.If you take the course, don't skip the ungraded assignements, they are an integral part of it and provide more detailed explanations of what has been taught in the lecture videos.Thanks to the team and good luck all.
+one of the Best course that i had attented in deeplearnig.ai the last week assignment wasto good to solve which cover up all which we studied in entire course waiting for course 4 of nlp eagerly
+A really great course in NLP. They do a really good job balancing beginner and intermediate skill levels. This is a good introduction to NLP and machine learning in general. Really fun course!
+Fun, interesting and useful course. A couple of road bumps in the assignments made me waste a lot of time, but the forums and Slack channels were lifesavers in those situations.
+I  has the right mix of challenge and support. I gained new insights into topics that I thought I already understood well. Great introductory course.
+Very helping in understanding the maths behind NLP for classification methods and I can see these things more intuitively from now on
+Good job!  The course material is easy to follow and the links to related material is appreciated.
+Great course, very good materials and explanations! ❤
+This is an amazing course for beginners in the field of natural language processing. It starts with the very basics of machine learning and natural language processing. Exploring sentiment analysis using two different approaches one is a frequency-based approach (involving logistic regression) and the other is a probabilistic approach (involving naive Bayes approach). This course also gives a glance of vector spaces and techniques to convert multidimensional data to lesser dimension data using approaches like PCA.  I learnt new topics like locality sensitive hashing during the last week of the course. It was a fun and engaging course overall :)
+I really like the way the course is structured and the way it is taught. The language is clear and it goes at a good pace. I have completed the Deep Learning Specialization as well and felt that this course had a better segregation of material/videos. The short videos make sure you don't lose focus or get bored. Content-wise, the course is great for understanding the initial steps required for approaching NLP problems. Highly recommend it and I look forward to completing rest of the courses in this specialization.
+No matter who you are or who you have been, you can be whoever you want thanks to this course you will understand in great detail the Natural Language Processing with Classification and Vector Spaces. The teacher rigorously explains its content by putting you in a real situation and the key concepts are very well explained in clear the academic rigor is there now I can affirm without reserve that I understand very well several concepts which were strange for me thank you to coursera and deeplearning.ai
+This course had helped me become familiar in natural language processing. Before taking the course, I feel that NLP is already like a plug-and-play thing due to deep learning. However, it had helped me understand the importance of preprocessing especially to get the right embedding. Additionally, it also help me understand a glimpse of doing sentiment analysis and Machine translation. Indeed, I still have many things to learn but this course is a great way to be introduced on the NLP.
+I had attempted other NLP coursse before attempting this course. I found this course is a good to people who are new to NLP or even new to machine language. The hand-on examples and assignments are the plus points of this course. Though  the coding the assignment may look like "fill in the blanks" sort of exercise,  I appreciate it since it helped me to understand the concepts. Planing to take up the next course in this series. Great instructors and program is well structured.
+Amazing course overall, I have a few years of experience working as Data Scientist and still could get many valueble learnings from it. So whether  you are a beginner or someone with some experience I would recommend it. The material is great, the Notebooks used for coding are very well structured, the lessons are very focused - I recommending doing some searches on the side to make sure you grasp all the concepts properly. Also the Slack community is very supportive.
+I had an project about NLP and I was trying to find a course on internet. To be honest I tried another website's course but it didn't help so much. When I see that the videos are really short in this course I started to think like "What, is this joke? Will I really learn anything?". However I understand that courses teach so many things. I'm really glad to get this course and I believe that it has given me a lot for my future career.
+Andrew Ng and his colleagues have delivered another excellent course - these really set the standard for online courses on machine learning.  The concepts and coding are explained very clearly by the tutors, and the exercises offer a suitable level of challenge.  The final assignment involves building an automated translation capability based on word vectorisation and hash tables, ie a potentially useful/usable capability.
+The course is very well prepared and the assigments are really useful to understand the complexity about some of the concepts that are explained along the course. I strongly recommend this course to anyone interested in NLP it does not matter whether you have too many expertise in this specific field. Of course, having some knowledge about Machine learning, statistical modelling or any AI related-insight will be a plus.
+The course does not teach me the NLP basic knowledge, it also help python beginner learning avoid mistakes. The course is well designed, I learning a lot though I already know the space vector and etc.  I . I sincerely thank for the team made this wonderful course! I fully believe e-learning will bring equalityto the all students on earth, especially to computer student. Because many things could learn from remote.
+It was a wonderful experience. I learned a lot, I enhanced my knowledge on python, vectors and NLP. I also learned with my colleges in forums and Slack channels. I am sure that the knowledge I have acquired here I will be able to apply in my work and projects with NLP models. Thank Coursera, Deeplearning.ai and Stanford to bring that course. Thank to the professors Younes Mouri, Lukazs Kaiser and Eddy Shyu.
+Before now, I was made to understand that NLP was pretty complex, maths-heavy, and difficult to comprehend. But the manner in which the instructors excellently broke-down the concepts and explained them with clarity makes me feel the opposite. THANKS A  LOT for the awesome delivery. I recommend this course without any reservation. Can't wait to continue with the other courses in the specialization.
+This is a perfect introduction! I have a fairly good mathematical background, some experience with data science and I was looking for a brief introduction to NLP.  I enjoyed the presentation, the selected information and the applications. I also appreciated the mathematical details of some concepts and the high degree of applicability. You can start using the information/the code right away.
+The material given in this course is very straightforward and easy to understand. Although only the basics of NLP are covered in this course, the knowledge gained in this course can be implemented in more advanced techniques of NLP. I would like to thank instructors for good explanation and the assignment developers for great usability of readable code and autograder.
+Really good content. Short, but very informative videos : perfect for people who can't dedicate a lot of time to the course. The format of the assignments is very beginner friendly(which is a good thing) but i wish the assignments were more full-on coding exercises, rather than filling in the blanks. Overall a perfect course for people getting into NLP!
+I enjoyed this first part of the course. It slowly walks you through with lots of hands-on coding practice opportunities - just what I wanted. Also the Slack channel helps tremendously. Mentors or fellow students, they are willing to reply to your questions. I'm so happy to finish course and receive the certificate. Moving to the second part now! :D
+The programming assignments are really good for a beginner (very easy for an experienced person) and help reinforce the theory part really well, because we are made to code all the algorithms from scratch. On a whole the course structure is nice, although in some places the concepts lacked depth. Looking forward to the next course in specialization
+The instructors are clear and the pace is perfect. The content is sized well. The lessons are in a great structure and I feel that I learned mini concepts in a couple of weeks.  Plus, the community on slack is just as supportive as one wish! Thanks to all the staff!
+I have learned three times the videos, and made notes accordingly. The most of the time was spent on the assignment part. I have more confidence in learning NLP. What I have learned in this course is very useful. Like it so much!!!  Thanks Dr. Ng and instructors!
+Very nice, classes were perfect and short just the way I like it. Both theoritical and practical experience was good, I like how they have labs mathematical derivations in between the lectures before the final assignments. As expected from deeplearning.ai
+Although this course is easy and fundamental, I think this is a good entry for NLP. The instructions are detailed and this is a good place to practice numpy module and learn something fascinating about NLP. I am looking forward to the next three episodes
+A course where you will get the opportunity to understand difficult concepts in an easy way. I have attended several courses that relate to the same topic but nothing is on par with this one. Kudos to the efforts put to produce such an amazing course!
+It was a  pretty good introductory course on Natural Language Processing. I especially liked implementing PCA from scratch rather than just calling PCA function from a library. I look forward to the rest of the courses in the specialization.
+Deeplearing.ai's deep learning specialization was so good that I had to take this course as well. Fair to say its the best course on NLP by miles. Big ups to the fantastic instructors for delivering each concept so wisely and smoothly.
+Thank you for your wonderful lecture!
+NLP is an unfamiliar field for me, but detailed suggestions and comments led me understand a lot.I am glad that we have taken the first step in the state on art natural language processing ! ! !
+I love that through this course, I was able to understand how to implement algorithms like PCA from scratch. This course really teaches you the intuitive sense behind some of the popular algorithms used in NLP. Highly recommend it!!
+Good course. Learned a lot. like all other deepLearning.ai courses this teaches through implementation and explanation. learned about Text preprocessing, naive bayes' model, vector space models and using planes to optimize Knn.
+Thanks for teaching me a new type course.Every teachers are extremely awesome in this course.Clear all doubt and problem related to the course.                                                                     THANK YOU,
+Excellent teaching, enjoyed delving into the practical aspects of linear algebra as applied to NLP in good guidance and quality academic resources. Academic passion is felt all along, thank you from my receiving end!
+Very good course! Really gets to the actual calcualtions that you are doing, without skimping on the detail. Challenging at times even, but that only adds to the sense of accomplishment when you finish it!
+The course gives a good overview of the basic NLP methods. I am happy to see that it quickly gets into vector space embedding, which I think would set up for further discussions in the subsequent course.
+One of the best introductions to the fundamentals of NLP. It's not just deep learning, fundamentals are really important to know how things evolved over time. Literally the best NLP introduction ever.
+Video lectures are short and concise.  The basic ideas are well presented.  Some references for the details of vector subspaces and spanning vectors would have filled out the mathematical framework.
+Awesome. The lecture are very exciting and detailed, though little hard and too straight forward sometimes, but Youtube helped in Regression models. Other then that, I was very informative and fun.
+Very complete and in-depth for all learners who wish to know more about NLP! Loved that the course is data science newbie friendly too - they have optional labs for numpy, matrix manipulation etc
+This course is just what a person needs if he wants a deep intuitive knowledgeof how the pre-processing part of NLP is done.Both the instructors make it really simple to get the concepts clear!!
+Best Course Content for begginers as this course begins code with Scratch and popluates code with basic operations. In my opinion, this is the best course for NLP. Thanks Instructors
+This course is really helpful if you want to understand nlp in depth, you will able to see the nuts and bolts of applied algorithms and you would implement it from scratch !..
+I learned more than I expected at NLP. Excellent teaching-learning methodology. Understanding the videos, lab and readings allow you to solve the assignment intuitively.
+This course was very informative ,got to know about knn's,hash tables perfectly ,also hope the difficulty of the week 4's programming assignment will be slightly reduced
+Awesome course except that it's assumed that we know a few things beforehand like LSH, PCA in depth given the minimal explanation in the videos. Assignments were great.
+A good course for beginners or people getting back to the field. The assignments were useful, and could be completed quickly with the integrated jupyter notebooks.
+Great first course for the specialization, Concepts were explained clearly, Assignments and labs are very valuable. Level of Assignments is on the easier side.
+Even though I had a basic knowledge of what NLP is and how to implement a basic code, this course provided me an in depth knowledge about how NLP really works.
+great resources, great learning, easy to understands concepts and it programmatic implementation use cases make us more familiar to work on practical use cases
+The assignments and workbooks are painstakingly designed to give a complete hands-on experience over the concepts. My NLP intuitions have never been stronger.
+As with any course it only makes sense when applied. But it definitely added to my understanding of the wire-framing of the Natural language processing.
+One of the first courses that I enjoyed throughout and did not have to fast forward. Content, pacing, assignments, and lectures, everything is perfect.
+A very light course, useful introduction to NLP based on vector manipulation. Even good as a refresher for NLP scientists/researchers/engineers.
+Very good course, and easy to follow the content even for those with no previous knowledge on NLP. Thanks to the community for help and advice.
+Thank you very much faculties. I am one of the alpha testers of this course, but cannot contribute anything beforehand. This course is great!
+Strongly recommended, I felt like still not enough after just 4 weeks learning.Look forward to see more courses from you, really appreciate.
+Good course but I felt it a bit boring towards the end. Maybe week 4 can be divided into 2 modules to that students don't feel overloaded
+I love the course learning a lot. see my notes: http://sunshinejie.com/natural-language-processing-with-classification-and-vector-spaces/
+I liked the course very much.. Although assignment was quite hard to me, I took the challenge and achieve the goal. Thanks to the Team.
+The organisation of the course was very good. Each concepts that was presented was presented in a good order that eased understanding.
+woww, what a great start , but I guess you guys should add lectures on word embeddings too, otherwise for starters it's very difficult
+A good course designed for NLP enthusiasts... Highly recommend this course, if you are starting NLP for your projects at work/home.
+The course is excellent and instructors are amazing. Loved this course and thank you so much for providing us this amazing course.
+Very nicely done. Thanks.Would be nice if we had a way to debug our code with your examples (when you grade and point out errors).
+Excellent course with very fundamental concepts taught in an intuitive and simple way. Loved the spiderman reference the most. ;p
+A gentle guide to the intricacies of NLP.  Lean underling concepts and begin to get ideas on how they are implemented in python.
+One of the best NLP courses available. Includes both theory and practical implementation. Assignments are very well structured.
+The course is well explained and Understandable. It's the best choice for anyone starting out in Natural Language Processing.
+Excelent lectures, ideal for people who wants to learn NLP from the basics. The coding assignments were very well structured.
+A thoughtfully structured course that leads through fundamental approaches and methods in NLP developing a deeper intuition.
+Videos well explained, coding a little bit challenging, learning experience perfect! [sentiment analysis: Positive] :)
+The course is well aligned and assignments are really good. It gave me a lot of exposure to the theoretical concepts
+A well structured course covering some of the basics. Looking forward to the other 3 courses in the specialization.
+Concepts are explained in a highly structured manner. The assignments help in verifying how much we have learned.
+Was a great course. Instructors were very clear. Assignments are good. Not very hard but not really easy either.
+This course is very important if you want to start study NLP, it is intutively and with huge among of contents.
+Very structured course. I highly recommend and mentors are really knowlegeable. I build good intution into NLP
+Great course!! I love all the courses fro deeplearning.ai.  Amazing lectures and fabulous notebooks. HatsOFF
+This was a very comprehensive first course to get started with NLP.Looking forward to the other courses!
+Thoroughly enjoyed learning.. Videos and Jupyter Notebooks have a lot of content. Nicely planned course!
+I like the course. Especially the math behind these concepts. Word Embeddings was explained very nicely.
+Thank you for this wonderful course. Assignments are the main learning,of this course than the videos.
+Extremely helpful in understanding the functionality of NLP both how it works and what it's used for.
+A very good course as an introduction to NLP. But I find some tips in the assignment are misleading.
+The best course in NLP. Short videos, in-depth explanation of each topic, project-based assignments.
+Thank you for the effort in putting up this course. It is very well done and I have learnt a lot.
+It's a really good course, the assignments are very helpful for the understanding of the course.
+Fantastic, congratulation. I have waited an NLP course from the workshop of Ng for a long time.
+It's the best course of NLP. I learned all the theoretical fundament and differents models :D
+I liked this course. Well designed and well structured. Good course to start learning NLP.
+Great course, Provides in-depth knowledge of how to work with Natural Language Processing.
+beyond expectation.....i am assured that after this course I will gain expert skills NLP.
+The most interesting part was hash functions and hash tables, the ideas of NLP was easy.
+Excellent Sessions. Some assignments were a bit difficult but overall outstanding.Thanks
+Overall, the course was amazing. It explains the terminologies in a much intuitive way.
+Excellent course for intermediate level and anyone who wants to start NL using Python.
+Brilliant!!! Anyone who wishes to master NLP should definitely sign up for this course
+Somewhat elementary course, but I am hoping next set of courses will be more advanced
+WOW I can't wait to start the next course of the specialization that was amazing!
+Excellent explanation and enjoyable assignment. Perfect course to kickstart NLP.
+Very good course. I am completely new to NLP and I find this course very useful.
+Absolutely to the point and great topics. Loved every line of code in the NLP.
+Up-to-date content with great teachers. Very complete programming assignments.
+Excellent course. Easy to understand explanations and good application skills
+Requires some backgroung in deep learning. Great introductory course for NLP
+Enjoyable course with adequate pace and interesting labs and assignments !!
+Very knowledgeable tutor and really informative intensive course material.
+Very nice course with very short length videos and very much informative.
+Gained key concepts on NLP looking forward to next section of the course
+Gentle and patiently-explained introduction to the basics of intro NLP
+Excellent introduction to various fundamental algorithms and concepts.
+Great introduction to modern NLP and preparation for newer techniques!
+Really likes the content. a Nic balance between content and difficulty
+Loved how the course was paced. The ungraded labs were very helpful!
+Clear videos and challenging exercises. It was a great experience.
+I really like this course and I think it's really useful for me.
+Assignments are really good, concepts are clear in a better way.
+Very easy to follow + Very relevant to my work! You guysare ace
+Very good if you wanna get into NLP. Very simple explanations.
+It's really good for the NPL practitioner. Much Recommended.
+I have understood everthing from this corse and it is easy
+Very Solid course, based on Linear Algebra vector space.
+The teachers are super experienced, and they are great.
+An amazing introduction to natural language processing.
+This course is very good introduction to ML based NLP.
+The videos are short and succinct covering all topics
+Thank you for coming up with such a wonderful course.
+Great explanations and easy and helpfull assignments
+soooooooooo excited to coplete this specialisation
+Top Notch! Thrilled to have completed this course.
+Simply perfect. Explained in a really clear way.
+Epic content, hope further part is equally good!
+It is an amazing and easy to understand course!
+I had a Nice Experience..Learning from COURSERA
+Very clear explanations and relevant exercises.
+Very informative! Great materials and guidance
+Great intro to NLP and good refresh on Python.
+Best course and complete specialisation of NLP
+Excellent, especially the word embedding part!
+Hands-on linear algebra course! It is awesome!
+Excellent! Great Teachers and backstage team.
+Excellent teaching, easy to follow, hands-on!
+NIce course getting me up and ready with NLP
+I wish the grading system can be more smart
+The videos are brief but the labs are great
+Great content with a lot of hands-on labs.
+This is a concise course for learning NLP.
+Right balance of lectures vs assignments
+Excellent course to start learning NLP
+Excellence course for NLP intermediate
+This course is excellent, great work!
+Excellent Course!! Well Structured !!
+I learned a lot, thanks a lot all!
+Complete course to start with NLP
+thanks for the amazing education.
+thank you deeplearning.ai team
+Great course. Learned a lot!!
+A very good hands-on practice
+Good stuff. I learned a lot.
+Very good practical course.
+Enjoyable and well paced =)
+Great Introduction to NLP
+good intro to NLP, thanks
+Its good to start with .
+Great, Thanks very much!
+Great course, loved it!
+Awesome explanation.
+Wondefull Course!!!!
+Good walk through!
+AWESOME COURSE!!!!
+AMAZING COURSES
+hard course
+Cool!!

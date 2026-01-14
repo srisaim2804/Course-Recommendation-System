@@ -1,0 +1,168 @@
+Week 2,3 and 4 need more focus in terms of explanation as it was very difficult to answer questions based on what the tutor taught. The tutor can be more illustrative with respect to the concepts taught in these weeks.
+The course is very unstructured, and requires certain level of mathematical concepts in Data Mining.The are many instances where clarity of instruction is missing.Overall quality of the course can be improved.
+Poorly constructed and difficult to learn from. this class.
+Some difficult issues need to explain in detail and more patiently
+It is too conceptual. I watched all these long videos and I still don't know how to do a real process-mining project for a client.
+Too much time going over details of the models and not enough on practical use
+Sometimes too technical. It would have enjoyed it more if there would have been the possibility to choose which aspects of Process Mining I was interested in. In one of the last lessons, I came to the understanding that I want to apply process mining to spaghetti-structured event data, therefore I had to learn a lot about prediction, recommendation and so on which than turned out to be completely useless for me. I have the same feeling for the petri net, workflow syste, BPMI and so on that are presented; this is only useful for some users while this takes a large part of the study time. It may thus be recommended to organize a more 'practical' PM course for users interested in using Disco and a more technical course for users interested in more advanced analysing techniques.
+Significant learnings on content which appears rationale but proved not to be in modules 2 and 4.  The concepts of deadlock, soundness, live is not well explained.  The time required is significantly more than advertized by Coursera.  The quiz are not timed, even though there is a time indication.  Some questions on the quiz have multiple correct answers, which are sometimes very subjective and tricky to get right.  Lots of mental gymnastics and computation.  Sadly, the concept of peer-graded assignment to strive for honors roll does not work well as the number of learners at anytime is very few, if any.  The honors assignment on module 4 is very lengthy and regrettably cannot be completed satisfactorily because of software issues.
+Some topics are a bit glazed over and others with concepts that are acknowledged to have major shortcomings (e.g. the alpha algorithm) have a heavy focus in the course and exam despite these shortcomings.   Frequent notational switches ("we can automatically change this to ___ ") can make some lectures harder to follow as well, if you're not perfectly versed in some of the  leveraged notations in this course.   OK overall.
+Good introduction to theory of process mining, but most of the techniques are problematic and therefore not practical, and the test questions are tedious as they focus on testing whether you can remember the theory rather than how to apply the theory to real-world problems.
+Interesting material, but the course seems mostly designed to cross-sell the book and promote the (open source) software of the authors, rather then promote understanding of the underlying algorithms.Positive: The videos go through examples in great detail.
+Very good course. More real life cases and process mining examples would be beneficial.
+I wish there was more hands on experience using the software
+Extremely interesting subject. The exposition is for the most part remarkably clear, though it amounts to a necessarily quick introduction to the vast variety of tecniques and tools. The student is supposed to conduct a lot of practice as self-study and experimenting. Giving 4 stars out of 5 instead of full marks only because I feel this course might work better in an extended format, going more in-depth on real cases and guiding the students through the hurdles and subtleties of such analyses.
+Comprehensive dive into the world of Process Mining, from the most basic concepts into advanced topics, such as applying Process Mining to live data. Unfortunately, while I leave this course with a solid foundation, I wish there were tutorial lectures dedicated to go through practical exercises (namely in ProM and/or Disco). Great course overall.
+The content of the course was excellent. The Android app is a little bit poor, especially if one would do the quizzes. The pictures are not very well to watch. For some topics (e.g. Alpha Algorithm) I would have appreciated it, if you could replay an example very clearly and in a deep detail.
+Good short course to get introduced into the formalism of process mining. Beginning might be a bit overly formal with not much justification for why this formalism is best. Could use a bit more real-world examples at the end, and how data science and machine learning can help.
+The course is a very nice introduction. I would have liked to give more additional hints to more advanced methods for an audience interested in perusing a PhD in this field. E.g. some optional implementation tasks/project would have been nice.
+Good course, interesting subject. Sometimes examples are presented too quickly, without explaining where certain numbers come from. References to chapters in the book refer to another edition of the book (no biggie)
+The topics covered in the course were very interesting, though the course would have been more valuable if accompanied with python programming of case studies.Kind regards Max
+Good introductory course to data mining. It would help if the disco demo version has a higher limit ( >100 lines)  as that would allow better experimentation with real data.
+I would like to have 1 more week in which one can go through a process mining process from start to end, step by step. Furthermore, great course, very hands-on and useful
+Not that difficult, but it gives the right instruments to understand how things are related into a process and how it can be described starting from logs.
+Thanks to Prof. Wil Van Der Aalst and his team for providing me with the opportunity of learning process mining. That was terrific!
+Course is very clear, education level is high and also pragmatic. Very good start to understand and execute process mining.
+There should be a mandatory data science Project to make the students experience the practical side process mining projects
+Very interesting course. Last two weeks put quite some emphasis on advertising tools instead of explaining them thoroughly.
+Gives a solid foundation for the process mining concepts!! Explained in depth by a wonderful professor.
+Best course out there in Process Mining! The professor explains the topic in a very good way.
+Good approach to an interesting topic and extensive practise exercises with tools.
+Great course. A lot of academic knowledge but also covers practical experience
+a bit academic in the beginning, but really interesting.
+Very interesting, practical and full o information.
+I think practical tasks in ProM should be included
+Very clear presentation and a lot of examples
+NO COMPLICATIONS IN THIS COURSE
+I took the course to extend my knowledge of data mining and to apply it to a more business setting. I think the course does a great job to balance dry theoretical concepts (such as Petri Nets and other modelling notations) and business aspects (such as the holistic view of data and processes and the interpretation of results). When preparing for applying for a process mining research position I reviewed every lecture and got to understand even more some aspects that didn't resonate with me on first viewing. It also helped me to dive into some process mining papers in between (such as the papers recommended at the end of some lectures). The more you encouter some concepts explained and used in different ways, the better you understand them. If you are like me and want to add another layer on top of the data mining/data science knowledge and have some business ambitions, I would definitely recommend the course to you!
+Very beautifully done: information very well and clearly organized, illustrated, presented, and referenced.  Friendly approach to a genuinely useful topic.
+Really good course, I could apply the knowledge I acquired direclty for my job.
+This is a phenomenal course and highly recommended for anyone interested in learning the next big thing in processes. I am a Lean Six Sigma Master Black belt and  manage a Process Excellence team at a large corporation. I found the course content to be hugely meaningful in enhancing my learning of how data science tools used in Process Mining can meaningfully help solve real world problems. Professor Wil van der Aalst is truly a Guru in the field and his team must be complemented for conducting such a useful course  on Coursera. The only note of caution is the course is challenging and it takes quite a bit of effort to learn the concepts and successfully complete the quiz. However the effort is totally worth it, rewarding and without this level of effort it will be very hard to understand and apply the concepts of process mining in real world. Hats off again to the course instructors!
+This is really a great course. a new field which could help any one to find a better position at work and it will help in performing the most common process mining activities. I would recommend this course for any one who is interested to know more about process optimization and discovery. furthermore the course will slightly helps to conduct a process mining project. Many thanks to Wil van der Aalst and to everyone who supported to bring this course.
+Excellent course! I really liked how the complex nature of Process Mining is explained with examples.Both theoretical and practical sides of Process Mining are explained.References to more specialized and advanced materials were given so that one can further research for particular needs.Great work Wil!I would really enjoy to see a course like "Comparative Process Mining" or "Advanced Practical Process Mining Applied" from you. Thank you very much!
+I loved this course! I learned so many different parts of Process Mining and will definitely use this in my work. Sidenote: The enthusiasm kept me going. Hope to see you soon and otherwise, see you next time!
+Best online course Ive ever taken. Great details and lots of specific examples. Perfect theory and practice balance. Really satisfied! Congratulations for you for this example of how to set an online course!
+The course is designed and presented by professor aptly for beginners. I think before reading the Process Mining book it is good to take this course and then read the book later. The quizzes are good.
+Great overview of the Process Mining field. Easy to follow and very intuitive course material. Great usage of exercises and examples. Helpful practical introduction to Process Mining tools.
+Very interesting course, explained in a understandable way and rich of high level topics. Essential for anyone who likes statistics and process analysis. Many congratulations for it!
+This course was wonderful.  I have attempted it several times, but did not find enough time to finish it until lately.  Dr. van der Aalst is magnificent in his presentation.
+Outstanding course structure, even for someone like me that have absolutely no background in process mining, to learn so much in this course:)
+My first MOOC where I felt that really it meets the standards of a real-life university course. Broad, deep, challenging, highly recommended.
+Great course about general principles of process mining! It gives many insights. Consideration of PM tools is very useful. Thanks!
+Easy-to-understand with useful examples, and also process mining is a technique that is applicable to many cases.
+the course looks into process analysis, which is also a very important section of data science!
+Brilliant course. Would fully recommend
+Rather complicated but great  course
+I am surprised to have learned so many new topics and methods for data science in one course. It's like opening a pack of trading cards (e.g. Pokemon TCG or Yu-Gi-Oh cards) and finding that you don't have any duplicates. I think the knowledge in this course is a great addition to the skill set of any data scientist (regardless if you currently work or not with processes). Finally kudos to Prof. van der Aalst and his team. Very well planned lectures, quality content and no boring quizzes. I think it would be good for the future to add more quiz variations, as taking a quiz twice to improve one's answer one will work with exactly the same questions and numbers. I would also like to see a future Process Mining course, with more in-depth lectures on the topics of conformance checking and enhancement. A more practical side would also be welcome, for example coding some algorithms.
+Very good, very thorough course - especially because of the many exercises strewn across the videos. The subject matter is not trivial - I often feel the need to re-read material in the accompanying text book, and it's taking me many weeks to find the time to complete this course. The videos, in my view, are too long. This means that there should probably be twice as many videos (they should not be longer than 10 min), or some of the material ought to be left out - mostly foundational stuff. Doing that would, however, invalidate the course as a stand alone introduction - I give full stars because it is in my experience, really hard to pull all of this off. Could only be done by a true expert like van der Aalst.
+I'm a novice to data science and took this course after an (offline) post graduate education Big Data Analyst. I learned about Disco during that training. With this Coursera-course I wanted to know more in detail about procesmining. Though it was quite jejune and theoretical sometimes I found it interesting and doable enough. With the exams, practising and assignment alltogether I feel it did come to live as well.  So I made it to the end and feel happy and proud to complete this course. Many thanks to the team om TU/e!
+The course accomplish with its own commitment as introductory level for this useful growing tendency for process analysis using datadriven with various practical assignments, welldone explained by the professor and easy for understand from simple examples until the one´s more difficult . i liked a lot that you can use software  and make simulations with real data, besides excellent complement  with its book where you can go in deep about topics .
+This course introduces the concept and basic principles of process mining extremely well to the user.  It stimulates you to go looking for new analyses to improve business processes and gets you thinking about potential applications in your work space.The course is simple enough for beginners, yet gives enough detail to be able to start implementation of process mining.
+This has been one of my favourite courses in Coursera. I thought it was very well organized and I greatly appreciated the attention that was given to using the tools. I also thought the quizz and assignments allowed me to identify where I needed to put more effort and review the learning material. Overall great experience!
+Very interesting topic and the course is beautifully designed. The different techniques are described in the fitting amount of detail and many examples of process mining in practice are given. Plus the two process mining tools are shown and explained so that it is possible to use them in one's one projects.
+This course is very useful. Its content give us a clear notion of process mining and how to apply it to discover the process model.It helped me identifying real cases bottlenecks in my own process and my analysis are more data-based. This chance in my approach made my work more reliable and "to the point".
+Great great course.I'm a beginner in this matter so to me there are cases difficult to understand. One thing that could help a lot would be more exemplas of real life for each theorical concept.  As done at the beginning with coffee, latte, muffin, ect.Thanks for the energy dedicated to create this course.
+This is a very good course for those who are interested in process mining. I continue to review and improve my understanding on each concept, and one day I will be able to reap the fruit of all the process improvements through applying this in work place. Thank you very much for offering this course!
+This is a brilliant course, led by a world authority on process mining who freely imparts his knowledge and presentation skills. I cannot critic it.From a personal point of view I have learnt so much and the access to the tools makes it so tangible and valuable.A big and sincere THANK YOU!!!
+In some up, I can say it's the best certificate course I have done. Everything is so well organized & planned curriculum that if you are looking forward to learning something new in this modern era then just go for it. You will not regret, mark my word if you want to!
+This is an eye-opening course providing a different aspect of process analysis. After completing the course, I fully understand the concept of process discovery, conformance and enhancement, which is a core part of the business process in our business operations.
+In depth course for process mining. Anyone trying to jump into a career on Business processes, or wants to apply data science to business processes, should take this course. It is more involved than other Data Science course, so give it your all.
+Awesome Course, great lectures, the data that is available to use for ProM and Disco really made the difference. I would recommend this course for anyone interested in process analytics or Lean/ Six Sigma business process optimization.
+This course is intense and informative. The material is well-presented and the assignments have clearly benefitted a great deal of care from the instructors. Process Mining a fine complement to the more typical data science coursework.
+Great course! Well balanced theoretical information and practical exercises. Algorythms were explained in easy for understanding way. Thank you very much, Wil van der Aalst, Joos Buijs, and the rest of the Process Mining team!
+It was very useful and clear to understand course, I would love to have a course with deeper insight on the topic, and one which is just considering the practical use-cases separately, both based on this knowledge.
+Excellent introduction to the topic of process mining. The delivery of the course was very easy to use. The course notes were excellent. Thanks very much to Professor van der Aalst for sharing his knowledge.
+Good content, very thorough, and I learned a LOT!  Took more time than suggested, as I learn by taking notes and reproducing diagrams.  But the course structure allowed for frequent pauses to do this.
+Very interesting as an introduction to Process Mining. I believe the course laid the right foundation to understand the functioning of process mining software such as Disco and ProM.
+Great course. Professor Wil van der Aalst delivers great lectures, very clear and deep in general with good examples. I really enjoyed the course from the beginning to the end.
+An excellent course on a very interesting and promising topic. Many thanks to Wil van der Aalst and his team for the great introduction to the world of process mining.
+Excellent balance between theory, simple examples and real-life situations. Language is clear and the level of complexity appropriately defined. Two thumbs up!
+Very in-depth and well-presented material. The quizzes are quite involved, but form a rigorous basis for testing comprehension and ability to apply material.
+This well-focused course provides both theoretical knowledge and practical skills, which could be implemented in real life of most managers (in anersons.
+Very well planned and delivery by Prof was exceptional! I will definitely be interested to learn of more such courses from the university of Eindhoven
+The course material was very well explained during the lectures. The course gave a very good overview of the PM field and its practical applications.
+I'm very glad to participate in the course. I decided to use Process Mining in my PhD thesis. Thank you Prof. van der Aalst. I hope, we meet one day.
+Good balance between the more detailed technical stuff and general overview and background. Good quizzes, challenging and relevant to weekly content.
+So much research has been done in BPM domain. This course gives a solid foundation in BPM to anyone who wishes to pursue a career in this domain.
+Very interesting course and well done. Descriptions, presentation, and slides are clear. I would for sure search for more courses in this field.
+An exceptional class that covers a very complex topic in a digestible and usable way. It's a good balance between concept and application.
+Complex material, but presented in an understandable way. Assignment was practical. Good integration with open source software packages.
+Enough but not too much challenge. Surprisingly not so difficult mathematically either. Difficulty between weeks could be more balanced.
+This course is very interesting! A lot of things that I have learnt can be applied to all day life.The teacher is very nice and clear!
+Very clear and thorough explanation of the important concepts of process mining, with enough room for exercises and hands-on practice
+Great course, it covers basics of process mining, from petri net, over pm algoritms to steps how to do process mining on real data.
+Very useful for those that are seeking knowledge about how to improve processes. I'll use it in my doctorate and also in my work!!!
+Very high-quality course. It is an intermediate level course, so expect some difficulty learning this. But it totally worth it.
+Very well thought and laid out course. Examples throughout the lectures clearly illustrate what the Professor wants to convey.
+Excellent course, it provided insights into large sets of Data and their structuring, which had not been explored before.
+Thanks for the course. This course gives you a good introduction of both business and technical sides of process mining.
+very informative, amazing content, and definitely worth it. Thanks for offering such an awesome learning opportunity...
+All my expectations were achieved. I like approach of these course, theory was not boring. A lot of practice.Thanks!
+Excellent course about Process Mining, it's explained all meant to understand process discovery with Data analysis.
+这门课程十分理论知识丰富，又贴近实际应用，很棒。This course is really fantastic, it both has wonderful academical and practical knowledge.
+It's a great and well-structured course that I can gain fundamental knowledge of process mining quickly. Thanks!
+Very informative and thorough course about process mining. I will definitely make use of those skills learned.
+very comprehensive. well structured. good pace, I would recommend having the book for reference/research.
+Outstanding!. Very well structured,  The questions inside lectures really help you to get into the topic
+Easy to understand and very comprehensive. Examples are challenging but help to understand everything.
+Great introduction into process mining. Excellent examples illustrating the theory. Time well spent!
+Good introduction for process mining tool , thanks to everyone who has contributed to this course !
+Guides through the fundamentals of process mining and provide hands-on skills to apply right away.
+Great course. very inspiring. Makes me want to take phd program that is involving process mining.
+Very useful course for all data analytics fans that want to know how process mining tools work.
+This course was fantastic and I learn a lot of new ideas about data and understanding of data.
+I love this course because it really add values to organizations by improving their bottomline
+Excellent! Well defined, practical examples and also it shows how it can be used be Prom tool.
+Very good overview and provides a good foundation for further exploration in Process Mining.
+The course is excellent, clear and simple and can bring improvements in many applied fields
+The course content was great. Though I was not able to understand the Prom Lite software.
+Very good course overall. I wish there was more technical lessons in the last two weeks
+Great course, good explanation and excelente selection of topics. Totally recommended!
+Very well explained, provides a good basic understanding of the topic process mining.
+Very good and compact course, with a good mixture of therory and practial workThanks
+Fantastic way to get additional insights through data mining on digitized processes
+This course its excelent and best support for learning at Process Mining. Thanks!
+Very well structured course with good connection between lectures and excercises.
+Amazing course with perfectly explained examples and process mining concepts!!!
+Very informative, though the accent of the lector is disturbing  (my apologies)
+An excellent course, great structure and teaching with practical application.
+Excellent overview of process mining in a simple and easy to understand way.
+I recommend this course !! Good support's material, speaking and methods.
+thank for all master!!!!
+I will use Process Mining for my next challeger
+Great lectures, great insights and very helpful in my professional life.
+The best course on Process Mining from the best place in Process Mining.
+Excellent Material and presentation standard. Very clear and educational
+Great introduction to Process mining with practical applications incl
+Super exhaustive and methodologically excellent course! Thanks...
+Very enlightening course. Triggers to learn more about this.
+Very clear cource and with also learning by using real cases
+Very helpful and comprehensive contents for process mining
+Excellent material and instructor! Thank you for sharing!
+Very interesting!!! A good approach to Process Mining!!!
+This course was very applicable and helpful for me.
+Wow! Changing my life and career, this course does.
+Very practical oriented course on Process Mining.
+A comprehensive introduction to process mining!
+Very useful course. Well done and very clear.
+Great course and very nice video's lectures!
+I learnt a lot from this course. Excellent!
+Great intro to the data science world ;)))
+Interesting course. I like it.Recommended.
+Thanks to Prof.dr.ir. Wil van der Aalst.
+Thank you Prof. AalstThank you coursera
+comperhensive course in Process mining
+An in depth course on Process Mining
+Good Learning and very well designed
+Well explained, Knowledge oriented..
+Thanks a lot. It was very usefull!
+Learned a lot of new concepts. :)
+Perfectly fit my expectations.
+Diverse and original content.
+REALLY NICE! MUCH APPRECIATE！
+Good start to Process Mining
+It's such a good course!
+High quality course !
+Really excellent!
+The best lecture
+Rich course

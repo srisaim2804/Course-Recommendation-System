@@ -1,0 +1,354 @@
+The content of the course looked promising. But then I took a first look: the instructor is reading formulas from a slide. This is missing the whole point of a online class. There is no motivation for the formulars, no context why they are important. And from a learning point of view the course is very hard to follow. No real advantage compared to reading a book on that matter.I just took the "Economics of Money and Banking course", which is one of the best courses I ever attended (personally in class or online). There are other great courses on Coursera. And for easy introduction to some of the concepts Khan University courses are unmatched in accessability.Too bad that this course doesn't match up to the above examples. The topics would deserve that they are presented in a way that they can be understood by a wide audience.
+This class is a total waste of time and money. 1-The presenter's English is not up to code, so to speak.2-The examples are purely theoretical and lack any kind of real numbers. Greek characters proliferate unnecessarily, adding to confusion.3-The course materials make no effort to explain formulas in a clear and concise manner.Don't waste your time and money like I did.
+not sure about the whole course, but the week 1 training video is basically an instructor reading a script.
+Too difficult to understand for a beginner.
+There is no posssilbe way to pass the quizes/tests by watching the lectures. You need to find many outside resources to learn the material. Some of the quiz question principles are not even touched on in lectures. This should be considered a self study course. Also if you want to buy or use a text book to learn the material be prepared to spend $200 + otherwise good luck. The only redeeming feature is the forums.
+I think the way it is taught is not very insightful, the lecturers clearly just read a script and make it difficult to follow. They assignment questions are often hard to understand. Most importantly, there is very little about the actual mechanism behind pricing financial instruments, instead they just state the formula.
+This subject is not as complicated as it made out to be in these videos. CFA material explains it in a much simpler way. I had to depend on CFA material to really understand what is being explained here.
+It is not a recommended course, when they explain something they assume that we are expert and we know all what they are talking about, they need to have statistics experts which is not mentioned in course prerequisite.================I recommend to review the material and to review the purpose of this course
+The explanations are not clear and only a few exercises presented in the quiz were covered in the course videos. There is no exercise book to prepare for the exercise of the quiz.
+No help was granted during the practice of the course. I din't find the course helpful for future growth in a company as company doesn't consider it to be as professional.
+The only reason i passed was because i ignored the lectures and asked others for help, once i did that finance became a lot easier to understand.
+I think that the simply reading slides doesn't help people understand. The idea is to make this courses as accessible as possible.
+It's terrible if one wants to accomplish the quiz using Garud Iyengar's Notes!! Examples in his notes were not well explained!!
+It is a little sad that the materials taught were not matching test materials well in the quiz.
+Extraordinarily dry presentation. It was a struggle to sit through each video.
+This course is conducted mostly more or less by reading just the slides.
+Not at all what I expected--big disappointment
+I find the explanation very hard to catch up to. Even the simple examples seem very vague and it just seems like going through random equations and theorems. Maybe its the syllabus, but its not that easy to grasp and make sense of. I have studied complex financial concepts but using equations is new and despite having a thorough background in financial studies, i find it difficult to grasp. I think once the topic is introduced, it should be developed on further instead of discussing other concepts briefly. Without much understanding of the first concept, moving onto just a brief discussion of of another topic seems confusing and easy to forget. I am still trying to get through the course and its a little challenging to get finish the slides.
+The videos are poorly explained, the exams are extremely difficult, and there is practically no help given when answers are wrong, and answers marked incorrect due to negligible errors. The only fault I could see from my side is that I didn't do a finance degree as that is the only way to understand this course. I've practically studied on Youtube to clear these exams, as they are poorly scheduled. Respected professors are just reading from slides.
+Although I have passed the SIE exam and have some finance background, I see that the important concepts were poorly explained with no examples. I also found that the slides were difficult to follow... this course needs a major improvement.
+There is not enough explanation as to the things to be tested on. The lessons and the tests are completely different. On top of that the teacher jumps too many necessary points in his explanations.
+Zero course clarity. The professors made no effort to teach the numericals to support the theorems taught. They were rather just reading what was already there in the presentation.
+Very poor method of creating concepts and no help in solving at least one question. A conceptual course being taught as a theoretical course is a shame.
+I enrolled it by wrong it is very faraway from my career and my education i want to un-enrolled it
+Everything will go beyond your head. Quizes are nearly unslovable. Waste of Money and Time.
+Examples have to be more clear. i cant seem to get anything correct because of computers
+Very hard to understand.  The way the lecture talks make it even harder.
+Help on topics is very limited.  Nothing more than instruction videos.  Discussion forums are helpful only to solve assignments.  There is hardly any input from instructor about genuine theoretical questions.
+course needs problems with explanations and/or better feedback on quizzes. there is no way to tell what error one has made - it could even be rounding. a student forum might be helpful, too.application of some formulas is not clear, leading to errors on quizzes. in some cases I have used external resources to give me a way to achieve the correct result
+I find far too theoretical, too dry; no examples, no exercise guidelines. It's almost having someone reading the slides to you. Still useful for someone like me that never done financial engineering, to find all the concepts in one place. Hence the two stars as oppose to one.
+Unfortunately, no tutors/instructors present to supervise the course, which made inconsistencies between course material (slides, videos) and solutions calculated for assignments horribly annoying to deal with, especially for someone like me new to the topic. Further, the solver addin (needed for the week 6 assignment) is not consistent across different excel versions and libre calc, which resulted in a whole lot of guesswork to pass this assignment. I'm sorry to say the course never came close to my expectations, despite the very interesting topic. Would not recommend.
+The teacher in the first few weeks is hard to follow; it sounds like he reads from a paper and he barely writes anything on the slides. It sounds like every sentence he says is crucial to understand, which is hard to follow. The other teacher does a much better job at this. The course would also greatly benefit with exercise material so you get a better feeling of calculating these things.
+Classes have a few numerical examples.
+The teachers don't have didactics, they just read the slides.
+Low quality slides. Monotone lecturing style.
+this course lacks examples and explanations that are not just formulas read out during the "classes". the quizzes will ask you to compute something you have never seen before, expecting you to understand how to reform some obscure, unexplained formula a couple of classes ago. It is a shame because it is a very interesting subject, but the course suffers from the defect that (probably) great practitioners often do not make great teachers.
+I only attempted the first 2 weeks before giving up. The instructor would mostly read each confusing powerpoint slide at verbatim without adding much learning value.
+it was a very high level course and not of my type
+The course is very elementary  and basic. It should be a good intro 101 for those who have never studied mathematical finance. You can also practice using Excel if you have never used it before.  It could be more challenging and fun if there were more modeling questions.
+The course provides a very thorough introduction on the basic models and mechanisms by which various financial products are priced. One issue I had, was that the quiz questions sometimes used terminology or jargon for which the link with the material covered in the videos was not always immediately obvious. Also, the course, especially the later modules, heavily relies on Microsoft Excel, which some people might not be willing to pay hard cash for. It is possible to pass by doing the assignments with e.g. Python, but it's a lot of work, and not for the faint of heart.
+The instructor didn't make the his lesson easy to follow. The lecture materials were not reader-friendly.
+please help with questions given as test for better clearity.
+It is an interesting course that introduces you to the various models used in financial engineering. I would recommend it to anyone aspiring to become a Quant and seeking to lay a foundation in that field. However there is room for improvement as the material will not have settled down before the introduction of new material as the weeks go by.
+Some unnecessarily introduced math formula hamper the understanding of the subject itself. Lack of simple, straightforward definition of finance terms.
+Three stars for course structure, two stars less for every poor course material which doesn't contain any guidance to test questions.
+Lots of practical exercises with not enough explanations on the underlying reasoning/theory.
+Some of the knowledge points lack good examples to support and prove.
+InterestIngHOwever,IwouldliketoseemorenumerIcalexamples
+The course is OK. You can learn the material if you work hard to find external sources to help.A few problems with the course... First, the people speaking in the lectures seem to be speed reading off of a piece of paper, trying to make every video below a certain time threshold. It feels less like teaching, and more like listening to someone read. Second, the handwriting is pretty bad throughout, sometimes illegible. Third, the course significantly lacks example problems along with solutions (showing work) to those problems.  Lastly, this course lacks practicality. It would be nice to understand more about uses (expand on calibration of binomial options models, for example).I have coded some examples for those looking for an extra place to learn the algorithms/math associated with some of the important points of this course: https://github.com/amittleider/FinancialEngineering .
+The course content is excellent and is very wisely chosen. However more simplification is necessary. For a student with good knowledge of financial derivatives but limited knowledge of the mathematics behind it, the explanation provided by the instructors may prove to be highly insufficient (from week 4 onwards). More examples should be added by the instructors so as to make the content interesting. Interview with Emmanuel Derman was note worthy.One more suggestion - the exercises seemed difficult in relation to the course content. A slight mismatch in the answers ( 5.62 vs 5.63) is taken as an incorrect entry. The instructors may consider providing a short range of correct answers in the system so that such mismatches do not occur.
+The material is engaging, interesting, and challenging; the instructors' lectures are generally good quality and easy enough to follow. However, some of the quizzes are horrendous and lead to hours upon hours of frustration as you try to get the EXACT answer to enter into the input box in order for it to be accepted as "correct". Some of quizzes rely far too much on the minutiae of Excel spreadsheet fine-tuning and can be VERY frustrating to navigate. It might be better to test general understanding of concepts or find some other way to design these quizzes. Otherwise, good course.
+The basic ideas are taught very nicely in the course, but I would have wished to see some more advanced maths such as some integrals computed in order to determine option prices and maybe a continuous time (BDT) model. At some point it was tiring to go through the binomial model.Nevertheless the course was very interesting. Thank you very much!
+I learned a lot during the course. Here are my few suggestions:1) a person should be familiar with basics as the course is highly non-descriptive.....you might confuse between financial terms time to time. 2) i think the flow of the course can be improved.The most enjoyable and tricky parts are the quizs,they are tough to crack.
+I think this course is good and gives me some useful knowledge. However, the most disadvantage is that it is lacked of example and that makes us really hard to understand and do quiz. I rank 3 stars for this course with the hope that the disadvantage will be improved to make the course more perfect.
+I liked how binomial model was covered, clearly explained each product pricing. I also liked mortgage module explanation - with examples of the calculation in excel. However, in the first two weeks the teacher reads formulas from presentation without explaining and linking to the real examples.
+The lectures weren't always easy to follow but the quizzes were really useful as they meant it was necessary to understand the material.  Definitely a useful course, I will be interested to see how it relates to the real world of derivatives pricing.
+I wish it could be harder and have more challenging quizzes than simply arithmetic and multiple choice.
+Lack of examples/problems worked out in the videos. Can be difficult to pass quizzes accordingly
+good learning with explanation on basic financials
+Challenging course but I've really got a good sense of the mechanics of main financial instruments such as bonds, options, futures, swaptions, etc. Being able to do all the exercises in Excel is pretty convenient. Exercises are difficult because there is no feedback - it's either right or wrong.
+This course effectively provides an introductory overview of the basic concepts in financial engineering world (arbitrage, discounting, fair pricing etc). I would have prefer more mathematical insight, but indeed the use of basic mathematical tools was pointed out as intentional in the course presentation. Exercises at the end of each module are really helpful to clarify the concepts exposed during the lessons. Considering the limited amount of hours devoted to such complex arguments, this course fulfills its promises.
+Very helpful and very well taught course. Felt a bit short. I wish it also touched upon stochastic models for option pricing and stochastic calculus in its week 8 syllabus. Thank you for the course, overall it was a nice experience.
+Good introduction to term structure modeling, arbitrage and other similar topics, quizes were challenging and required independent thought. Good course overall, the lack of guidance on incorrect quiz questions except for through the forum is the only reason for a loss of star.
+Good course for a dry subject. I feel that the modeling could've been more thoroughly explain. For example, the professor could've used cases to analyze/explain what relationships between variables signify in greater detail.
+Great course. However to get the highest score in the assignments you are sometimes required to understand concepts not explained in the videos or slides.
+A very interested course. Only suggestion:a. if possibile more interation with the professorsb. being more realistic in the case studies
+I honestly expected more from the course. I cannot say I learned any new "skill", but I was partly challenged by the exams, mostly throughout the first 4 of them. On that same note, I'm a management engineering student, I have some financial background but most of the theoretical concepts were new to me, but besides being newly introduced to most of the course's content, I sincerely felt the exams were at times not coherent with what was taught. This course will put you to test, it's not "easy"  or at least there isn't that much guidance, which made it exciting, but frustrating most of the time. What I really "learned" from this course was to be more organized, put in the time and do extra research. On account of all this, I cannot complain much: this was, at most, a deep introduction into Financial Engineering, I can now understand the jargon these profesionals use in the capital markets, but I am far from capable of properly "price" any of the financial derivatives or other securities covered in the course. I also didn't pay for theit, which means this review isn't probably the most "accurate" one. Finally, sincere THANKS to Columbia University and mostly Coursera for providing top education to everyone, you just made an undergraduate student very happy and I aspire to keep a "relationship" with both institutions in the upcoming years.
+This was exactly the course I was looking for!  It covered all the right topics and depth of material was perfect for what I needed.  The instructors were clear and thorough.  One aspect I felt did not work due to the online format was the learning opportunity by interacting with TA/other students.  I attempted to do extra work assignments but could not get any questions answered in a reasonably timely fashion, and same goes for course material.  I passed the course but feel it would be worth more if there was someone responding to student questions in the forums.  That was the reason for 4 sta
+The course content is excellent and teaches concepts used in real-world scenarios. The quizzes are also challenging. However, the biggest letdown was the manner in which the content was delivered. Simply reading 30-40 slides does not constitute teaching. Moreover, the instructors seem disengaged and there is a dearth of supporting material for some of the more advanced concepts. Probably some recitation classes would have helped. I had to read multiple textbooks just to get some ideas about certain topics.
+The course in general is fine. Although it is not an introductory level, and users should be aware of it. By the time you finish it, you will have an idea of how financial engineering works and will understand the math behind the scenes. The required level of mathematics is not very high, and high-school maths are enough to follow the formalism. Also, several assignments are done in Excel, so basic knowledge of its features will help.
+Course material is quite challenging, most of it is in an appropriate level for me. But the quiz questions are often too hard compared to to what were taught in the lectures, and the spreadsheets used for those calculations are confusing, they are not clearly explained in the lectures at all, I think there are even some mistakes in some of them. Overall a worthy course, I learnt a lot from it. Looking forward to attend the 2nd one.
+It's a very interesting and an excellent course for the people who are interested in finance and management. The forum is highly active and the course mentors have really been helpful. It can be cracked and solved easily if one has adept knowledge of Numerical methods (Interpolation and extrapolation), Microsoft Excel which covers almost 75% of the work apart from the formulas.
+Interesting and well laid-out, the only improvements I would suggest are more effective ways to troubleshoot questions around the quizzes, as well as better integration of the optional sections at the end, which jump into heavy maths without practical examples, limiting the motivation for students to stick with them.
+The course instructions should be more clear. The fact that week 8 is the revision material required for understanding many parts of the course is very strange. There should be also more examples of the exercises during the course than simply the test, whilst for the quiz there should be a form of better feedback.
+The material is interesting, but the earlier sections require a large amount of independent research to get to the answer and the ideas are not explained in a way that tells you the purpose of the securities you are pricing, only how to price them. Towards the end of the course this gets better though.
+That particular course helps me to better comprehend the mechanisms of how financial instruments work. I am really grateful to professors who lecture a material and my special thanks to mentors and tutors for their assistance on the forum - without you I will not be able to complete that course.
+Great course ! Very clear materials and challenging tests. Just too much focused on mathematic formulas rather than financial principles. I would definitely reccomend it to anybody willing to learn more about derivatives and other sophisticated financial instruments in general.
+I have spent lot of time on this course, it is really excellent.  Due to the concentrated information, it takes more time for me to learn the subject.  Everything is explained very well with detailed notes on the topics.  I hope I will finish this course one-day.  Thanks
+The entire course contents are really helpful and valuable. Professors explained the lecture clearly and the tutor was also really willing to help students with any questions. I'm going to continue taking the Financial Engineering and Risk Management Part 2.
+Nice course, covers a wide aspect of materials. However, much of theories are not that easy to understand, so it would be better if the instructors could add a little bit more real-world examples/applications of these theories.
+This is a well-structured course who has a basic understanding of finance and wants to steer into financial engineering. The course contents are highly relevant and examples in the spreadsheets provided are very intuitive.
+Very good course for those who, like me, had never been exposed to financial engineering in the past. I strongly recommend it if you come from a technical background and are willing to develop and broaden your skills.
+It is not an intro class. This course is challenging particularly when you are not an English Native. In this course the most frequently used model is binomial model that can be fairly dealt with in the Excel sheet.
+Eye-opening and powerful crash course introducing to the life of a quant. Problem is in the discussion forums, where there is very little interaction with mentors and week-long (or more delays) in getting feedback.
+Pretty cool course.  I hope they come out with two course sequences, one based more on theory that doesn't back away from stochastic calc so much, and another on practical methods using something other than excel.
+The assignments are well designed to motivate you to think and employe learnings from the course. The instructors teach skills very clearly. I liked the helper videos provided additionally with the course.
+The video explain the concepts based on formula and derivation of the formula. However, i would suggest that more numerical example would lead to easy understanding for anyone from non- technical side.
+Very well presented, structured and selected material, easy to follow, relevant and interesting. Quizz problems are well thought through and have a reasonable degree of difficulty and length.
+Extremely hard for someone like me who is trying to do this as a complete novice, need time to understand, no feedback on quizzes so if you are stuck, you need to spend a lot of time on this
+Great course for knowledge. Still in some part of the course, the course content and level of graded questions doesn't match. At least not all but should have given insights about it.
+Good content, especially liked how professor Haugh explained things. Some assignments could have clearer instructions - but discussion forums are useful to troubleshoot the problems.
+Some of the models are not what's really used on the street. e.g. Street uses SABR and Black-73 to price swaptions. The quiz instruction is also a bit amibious for some questions.
+A lot of the concepts got hidden in numeric outcomes. I understand why the format made that necessary, but it led to time intensive homeworks on relatively simple concepts.
+A very quantitative course for people who want to learn how to calculate the risk for particular products. Course does not include coding but uses spreadsheet instead.
+very good course. the exercises are very useful to review the material but it seems that rounding errors can make the difference between right and wrong.
+Very good course. Informative. Sometimes quizzes were annoying to get the rounding correctly however that is minor issue compare to knowledge gained.
+I thought that the course was very interesting and that the concepts were clearly explained. However, the quizzes could have been harder.
+The course is good. Would be better if there are more examples given and lively interaction with fellow learners on the forums though.
+A very hard course, I think that the videos ha ve to show more practical problems to get the exams more understanding.
+This course provide with a lot of useful knowledge about financial market and different types of securities as well.
+I would like to see the discussion forum back. That will help debugging the answers to the quiz.
+have not finished it yet , but a very good course so far, a lot theory mixed with exercises.
+Excellent course content supported with relevant excel sheets. Requires rigorous practi
+Inconsitencies in instructions and information for some assignments otherwise very good
+This course help me to understand correctly the world of financial engineering. Thanks
+Great course. Level of support from the mentors was non existent though.
+This course I quite hard and demanding, this also makes it challenging!
+Good use of complex mathematical models to price derivative securities
+Very Good and instructive. The Excel sheets are good to have as tools.
+Perfectly structured and easy learning. Can't wait for doing part II
+Good course to sharpen your skills for a job in financial services.
+Excellent overview .. Good assignments that enhance the lectures..
+easy to understand but hard to solve quizs..(chooser option...!)
+Really good insight into the pricing of financial instruments
+there is one flaw that the video is kind of obscured.
+Very Interesting course. I would put more exercises
+The course is extremely Challenging but worth.
+It was a great course, a bit advanced though.
+It has better content provided than ours.
+The background material is in Week 8.
+Great course. Highly recommend.
+Very good course...
+Gorgeous
+I appreciate how this course not only discusses the concepts in technical detail, but actually delves into the mathematics of the subject matter, and teaches how to actually do the actual work inv
+This course is amazing. The structure is very clear and coherent. It is very mathematically focused and the models are interesting. I would always recommend this course to my colleagues.
+The course is the clearest and most informative content on FRM I have come across. Thank you University of Columbia for this opportunity
+This course is a great, from the perspective of how it is organized as well as the assignments provided at the end of each module.   The way the content layout is well-suited and leads student step by step gaining insight to the mechanics of different financial derivatives and working on those assignments is a great method of pushing student spend time to understand how the mechanics works. Both instructors are great! and I appreciated greatly their effort as well as Coursera. The only one improvement I would suggest is that if a TA can be assigned for this course, it'll be a great help to all students.  Thanks!
+The material is clear stated, the volume and the deepness of the course is substantial, the supplements are very helpful. The spreadsheets can even use as basis for practice modelling.
+Fantastic start for someone who wants to delve into the world of finance. Concepts focus on mathematical modelling of various financial instruments, with detailed theoretical explanations of the structure of derivatives. As someone wanting to pursue quantitative finance and from an engineering background, this course was stimulating from an engineer's perspective, and had adequate amounts of theoretical information as well to supplement learning. One of the few courses on Coursera that took me more time than that stipulated on the course bulletin. On a side note, I feel the quizzes should test more conceptual knowledge ,which was true for the first couple of weeks, but later turned into an exercise in MS Excel, maybe because of the computational nature of the course.
+This course introduced to the various Mathematical models related to pricing financial derivatives and fixed-income securities through the use of Probability Theory and Stochastic Calculus. This is course is recommended for anyone who has an interest in learning about the mathematical stories of financial securities and their pricing. I think the professors have done a great job of putting across the concepts to the students of this course. The quizzes help in testing the knowledge acquired and the questions involved working analytically and also working in excel. I extend my thanks to Columbia University for putting such an interesting course on Coursera. I am sure the learnings from this course will play a key role in building my career in finance.
+This is very compact course without compromising essence and worth watching video lectures many times. Materials were of top quality and provided wast amount of fundamental. I cram some information to begin with and ask question myself to get deep insight. On review of of some videos when I saw professor asked same question and explained with illustration, that style of teaching proved very effective as it developed better understanding. Looking forward for more courses on same subjects and similar style!
+I found it to be a very interesting course and the teachers were very clear in their concepts, as well as an excellent didactic material to better understand the topics covered. I thank Coursera for the teachers and the monitors who were always very attentive to answer the questions and help solve the problems that arose in the preparation of the tasks.
+The classmates were very supportive and gave light when one had problems to solve the tasks.
+Thanks a lot to everyone.
+Good course. Personally I think it is almost the perfect level for those who have some basic understandings about finance and look forward to go deep(such as me). This course requires some understanding about using Excel, which is quite useful when doing the quiz. Mastering Excel well would save a lot time. Some material might be a little hard but with patience and hardworking, it can still be solved. Highly recommended!
+I have enjoyed this course thoroughly. With a full time job and two young children it has demanded a great deal of juggling but has been worth it. If you appreciate a thorough and clear presentation of essential principles then this is the course for you. The assignments were sufficiently challenging but more importantly they elucidated key points presented in the lectures.  I am definitely going to attempt Level 2
+This is a wonderful introduction to the world of Quantitative Finance. The content is delivered in a manner that is easy to understand, yet not oversimplified at all. I'd recommend this to anyone who wants to build an understanding of the fundamentals of F.E. A big thank you to the lecturers for making this fun to learn, as well as the mentors who were always there to help out in the discussion forums.
+Excellent course. This course teach you  on how to price options, futures, and other fixed income  derivatives. It not only tell you how it works in simple and easy binomial model, but also provide  hands-on spreadsheets to start with your homework. It should be easy to follow and learn if you have basic understanding of options, bond, forwards/futures, and some probability theory.
+Im really fascinated with this course.By the way, i think some quiz have few mistakes as the module about pricing swaptions in the calibration model. The answer the professor gave is not 13300 or 19400, but 1330 or 1940 respectively. The quiz#6, the answer for the question 1 and 2 is multiple, its between a range and i cant complete it, please check the parameters again.
+A lot of useful information in the course. If you've got some programming skills it has even greater impact if you actually write the code yourself to solve the quizzes (still comparing with the solution in Excel). I'd suggest this course to anyone who wants to get a glimpse of the complexities of what Hedge Funds and Front Office desks in Investment Banks actually use.
+Awesome...the concepts  have been explained in a superb way, the contents are itself high class, he example computations are jist wonderful. Although I am yet to finish it, I am just enthralled with it and have been a fan of coursera big time!!Expecting more detailed and rigorous course on financial engg which can be a testimony itself for an entry to the industry!!
+This course is definitely for people who really like to use their math skills in finance. I admit that quizzes a little bit challenging and check the learners' understanding. After some practice I'll definitely take FE&RM II. My only feedback is that is would be better to add some more practical examples to slides instead of emphasizing only theory. Thanks a lot:))
+I have a Bachelor's Degree in Economics and a Master's Degree in Financial Engineering. I got my Master's degree in 2016 while I did not continue to seek a career in this industry because something bad happened to my family. Now I am planning to build up a career in Financial Engineering and this course is really great to help me review the basic knowledge.
+Very good course. Within only 8 weeks covers the approach to pricing of a wide range of key financial products. Very helpful for those people working in finance, but not directly involved in pricing products to learn more about that aspect. Exercises and spreadsheets help get hands on experience and understand the philosophy behind pricing approaches.
+As the first serious encounter with financial engineering I found the course challenging but very rewarding. Very good theory-practice ratio. I would definitely recommend to somebody who is interested in the topic and willing to spend many hours with it. My experiences are based on 4 weeks of completed sessions, so please take it with a grain of salt.
+In discussion forum, I saw that a few years ago, our mentors replied the questions of learners very quickly. However, recently I've seen that there are some questions that are not answered. I do not know why.By the way, I am so grateful to our lecturers and mentors. Thanks to their guide, I could pass all of my assignments more straightforwardly.
+The material covered in the course is highly relevant to the current job market. Professors Haugh & Iyengar were great at explaining the material and the quizzes were reasonably difficult. The learning spreadsheets were very good as well. Overall, it was a great learning experience and I will enthusiastically recommend it to my colleagues.
+Excellent approach, robust presentation, demanding but rewarding quizzes, overall a valuable course.A slight drawback is of technical nature and is responsibility of the host platform: a couple of module videos contain wrong subtitles. Nevertheless, both teacher speak clear English, and it wouldn't be hard for most participants to follow.
+This course introduces financial engineering and risk management very adequately. Even though the level is not that advanced, it teaches the mechanics of derivatives, fixed income securities and more complicated securities like MBS. The quizzes are achievable, but don't let the time run up until the deadline since they require attention.
+I love the course. The course is rich with good content. I have a financial background but i am new to the financial engineering, so I had hard time to follow some financial models. I feel like it would be much enjoyable and easy to follow theories if the financial models can explain with examples. Other than that the course is great.
+Sufficient rigor for a course that is notoriously quantitative and challenging! Working with Excel models is the best way to get your feet wet with abstract price evolution theory which will ultimately be implemented in algorithms of C++ and Python! Kudos to team who is the best in the field educating this subject to the masses!
+Excellent course material to get to understand & apply the quantitative techniques. Fixed income and exotic options (swaptions) were very well explained. A highly recommended course for anyone who wants to build career in financial engineering /quantitative techniques and for practicing risk managers. many thanks,manish
+It is incredible to see that the quality education from a university as reputed as Columbia is made available to everyone.  The Professor's explanation of relatively complex concepts with ease makes the hours spent worthwhile. The course offers the right mix of theoretical concepts and practical implementation.
+Truly excellent course! I really enjoyed learning through the guidance of Prof. Haugh and Prof. Iyengar. I loved the end of week quizes. For more details, please see my review of the Part II. I completed Part I in Oct 2016, and Part II in early Jan 2017. Very good beginning to the New Year! Time well-invested.
+Was very educational, learn't a lot and the great thing was having to implement the theory learn't in the notes and lectures during the assignments. The "curve" ball questions were great too as it forced you to apply understanding thus teaching you to apply your knowledge based on the core principles learn't.
+The teachers, Martin and Garud, were amazing. Clear speaking, both explained the concepts in detail without getting lost in theory. And the best part was the spreadsheets which helped to get a hands-on and a "real world" flavor of pricing and calibrating fixed income financial instruments. Loved the course!
+An Excellent course which really tested my understanding of the subject matter through challenging questions and rigorous assignments. The course matter is also very relevant and engaging. Through this course I have improved my understanding of the pricing mechanism of securities and derivatives. Thank You.
+The course goes into a reasonable depth of the area. I particularly like the excel models for pricing of various financial instruments. My only suggestion is to provide more supplementary material like open source books, research papers etc on the topic so that one can expand their knowledge even further.
+Good explanations, good reviews of theory and good practical reviews with excel.  The forums are also very useful and complement the content saw in videos for more complex questions not explained in videos.I am now more exciting to learn about financial engineering after this course, Part II here we go!!
+A well put together course that is good for both those currently in finance looking to expand their quantitative skillset as well as anyone looking to just learn more about financial modeling. The lectures and notes are informative and engaging, and the quizzes are challenging but doable.
+It is a great entry-level course for engineering students like me who want to learn some basic finance. The assignment after each module did take me some time but it is quite worth it. And the last module of background materials that cover a lot of finance mathematics is very helpful too.
+This is the first course I discovered in coursera back in 2012 i guess, which turned my world upside down. It's still listed as top finance courses for advanced user. You should definitely go for it, if you want to acquire the natural perception of how finance & investments work.
+Both the tutors are very nice and I like the way of explaining simple concepts and building upon them for higher level concepts.The course content is really nice. I wonder if part of Stochastic calculus and ito's lemma could also be added.Thanks for sharing such vast knowledge.
+Challenging and rewarding. It contains the content of derivatives and it's very basic and relatively easy to understand with some math and finance background. After this course, I'm pretty looking forwards to being a member in Columbia University Financial Engineering.
+I found this course quite challenging. I did not really get well versed with the statistsical formulas since most of the derivations were too difficult for a non quant person like me but i could understand what the derivation meant and the logic and concepts behind it.
+Excellent course for students with some finance background. Content is nicely paced and well illustrated  through models and examples. The quizzes range from straight forward application to challenging (given there is no feedback on where you got a question incorrect).
+Pretty hard course, but extremely rewarding. I received a foundational knowledge about derivatives pricing. Even though I dont plan to apply this knowledge right now, I'm sure that it will be useful in a near future, as I plan to pursue a career in the finance sector.
+This was an amazing journey into first attempt at understanding pricing. very well explained by the professors and excellent review questions / exercises.Am looking forward to do the part 2 right away Thank you professors for giving us an opportunity to learn from you
+Amazing course! One of the best I have taken on Coursera.The weekly quizzes actually require a lot of time to solve and the course really makes you delve in dip into the material, otherwise you won't get much if you don't put in the time.Definitely recommend it.
+This course encapsulated a good balance of mathematics, theory and application. Additionally, both professors did an excellent job in interpreting difficult mathematical concepts into a clear and concise manner. Overall it was an excellent learning experience!
+I really enjoyed this course. Even if I wasn't new to these financial concepts, the different approach used by the professors gave me new skills. I recommend these lectures to everyone who wants to have a basic introduction to simple pricing financial models.
+It is a brilliant course covering all the key concepts in the financial engineering and model calibrations! The assignments are challenging but really help me reinforce my understanding of concepts and practice basic excel modeling skills.  Highly recommended
+It's really hard me for me as an engineering student without any knowledge of MF, but I believe in myself and finish it .And now, I make it. I'm proud of myself .And thanks for the help our mentors supply. I'm going to try thr second part of it.Fighting!
+Fantastic class. I hope in the future someone teach how to code in python for the assignment. Thank you so much. Also i suggest someone mention what's next after this series. I want to be a quant. I believe this is the first step. Want to know more.
+I took this course to prepare for the interview for the MFE program in Columbia, and I am so excited to see these two professors in person in this fall. Cool course, quite intro level, but practical to take for the preparation for interviews.
+Pretty great course. The material introduces a lot of old topics that one might have come across in upper level statistics. In addition to the latter it gives you a good platform to decide whether financial engineering is your forte or not.
+I really enjoyed the quizzes they were designed in a way that the students can learn the practical implementations of the concept they learn.This course is the very fundamental that is required if you want a future in quantitative finance.
+This course is quite thorough and I commend the lecturers for passing on so much knowledge in such little time. The mentorship received is also brilliant, especially in those challenging quiz weeks. Would definitely recommend this course!
+It has been very interesting and helpful for improving my knowledge in some specific topics of financial engineering field. I strongly recommend it to who is really interested in learning  or improving his skills in risk management!
+An excellent course on Financial Engineering. Starting from the basics this course provides an overall idea. The assignments are also based a lot upon whats been taught. More emphasis is given upon the applications of the course.
+nice challenging course with very good lecture videos and supporting material. the questions tested the material very well and were just challenging enough for my taste. Also the teachers were explaining the material very well.
+Great course for every level. Very interesting mix of theory, practise and real world examples. The metors are very helpful, especially Scott. Thanks to them, you will have no problem understanding every topic and question.
+Interesting, useful, with very nice examples and helping tools. For me, Prof. Martin Haugh's style was more appealing, but I congratulate both Mr. Haugh and Mr. Iyengar for a difficult and beautiful course :). Thanks vm!
+I really liked this course and definitely recommend it! The videos are well prepared and make all the math easy to understand and the quizzes are excellent to resume the ideia of each lesson. Congratulations to the team!
+Being new to investing and understanding financial products this course gave me great insight into the financial products that I'm interested in and gave me all the background I felt I needed to understand them.
+The course provides me the first experience of a complete foreign course!Although some of the theories have been known to many, this course is still worth a thorough learning for its insightful financial ideas.
+Very well organized course! A wonderful introduction to quantitative pricing models as well as some common financial derivatives (such as swap, swaption, CDS, CMO, etc). Very challenging, but very interesting!
+Good balance between technical notions and difficulty of the course. Professors are prepared teacher and also the slides are useful. This course gives you a good induction on how a financial engineer thinks.
+The course is of invaluable help to students interested in fixed income securities. Both the professors made the challenging topics easy to understand. Highly recommend this course for Finance enthusiasts.
+Excellent course, great balance between theory, background concepts and practical examples; might be more challenging and take more time to complete for people without a quantitative/financial background.
+extremely helpful and insightful! nice and compact, too! Also very helpful that there are many examples from fixed income / credit markets, as many options courses focus heavily on equity options only.
+Excellent course, which give you pretty good understanding of valuation of equity and interest rates derivatives. I want to recomend this course for all students who want to focus on financial field.
+I have an engineering / numerics background and enjoyed this course very much. Good overview and comprehensive explanation of mathematical models of fixed income and equities as well as derivatives.
+The course profile is quite useful and helpful. Combined with the homework and the discussion forum, the course offers a great opportunity for me to get some knowledge about financial economics.
+Perfect course to grasp the fundamental theories in financial engineering and risk management! I deeply appreciate the videos and lecture notes! Hopefully, I can start the next course soon :)
+A very well designed course! I knew some topics prior to the course and it helped me to strengthen my knowledge on derivative market systematically, particularly on interest rate derivatives
+The curriculum is interesting and has a good connection to the real market, however some questions are hard to solve because of lacking details which were not mentioned during the teaching.
+The content of this course is apropiate for drive the finances and risk, We be lear more about this courseI am Engenier in Sofware, the know of finances is aplicable in anyware software.
+Excellent course and learnt a lot of details. It really gives me lot of confidence and motivation to do more courses and I have already started Part 2. Can't wait for it complete.
+Tests your endurance and helps you improve your MS Excel skills. I had been working on it for some months before I was able to complete it. It was very challenging but rewarding.
+I hope professors could provide some tips on the programming and some code suggestions. Sometimes it is too annoying to search and design codes as a university freshman student.
+This is a well structured course. Concepts are explained very clearly. Tutors are awesome. The quiz is challenging but very helpful in improving the understanding to the course.
+Wonderful course with helpful materials and assignments. I especially appreciate the depth of assignments, which really helped me discover blind spots in my knowledge structure.
+Great course. Challenging quizzes later on but it was definitely worth it to take it (even though I'm already a Finance student and this is literally what I study at school)
+Very good to increase my already extensive financial knowledge.  Easy to follow.  Some of the concepts are difficult, but the instructors are good at breaking them down.
+Even the course required much basic knowledge of mathematics and formula, Model is clear and easy to understand. Also, instructor's comment in forum is warm and useful.
+Excellent course, I studied finances in college so I have good bases (probability, algebra, calculus) and this was an great review and very challenging at some points.
+Very informative and clear presentation of the material, which makes fun and allows to quickly learn the topics. Furthermore, interesting and practical quiz questions.
+I think this is a great course. I know we've only scratched the surface on the topics covered and simplified things but it was nevertheless a worthwhile experience.
+Very good course, I learned a lot with the teachers. It is a course that I recommend for all my friends. Thanks a lot for everyone that participated in the course.
+It was OK! One of the most valuable parts of this course are their excels woorksheets, very very useful. Moreover, the clever view of the trainers is fantastic.
+Brilliant course! It requires some prerequisite knowledge of finance and quantitative analysis but introduces you to financial concepts from a new perspective.
+This class gives allot of good information on those who are interested in the stock market and how it operates. Wish I would have started this class sooner.
+Very good course to understand financial products. The excel spreadsheets give a good overview of how to price such products in the limits of the model.
+A fantastic introduction to interesting financial instruments. Would recommend to anyone whose profession is even tangential to the financial markets.
+Detail and clear lectures videos from both the instructors ! The concepts were designed to be understandable easily. Thanks for this opportunity !
+Great course with vast overview of a lot of a financial securities and how to price them. Poses some challenge but fairly straightforward overall!
+Please provide a slightly higher margin of error when accepting answers. A .05 error should be acceptable when computing such complex products
+Great learning experience. Learnt lot of concepts and pricing models. Thank you Faculty for efforts in explaining various aspects of inancial
+A very good course for students of Financial Engineering. Recommend people who have basic financial mathematics knowledge to join the course.
+Extremely well structured, and perfect for what it was meant to achieve. I am very impressed by the faculty, they are really good lecturers!
+Very good course ! Quite tricky at times (especially for beginners) but I really enjoyed it !Many thanks to the instructors & mentors ! :)
+This course has been very interesting and has improved my knowledge how financial instruments works. I am really grateful to professors.
+THANK YOU FOR YOUR HELP. I LEARNT ALOT ABOUT MY ONE AND ONLY PASSION. my sincere regards and respect to all the teachers and classmates
+A course with easy explanations, financial engineering can be understood by almost anyone, and exams do not have a higher difficulty
+Excellent material and well explained by the proffesors and the mentors been very kind to answer all queries till you get it right.
+Absolutely brilliant course, it is challenging and rewarding. The instructors are very clear and the assignments are fun to do!
+Amazing course! You will fall in love with the modeling part of Finance. The assignments are little tough compared to course.
+Really good explained. I also loved the exams. but I think you should have some background in finance  if you want to enroll.
+Lots of great videos, practice, examples. Great introduction Financial Engineering and I'm excited to learn more about it.
+Makes clear concepts I've been struggling with; for me, understanding equals easier to digest and remember. :-) Well done.
+A well-Planned course for any finance world enthusiast who wishes to learn more about the field of Quantitative Finance.
+This course is really challgenging yet provides a very good overview of diffrent financial insturments. Higly recommend
+Excellent course. The best in his category, the way that teaches the financial management is the mathematical approach.
+Excellent introductory course to the subject! Requires some basic math (and programming if you are not an excel fan)
+Lot of work! it is very hard and intensive but it gives an update of financial tools required in capital markets.
+Excellent course! I very good first dive in the world of financial engineering. Can't wait to enroll for part II
+Fascinating course covering all kinds of financial products, a great preparation course for higher grade study.
+Wonderful topics! Just suffered from EXCEL these days? It is better to provide some python or R codes.Dars
+It's very insightful and eye-opening for me, since this course topic is not quite popular in my country
+Very useful skills, need some basic knowledge of mathematics, hard to complete, but very deliverable.
+looking forward to lots of self-learning experience!! might be needed for my master program later on.
+not an easy course but it worth the hard work , i learned a lot from it and I enjoyed it   very much
+It's a very nice course for those of you who interested in financial engineering. Highly recommended
+It's really a tough course that gives me really valuable knowledge regarding the financial models.
+Great course. I learned a lot and I'm fucking master in Financial engineering so it's a good sign
+The material was excellent. Thank you for making this course and putting it on a public platform
+This course is rigourous, the quizzes are challenging. I hope they provide more practice quizzes
+Excellent, well done course and an opportunity to touch some topics on finance very interesting
+Great material, a little harder exercises than most coursera courses, but definitely worth it!
+Great learning experience. Learnt the various concepts on financial modelling and related topi
+Very good for basic understanding of FInEng field. Especially on Binomial Model. Many thanks.
+Very technical-based teaching style, great experience with substantial amount of calculation.
+Excellent course, challenging quizzes. Totally recommended learning the math behind finance.
+Good lectures and excellent exercises to test the understanding. Overall a very good course!
+Great way to understand financial instruments valuation and risk management related with it.
+Fantastic course, Good course on financial mathematics. I am looking forward for FERM II.
+Very interesting course. I think i get a lot of technical and important tools. Thank you!
+Very good and challenging course. I recommend this to everyone who likes challenges...
+Concise and informative content. Good intro to the overall subject. Really enjoyed it.
+Good course to brush up basics when attempting to learn more complex financial theory
+Very good course, quite challenging. I think I understand financial world better now.
+Very interesting. The quizzes after each model compels me to learn and research more.
+This course has helped my understanding of the basics of the financial fundamentals.
+It is hard and very quantitative so be prepared BUT REALLY WORTH IT for your career
+One of the best courses for the Finance Majors and who has an interest in pricing.
+I enjoyed the course and it gave me a great introduction to financial engineering.
+Great course. Martin Haugh and Garud Iyengar are brilliant lectors. Thank you!
+Brilliant course. Very helpful material in learning fixed income derivatives.
+great course. Quizzes are a bit tricky, but you can figure it out in a while.
+Great courses, extremely clear. Thanks a lot to both Mr Haugh and Mr Iyengar.
+The two professors taught me a lot about FE. I am very grateful for that.
+This course is very customised according to need of contemporary issues.
+Hard for 0-experience starters in finance. But worth of digging in it.
+Great course that require some background and some work but excellent.
+Great lecture and vedios, also have detail discussion about the quiz!
+Challenging course, a lot of math but is 100% woth, you learn a lot!
+Very good course! Well-organized. The homework helps understanding.
+Dr Haugh and Dr Iyengar are really amazing teachers. Learnt a lot.
+Goes through the basics of fin engineering. Good course refresher.
+it has helped me getting a feel of underlying mathematical models.
+Great course!  The excel examples are worth the price on it's own.
+A good course, with many practical examples and clear exposition.
+Excellent material with high quality quizzes. Highly recommended.
+Great!  A difficult subject that has been very clearly presented.
+Awesome! I am really happy with all the new knowledge I receive!
+Great course , very difficult and challenges you to the fullest
+I'll count completing this MOOC as a proof of my resilience :*)
+Excellent course. Thank you for offering this type of courses.
+This is an awesome course for financial engineering beginners!
+Excellent course, challenging but very gratifying to complete
+Very well covered concepts with easy to understand technique
+it is the best course that i have ever learnt in coursera~~
+Really nice course and learned a lot from it! Thank you!
+Very good course. A lot of examples, great assignments
+Amazing course. Will register for the second part too
+Very good course !! It combines theory and practice !
+Good course for beginning of financial engineering.
+A brilliant introduction to Financial Engineering!
+Very challenging but interesting at the same time
+Great knowledge! Thanks for making it available!
+A very good mix of Detail and comprehensibility
+Great course, challenging and very interesting!
+Very rigorous. You need to be prepared for it.
+The best finance engineer course you can find!
+Great insight, but the lecture is quite hard !
+Very good foundation course. Highly Recommend
+very practical with all the excel exercise !
+One of the finest course of dynamic pricing
+Well defined materials! Clear presentation!
+Very engaging course and very informative.
+Well rounded introduction to quant finance
+Very good and nice. Challenging questions
+Following this course, and many FE books
+Amazing content by amazing instructors
+it is very useful course. thanks a lot
+Great course for beginners of finance
+very good basic courses for beginners
+Excellent, in-depth and comprehensive
+Very comprehensive and quantitative!
+Thanks. It was very helpful course.
+Dr. Martin's teaching is wonderful!
+iI have joined late but worth it...
+Very Hard Class. But Well Worth It
+it's quiet hard to do this course
+its a very good and hard course
+Very Good Course. Learned a lot
+THX for sharing your knowledge!
+Extremely interesting material
+Great content. Learned a lot.
+Excellent Course. Well timed
+simple but awesome course
+Great course! Thank you!)
+Perfect Course,Thank you!
+very strong on the basics
+Very good course indeed.
+Good foundational course
+Bit difficult but worthy
+Definitely worth taking!
+Exceptional. Thank you.
+Very clear explanations
+Great learning system.
+Very good this course!
+Great Course I like It
+Its an amazing course.
+Very well structure
+Just what I need !
+Very rich content
+Simply awesome!!
+It is my major!
+Very helpfuly!
+super helpful
+Good course！
+promising

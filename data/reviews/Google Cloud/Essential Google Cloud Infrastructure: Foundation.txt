@@ -1,0 +1,941 @@
+The script is very boring. Narrative is very monotonous. It is better to read the script, which makes me to question the experience, and the money I paid for this.
+Not comprehensive at all. The video are oddly chopped up and I feel like there is so much more to be taught. If this is Google's way of training their product then I'm out and will go the AWS route. In my opinion this is horrible training. I'll be afraid to use this training as study material for their certification. Google really need to get a team and work on this the right way. Instead of trying to get something QUICKLY out to the market.
+A basic course, and the labs (Qwiklabs) are very difficult to use from China, where i live. Vpn aside there is an account verification issue i reported, but the course mentor had no solution for that, neither the Qwiklabs support.
+Lab 1.5 was a waste of time I tried to complete it several times, its very frastrating when Coursea's lab verification fails.
+In many videos, the voice of instructor is very slow (not audible even in speakers), please review this problem.
+Labs don't work. Qwiklabs is blocked. No support or ability to contact anyone. Horrible experience.
+The finished labs and videos just become uncompleted over and over again. Rubbish course.
+Dissapointingly basic, not worth the money.
+how to unenroll this
+The information in the course was great, the expertise by the instructors was very good.  The labs were good also.  What was really jarring was the amount of short (less than 60 seconds to 2 minutes) videos.  You watch something for 20 seconds, then there's a 10 second pause for the next one queues up, then it buffers and starts.  This process takes almost as long as at the videos.  If they merged some of those together, the course would flow much more smoothly and be a lot more enjoyable.  Also the first course in the specialization had us set up a private free-tier on GCP. This one used qwiklabs.  The free tier is faster and easier to use. But the qwiklabs is a really nice feature.  I just wish the specialization would pick one or the other.
+Have never found any course as obscure as this one. There are no lecture slides to download, the videos are too short. All the labs get locked the minute you pass the final quiz and most of the time the instructor is just reading over some bullet points.
+Brian Rice's lessons in the introduction course were way more interactive. Even though the lab sessions are good videos content is boring and not clearly understandable
+The course are lack of consistency for these short videos. The slides are not shared, which makes it hard to review and prepare for the exam after finishing the course
+Unlike previous course the presenters sounded less like robots in this course.
+Content is good, however the grades for labs are updated from qwik labs.
+Not the best one
+Subject matter is good, but a person (who doesn't know what to do with their hands), standing in front of bulleted slides on a white screen does not impart as much information as it could.  Of the unfortunately few diagrams and animations that were used, most were unintelligible, pieced together from logos, and required explanation, but didn't get any.  You should up your media game.
+Although Course content is good, it is recommended that you brush up your networking knowledge before you start the course for better understanding. As I am a Software Developer and do not deal a lot with Network stuff, I found it difficult to go smoothly unless I stopped and learnt about the terms more by Googling and then continuing.
+Didn't like reiteration of the same foundation basic things over and over again, I'd recommend focus on things that one need to understand, not things that you can just read from the screen in 5 seconds.Also the way lectures are given is a bit robotic, like someone is just reading the text equally emphasizing obvious and tricky things.
+I found the extremely short videos quite distracting, they were clearly taken from a longer presentation and cut into ~1minute chunks which didn't really work.Also some Quiklabs showed 'resume' in the review list, whilst others didn't, despite me finishing all of them.
+Video content is good.  Quiklabs sessions are carelessly done with unclear (and, often incorrect) instructions.  The use of Incognito window is clunky.  Quiklabs / Google need to pony up and make one project available for the term of the course.
+I generally found the course to be very helpful and cannot complain about any of the contents. However, there is a lab that I could not complete since about 4 days and it's due to the inability to create a VM in Europe-West (London).
+It a good starting points to taste what's GCP. It try to cover quite a number of concepts & ideas, and the pace is a bit first. For those without any cloud experience it may be too difficult for them.
+It is a great course, unfortunately, in some videos the subtitles are not synced or are wrong and it is very distracting. Subtitles are really necessary for people whose first language is not English.
+I obviously wasn't part of the target audience for this course as lots of what was covered was way over my head.  I did find it useful though to go through many of the offerings on the GCP.
+There's a lot of lab session and some information that will be good to be put before the lab session for a general overview than heading to do the lab first then review on what is done,
+Good videos and labs though some of the content examples didn't work. Constructive criticism, for answers you get wrong, you should be able to see what the correct answer was.
+The lab review should come before the actual lab. In this case it wouldn't be a review. There's no incentive in watch the review after performing the labs.
+Good intro, but it's just a basic overview and gives only a shallow understanding. Hands-on but doesn't require much thought.
+It is buggy in evaluating the labs. I had to repeat the easy V lab more than 4 times doing exactly the same each ttime...
+These courses need course manuals.  Use case explanations.  Google really needs to look at how AWS does their training.
+More quiz would be better. The content is quite dense and reviewing the understanding after each video would be great.
+Minimal knowledge learnt. Needs to be updated to take into account knowledge learnt from the first course.
+One of the most interesting course in the architecting with gcp specialization but has lesser content
+Course was not perfect, but it was good.  A little boring for strong linux background users, but OK.
+Video content was good. However, none of the Lab links worked at all (error 404 - page not found).
+Coursera's interface is not that great, specially the navigation menus for the courses.
+Covered a few of the topics already covered in course 1, but very helpful in the end
+Lab's are a bit too long for my taste. Could be broken down into smaller modules.
+It was a lot shorter and with a lot less information than the previous course.
+Lots of details covered in the networking module in a short time...
+The course was fine. The instructor was a bit hard to understand.
+A lot of the course labs are outdated, otherwise i still learned
+Labs were not so smooth, experienced a lot of slowness
+The labs were vague and jumped over many details.
+In some videos, the presenter speaks too fast.
+In some labs the SSH session dosen't start
+The voice of some video are very small.
+Slayts and videos cannot be downloaded.
+Some of the content is pretty outdated
+lab instructions should be given more
+good enough to know basic stuff
+Too many introductory videos.
+essentially it's good lesson
+Great but lab a bit tricky
+Kind of slow and redundant
+Need to add some more labs
+I have a problem with the Lab Automating the Infrastructure of networks using Terraform.
+I folled this step by step but, when I have to use the command "terraform apply"  even if the file mynetwork.tf was exactly how its explain in the Demo's Lab, I had an error with this json section:
+
+resource "google_compute_network" "mynetwork" {
+name                    = "mynetwork"
+auto_create_subnetworks = true
+}
+
+The error was an invalid JSON input, I aready send an email with this error, in January 3rd, but I don't have anwser yet.Even with that error, I recomended this Lab: I have so much fun with the videos and the others Labs
+This course gives you a good practical knowledge of how VPC  networks in GCP works. It has one of the best lab exercises where you'll create a vpc, subnets, firewall rules and explore how the connectivity works between resources in different zones, regions, networks, projects in VPC. One drawback is this course have very few quizzes, barely 6 questions. It would have been great if they had multiple quizzes which would test our understanding. However the labs are really great and would help you to gain a lot of practical knowledge on GCP services.
+Good course, only thing that I see different is the quiz question "Which statement is true of Virtual Machine Instances in Google Compute Engine?": A VM in Compute Engine always maps to a single hardware computer in a rack -> this is true, I think I know this. "In compute Engine, a VM is networked service that simulates the features of a computer" -> according to wikipedia, the word "simulate" does not reflect what happens, it has to be "virtualizes", so this is wrong. The other two options are bogus.
+Good course.Unfortunately a lot of the content at the beginning overlaps with the first course (Google Cloud Platform Fundamentals: Core Infrastructure) in this specialization (Architecting with Google Cloud Platform).Further the sometimes very short video clips (seconds) are annoying and break my learning workflow, I prefer a less 'chopped' up content.Overall good course, learned quite a bit of concepts.
+Too many videos that were too short.  Some of this was the disjointed nature between lecture presenter and lab presenter.  Both would give a 12-14 second video setting up the lab.  Not long enough to get used to what the speaker was saying, or really absorb the 3-4 seconds of actual information they were trying to convey.  I would recommend you just drop the lab presenter's videos entirely.
+Awesome learning experience of diving and learning to swim in GCP ocean. Labs are well written and well thought except GCP cloud shell takes hell lot of time in connecting your GCE instance. Overall I highly recommend this course to anyone who would like to step inside a world of google cloud computing. Happy Learning and Thank you Coursera for wonderful video and labs.
+This course is pretty good if you are interested in the Networking perspective of things in GCP. Though a number of things are a recap from the Fundamentals part, however, I believe that the hands-on labs provide a much thorough practice and understanding of a number of functions/features. I thought it was great. Thank you! Best regards, Donat.
+I like the course and it has good potential.  However, comparing to the Course 1 ( GCP fundamentals:Core Infrastructure), it seems this course is still in a development stage because there are still quite a few improvements needed.   For example, not supplemental links, Interactive transcript mismatched the video content...etc.
+Well-prepared course delivery and material. Very clear explanation of concepts by the instructor. The only reason I didn't provide 5-star is because many of the contents are out of date. I understand that retaking the video might be a huge effort, but I suggest to provide at least a brief update as separate notes in the course.
+I liked the content and the amount of practice in this course. I didn't like the time restrictions for the labs, they are sometimes short. I suggest an extend time button for extra 15 minutes. I also notice some small errors on the lab. The side bar navigation it doesn't keep an indentation, it could be another improve on that.
+For Foundation course, there could have ben more Demo's instead of just pointing the candidates to do labs on their own. There are no tips and tricks or real world examples topics when explaining something. Course becomes very dry and makes it very difficult to understand considering someone is learning for the first time.
+i had to repeat several labs and lessons multiple times because the completion is not registered. Weird thing after repeating and tagged completed, after a while several of the lessons and labs which previously tagged completed become incomplete and thus i had to repeat them several times.
+The course is very informative, and I would definitely recommend it to a friend. Alas there are irritating glitches in the platform, which causes loss of the lab progress, so eventually you may have to complete lab twice to make them count in the course grades.
+The learning objective about the use of labels to allow access between instances needs some clarity and to stand out more during the video presentation.  I was lost at the quiz time for this questions whereas the other questions I could recall from the video.
+Provide a good understanding of GCP infrastructure basics through short video lectures and lab exercise. The lab exercises takes some time to get used to and at times, you get anxious because the timer is counting down and you are yet to complete your lab.
+For the most part he course is great. There are however some small updates needed to the location of items (Firewall rules) and at times the course feels a bit superficial. That said this is a great intro course and I would highly recommend it!
+Wish the videos are stringed together in topics instead of having one video per slide or intro. The cooldown timer is pretty annoying in breaking my concentration in learning the material. Also some explanation in voice are long winded.
+Very useful course, but it could have been a bit more detailed by providing more advanced information. Nevertheless, it provided a useful explanation and examples that helped me understand how to manage networking and VMs in GCP.
+It was good hands on experience. Got a good exposure to GCP. I suggest if materials can be provided for further study in future. Video often too fast moving, if the instructor slows  down while explaining that will be too good.
+Good. Would have loved to see more tooling and management with gsutil and gcloud. Very good pointing out caveats, but I think a few points were glossed over, such as the zone dependency of inferred instance discounting.
+Good Introduction to GCP and course served its purpose to get in to the required nomenclature. Left scroll bar needs to be adjusted, hard to scroll and see the vedio at the same time. and lab time can be little longer.
+This course is an excellent start for the people who want to step in the Cloud Domain. I learned a lot. Labs are designed in a very good way and give an experience like working in real-world which is a valuable thing.
+Good introductory course, In my opinion the first labs are not really necessary as the concepts are used across the other labs. An the last lab, "Minecraft server" loses focus of the concepts of GCP a little bit.
+Nice Course, but could be better by showing VM Migration, Start-Up Scripts with VM boot and Application Upgrade Example on VM with BLUE/GREEN or Zero Downtime Approach.Thanks for all the wonderful knowledge.
+My only complaint involves some technical glitches with the labs, which ended up slowing me down as I had to work around issues in some labs.   But overall, the material is well presented and easy to follow.
+Some instructions are not accurate, it might create confussion, take a look at the last exercise, you need to specify sudo to run the commands instead of just copy and paste the commands as it said
+It would be helpful to have slides downloads as it was done in the GCP Cloud Fundamentals course.Labs are well organized and helpful in getting hands on experience with explained concepts.
+Some things left unclear such as warnings from gcloud about parallelizing disk operations, and the use of a flag on an SSD persistent disk that the mount manual says has a performance hit.
+During lab exercise, VM instances were not getting created for different regions. If the networking chapter could have explained little more detail it would have helped to understand.
+Great introduction to the basics of Google Cloud: VMs and Networks. There are a few hard-to-follow Labs here and there, but all in all I learned a lot, and the experience was good.
+This was a more in depth course for network topologies and vm creation. It is strange that this course came after the first course, where some of the topics were also covered.
+There are many discrepancies of items naming in the course and in real cloud console. this might be due to course a little bit not up to date with recent changes in console.
+Some of the quick labs were too short and didn't feel very satisfactory but everything came together in the minecraft server set-up. That was very satisfying and hands on.
+Pretty good walkthrough of web interface to google services. Would have benefitted greatly from:more use of REST api and gcloud cli. more rigorous and frequent quizzes.
+There is huge problem with LAB's and checking my progress via script/program. I had to pass LAB networking 3 times because the check script was not working properly.
+VMs constitute a fundamental asset of GCP. This course allows you to grab the main concepts on how to create and customize them in order to fit your business needs.
+Nice Course to get started with Compute Engine and its functionalities, as this provides a good overview of the Compute engine Infrastructure provided by GCP.
+A good overall introduction to GCP. Some rough edges with the content being new-ish but well done overall. The labs are good and useful for anyone new to GCP.
+This course is very useful especially for the beginners and the la session is designed in such a way to explain the basics of cloud in the most easiest way.
+Much like the GCP Foundation: Core Infrastructure course, slightly more advanced, this course gave a good overview and opportunity to touch and feel GCP.
+This Course was Excellent. I learnt a lot about how Google Cloud Platform works and how to create various VM instances, VPC networks, Firewalls etc.
+It is now clear to me that the prerequisites for this course is that you have experience using Linux command line to interact with an Linux type OS.
+the compute engine part is very good and well explained. but the VPC part especially in cloud NAT and iap part has very short and poor explanation
+Good mix of interactive videos, presentations, demos and labs. Especially suited for those interested in how to implement networks and VMs on GCP.
+This course was great overall, it had some many great content, only last lab was freezing and some details were missing but overall love it 4/5
+after one course, i still felt lost. But I continue through course 2, its sinking in. I am sure course three will give me more confidence.
+This course only contains basic of Compute Engine. I have experience with compute engine over 1 year, this course still very easy for me.
+Sometimes course intructions were not so clear, first two labs I didn't see instructions and start lab without know what I will be doing.
+Very great ! It covered a deploying a virtual machines and bastion host.Knowing about network policies and firewall rules ...
+Really good course. It would be great if some gcloud commands and automation topics can also be included as a bonus lecture.
+Good overview but some issues with labs were making me have to retake one lab 3 times before it showed up as completed.
+Course was very good. It gives better understanding on various components line Virtual networks, Virtual instances etc.
+Real minecraft server deployment was pretty nifty. I almost went and installed it just so I could connect and test it.
+Some of the labs were out of date. Other than that, great introduction Liked networking concepts, which are new to me
+Labs are easy, concepts in IAM are not well explained. I would love to have the slides vs downloading the whole video
+This course was very precise and this instructor is my favorite one of this series, he really knows what he's doing.
+make sure the module contain proper elaboration of abbrevated terms...and make the content short and informative..
+The course is full of information, tips, and shortcut. The labs, are one of the most amazing part of this course.
+It was a wonderful learning in this course. Also the hand-on in lab made the concepts clear. Still more to learn.
+A good insight into how it works and how to set things up. I will be cracking on with the next course shortly.
+Course is great, but iInstructors pronunciation could be better. Also there are a lot of typos in transcripts.
+Last lab had BUg on evalutaion, and I made I 5 times until discover It just disn't give me the right points.
+There was some good points to his course. Still a little generic but helpful. Don't know if it is worth $50.
+Some of the lab instructions need to be updated. The Flow of the course could also benefit from few changes
+Lab reviews are a bit redundant. Some courses they put them first, in this one they put them after the lab.
+Good overview and good hands on labs and references.  The links were very good particularly in networking.
+I think have a lot of essencial resources to learn in a good way but some of the material are really obius
+Great course. But audio level is too low in some video. And there is no pdf of the slide deck to download.
+Some good basics - however not quite familiar and easy to grasp for people with virtualization experience
+Good introduction to GCP. Some UI discrepancies between instructions and live in GCP, but nothing major.
+nicely designed with practical sessions. i may have to go through this again to write exam but its ok.
+I'd rate it higher but I have completed all courses and three of them are not saving result correctly.
+The UI is too complex, and sometimes confusing. A lot of things << >> or clicks(disks, networking).
+Very complete and full of tricks to get the whole juice to the IaaS part in Google Cloud Platform.
+I'm missing some more quizzes especially during the topics with more content.Practices are great.
+Good course, but the sections on VMs are very similar to the first course in this certification.
+great, in the lab some additional hands-on can be provided which we can practice offline too.
+It's fine, but you should have some kind of summary that you can then check the commands used
+Very well done and important course to understand the basics of a GCP infrastructure set up.
+This course was an easy material with a good plan and structure. Now I feel very confident.
+Great course, but some of the labs timing need to be increased especially the networking
+Really good course, I wish I could download the labs to run through again during study.
+This course provides a good fundamental overview of using the Console and Cloud Shell.
+good course for high level overview, reasonable technical detail in a short timeframe.
+For Bastion section , the firewall needs to be updated which is missing in the steps
+Everything was just amazing. Just the last part a little too complex to comprehend.
+GCP have a error en region  europe-west2 zone c, This error, I not finish the lab
+Audio should be equalized and standardized because some lessons sound pretty low
+I learnt a lot and was able to do in-depth hands-on labs in a short time frame.
+a good platform to do most of the different different things in a single place
+It is really good in subjects like VPC networks. I feel that I learned a lot
+This was good good to have pdf notes with screen shots of lab on completion
+lab scoring system doesn't always work but the course content was awesome!
+i have good understanding of compute engine, VM and VPC after this course
+The videos have a lot of information but we need more interactive content
+Essential and good overall coverage of what virtual machines are in GCP
+That's was cool but, sometime , qwiklabs are not so fun ! Great btw :)
+Some of the instructions are outdated - but otherwise a great course.
+Helpful to understand the basics, a little too repetitive on the labs
+Some item in the console have been moved making it confusing at times
+This course for deep understanding on GCP infrastructure foundation.
+hope I can get enough informations to pass the final exam for Google
+Along with HOL's, should have provided assignments for evaluation.
+i think this is a integraty course to learn of basic of VM ans VPC
+Very google centric and very technical. However, I learned a lot.
+More practical exercises on Networking part would have been nice.
+Helps in getting a better understanding of google cloud platform.
+The fact you get a temp account to use to run the labs is - nice.
+The course could have covered some topics in more detailed manner
+Good Course gives intro on VPC Networking and Compute Instances
+Very useful course to understand how GCP work in Network and VM
+During the course, they mentioned some link which is not found
+Course was awesome and interesting... i have learned so much..
+The course is good but I had problem with LAB. But right is ok
+I found very useful all the networking part with all its labs.
+Good course. Learned a bit more about GCP and its capabilties.
+To much command and command line setup for architecture level
+Great course! Some of the labs experince should be reviewed.
+THANK YOU GOOGLE FOR OFFERING SUCH A NICE COURSES FOR US...
+Google Cloud is the best Open Source Company in my opinion!
+In the final lab, where to find "Networking" was not clear.
+nice course ,with well explained topics  by the lecturers.
+Would prefer to have written notes also rather than video.
+Great introduction and I really enjoyed the hands on labs!
+Labs are getting bit difficult to understan for practice.
+Satisfied with this course. But Content should be more .
+some of the modules could be reordered but overall good
+good course, using the qwiklabs was a little confusing.
+Very good course for starting to get in touch with GCP
+I could not complete a lab, did not compute the points
+Very easy and simple , the best is the lab enviroment.
+Good Content with respect to Core Foundation Services
+It's a good course to obtain a great overview og GCE
+Very Nice hands-on Experiences and more informative
+Excellent course to get started with the technology
+The course content is spearated in tiny fragments.
+Some of the LAB exercises didn't work as expected.
+Very hands on course material and very useful !!!
+Labs were comprehensive. Helped understand a lot.
+I think I would have like more technical details.
+Nice to get started and easy to have handson.. !!
+the class is good, but many subtitles are wrong.
+Very good course practice and good information
+Great content to understand the core services.
+very good hands on experience on google cloud
+There are some subtitles not match the video.
+Nice course, more explanation would be better
+had a good experience dealing with the tasks
+Good course, good explanations and more labs
+Good informative with exercises to work on.
+I think the course need more technical info
+Good Class. I am proud to have completed.
+Very Nicely explain with help of qwiklabs
+Not able to relate with real life example
+i have learned a lot of information and
+interesting as well as a bit confusing.
+good start to understand GCP in overall
+Good course, but too many short videos.
+excellent and good hands on experience
+Recommended course.Happy with the Labs
+Looks like too small, easy and simple.
+Not enough information about "routes"
+some typos here and there on the labs
+Great! Learn the basic and hands-on.
+great course ,have deep CLI command
+The course was really well designed
+It's a nice course,learned so much.
+this a part of great basic course
+some of the labs didn't work well
+Good details about GCP foundation
+Really good course with hands-on
+minor problems in the last lab
+A good, well rounded course.
+it was very nice experience
+A good foundation course!
+basic but useful stuff!!!
+great course by coursera
+It's a good introduction
+pretty basic but fair
+Detailed course
+this was tough.
+Verypractical
+good session
+Thanks ,
+This was an excellent course that gave insight into the most basic GCP IaaS products such as VPCs and Compute Engine VMs. It thoroughly explained their usage and the labs helped with interesting practical applications to familiarize us with the platform.
+Hands-on labs are great! Overall gives a good understanding how things can be setup. Good course if you would like to brush-up on things. Some small updates are needed as UI has changed.
+Content is good, a great intro to get started with GCP, need some minor updates on content and labs to be aligned with latest GCP,, but nothing you shouldn't be able to figure out.
+Exploring GCP concepts and services gave me new perspectives in managing and using servers. Cloud computing is the next best way to cater the growing demand of the Software Industry and this course gave me a good understanding about firewalls, networks, subnets, routes, and vms (disks, scripts) etc. The course is well balanced for a beginner in GCP and the knowledge is sufficient to peruse our own research of the services explained here. One this that i should point out is the lack of MCQs in the course, In the Google Cloud Platform: Core services, there are extensive amount of questions available through out the course and helped me to re-evaluate the knowledge i abstracted but in this course, only 2 MCQ sessions existed. I'm suggesting at least increase it to 4 because more deep diving in services needs extensive evaluations of concepts. I hope that this suggestion will be considered in next session of this course. Thank you Google, QwikLab and Coursera ...
+Unlike Core Infrastructure, which is more like a good overview, this 
+course is designed so that you can feel the differences in details. The 
+thing I liked most is the structure of the labs: they allow you to 
+understand the platform step by step as well as encouraging to play with
+ it by giving extra time (they all can be restarted, I know, but there 
+it is as a default option). The other point I wanted to highlight is about quizes: though they do not 
+have many questions, I believe they incorporate the key points which 
+were sufficient to understand the module.Last but not least, I really liked Philipp as a lector. Actually, there are two recommendations I would like to give: 1) giving pauses for the audience to examine complicated slides (even though pauses are always available); 2) hovering the elements on slides which are currently being discussed.Thank you!
+I think the course is great, but some of the GCP interface has changed since the labs were made, making it difficult in certain cases to follow them and get the results that you want.  Having said that, one should realize that GCP is constantly changing, innovating, and coming out with better ways of doing things, so keeping the course current becomes rather difficult.  The advantage is that one has to actually understand what they are trying to achieve and "poke" around the interface to achieve the required result - which in the end teaches you more than simply following instructions and exploring the platform a bit more.  I would encourage the instructors to give a little more time for the labs due to inconsistencies between instructions and GCP UI.  Thank you!
+The course is must for understanding various benefits Google Compute Engine provides over on-prem solutions and how to manage different VM instances. The lab sessions are the most important and useful part of this course. Not to mention the instructors are really well versed and explain complex concepts using simple analogies and diagrams. Thanks to the instructors, Google and Coursera for this course.
+Learning about Classless Inter-Domain Routing, Bastion Hosting; makes one realize there's more to the cloud than someone's computer. You need to understand how virtual machines operate, their costs, the types of required boot disks and memory while still being able to access valuable info through StackDriver and Logging on your GCP; it's more than just computing it's an art.
+this is so far, out of all the courses i took. Right on par with the machine learning course by andrew ng. This has a good mix of lab and theory, which is unlike the prerequisite for this course, which is quite useless if you ask me. And what is even better is the walkthrough for the labs, it helped me alot in understanding the steps and logic for each item we want to do
+As an Undergraduate guy. I am very passionate learner, who only want to keep himself different from his batch mates by learning new technologies. Since the day 1, I have learnt a lot with this course regarding Virtual Machines. How to make your server live and make projects look cool. I am really happy with course. Thank you Google Cloud <3
+Everything is great. You should feel powerful and moderately competent with GCP once you've finished this course.It's up to you to make the most of it. The instructors are good, the quizzes are difficult (making sure you know what you're talking about) and the depth is adequate, especially considering the breadth of material covered.
+Thank you so much for this second course of the series Cloud Arquitecture with GCP. I learned a lot and I will certainly re-study and study again each one of the videolectures and qwiklabs of this course, because all of their interactivity, useful and practical content worth it. Thanks again. Regards, Alex de Fuentes.
+I learned soooo much about GCP and about working in the Cloud. I like that Google makes a lot of knowledge and information freely available for those looking to learn on their own. I recommend that new comers get a Qwiklab subscription after completing this course, to continuing practicing and growing in GCP!
+I loved this course, but i found that the guide is incomplete when trying to create bucket for backup. We have to reauthenticate one more time in commandline by using the command "gcloud auth login" before execute the command "gsutil mb gs://$YOUR_BUCKET_NAME-minecraft-backup" to create the bucket
+Very well created course for GCP, suits generally anyone that has interest with and wanted to explore Google Cloud Platform.Content were built in smaller bits, helps for easier digestion and understanding.The qwiklab sessions are great as well, to give a hands on for the related course content.
+It was a wonderful learning experience. I am working in DevOps since last couple of years on Azure and Openstack environments. This course give me a very good understanding about Google cloud. Labs are quiz are very good, some are really very tough which will really check your knowledge.
+The course was informative and useful. Few suggestions - When access to Qwiklabs is introduced in first last lab, flow can be streamlined and bit more detail can be provided. As many have said the videos are too short. Some of them can be combined and for some, more details can be added
+I think this course does justice as an introduction to the many options that are available when using GCP to architect your applications. I will most probably have to revisit it because it contains a lot of information but fortunately at a high enough level to get through in two weeks
+Great Course, ideally, i would suggest this as starting point for completing this specialisation (Architecting with GCP)  as it goes deeper into each concept very well and labs and examples are so well documented and explained that you truly get feel of setting it up in real world.
+I have learned a lot of new things from this lab. this course has everything you need to know about cloud infrastructure. My plan to choose Cloud computing as career is turning out to be a very good choice. its interesting and also very informative that how GCP actually works.
+Great introduction for those that want to get serious about Cloud computing with Google. If you are a network engineer or a technician that used to setup physical servers for companies, this can be done in 1-2 days, grasping the equivalent services to create similar on GCP.
+This was well presented with good labs. If you already have a lot of AWS experience, this is a little slow because the concepts are very similar but there are some really important differences that you can miss if you aren't paying attention (networking in particular).
+Excellent course to understand the basics of compute engine various options available and impact on cost due to various choices. Network subnets topics are bit complex but with labs those are easy to understand to build base for further study into this area
+Training videos are brilliant and made it easy to comprehend difficult theories which otherwise would be difficult to understand. And with the help of hands on labs by QwikLabs, I was able to get familiar with various modes of achieving objectives in GCP.
+great course and great start to learn more about google cloud serviceshelped me better understand networking aspects with in gcloudsetting up of virtual machineshow to restrict vm from internet accessset up of bastion hostdisks, set up of persistent disks
+This is an essential course on GCP. This course shows all the available features of services such as Compute Engine, Networking in the Cloud (Networks, Subnets, Firewalls, Routes) , Load Balancers and Backend services. Highly recommended.
+is a very interesting travel for the basics resources that be a part of a GCP project Like a VPC, Cloud Route, Cloud Firewall Rules, use of internal google networks to access google services, disks, vCPUs, and so on.
+A GREAT COURSE.STILL A SUGGESTION MIGHT BE IS, IT'S BETTER TO EXPLAIN EACH OPERATION BEFORE DOING IT IN LAB INSTEAD OF BLINDLY DOING WITHOUT KNOWING WHAT WE ARE ACTUALLY DOING AT TIMES(NOT APPLICABLE IN ALL CASES)
+I liked this course a lot, it introduces the framework of the Google Machine Learning and Data processing in a fairly detailed way. As a Geographic information Science SME, I feel Lak's experience is encouraging.
+This is a really good one. I'd highly recommend it. It should actually be before the Core Infra course in my opinion.p.s. the text box should have left-aligned text. middle-aligned looks funny when I type.
+Course content is really good and the instructions are clear and easy to understand. The video quality could be made up to 1080p because for the videos which has the ssh terminal window, its little blurry.
+Course gave me insight about various aspects of compute engines and how it can be tailored to the business requirements.  It will help me in designing/architecting the infrastructure for my next project.
+Like the name, essential intro to the world of GCP. It offers a good and light view of many topics that you'll encounter when using this cloud enviroment. It can be completed on a couple days with ease.
+Thanks to Google and its team for producing such a wonderful training 
+content. It was a breeze to know about GCP and core services even for a 
+guy like me how has not been hands-on for over 20 years.
+A must do for anyone new to GCP. It provides a strong foundation of the Networking concepts used in GCP which is fundamental to doing anything here. Also covered are the VMs in fair bit of detail.
+This is an Awesome Course where I got to learn a lot about the VM Instance and its usage and the Storage Bucket concepts. And in specific, the Lab for deploying a Minecraft server was super cool.
+Very illustrative course and labs are created with Ample amount of practice time to understand the subject effectively. I loved to worked on the labs and understand the concept in this course.
+Amazing content, loved the links and resources provided. You could give more practical applications with every topic covered as it would make the content more appeasing to the learner. Cheers.
+It was really a good course on the cloud infrastruture :foundation.It really builds a lot of interest in gaining more knowledge on the upcoming courses. Hope to have more joyful sessions.
+The course is well developed and presented.  The content and labs have just the right amount of detail integrating a high level and deep dive into the nuts and bolts.  Thank you.
+It's quite interesting having completed this course, and at the same time, gone over exam prep for LPIC Level 1.  It's as if I were time slipping about 5 years, back and forth.
+It was pleasure in learning with practical experiments  and demo videos. Happy to learn more and practice a lot . excellent demo videos and steps to complete the practice lab.
+easy and enjoyable.  A nice course with few inconsistencies.  As of Sept 2019, it is slightly outdated.  Notably, it lacks mention of Cloud Run as well as new storage options.
+Honestly this is excellent presentation and helped lot. Even minor tips are cool (like using commandline option from gui etc) Thanks again  for this great tutorial. - Cheers.
+A good course that was steady paced and didn't overload you with too much information. The final lab had some issues and didn't seem to score correctly but was easily sorted.
+Fantastic....have to have a lot of patience to work on practical lab sessions.... very interesting... able to hone our practical skills... congrats to you and your team....
+Nice course content with interactive lab sessions. It's Helps a lot for beginners who want to take GCP as a career option. A special thanks to quick labs and coursera team.
+The only problem is the test 2 failed creating windows vm: https://www.coursera.org/learn/gcp-infrastructure-foundation/discussions/weeks/1/threads/z5Cc7n6CEemiuA5t4WqocA
+There is some problem for doing the lab with the temp google account. Google will ask for verification on the login by SMS or phone call. It blocks us from using the lab.
+Fantastic guided course , so many things and so much content .If someone spent time to grasp all the content , he / she will surely play with Google Cloud infrastructure
+Nice, here we have learnt the many things as like that how to manger the VPC Networks , How to firewallls connect , add the vpc and so many things .That's nice for us !
+Graded practical sessions are very good but in videos gives us step by step  procedure to create..supporting team helped me alot in graded activities.. Thank you all..
+Course was fine. Some of tools aren't working. Sudo text editor in last lab would not let me exit. It made me not get full score at end as I was stuck from  there on.
+Really good and in depth information. I have been working for some time with GCP, but this highlighted some of the real benefits like the flexibility of the platform!
+The content is well organized. I should tell that the "Google Cloud Platform Fundamentals: Core Infrastructure" course was very helpful in doing this course better.
+Only I wished if the video quality of practical labs can improve.. its literally paining my eyes throughout the course. By any chance its the best course, loved it.
+It's really a great and wonderful experience. Qwiklabs are really easy and awesome. I really looking for more to explore in GCP. Looking forward in Google I/O 2020
+I loved every single lab. The videos gave a step-by-step walkthrough for everything. Halfway through the first week and I didn't feel like a total novice no more.
+A great into the basics of GCP, if you have any kind of sys-admin or DevOps background you should find all the concepts fairly easy to pick up and quite familiar.
+I kind of like the format of the previous course better because I could follow along with the lab while watching the video. The reverse order was kind of trippy.
+Great course and the instructors are covered very important topics in this course. Also, the Quicklab platform is great place to practice the interactive labs.
+Very quick way to get the Networking concepts given if you are coming from AWS background. Wish more scenarios / Quiz questions could be included. Cheers !
+I really enjoyed this course. it makes understanding of the core Compute engine so easy and provides additional and more than enough lab time to practise.
+This course gave me the basic skills of creating and configuring Virtual Machines and a Virtual Network also introduced me to the GCP Cloud Shell console.
+Very good course. Love the small clips conveying a lot of information . Labs too are very helpful. I hope there is also a book available for certification
+This course give a fair idea about VM Instances and configuring and managing it. The hands on lab was good enough to give you a clear idea about basics.
+I am totally impressed by this labs. Initially i was very much disappointed , but started liking the courses as I am proceeded deeper into the course.
+Good explanation of Compute  Engine and Virtual Networking on Google Cloud Platform. The labs are helpful also as it provides hands on practice time.
+Great course for beginners...though one of the labs is a little tough unless you have some experience of Nano and a reasonable understanding of Linux
+Great course! Teaches everything from scratch. Good labs allow for hands on practice and implementation of the information provided in the lectures.
+Excellent course, what I really like from these courses are the labs. I really appreciate that the costs of the labs are included in the course fee.
+Contains some really useful insights and techniques for creating, configuring and managing resources on Google Cloud Platform. All real-world stuff.
+I think the volume of the videos is too low, so it is difficult to hear when you are in the public transport that is my main space to whatch them
+Simple but it covered a lot of topics I have a few notes of things I want to dig into more and I've gotten enough "know-how" to explore on my own
+Excellent course, you will learn all about gcp infrastructure regarding compute engine (virtual machines) and virtual networking. Very well made
+Great training, but I think that I should be able to go back and watch it again or at least keep the lab material to practice on my own account.
+You provide a perfect guideline in the video lectures and also in the lab instructions. It helps us a lot. Thank you. I enjoyed learning here.
+Good presentation of information matched with well-written hands-on Qwiklabs that allowed us to apply the concepts discussed in the course.
+Great Course.  I was able to create a minecraft server with automated backups and a startup/shutdown script.  Easy to understand and setup.
+It was a good experience learning about Essential Cloud Infrastructure Foundation. The Labs really helps to understand the things better.
+As a foundational course it provides a lot of key and mid-advanced concepts, labs are the key to get hands on and gain the understanding.
+This LAB is really essential and it made me more powerful to operate VM's without fear and easily manageable steps and self-explanatory
+I enjoyed the course very much. I have improved my understanding and skills in handling Google Cloud Infrastructure.Thanks to the Team!
+Great Course! This course includes fundamental labs to understand instances, virtual machines, and storage in the Google Cloud Platform
+This was a great next-level course after the initial GCP Fundamentals - very educational, and video content was very clearly explained
+great intro/foundation course - covering range of infra services and highlighting key differences with other hyperscale public clouds
+Thanks Brian for a excellent a super pratical course. Really good complemente between pratice and videos review. Always learnd more,
+It was really a great course to understand the foundation of the core GCP infrastructure. The labs were more advanced and great too.
+Lots of the nitty gritty on the slides are good to have rather than wading through docs (even though I'm sure I will still do that.)
+Video lectures are very god. Would recommend getting familiar with the Linux command line in order to make best use of this course.
+Very theoretical and practical. The curators gave an in-depth understanding about some GCP services which you may not found online.
+Most part of the session's were great except of few where the recommended steps didn't work as expected and i had to redo the lab.
+This Course give me an understanding about infrastructure. You will know about Virtual machine and virtual network in Google Cloud
+excellent course covers the basis, it has lots of labs which are not overwhelming as these build up in complexity fairly smoothly.
+Very good course, great guidance and copy and paste prompts makes it easier to navigate through SSH to achieve the acquired tasks
+wonderfully planned course!  I am strongly recommending this to whole of my dev community and making sure my teams are doing this
+Explanations are very meaningful. The demo during the lectures help a lot to understand the concepts and to get familiar to them.
+Because i'm new to cloud computing without working experience, it was quite a hard nut to crack. However, it was well delivered.
+Excellent coverage of basic concept and step by step labs to execute the commands and really understand the concepts in details.
+Great content around Google Cloud Platform, including Compute (VM Instances), Storage, and Networking. The labs were very useful
+the script in the lab is difficult to read, however, from highly perspective, the lab is very useful to understand this module
+It is very helpful to understand the Google Cloud Infrastructure foundation on Compute Engine,Virtual Private Network concepts
+Very very informative module.. now I can easily create VMs and can define VPCs. Thanks a lot for such fabulous training path !
+Very well explained and lab exercises are good. Explanation is provided appropriately in the labs. Overall enjoyed learning.
+Well paced, thoughtful labs, and review questions.  Each module built upon themselves in a very well organized instructions.
+It was very informative and practical oriented course. Got very familiar with  the GCP Console as well as GCP command line.
+Review videos about labs should be more specific in certain subjects and not only provide a step by step video of the lab.
+Excellent course to start with, step by step videos with handson lab. great learning experienceThanks Google and Coursera.
+The course was vary helpful in understanding the google cloud platform services more and the instructors were really good
+This was a really great course and learned a great deal about creating virtual machines instances and working with them.
+This is the future - not this specific module but where this is going.... serverless with a infinite marketplace of FaaS
+Good to see a real world example in the lab with so many elements coming together to deploy a minecraft server instance.
+Great Course, Nice introduction to Networking and Compute Virtual Machine Services. A Step By Step learning experience.
+Great course. Learnt a lot of interesting technologies in cloud ! The networking and storage part is very interesting !
+I think this should be taken before somewhere between or before Google Cloud Platform Fundamentals: Core Infrastructure
+Concepts are well explained and labs incorporate additional Google resources that make replicate real world scenarios.
+Quick and easy to follow, and the multiple attempts for the labs assist in reinforcing knowledge of the course taker.
+Very Good Virtual LAB based training which covered almost all the functionalities and feels like real time training.
+Great overview of essential concepts. The labs really help enforce the concepts through some real-life applications.
+good foundational course to familiarize yourself with the GCP console and the virtual networking in the google cloud
+Although it has a vast overlap with my previous course it offered generous lab-time to experiment with GCP services
+Amazing course and it explained in detailed about GCP infrastructure and how that works with hands on Lab sessions.
+In this course Essential cloud infrastructure   course i learn more information  & how to implement in google cloud
+Great. Maybe because I'm a certified VMware arhitect, but this course took me much shorter than the projected date.
+Minecraft section relied to heavily on code that was unfamiliar but had copy/paste directions that were reasonable.
+Excellent labs and course. I've enjoyed in particular the lab in second week setting the minecraft server in a VM.
+One should definitely take this course in order to get deep knowledge of Infrastructure and Google Compute Engine.
+personally i love with this course, i have a new insight especially about networking and virtual machine on cloud
+The course was easy to understand. Very easily explained and easy to connect the dots. Thank you for this course.
+Essential Cloud Infrastructure Foundation course has helped me understand GCP infrastructure very well.Thank you.
+It's great that there are some hands-on labs for learners, which lets us much easier to understand the concepts.
+time should given more or else there should be save or sumbit option so that we can continue from  where we leve
+Great course.  Appeared to be redundant/easy at first, but there are some great tips and tricks in the content.
+Really great introduction course and I love that I no longer need to create my own GCP account to run the labs.
+Lecturer was awesome! He was on point and made difficult concepts more easily understandable and fun to learn.
+I have learned GCP basics and Cloud infrastructure services  like IAM, VM, Storage and VPC Resoucre monitoring
+Very nicely explained. Liked the concept of QwikLabs too. Excellent training content and trainers. Thank You !
+Very well designed and organized course material which helps with better understanding and hand-on practices.
+Awesome course to review in deep the compute engine options for virtual machines, networking, firewall rules.
+Great course. It helped me build upon the knowledge obtained in the cloud infrastructure foundations course.
+Very good course. The labs can be improved a bit by not giving ALL the commands. Otherwise, well explained
+Thanks for Google and Coursera. Let me know how to create/manage compute engine and how to plan networking
+This Course is just awesome . It provides good knowledge and hands on VPC Networking and Compute Machines.
+Good intro, covered key topics and provided good, detailed info. Looking forward to completing the series.
+Very good course and very well planned. It covered all aspects that I wanted to see in a course like this.
+Good Course from google for learning the fundamentals of the GCP Infrastructure and networking inside it.
+Course content is pretty good, in few of videos screen visibility of GCP console could be improved more.
+As a newcomer to cloud computing , the content and instructions were well structured and well delivered.
+Learned tons of new concepts that I didn't know of before and got an opportunity to try them out in GCP.
+This course allowed to gain substantial knowledge with practical experience on setting up vpc, and vm's
+Thorough and more technical course. Really liked it, both for its contents, approach and labs proposed.
+Excelent material and very good explanations. Thank's a lot to all instructors!!!Regards,Dorel Ciobanu
+Quite simple to follow and provides good understanding of Google computing engine and Storage services
+This is really great course for beginners which explains lots of thing such as VPC,Compute Engine etc.
+The thing I liked the most of this course was to have some real world scenarios for the hands on labs.
+It is very well designed course. The modules are short and informative, they are perfect to get going
+Perfectly designed course with real time practical example. Superb training material and assignments.
+it was a great learning experience so far. the course content is good and instructor are also good...
+Loads of very valuable and precise information. Knowledge directly applicable in real-life use cases.
+Great way to get familiar with the way of working of Google's Networking and Compute Engine Services
+Great lecture and attached materials. Just wish there could be more exercises to test understanding.
+Kept engaged through the short sessions... would appreciate a bit of more Windows based examples...
+Great help to get familiar to GCP, and this course will let you know more about VM and networking.
+Excellent course. specially the review chapters. Many thanks to Philipp and GCP team! Best wishes!
+Excelent course to learn core concepts in Google Cloud such as Virtual Machines, Storage and more.
+It is a very good course. The teaching and labs are both excellent. I could understand everything.
+The last lab had some errors, code to startup screen didn't work, but overall the course was great
+It was a good course combining well organized theory and labs to understand the concept very well.
+I really enjoyed the labs in this class.  I found the real world-ish examples to be very usefull.
+Very helpfull fore those who want to explore Google GCP by practical exercises. Trully ecomended.
+Fundamental beginner level explanations especially good with qwik labs and Thanks to Instructors.
+This is an awesome course for anyone wanting to get a better understanding of the basics of GCP.
+Very well put-together course. Fast, hands-on lessons, with easy to follow instructions! Thanks!
+Very valuable course. Helps in learning a lot of interesting knowledge about GCP infrastructure.
+I love the labs they are very helpful when understanding the networking aspect of the GCP cloud.
+This was a great intro to networking and also some of the nuances of working with GCE Instances.
+Good hands-on practice makes the learned material permanent in memory with solid understanding.
+Great fundmental course for leraning GCP. VPC is really useful subject for a beginning learner.
+Very Good course. Got an overall insight in VM creation and how resources are allocated in GCP.
+very good course for those who are interested in GCP and basic operations on GCP Compute Engine
+The way the course is pack and the density is awesome. Good job Coursera , Google and qwiklabs
+I like the lab that exam, how to create a minecraft server. This is truly inspired me. Thanks.
+great course to step in to Essential Cloud Infrastructure, Practical lab experience is great.
+Very nicely designed with lots of labs, that's the best part. Thanks Google for the training.
+The hands-on labs were great & the foundational, granular knowledge is key for further study.
+I recommand this course for very body wants to learn the basic of cloud google infrastructure
+Great! I can understand about VPC and related cloud engineering using Compute Engine easily.
+Excellent resource for learning GCP concepts and getting hands-on experience from Qwiklabs.
+I learned a lot. More importantly, I gained in knowledge about Google cloud infrastructure.
+good concepts and give you good knowledge on how GCP works and VPC, VMs, pricing, networks.
+Great expirience. The best courses i have taken. Kudos to the team that makes its possible.
+Awesome course. Love to learn from Googlers and yes it is a great experience to do hands-on
+Great learning experience with extensive hands-on lab with adequate guidance and examples.
+It has information very useful and starts giving you idea of what you will do. Good course
+great introductory course to Google Cloud. The instructor explains the concepts very well!
+A lot of new information for me but the training explains very well every step of the way.
+A great course that enhanced my fundamental knowledge and skills of several GCP services.
+Very Good experience for this course. Study material(Vedio ,text & lap) is quite enough .
+Great course, based on well-developed labs. Another gradual step towards mastering GCP!!!
+Excellent labs used to illustrate concepts and demonstrate various configuration options!
+This is a very good course. I learned lot of things through this. Thank you google cloud
+I would enjoy testing more examples but its a very good course once you get a hang of it
+smooth experience and to the point explanation. Labs are fully prepared. Very well done!
+This course give hands on experience which is invaluable to understanding how GCP works.
+Very Good learning about Google Cloud, Thanks to all Google team members to teach us. :)
+A great course, it was wonderful being able to configure and manipulate virtual machines
+Easy to comprehend and gets you going quickly. Nice trip towards platformeconomies.com!
+I absolutely loved the lab in which we created a Minecraft server. Absolutely amazing!
+Extremely useful course built step by step to easily built up your skill on VPC and VM
+Interesting course. I really really appreciate getting the access. i am very grateful.
+much better than the older version but I still think Doug is a great trainer.Thank you
+Very good content presented in this course that helped me to understand GCP Foundation
+Good initiative by Google Cloud and Cousera. Expecting more courses from Google Cloud.
+great base for someone who hasn't had any experience with cloud infrastructure before
+Thanks for the opportunity.  This is a great class and the labs are awesome about GCP
+Very good course, with very interesting examples to help understand all the concepts.
+A very good course. Shame about the labs - they are more like assignments, than labs.
+like the course, gave good insight in to how compute engine works and what it can do
+Good placew to start practical hands on lab work running VMs and connecting to them.
+Great Course. Indepth information about GCP services and Billing. Thank You so much.
+It's a practical material to have a brief understanding of the Google Cloud platform
+A deeper view of the platform and the services provided, with very interesting labs.
+A really interesting course where you will learn how to manage network and instances
+Superb cool, and the lab is awesome depth. looking for more course in the same line.
+Awesome way to be introduced to GCP core services, specially GCE. Labs are excellent
+A very good course for understanding networking and virtual machines for beginners.
+You really need to fix the labs being shown as not completed even though they were.
+Very Good course, but could not locate the study material PDFs for future reference
+I really enjoyed this course! It was very helpful in building up my GCP knowledge.
+Excellent understanding of the course with opportunity to do the hands on activity
+The course was very interactive and useful in understanding Goggle Cloud Platform.
+Very good course. It is very thorough and get the basics of compute & networking.
+Its very good course. It has combo of practical and Theory which makes it special
+It would be better to start the specialization with this course than previous one
+Great to learn GCP in short consumable bites, and the labs where actually useful.
+very useful course with lots of hands on to understand the environment in detail
+Great learning. Learnt a lot on compute engines, networking, storage/maintenance
+Hats off to Philipp Maier. You are really awesome and thank you for this course.
+Great course, but there is a lot of duplicated content with the previous course.
+little confusing at beginning but well all understand whats going on at the end
+Fantastic mix of covering content and hands-on labs to validate skills learned.
+good course to learn about fundamental ideas about GCP as foundation course. :)
+gained overall understanding of the different options and how they fit together
+Good Course with hands on that will really help while working on live projects
+Excellent teaching technique and also labs were explained very well. Thank You
+the lab is very convinent for me, thx so much. I will continue to next lession
+Great course.  Reinforces some of what was thrown at you in the introduction.
+Very good lectures and hands on using the labs. Enjoyed the learning process.
+Gives much better explanation of the networking than the Fundamentals course.
+Good labs for learning about setting up VMs and making modifications to them.
+It was a nice learning.. you can figure out the basic of GCP Infrastructure..
+Very precise & informative course. Enjoyed going through, especially labs...
+Good !!!Thanks for your effort to prepare this amazing course !Thanks a lot.
+Excellent Courses with very good in house lab facility. Thank you very much.
+very productive course and lab exercises really helps you to grasp knowledge
+from week 2 i learned so many things aout virtual machines and VM instances.
+Again it moves pretty fast, but a great course providing a thorough overview
+Contents are easy to understand and provides a good general knowledge of GCP
+Very Informative, and loved the labs! Really excited to explore more on GCP
+Labs are very useful in understanding the concepts from real world examples
+very good course and it has given me  knowledge on most options to explore
+excellently organised. More Questions on the module would have been better
+One of the best course attended on Coursera so far.. core to fundamentals.
+Excellent Course. Labs are very good. Very detailed and clear explanation.
+Great explanation and easy to understand. plus great hands on with qwiklab
+Super way to understand the crux of the GCP compute and network resources.
+Good material to understand many things that you will use in next modules.
+learnt a lot about GCP's Virtual Machines and Virtual Private Networking.
+Very fruitful course with hands-on lab exercise helps to recollect longer
+Fantastic course for a beginner, that gives a very good insight into GCP.
+The instructor did a wonderful job of explaining the concepts thoroughly.
+this course details the complicated cloud environment in  much simple way
+Amazing! I have learned a lot. Thank you guys for sharing your knowledge.
+Very good intro course where you get to practice with GCP Compute and VPC
+Module on GCP's Networking approach was excellent, and very foundational.
+I would recommend to anyone starting out with GCP to get a good grounding
+Pretty and easy understanding, I reaaly recomend this starting training.
+It's really amazing. Finally I can't understand many things about Cloud.
+it was a wonderful lab with lots of perspective learning targetthank you
+I am very Thankful for this course.I have leraned a lot from this course
+thank you, so I can have a new skill for working with a virtual machine.
+The coursera is benefit to everyone who want to upgrade their skills....
+Excellent introduction to server virtualization capabilities within GCP.
+Good review of the services and practical labs to bake in the knowledge.
+Great.  A little overlap with the fundamentals course. But good content.
+Excellent Course which provides insight into Virtual Machines and VPC's
+Great course, a lot of impressive learning opportunities and knowledge!
+Excellent course with good information and lab exercise to back it up.
+Love that it went deeper into networking capabilities in Google Cloud.
+Very good training to open the mind about the google cloud capacities.
+Liked it. Wold have been good to provide the material for offline use.
+Better understanding of GCP services like vpc network, compute engine
+AN EXCELENT HANDS ON EXPERIENCE THE MINECRAFT VM PART WAS SUPER COOL!
+Very interesting and lets you motivated to move on to next challenge.
+Nice course that help me to understand fundamentals services in GCP.
+Great study material and excellent Practicals provided by Quick Labs
+Foundation cloud is basic knowledge for cloud system make enviroment
+Thanks for great course. It give me more detail about compute engine
+GCP is amazing to create complex environment with easy and fast way!
+It is very nice course to start with Virtual Machine and Networking.
+Good course for a beginner looking to master on GCP Compute Engine.
+Great and simple course. Just to get familiar with basic GCP stuff.
+Very interesting course helping to understand Google Cloud Platform
+fantastick ,mind blowing ,extra ordinary ,coursera course this one
+A simple course giving some overview on the use of compute engine.
+Great course to get the indepth knowledge on instances and network
+Good teachers, really explained the concepts well.  Detailed labs.
+good experiance lot of unknown things i learn here .thanx google.
+Wonderful labs with realtime applications covered. Stayed in mind
+Simple and clear explanation  of VPC and  Compute Engine  service
+the course is awesome and very understandable. thanks to mentors.
+Excellent course on the core foundation of Google cloud platform.
+very helpful course really helped me in learning more about GCP.
+This course was  fast paced but granularities are explained well
+Very useful, instructions were impressive and easy to understand
+Very nice introductory course, the Network chapter is very nice!
+Deeper dive on some of the key components of GCP. Really useful.
+Excellent compound of some VM compute, and networking instances
+Excellent course and very good labs. Good job by by the trainer
+Very helpful to understand the VMs and network concepts in GCP!
+Extremely Good Course , But volume of the lessons are too low..
+The last lab is fun. The length of this course is also perfect.
+It was a very interesting course and I cant wait to learn more.
+This course gives a good overview about the GCP Infrastructure.
+It's perfect ! recommended to all for best hand son practices.
+I really enjoyed this course and the content was very helpful.
+Very interesting with all the lesson related to VM creation ;)
+Great opportunity to  learn and expose to GCP real environment
+This Course is structured and easy to understand step by step.
+It was a nice experience with cursera google cloud quick labs.
+Very Good Organization of Video Lectures and Hands On sessions
+Such a amazing course with full hands on exp with lb .love it
+V.Good Experience learning this module under coursera portal.
+Very good and elaborate content. Nice practice labs contents.
+Great job! Thank you Coursera and Google for excellent study!
+great great great! awesome knowledge-base  and labs! 5 start!
+The course is good to understand GCP through lab. practices.
+I learn how to configure network, storage and virtual engine
+Very much enjoyed it. The labs were great. I learned a lot..
+Best course for introducing GCP Infrastructure's Foundation
+It is the excellent course to learn about cloud technology!
+The Lab exercises are very helpful to understand GCP better
+Thanks Google Team for providing new skill set of learning.
+I'am get new knowledge from this course. Upgraded my skills
+Awesome ! Well structured and great explanation of concepts
+Excellent step by step input with respect to CGP Foundation
+Its great resource and provided a lot of insights into gcp
+The course was very easy to understand and simple to learn
+Yes, i like that education system  and more understandable
+Quite Informative content with thorough hands on practice.
+Very Nice experience. Labs are really helpful for handson.
+Well delivered and really well thought out  extensive labs
+In depth details about compute engine. really enjoyed it.
+such a good learning experience on how to deal with VMs !
+Overall a good overview of Virtual Network and VMs on GCP
+Excellent! Thank you very much for this wonderful course
+very helpful course, specially the labs were interesting
+Excellent but I think is double job from previous course
+Really Good Explanation and the Hands-on Lab is the best
+Learn more fundamental concepts of GCP from this course.
+Great course. The hands on lab practice is very helpful.
+Helped to understand the core concepts of VM, Networking
+Great experience to learn with throw knowledge hands on.
+Good training for GCP Infrastructure (and Linux refresh)
+The labs are pretty good. Especially the networking one.
+Please see if more question can be included in the Quiz.
+Great material and explanation, labs too are too useful
+Very interesting. Understading lab.I understand clearly
+Thi course was structured at just the right pace for me
+Great, the section on networking was extremely helpful.
+learned lot of things w.r.t to fundamentals unit of GCP
+It is very elaborative sessions and good hands on labs.
+Great introduction to GCE. Very practical and hands on.
+I really loved the labs. They were challenging and fun
+very good practical lessons for vm creation and backup
+Great. Each day I'm learning a lot about how gcp works
+An excellent introduction to the Google Cloud Platform
+really helpfull to have basic insight on GCP console .
+Great initial overview of Compute, Storage & Networks.
+Fantastic course.  Great lecturer and demanding labs.
+excellent training gives all the required information
+I like it, it is a real foundation course, I liked it
+A good lecture on the basics of Google Cloud Platform
+Nice way to intro a very complex service environment.
+Very clear and complete, mainly in networking section
+Good intro to the fundamental  design elements of GCP
+Nicely constructed, well explained and great labs !!
+A great introduction with practical lab applications
+Love the way training provide and including the labs
+it was really helpful and the trainers were amazing.
+Awesome course. Strengthen the understanding of VPC.
+I liked the content. I learned new things about GCP.
+Start off slow but it's a really interesting course.
+Like drinking from the firehose.  Lots of good info.
+Awesome follow-up course from the GCP Fundamentals!
+Very thorough and informative. Instructor was great
+Excellent as always, very good training and support
+Good course for gain first knowledge in GCP. Thanks
+Very complete introduction about GCP network and VM
+Course content is nice and very good illustartion.
+Nice and smooth learning of GCP basics. Thank you.
+Thanks a bunch to the guy who guides the course !
+Great examples for learning how networking works.
+Loaded with information, but very well presented
+Nice to lean about VMs and operations about that
+Very well explained and details lab instructions
+Heavy lab exercises, thanks for the opportunity!
+In depth overview of virtual machines in GCloud.
+Great introduction to the essential of GCP IaaS.
+Great Instructor .. Great Course .. Thanks a lot
+The QwikLabs experience was awesome. Great work!
+Found this useful as to start with GCP services.
+working with virtual machines is interesting lab
+Really nice course. Learned a lot! Awesome labs!
+Complex concepts explained in simplified manner.
+great course, lots of information and great labs
+Perfect labs to learn various components of GCP.
+very good starting point to explore google cloud
+Really good insight! Would definitely recommend.
+lab exercises are lengthy but interesting to do
+Good course, will recommend to our system admin
+The Labs sessions are good with proper guidance
+very Informative with lab session for learning
+A good tool for learning Google Cloud Platform
+Simple to learn. It's a basic to deep into GCP
+This was an excellent and informative course.
+Excellent Content and Labs are really useful.
+Well tailored with all labs for learning GCP.
+Great intro to infrastructural aspects of GCP
+Awesome and helpful to develop the knowledge.
+Excellent Course. Thank you Coursera & Google
+Thanks for your time, guidance and support.:)
+I enjoy the presentation and labs.Well done !
+The trainer(s) is/are terrific. Thanks a lot!
+Useful Videos and thanks a ton for your work
+Excellent module with great learning, thanks
+detailed oriented very comprehensive course!
+Still long road to go, keep learnig myself!!
+Very practical intro to GCP, very good labs!
+Very good course with detailed hands on labs
+Good introduction to the foundations of GCP.
+Could be great add more quiz for this course
+Great. need lab video review before the lab
+That's really a good experience as expected
+perfect to understand the google foundation
+excellent and perfect teaching and learning
+Great Course and material to understand GCP
+Complex, but good to know and understand...
+Very helpful.  Lots of great hands on work.
+Thanks and this is Really Wonderful Course.
+Excellent, clear and direct to the point...
+best course !!! thanks coursera and google
+Its really  awesome.  Labs are fanstastic.
+Great to learn the core services in detail
+Loved it. Very relevant and learned a lot!
+Great intro to network and compute engine!
+Very brief and lap are exceptionally good.
+Very Helpful Course And Great Instructors
+Pretty cool course and excellent material
+It was great learning with difficult labs
+For GCP basics this is the perfect start.
+Very good course from leaning perspective
+Great! Especially the minecraft tutorial.
+Excellent presentation of the GCP basics.
+Fantastic Course and I really enjoyed it.
+Understand some essential feature of GCP.
+Lab help me to understand , thanks a lot
+Good coverage of compute instance basics
+It's really good for busy professionals.
+Very Good Course with Handson experiance
+Nice course, fantastic outlines and labs
+Engaging course with good hands-on labs.
+Really like the minecraft lab at the end
+Great course and excelent hands on labs
+It's best learning experience with GCP.
+Very good course and nice presentation.
+Very informative and supportive course.
+Very impressive and meaningful learning
+Very Satisfied, Learned Many new things
+Great course with a too practical labs.
+Great course. I did enjoy every module.
+More confident now to use GCP services
+A very nice intro to the world of GCP.
+Theory backed by hands-on was helpful.
+Explanations and labs are really good.
+infrastructure was explained in detail
+Very detailed and Informative learning
+Awesome job , excellent study material
+Great content at a nice pace. Enjoyed!
+Deep dive into VPC and Compute Engine
+Great course and learning experience!
+It was really a good way to learn GCP
+Good course and easy to follow thanks
+Wonderful experience and very useful.
+Really lays a good foundation for GCP
+Awesome Course! Very Engaging and Fun
+Great course! Keep it awesome Google!
+Great content and nice hands-on labs
+NIce to learn all things...Thank you
+Great Course to get our hands durty!
+I will be a Google Cloud Engineer!!!
+very nice to learn GCP VPC concepts.
+enjoyed the lab hands on much useful
+easy to follow and good instructions
+overall captivating, very good pace!
+SuperB, especially minecraft server.
+It was amazing and very interactive
+Really Interesting Course. Very Thx
+not bad, a lot of interesting stuff
+very detailed and nicely explained.
+Very great foundational GCP course!
+i loved this course.simply amazing
+Excellent course! I learned a lot!
+Having a blast! Thanks so much. JL
+Amazing course and wonderful labs!
+Very good and comprehensive course
+practical and theoretical benefit
+Nice presented and great examples
+Thank you for the awesome course!
+Nice Foundations for the platform
+make me confidence with this cert
+Awesome course with helpful labs!
+great course content to start off
+very well explanations in general
+Good introduction to Iaas in GCP.
+I really liked the network part.
+Really nice with good tech stuff
+excellent thank u so much google
+awsome that was great experience
+Very nice, lots of inforations.
+i was nice learning with google
+Perfect Foundation to GCP World
+Very Nice explanation of topics
+Thank you Coursera and Google!!
+Lab sessions are  very hands on
+Nice and really a worthful one.
+Great stuff with great practice
+This is a true introduction....
+Great course with hand-on labs!
+Amazing session .Nothing to say
+Is a great introduction to GCP.
+Very good labs and information
+Bastion host was a little hard
+Good Practice and Hands On Lab
+Excellent Course for fresher..
+The videos were too fragmented
+Very Good Structured learning
+It was great and interactive!
+Very in depth and informative
+cool very interesting courrse
+Labs provided are really good
+It's the in the online course
+lovely and informative course
+I think I took what I needed
+Well organised and engaging.
+Good experience and learning
+learned cloud infrastructure
+Good overview and exercices
+A great Hands-on experience
+Hands on and learn concepts
+greats training sertificate
+its been a great time with.
+Very, very good! I love it!
+Awesome Course Very Helpful
+Good Learning for Beginners
+harder but excellent study
+Well organized. Good labs.
+Great hands-on experience.
+Nice to learn many things.
+More better to exprerience
+Ready to next task. Thanks
+Again, I like it so much !
+it could understand deeply
+Great Course to learn GCP.
+Great Course very helpful
+great hands on experience
+What an Excellent Course.
+Great learning  resource.
+Awesome course, thank you
+a vey illustrative course
+Thanks it was interesting
+Very Well... Nice course
+absolutely beautiful....
+complete and interesting
+Thanks for this amazing!
+awesome support and tool
+Nice lab and its content
+Nice, informative, easy.
+Hands-on labs are great!
+very useful for GCP exam
+good essential knowledge
+Thanks a lot Good course
+labs are very effective
+great practice sessions
+Good and helpful course
+Easiest way of learning
+This course is very fun
+Very Nice Experience !!
+Sound knowledge of GCP.
+It was nice and smooth.
+It is very nice lessons
+I really liked the labs
+it was a superb course
+enjoy the hands on lab
+Labs are very helpful.
+Nice Course, Thanks :)
+Great! Thanks Coursera
+Nicely designed course
+Nice Foundation course
+A bit basic, but good.
+Great overview on GCP!
+To the point and good
+Great course!!!!!!!!!
+it was very helpfull!
+Good and to the point
+best of the best lab.
+great practice w/ lab
+this is a good course
+Great first hands on!
+Great labs for VPCs!!
+A very robust course.
+Great, clear and fun!
+Well organized course
+very useful and handy
+Its worth the money.
+great. push forward!
+Good detailed intro.
+Thank you very much.
+A very good Course!
+Impact Full Course.
+It's goal oriented.
+Very good training.
+Fantastic Training!
+Very really usefull
+Terrific work guys!
+Thanks.Recommended!
+The best experience
+super good material
+Excellent to learn
+Oustanding course!
+wonderful for us !
+Precise and useful
+Allot of learning.
+the labs were hard
+Completely Awesome
+Good walk-through.
+very informative!!
+Good pace and labs
+Always interesting
+good for learners
+Very cool, Thanks
+Interesting Labs
+super courseware
+Awesome material
+thanks all, done
+Short and direct
+Labs are awesome
+Good one. Thanks
+Very good class.
+too challenging
+great grounding
+I'm loving this
+good experience
+Good ! Love it.
+Cooll and cool
+Very satisfied
+Good hands on.
+Well explain.
+Great it was.
+It was Awsome
+very explicit
+Great Lesson.
+Learned a Lot
+Thats awesome
+Really good!
+That Awesome
+all very pro
+Good session
+Too Much fun
+it is fun !
+Nice staff!
+Thumbs up!
+good pace
